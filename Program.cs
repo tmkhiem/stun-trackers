@@ -62,15 +62,14 @@ namespace StunTrackersFiltering
         {
             string externalIpString = (await httpClient.GetStringAsync("http://icanhazip.com")).Replace("\\r\\n", "").Replace("\\n", "").Trim();
             externalIpAddress = IPAddress.Parse(externalIpString);
+            WriteLine($"External IP address is: {externalIpAddress}");
         }
 
         public static async Task Main(string[] args)
         {
             await GetExternalIpAddress();
-            //await TestTrackers();
-            //await TestStunServers();
-            File.WriteAllText("stun-servers.txt", "stun-servers");
-            File.WriteAllText("trackers.txt", "trackers");
+            await TestTrackers();
+            await TestStunServers();            
         }
 
         #region Trackers
