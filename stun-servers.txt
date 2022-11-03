@@ -48,6 +48,7 @@ stun.liveo.fr:3478
 stun.lowratevoip.com:3478
 stun.lundimatin.fr:3478
 stun.mit.de:3478
+stun.miwifi.com:3478
 stun.myvoiptraffic.com:3478
 stun.netappel.com:3478
 stun.netgsm.com.tr:3478
@@ -92,7 +93,7 @@ stun.tng.de:3478
 stun.twt.it:3478
 stun.uls.co.za:3478
 stun.usfamily.net:3478
-stun.vline.com:3478
+stun.vivox.com:3478
 stun.vo.lu:3478
 stun.voicetrading.com:3478
 stun.voip.aebc.com:3478
