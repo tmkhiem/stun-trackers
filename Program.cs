@@ -68,7 +68,9 @@ namespace StunTrackersFiltering
         {
             await GetExternalIpAddress();
             //await TestTrackers();
-            await TestStunServers();
+            //await TestStunServers();
+            File.WriteAllText("stun-servers.txt", "stun-servers");
+            File.WriteAllText("trackers.txt", "trackers");
         }
 
         #region Trackers
