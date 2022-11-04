@@ -92,7 +92,7 @@ stun.tng.de:3478
 stun.twt.it:3478
 stun.uls.co.za:3478
 stun.usfamily.net:3478
-stun.vline.com:3478
+stun.vivox.com:3478
 stun.vo.lu:3478
 stun.voicetrading.com:3478
 stun.voip.aebc.com:3478
@@ -104,6 +104,7 @@ stun.voipbusterpro.com:3478
 stun.voipcheap.co.uk:3478
 stun.voipcheap.com:3478
 stun.voipgain.com:3478
+stun.voipgate.com:3478
 stun.voipinfocenter.com:3478
 stun.voipplanet.nl:3478
 stun.voippro.com:3478
@@ -111,7 +112,6 @@ stun.voipraider.com:3478
 stun.voipstunt.com:3478
 stun.voipwise.com:3478
 stun.voipzoom.com:3478
-stun.vopium.com:3478
 stun.voys.nl:3478
 stun.voztele.com:3478
 stun.webcalldirect.com:3478
