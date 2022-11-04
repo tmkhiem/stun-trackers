@@ -237,13 +237,13 @@ namespace StunTrackersFiltering
                     {
                         var result = await TestStunServer(stunServers[i]);
                         stunServerWriter.WriteLine(stunServers[i]);
-                        if (result.Address.Equals(externalIpAddress) && udpClient.Client.LocalEndPoint is IPEndPoint iep && iep.Port == result.Port)                        
+                        if (result.Address.Equals(externalIpAddress))                        
                         {
                             WriteLine($"{stunServers[i].PadLeft(stunServersAddressLength)}: OK");
                             stunsWorking += 1;
                         }
                         else
-                            WriteLine($"{stunServers[i].PadLeft(stunServersAddressLength)}: Different external endpoint: got {result} vs {udpClient.Client.RemoteEndPoint} (external address: {externalIpAddress})");
+                            WriteLine($"{stunServers[i].PadLeft(stunServersAddressLength)}: Different external endpoint: got {result} vs {udpClient.Client.RemoteEndPoint as IPEndPoint} (external address: {externalIpAddress})");
                     }
                     catch (Exception ex)
                     {
