@@ -142,13 +142,16 @@ namespace StunTrackersFiltering
             var hostname = parts[0];
             var port = ushort.Parse(parts[1]);
 
-            await udpClient.SendAsync(new byte[] { 0, 0, 4, 23, 39, 16, 25, 128, 0, 0, 0, 0, txnId[0], txnId[1], txnId[2], txnId[3] }, 16, hostname, port).ConfigureAwait(false);
+            //await udpClient.SendAsync(new byte[] { 0, 0, 4, 23, 39, 16, 25, 128, 0, 0, 0, 0, txnId[0], txnId[1], txnId[2], txnId[3] }, 16, hostname, port).ConfigureAwait(false);
+            udpClient.Send(new byte[] { 0, 0, 4, 23, 39, 16, 25, 128, 0, 0, 0, 0, txnId[0], txnId[1], txnId[2], txnId[3] }, 16, hostname, port);
 
             byte[] recBuf;
+            IPEndPoint? anywhere = null;
 
             try
             {                
-                recBuf = (await udpClient.ReceiveAsync(cts.Token).ConfigureAwait(false)).Buffer;
+                //recBuf = (await udpClient.ReceiveAsync(cts.Token).ConfigureAwait(false)).Buffer;
+                recBuf = udpClient.Receive(ref anywhere);
             }
             catch (OperationCanceledException)
             {
@@ -181,11 +184,13 @@ namespace StunTrackersFiltering
                 0, 0, 0, 16, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, txnId[3], txnId[1], txnId[2], txnId[0], 255, 255, 255, 255, (byte)(listenPort >> 8), (byte)listenPort, 0, 0
             };
 
-            await udpClient.SendAsync(sendBuf, sendBuf.Length, hostname, port).ConfigureAwait(false);
+            //await udpClient.SendAsync(sendBuf, sendBuf.Length, hostname, port).ConfigureAwait(false);
+            udpClient.Send(sendBuf, sendBuf.Length, hostname, port);
 
             try
             {
-                recBuf = (await udpClient.ReceiveAsync(cts.Token).ConfigureAwait(false)).Buffer;
+                //recBuf = (await udpClient.ReceiveAsync(cts.Token).ConfigureAwait(false)).Buffer;
+                recBuf = udpClient.Receive(ref anywhere);
             }
             catch (OperationCanceledException)
             {
