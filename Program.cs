@@ -1,21 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Net;
 using System.Net.Sockets;
-using System.Text;
-using System.Threading.Tasks;
 using static System.Console;
 
 namespace StunTrackersFiltering
 {
     public static class Program
     {
-        static HttpClient httpClient = new HttpClient();
         static Random random = new Random(DateTime.Now.Millisecond);
-
         static IPAddress externalIpAddress;
-
         static UdpClient udpClient = new UdpClient()
         {
             DontFragment = true,
@@ -25,6 +17,12 @@ namespace StunTrackersFiltering
                         ReceiveTimeout = 5000
                     }
         };
+        static HttpClient httpClient = new HttpClient();
+
+        static int trackersCount = 0;
+        static int trackersWorking = 0;
+        static int stunsCount = 0;
+        static int stunsWorking = 0;
 
         private static string[] SplitLines(string input)
         {
@@ -63,13 +61,19 @@ namespace StunTrackersFiltering
             string externalIpString = (await httpClient.GetStringAsync("http://icanhazip.com")).Replace("\\r\\n", "").Replace("\\n", "").Trim();
             externalIpAddress = IPAddress.Parse(externalIpString);
             WriteLine($"External IP address is: {externalIpAddress}");
+            WriteLine("----------");
+            WriteLine();
         }
 
         public static async Task Main(string[] args)
         {
             await GetExternalIpAddress();
             await TestTrackers();
-            await TestStunServers();            
+            await TestStunServers();
+
+            WriteLine("Statistics:");
+            WriteLine($" - {trackersWorking}/{trackersCount} trackers");
+            WriteLine($" - {stunsWorking}/{stunsCount} stuns");
         }
 
         #region Trackers
@@ -84,6 +88,8 @@ namespace StunTrackersFiltering
                 trackersRaw.AddRange(await DownloadList(trackerLink));
 
             var trackers = PreprocessHostList(trackersRaw);
+            var trackersAddressLength = trackers.Aggregate("", (max, cur) => max.Length > cur.Length ? max : cur).Length + 2;
+            trackersCount = trackers.Count;
 
             using (var trackerWriter = new StreamWriter("trackers.txt"))
                 for (var i = 0; i < trackers.Count; i++)
@@ -91,14 +97,22 @@ namespace StunTrackersFiltering
                     try
                     {
                         var result = await TestTracker(trackers[i]);
+                        if (!result)
+                        {
+                            WriteLine($"{trackers[i].PadLeft(trackersAddressLength)}: Failed (either not giving correct address or endianness)");
+                            continue;
+                        }
                         trackerWriter.WriteLine(trackers[i]);
-                        WriteLine($"{trackers[i]}: OK");
+                        WriteLine($"{trackers[i].PadLeft(trackersAddressLength)}: OK");
+                        trackersWorking += 1;
                     }
                     catch (Exception ex)
                     {
-                        Error.WriteLine($"{trackers[i]}: {ex.Message}");
+                        Error.WriteLine($"{trackers[i].PadLeft(trackersAddressLength)}: {ex.Message}");
                     }
                 }
+            WriteLine("----------");
+            WriteLine();
         }
 
         private static async Task<bool> TestTracker(string host)
@@ -106,13 +120,13 @@ namespace StunTrackersFiltering
             var port = (ushort)random.Next(1024, 65500);
             var result = await Announce(host, port);
 
-            bool reversed = result.Any((ep) => ep.Port == port);
+            bool correctEndianness = result.Any((ep) => ep.Port == port);
             bool ipMatchAll = result.All(ep => ep.Address.Equals(externalIpAddress));
             bool ipMatchAny = result.Any(ep => ep.Address.Equals(externalIpAddress));
             if (!ipMatchAll && ipMatchAny)
                 WriteLine($"     ---> inject ip: " + string.Join(", ", result));
 
-            return reversed && ipMatchAny;
+            return correctEndianness && ipMatchAny;
         }
 
         public static async Task<List<IPEndPoint>> Announce(string tracker, ushort listenPort)
@@ -159,22 +173,12 @@ namespace StunTrackersFiltering
             var hash = new byte[20];
             random.NextBytes(hash);
 
-            var sendBuf = new byte[100]
+            var sendBuf = new byte[]
             {
-                cid[0], cid[1], cid[2], cid[3], cid[4], cid[5], cid[6], cid[7],
-                0, 0, 0, 1,
-                txnId[0], txnId[1], txnId[2], txnId[3],
-                hash[0], hash[1], hash[2], hash[3], hash[4], hash[5], hash[6], hash[7], hash[8], hash[9], hash[10], hash[11], hash[12], hash[13], hash[14], hash[15], hash[16], hash[17], hash[18], hash[19],
-                71, 105, 116, 72, 117, 98, 65, 99, 116, 105, 111, 110, 115, cid[0], cid[1], cid[2], cid[3], cid[4], cid[5], cid[6],
-                0, 0, 0, 0, 0, 16, 0, 0,
-                0, 0, 0, 0, 0, 0, 0, 0,
-                0, 0, 0, 0, 0, 16, 0, 0,
-                0, 0, 0, 1,
-                0, 0, 0, 0,
-                txnId[3], txnId[1], txnId[2], txnId[0],
-                255, 255, 255, 255,
-                (byte)(listenPort >> 8), (byte)listenPort,
-                0, 0
+                cid[0], cid[1], cid[2], cid[3], cid[4], cid[5], cid[6], cid[7], 0, 0, 0, 1, txnId[0], txnId[1], txnId[2], txnId[3], hash[0], hash[1], hash[2], hash[3], hash[4],
+                hash[5], hash[6], hash[7], hash[8], hash[9], hash[10], hash[11], hash[12], hash[13], hash[14], hash[15], hash[16], hash[17], hash[18], hash[19], 71, 105, 116,
+                72, 117, 98, 65, 99, 116, 105, 111, 110, 115, cid[0], cid[1], cid[2], cid[3], cid[4], cid[5], cid[6], 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                0, 0, 0, 16, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, txnId[3], txnId[1], txnId[2], txnId[0], 255, 255, 255, 255, (byte)(listenPort >> 8), (byte)listenPort, 0, 0
             };
 
             await udpClient.SendAsync(sendBuf, sendBuf.Length, hostname, port);
@@ -223,6 +227,8 @@ namespace StunTrackersFiltering
                 stunServersRaw.AddRange(await DownloadList(stunServersLink));
 
             var stunServers = PreprocessHostList(stunServersRaw);
+            var stunServersAddressLength = stunServers.Aggregate("", (max, cur) => max.Length > cur.Length ? max : cur).Length + 2;
+            stunsCount = stunServers.Count;
 
             using (var stunServerWriter = new StreamWriter("stun-servers.txt"))
                 for (var i = 0; i < stunServers.Count; i++)
@@ -231,16 +237,22 @@ namespace StunTrackersFiltering
                     {
                         var result = await TestStunServer(stunServers[i]);
                         stunServerWriter.WriteLine(stunServers[i]);
-                        if (result.Address.Equals(externalIpAddress))
-                            WriteLine($"{stunServers[i]}: OK");
+                        //if (result.Address.Equals(externalIpAddress) && result.Port)
+                        if (result.Equals(udpClient.Client.RemoteEndPoint))
+                        {
+                            WriteLine($"{stunServers[i].PadLeft(stunServersAddressLength)}: OK");
+                            stunsWorking += 1;
+                        }
                         else
-                            WriteLine($"{stunServers[i]}: Different external IP: got {result.Address} vs {externalIpAddress}");
+                            WriteLine($"{stunServers[i].PadLeft(stunServersAddressLength)}: Different external endpoint: got {result} vs {udpClient.Client.RemoteEndPoint} (external address: {externalIpAddress})");
                     }
                     catch (Exception ex)
                     {
-                        Error.WriteLine($"{stunServers[i]}: {ex.Message}");
+                        Error.WriteLine($"{stunServers[i].PadLeft(stunServersAddressLength)}: {ex.Message}");
                     }
                 }
+            WriteLine("----------");
+            WriteLine();
         }
 
         private static async Task<IPEndPoint> TestStunServer(string stunServer)
@@ -252,7 +264,6 @@ namespace StunTrackersFiltering
             var stunHost = parts[0];
             var stunPort = ushort.Parse(parts[1]);
 
-            var iteration = 1;
             for (var i = 8; i < 20; i++)
                 bindingRequestHeader[i] = (byte)random.Next(0, 255);
 
@@ -324,7 +335,7 @@ namespace StunTrackersFiltering
 
                         var ipAddress = new IPAddress(addressBytes);
                         mappedEndpoint = new IPEndPoint(ipAddress, port);
-                        
+
                         switch (family)
                         {
                             case 1: index += 8; break;
@@ -334,7 +345,6 @@ namespace StunTrackersFiltering
                     else
                     {
                         index += 4 + attributeLength;
-                        continue;
                     }
                 }
 
