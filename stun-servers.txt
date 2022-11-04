@@ -60,6 +60,7 @@ stun.pjsip.org:3478
 stun.poivy.com:3478
 stun.powervoip.com:3478
 stun.ppdi.com:3478
+stun.qq.com:3478
 stun.rackco.com:3478
 stun.rockenstein.de:3478
 stun.rolmail.net:3478
@@ -87,11 +88,11 @@ stun.stunprotocol.org:3478
 stun.t-online.de:3478
 stun.tel.lu:3478
 stun.telbo.com:3478
+stun.tng.de:3478
 stun.twt.it:3478
-stun.u-blox.com:3478
 stun.uls.co.za:3478
 stun.usfamily.net:3478
-stun.vivox.com:3478
+stun.vline.com:3478
 stun.vo.lu:3478
 stun.voicetrading.com:3478
 stun.voip.aebc.com:3478
@@ -103,7 +104,6 @@ stun.voipbusterpro.com:3478
 stun.voipcheap.co.uk:3478
 stun.voipcheap.com:3478
 stun.voipgain.com:3478
-stun.voipgate.com:3478
 stun.voipinfocenter.com:3478
 stun.voipplanet.nl:3478
 stun.voippro.com:3478
@@ -111,6 +111,7 @@ stun.voipraider.com:3478
 stun.voipstunt.com:3478
 stun.voipwise.com:3478
 stun.voipzoom.com:3478
+stun.vopium.com:3478
 stun.voys.nl:3478
 stun.voztele.com:3478
 stun.webcalldirect.com:3478
