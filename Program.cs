@@ -147,7 +147,7 @@ namespace StunTrackersFiltering
             byte[] recBuf;
 
             try
-            {
+            {                
                 recBuf = (await udpClient.ReceiveAsync(cts.Token)).Buffer;
             }
             catch (OperationCanceledException)
@@ -237,8 +237,7 @@ namespace StunTrackersFiltering
                     {
                         var result = await TestStunServer(stunServers[i]);
                         stunServerWriter.WriteLine(stunServers[i]);
-                        //if (result.Address.Equals(externalIpAddress) && result.Port)
-                        if (result.Equals(udpClient.Client.RemoteEndPoint))
+                        if (result.Address.Equals(externalIpAddress) && udpClient.Client.LocalEndPoint is IPEndPoint iep && iep.Port == result.Port)                        
                         {
                             WriteLine($"{stunServers[i].PadLeft(stunServersAddressLength)}: OK");
                             stunsWorking += 1;
