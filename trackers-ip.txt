@@ -10,7 +10,6 @@ admin.videoenpoche.info:6969:
 astrr.ru:6969:
 46.138.242.240:6969
 black-bird.ynh.fr:6969:
-82.65.115.10:6969
 bt.ktrackers.com:6666:
 51.159.54.68:6666
 bt1.archive.org:6969:
@@ -22,7 +21,6 @@ buddyfly.top:6969:
 camera.lei001.com:6969:
 61.164.110.198:6969
 carr.codes:6969:
-104.131.98.232:6969
 chouchou.top:8080:
 119.28.71.45:8080
 concen.org:6969:
@@ -31,6 +29,7 @@ cutscloud.duckdns.org:6969:
 download.nerocloud.me:6969:
 103.122.21.50:6969
 epider.me:6969:
+51.68.174.87:6969
 exodus.desync.com:6969:
 208.83.20.20:6969
 explodie.org:6969:
@@ -106,6 +105,7 @@ tracker.4.babico.name.tr:3131:
 tracker.altrosky.nl:6969:
 62.112.11.37:6969
 tracker.army:6969:
+103.196.36.31:6969
 tracker.artixlinux.org:6969:
 161.97.67.210:6969
 tracker.auctor.tv:6969:
@@ -115,10 +115,9 @@ tracker.bitsearch.to:1337:
 tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
 211.75.29.227:6969
-61.222.178.227:6969
-61.216.149.33:6969
-185.70.187.79:6969
 220.130.15.27:6969
+61.216.149.33:6969
+61.222.178.227:6969
 tracker.encrypted-data.xyz:1337:
 tracker.filemail.com:6969:
 52.58.128.163:6969
@@ -154,7 +153,7 @@ tracker.tiny-vps.com:6969:
 176.56.6.162:6969
 tracker.torrent.eu.org:451:
 91.216.110.53:451
-89.234.156.205:451
+91.216.110.52:451
 tracker.zerobytes.xyz:1337:
 tracker1.bt.moack.co.kr:80:
 156.234.201.18:80
