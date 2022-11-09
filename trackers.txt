@@ -2,6 +2,7 @@
 960303.xyz:6969
 aarsen.me:6969
 admin.52ywp.com:6969
+admin.videoenpoche.info:6969
 astrr.ru:6969
 black-bird.ynh.fr:6969
 bt.ktrackers.com:6666
@@ -50,6 +51,7 @@ torrents.artixlinux.org:6969
 tracker-udp.gbitt.info:80
 tracker.4.babico.name.tr:3131
 tracker.altrosky.nl:6969
+tracker.army:6969
 tracker.artixlinux.org:6969
 tracker.auctor.tv:6969
 tracker.bitsearch.to:1337
