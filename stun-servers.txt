@@ -63,6 +63,7 @@ stun.ppdi.com:3478
 stun.qq.com:3478
 stun.rackco.com:3478
 stun.rockenstein.de:3478
+stun.rolmail.net:3478
 stun.rynga.com:3478
 stun.schlund.de:3478
 stun.sigmavoip.com:3478
@@ -71,8 +72,6 @@ stun.sipdiscount.com:3478
 stun.sipgate.net:10000
 stun.sipgate.net:3478
 stun.siplogin.de:3478
-stun.sipnet.net:3478
-stun.sipnet.ru:3478
 stun.sippeer.dk:3478
 stun.siptraffic.com:3478
 stun.smartvoip.com:3478
