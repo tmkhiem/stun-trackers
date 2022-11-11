@@ -2,6 +2,7 @@
 960303.xyz:6969
 aarsen.me:6969
 admin.52ywp.com:6969
+admin.videoenpoche.info:6969
 astrr.ru:6969
 bt.ktrackers.com:6666
 bt1.archive.org:6969
@@ -40,6 +41,7 @@ run-2.publictracker.xyz:6969
 run.publictracker.xyz:6969
 sanincode.com:6969
 slicie.icon256.com:8000
+smtp-relay.odysseylabel.com.au:6969
 tamas3.ynh.fr:6969
 thouvenin.cloud:6969
 torrentclub.space:6969
@@ -54,6 +56,7 @@ tracker.bitsearch.to:1337
 tracker.dler.org:6969
 tracker.joybomb.tw:6969
 tracker.leech.ie:1337
+tracker.moeking.me:6969
 tracker.monitorit4.me:6969
 tracker.openbtba.com:6969
 tracker.opentrackr.org:1337
