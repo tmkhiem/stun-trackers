@@ -72,6 +72,8 @@ stun.sipdiscount.com:3478
 stun.sipgate.net:10000
 stun.sipgate.net:3478
 stun.siplogin.de:3478
+stun.sipnet.net:3478
+stun.sipnet.ru:3478
 stun.sippeer.dk:3478
 stun.siptraffic.com:3478
 stun.smartvoip.com:3478
