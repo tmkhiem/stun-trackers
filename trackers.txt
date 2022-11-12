@@ -1,7 +1,7 @@
 6ahddutb1ucc3cp.ru:6969
 960303.xyz:6969
 aarsen.me:6969
-admin.52ywp.com:6969
+admin.videoenpoche.info:6969
 astrr.ru:6969
 black-bird.ynh.fr:6969
 bt.ktrackers.com:6666
@@ -10,7 +10,6 @@ bt2.archive.org:6969
 buddyfly.top:6969
 camera.lei001.com:6969
 carr.codes:6969
-chouchou.top:8080
 cutscloud.duckdns.org:6969
 download.nerocloud.me:6969
 epider.me:6969
@@ -20,7 +19,6 @@ fe.dealclub.de:6969
 fh2.cmp-gaming.com:6969
 htz3.noho.st:6969
 ipv4.tracker.harry.lu:80
-kokodayo.site:6969
 laze.cc:6969
 leefafa.tk:6969
 mail.artixlinux.org:6969
@@ -32,6 +30,7 @@ new-line.net:6969
 open.demonii.com:1337
 open.dstud.io:6969
 open.free-tracker.ga:6969
+open.tracker.cl:1337
 opentracker.i2p.rocks:6969
 psyco.fr:6969
 public.publictracker.xyz:6969
