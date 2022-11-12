@@ -44,11 +44,11 @@ namespace StunTrackersFiltering
             return result;
         }
 
-        private static async Task<string[]> DownloadList(string url)
+        private static string[] DownloadList(string url)
         {
             var cts = new CancellationTokenSource();
             cts.CancelAfter(10000);
-            var content = await httpClient.GetStringAsync(url, cts.Token).ConfigureAwait(false);
+            var content = httpClient.GetStringAsync(url, cts.Token).GetAwaiter().GetResult();
             return SplitLines(content);
         }
 
@@ -61,9 +61,9 @@ namespace StunTrackersFiltering
             return true;
         }
 
-        private static async Task GetExternalIpAddress()
+        private static void GetExternalIpAddress()
         {
-            string externalIpString = (await httpClient.GetStringAsync("http://icanhazip.com").ConfigureAwait(false)).Replace("\\r\\n", "").Replace("\\n", "").Trim();
+            string externalIpString = httpClient.GetStringAsync("http://icanhazip.com").GetAwaiter().GetResult().Replace("\\r\\n", "").Replace("\\n", "").Trim();
             externalIpAddress = IPAddress.Parse(externalIpString);
             WriteLine($"External IP address is: {externalIpAddress}");
             WriteLine("----------");
@@ -93,11 +93,11 @@ namespace StunTrackersFiltering
             return result.ToArray();
         }
 
-        public static async Task Main(string[] args)
+        public static void Main(string[] args)
         {
-            await GetExternalIpAddress();
-            await TestTrackers();
-            await TestStunServers();
+            GetExternalIpAddress();
+            TestTrackers();
+            TestStunServers();
 
             WriteLine("Statistics:");
             WriteLine($" - {trackersWorking}/{trackersCount} trackers");
@@ -106,14 +106,14 @@ namespace StunTrackersFiltering
 
         #region Trackers
 
-        private static async Task TestTrackers()
+        private static void TestTrackers()
         {
             var trackersContent = File.ReadAllText("trackers-links.txt");
             var trackerLinks = SplitLines(trackersContent);
             var trackersRaw = new List<string>();
 
             foreach (var trackerLink in trackerLinks)
-                trackersRaw.AddRange(await DownloadList(trackerLink).ConfigureAwait(false));
+                trackersRaw.AddRange(DownloadList(trackerLink));
 
             var trackers = PreprocessHostList(trackersRaw);
             var trackersAddressLength = trackers.Aggregate("", (max, cur) => max.Length > cur.Length ? max : cur).Length + 2;
@@ -136,7 +136,7 @@ namespace StunTrackersFiltering
                     foreach (var address in addresses)
                         try
                         {
-                            var result = await TestTracker(new IPEndPoint(address, trackerPort)).ConfigureAwait(false);
+                            var result = TestTracker(new IPEndPoint(address, trackerPort));
                             if (!result)
                             {
                                 WriteLine($"{trackers[i].PadLeft(trackersAddressLength)} ({address}:{trackerPort}): Failed (either not giving correct address or endianness)");
@@ -158,10 +158,10 @@ namespace StunTrackersFiltering
             WriteLine();
         }
 
-        private static async Task<bool> TestTracker(IPEndPoint ep)
+        private static bool TestTracker(IPEndPoint ep)
         {
             var port = (ushort)random.Next(1024, 65500);
-            var result = await Announce(ep, port).ConfigureAwait(false);
+            var result = Announce(ep, port);
 
             bool correctEndianness = result.Any((ep) => ep.Port == port);
             bool ipMatchAll = result.All(ep => ep.Address.Equals(externalIpAddress));
@@ -172,19 +172,12 @@ namespace StunTrackersFiltering
             return correctEndianness && ipMatchAny;
         }
 
-        public static async Task<List<IPEndPoint>> Announce(IPEndPoint tracker, ushort listenPort)
-        {
-            using var cts = new CancellationTokenSource();
-#if !DEBUG
-            cts.CancelAfter(5000);
-#endif
-
+        public static List<IPEndPoint> Announce(IPEndPoint tracker, ushort listenPort)
+        {   
             var cid = new byte[] { 0, 0, 4, 23, 39, 16, 25, 128 };
             var txnId = new byte[4];
             random.NextBytes(txnId);
 
-
-            //await udpClient.SendAsync(new byte[] { 0, 0, 4, 23, 39, 16, 25, 128, 0, 0, 0, 0, txnId[0], txnId[1], txnId[2], txnId[3] }, 16, hostname, port).ConfigureAwait(false);
             udpClient.Send(new byte[] { 0, 0, 4, 23, 39, 16, 25, 128, 0, 0, 0, 0, txnId[0], txnId[1], txnId[2], txnId[3] }, 16, tracker);
 
             byte[] recBuf;
@@ -192,10 +185,9 @@ namespace StunTrackersFiltering
 
             try
             {
-                //recBuf = (await udpClient.ReceiveAsync(cts.Token).ConfigureAwait(false)).Buffer;
                 recBuf = udpClient.Receive(ref anywhere);
             }
-            catch (OperationCanceledException)
+            catch (SocketException)
             {
                 throw new TimeoutException("Connect: Timed out");
             }
@@ -212,7 +204,9 @@ namespace StunTrackersFiltering
             if (!SequenceEqual(recBuf, 4, txnId, 0, 4))
                 throw new InvalidDataException($"Connect: Invalid data received (txn id: {BitConverter.ToString(recBuf, 4, 4)}, supposed to be {BitConverter.ToString(txnId, 0, 4)})");
 
-            Buffer.BlockCopy(recBuf, 8, cid, 0, 8);
+            //Buffer.BlockCopy(recBuf, 8, cid, 0, 8);
+            for (var idx=0; idx<8; idx++)
+                cid[idx] = recBuf[idx+8];
 
             random.NextBytes(txnId);
             var hash = new byte[20];
@@ -264,14 +258,14 @@ namespace StunTrackersFiltering
 
         static byte[] bindingRequestHeader = new byte[] { 0, 1, 0, 0, 33, 18, 164, 66, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 };
 
-        private static async Task TestStunServers()
+        private static void TestStunServers()
         {
             var stunServersContent = File.ReadAllText("stun-servers-links.txt");
             var stunServersLinks = SplitLines(stunServersContent);
             var stunServersRaw = new List<string>();
 
             foreach (var stunServersLink in stunServersLinks)
-                stunServersRaw.AddRange(await DownloadList(stunServersLink).ConfigureAwait(false));
+                stunServersRaw.AddRange(DownloadList(stunServersLink));
 
             var stunServers = PreprocessHostList(stunServersRaw);
             var stunServersAddressLength = stunServers.Aggregate("", (max, cur) => max.Length > cur.Length ? max : cur).Length + 2;
@@ -295,7 +289,7 @@ namespace StunTrackersFiltering
                     {
                         try
                         {
-                            var result = await TestStunServer(new IPEndPoint(address, stunPort)).ConfigureAwait(false);
+                            var result = TestStunServer(new IPEndPoint(address, stunPort));
 
                             if (result.Address.Equals(externalIpAddress))
                             {
@@ -320,22 +314,20 @@ namespace StunTrackersFiltering
             WriteLine();
         }
 
-        private static async Task<IPEndPoint> TestStunServer(IPEndPoint endpoint)
+        private static IPEndPoint TestStunServer(IPEndPoint endpoint)
         {
-            using var cts = new CancellationTokenSource();
-            cts.CancelAfter(2500);
-
             for (var i = 8; i < 20; i++)
                 bindingRequestHeader[i] = (byte)random.Next(0, 255);
 
-            await udpClient.SendAsync(bindingRequestHeader, bindingRequestHeader.Length, endpoint).ConfigureAwait(false); ;
+            udpClient.Send(bindingRequestHeader, bindingRequestHeader.Length, endpoint);
 
             byte[] b;
             try
             {
-                b = (await udpClient.ReceiveAsync(cts.Token).ConfigureAwait(false)).Buffer;
+                IPEndPoint anywhere = null;
+                b = udpClient.Receive(ref anywhere);
             }
-            catch (OperationCanceledException)
+            catch (SocketException)
             {
                 throw new TimeoutException("Stun: Timed out.");
             }
