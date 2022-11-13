@@ -65,8 +65,8 @@ namespace StunTrackersFiltering
         {
             string externalIpString = httpClient.GetStringAsync("http://icanhazip.com").GetAwaiter().GetResult().Replace("\\r\\n", "").Replace("\\n", "").Trim();
             externalIpAddress = IPAddress.Parse(externalIpString);
-            WriteLine($"External IP address is: {externalIpAddress}");
-            WriteLine("----------");
+            Log($"External IP address is: {externalIpAddress}");
+            Log("----------");
             WriteLine();
         }
 
@@ -93,15 +93,21 @@ namespace StunTrackersFiltering
             return result.ToArray();
         }
 
+        private static void Log(string content)
+        {
+            var timestamp = DateTime.UtcNow + TimeSpan.FromHours(7);
+            WriteLine($"[{timestamp.ToString("HH:mm:ss.fff")}] {content}") ;
+        }
+
         public static void Main(string[] args)
         {
             GetExternalIpAddress();
             TestTrackers();
             TestStunServers();
 
-            WriteLine("Statistics:");
-            WriteLine($" - {trackersWorking}/{trackersCount} trackers");
-            WriteLine($" - {stunsWorking}/{stunsCount} stuns");
+            Log("Statistics:");
+            Log($" - {trackersWorking}/{trackersCount} trackers");
+            Log($" - {stunsWorking}/{stunsCount} stuns");
         }
 
         #region Trackers
@@ -139,22 +145,22 @@ namespace StunTrackersFiltering
                             var result = TestTracker(new IPEndPoint(address, trackerPort));
                             if (!result)
                             {
-                                WriteLine($"{trackers[i].PadLeft(trackersAddressLength)} ({address}:{trackerPort}): Failed (either not giving correct address or endianness)");
+                                Log($"{trackers[i].PadLeft(trackersAddressLength)} ({address}:{trackerPort}): Failed (either not giving correct address or endianness)");
                                 continue;
                             }
                             hostOk = true;
                             trackerIpWriter.WriteLine($"{address}:{trackerPort}");
-                            WriteLine($"{trackers[i].PadLeft(trackersAddressLength)} ({address}:{trackerPort}): OK");
+                            Log($"{trackers[i].PadLeft(trackersAddressLength)} ({address}:{trackerPort}): OK");
                             trackersWorking += 1;
                         }
                         catch (Exception ex)
                         {
-                            Error.WriteLine($"{trackers[i].PadLeft(trackersAddressLength)}: {ex.Message}");
+                            Log($"{trackers[i].PadLeft(trackersAddressLength)}: {ex.Message} [ERROR]");
                         }
                     if (hostOk)
                         trackerWriter.WriteLine(trackers[i]);
                 }
-            WriteLine("----------");
+            Log("----------");
             WriteLine();
         }
 
@@ -167,7 +173,7 @@ namespace StunTrackersFiltering
             bool ipMatchAll = result.All(ep => ep.Address.Equals(externalIpAddress));
             bool ipMatchAny = result.Any(ep => ep.Address.Equals(externalIpAddress));
             if (!ipMatchAll && ipMatchAny)
-                WriteLine($"     ---> inject ip: " + string.Join(", ", result));
+                Log($"     ---> inject ip: " + string.Join(", ", result));
 
             return correctEndianness && ipMatchAny;
         }
@@ -294,23 +300,23 @@ namespace StunTrackersFiltering
                             if (result.Address.Equals(externalIpAddress))
                             {
                                 hostOk = true;
-                                WriteLine($"{stunServers[i].PadLeft(stunServersAddressLength)} ({address}:{stunPort}): OK");
+                                Log($"{stunServers[i].PadLeft(stunServersAddressLength)} ({address}:{stunPort}): OK");
                                 stunServerIpWriter.WriteLine($"{address}:{stunPort}");
                                 stunsWorking += 1;
                             }
                             else
-                                WriteLine($"{stunServers[i].PadLeft(stunServersAddressLength)} ({address}:{stunPort}): Different external endpoint: got {result} vs {udpClient.Client.RemoteEndPoint as IPEndPoint} (external address: {externalIpAddress})");
+                                Log($"{stunServers[i].PadLeft(stunServersAddressLength)} ({address}:{stunPort}): Different external endpoint: got {result} vs {udpClient.Client.RemoteEndPoint as IPEndPoint} (external address: {externalIpAddress})");
                         }
                         catch (Exception ex)
                         {
-                            Error.WriteLine($"{stunServers[i].PadLeft(stunServersAddressLength)}: {ex.Message}");
+                            Log($"{stunServers[i].PadLeft(stunServersAddressLength)} ({address}:{stunPort}): {ex.Message} ERROR");
                         }
                     }
                     if (hostOk)
                         stunServerWriter.WriteLine(stunServers[i]);
                 }
 
-            WriteLine("----------");
+            Log("----------");
             WriteLine();
         }
 
