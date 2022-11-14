@@ -9,6 +9,7 @@ bt2.archive.org:6969
 buddyfly.top:6969
 camera.lei001.com:6969
 carr.codes:6969
+chouchou.top:8080
 cutscloud.duckdns.org:6969
 download.nerocloud.me:6969
 epider.me:6969
@@ -36,7 +37,6 @@ public.tracker.vraphim.com:6969
 qtstm32fan.ru:6969
 rep-art.ynh.fr:6969
 run-2.publictracker.xyz:6969
-run.publictracker.xyz:6969
 sanincode.com:6969
 slicie.icon256.com:8000
 smtp-relay.odysseylabel.com.au:6969
@@ -52,10 +52,11 @@ tracker.artixlinux.org:6969
 tracker.auctor.tv:6969
 tracker.bitsearch.to:1337
 tracker.dler.org:6969
-tracker.encrypted-data.xyz:1337
 tracker.joybomb.tw:6969
 tracker.leech.ie:1337
+tracker.moeking.me:6969
 tracker.monitorit4.me:6969
+tracker.novaopcj.eu.org:6969
 tracker.openbtba.com:6969
 tracker.opentrackr.org:1337
 tracker.pomf.se:80
