@@ -8,6 +8,7 @@ bt2.archive.org:6969
 buddyfly.top:6969
 camera.lei001.com:6969
 carr.codes:6969
+chouchou.top:8080
 cutscloud.duckdns.org:6969
 download.nerocloud.me:6969
 epider.me:6969
@@ -55,15 +56,14 @@ tracker.joybomb.tw:6969
 tracker.leech.ie:1337
 tracker.moeking.me:6969
 tracker.monitorit4.me:6969
-tracker.novaopcj.eu.org:6969
 tracker.openbtba.com:6969
 tracker.opentrackr.org:1337
 tracker.pomf.se:80
+tracker.srv00.com:6969
 tracker.tcp.exchange:6969
 tracker.theoks.net:6969
 tracker.tiny-vps.com:6969
 tracker.torrent.eu.org:451
-tracker.zerobytes.xyz:1337
 tracker1.bt.moack.co.kr:80
 tracker1.myporn.club:9337
 tracker2.dler.org:80
