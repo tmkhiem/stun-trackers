@@ -17,6 +17,7 @@ bt2.archive.org:6969:
 buddyfly.top:6969:
 185.212.59.40:6969
 camera.lei001.com:6969:
+61.164.110.198:6969
 carr.codes:6969:
 104.131.98.232:6969
 chouchou.top:8080:
@@ -25,6 +26,7 @@ concen.org:6969:
 cutscloud.duckdns.org:6969:
 77.68.20.254:6969
 download.nerocloud.me:6969:
+103.122.21.50:6969
 epider.me:6969:
 51.68.174.87:6969
 exodus.desync.com:6969:
@@ -48,6 +50,7 @@ leefafa.tk:6969:
 mail.artixlinux.org:6969:
 144.91.88.22:6969
 mail.zasaonsk.ga:6969:
+138.3.249.47:6969
 mirror.aptus.co.tz:6969:
 41.79.68.156:6969
 moonburrow.club:6969:
@@ -110,12 +113,12 @@ tracker.bitsearch.to:1337:
 178.170.48.154:1337
 tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
-61.216.149.33:6969
-220.130.15.27:6969
 211.75.29.227:6969
+217.30.10.77:6969
+220.130.15.27:6969
 185.70.187.79:6969
 61.222.178.227:6969
-217.30.10.77:6969
+61.216.149.33:6969
 tracker.encrypted-data.xyz:1337:
 tracker.filemail.com:6969:
 tracker.jonaslsa.com:6969:
@@ -144,7 +147,6 @@ tracker.tcp.exchange:6969:
 tracker.tiny-vps.com:6969:
 176.56.6.162:6969
 tracker.torrent.eu.org:451:
-89.234.156.205:451
 91.216.110.52:451
 tracker.zerobytes.xyz:1337:
 tracker1.bt.moack.co.kr:80:
@@ -152,8 +154,8 @@ tracker1.bt.moack.co.kr:80:
 tracker1.myporn.club:9337:
 193.42.111.57:9337
 tracker2.dler.org:80:
-163.172.209.40:80
 167.235.245.209:80
+163.172.209.40:80
 uploads.gamecoast.net:6969:
 185.102.219.163:6969
 v2.iperson.xyz:6969:
