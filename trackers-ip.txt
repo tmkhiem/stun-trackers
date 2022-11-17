@@ -6,6 +6,7 @@ aarsen.me:6969:
 admin.52ywp.com:6969:
 61.190.182.107:6969
 admin.videoenpoche.info:6969:
+212.83.181.109:6969
 astrr.ru:6969:
 46.138.242.240:6969
 black-bird.ynh.fr:6969:
@@ -117,14 +118,15 @@ tracker.bitsearch.to:1337:
 178.170.48.154:1337
 tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
-185.70.187.79:6969
 211.75.29.227:6969
 61.222.178.227:6969
-217.30.10.77:6969
 61.216.149.33:6969
 220.130.15.27:6969
+185.70.187.79:6969
+217.30.10.77:6969
 tracker.encrypted-data.xyz:1337:
 tracker.filemail.com:6969:
+52.58.128.163:6969
 tracker.jonaslsa.com:6969:
 tracker.joybomb.tw:6969:
 113.196.95.160:6969
@@ -135,7 +137,6 @@ tracker.moeking.me:6969:
 tracker.monitorit4.me:6969:
 93.104.214.40:6969
 tracker.novaopcj.eu.org:6969:
-13.115.115.32:6969
 tracker.openbtba.com:6969:
 43.154.2.254:6969
 tracker.opentrackr.org:1337:
@@ -153,6 +154,7 @@ tracker.theoks.net:6969:
 tracker.tiny-vps.com:6969:
 176.56.6.162:6969
 tracker.torrent.eu.org:451:
+89.234.156.205:451
 91.216.110.52:451
 tracker.zerobytes.xyz:1337:
 tracker1.bt.moack.co.kr:80:
@@ -160,8 +162,8 @@ tracker1.bt.moack.co.kr:80:
 tracker1.myporn.club:9337:
 193.42.111.57:9337
 tracker2.dler.org:80:
-167.235.245.209:80
 163.172.209.40:80
+167.235.245.209:80
 uploads.gamecoast.net:6969:
 185.102.219.163:6969
 v2.iperson.xyz:6969:
