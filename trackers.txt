@@ -1,6 +1,5 @@
 6ahddutb1ucc3cp.ru:6969
 aarsen.me:6969
-admin.52ywp.com:6969
 admin.videoenpoche.info:6969
 astrr.ru:6969
 black-bird.ynh.fr:6969
@@ -23,6 +22,7 @@ ipv4.tracker.harry.lu:80
 laze.cc:6969
 leefafa.tk:6969
 mail.artixlinux.org:6969
+mail.zasaonsk.ga:6969
 mirror.aptus.co.tz:6969
 moonburrow.club:6969
 movies.zsw.ca:6969
@@ -66,7 +66,6 @@ tracker.tcp.exchange:6969
 tracker.theoks.net:6969
 tracker.tiny-vps.com:6969
 tracker.torrent.eu.org:451
-tracker.zerobytes.xyz:1337
 tracker1.bt.moack.co.kr:80
 tracker1.myporn.club:9337
 tracker2.dler.org:80
