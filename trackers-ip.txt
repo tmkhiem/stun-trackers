@@ -4,7 +4,9 @@
 aarsen.me:6969:
 51.15.79.209:6969
 admin.52ywp.com:6969:
+61.190.182.107:6969
 admin.videoenpoche.info:6969:
+212.83.181.109:6969
 astrr.ru:6969:
 46.138.242.240:6969
 black-bird.ynh.fr:6969:
@@ -42,6 +44,7 @@ htz3.noho.st:6969:
 ipv4.tracker.harry.lu:80:
 149.202.88.193:80
 kokodayo.site:6969:
+101.43.174.230:6969
 laze.cc:6969:
 172.105.235.127:6969
 leefafa.tk:6969:
@@ -71,7 +74,6 @@ p4p.arenabg.com:1337:
 psyco.fr:6969:
 37.187.95.112:6969
 public.publictracker.xyz:6969:
-5.188.6.45:6969
 public.tracker.vraphim.com:6969:
 qtstm32fan.ru:6969:
 185.106.94.80:6969
@@ -115,12 +117,12 @@ tracker.bitsearch.to:1337:
 178.170.48.154:1337
 tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
-185.70.187.79:6969
 220.130.15.27:6969
-61.222.178.227:6969
-61.216.149.33:6969
 217.30.10.77:6969
+61.222.178.227:6969
 211.75.29.227:6969
+61.216.149.33:6969
+185.70.187.79:6969
 tracker.encrypted-data.xyz:1337:
 tracker.filemail.com:6969:
 tracker.jonaslsa.com:6969:
@@ -133,11 +135,11 @@ tracker.moeking.me:6969:
 tracker.monitorit4.me:6969:
 93.104.214.40:6969
 tracker.openbittorrent.com:6969:
-45.154.253.10:6969
 45.154.253.8:6969
+45.154.253.10:6969
+45.154.253.4:6969
 45.154.253.6:6969
 45.154.253.9:6969
-45.154.253.4:6969
 tracker.openbtba.com:6969:
 43.154.2.254:6969
 tracker.opentrackr.org:1337:
@@ -163,8 +165,8 @@ tracker1.bt.moack.co.kr:80:
 tracker1.myporn.club:9337:
 193.42.111.57:9337
 tracker2.dler.org:80:
-163.172.209.40:80
 167.235.245.209:80
+163.172.209.40:80
 uploads.gamecoast.net:6969:
 185.102.219.163:6969
 v2.iperson.xyz:6969:
