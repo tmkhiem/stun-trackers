@@ -33,9 +33,9 @@ open.dstud.io:6969
 open.free-tracker.ga:6969
 opentracker.i2p.rocks:6969
 psyco.fr:6969
+public.publictracker.xyz:6969
 qtstm32fan.ru:6969
 rep-art.ynh.fr:6969
-run-2.publictracker.xyz:6969
 run.publictracker.xyz:6969
 sanincode.com:6969
 slicie.icon256.com:8000
@@ -53,7 +53,6 @@ tracker.artixlinux.org:6969
 tracker.auctor.tv:6969
 tracker.bitsearch.to:1337
 tracker.dler.org:6969
-tracker.encrypted-data.xyz:1337
 tracker.filemail.com:6969
 tracker.joybomb.tw:6969
 tracker.leech.ie:1337
@@ -69,6 +68,7 @@ tracker.tcp.exchange:6969
 tracker.theoks.net:6969
 tracker.tiny-vps.com:6969
 tracker.torrent.eu.org:451
+tracker.zerobytes.xyz:1337
 tracker1.bt.moack.co.kr:80
 tracker1.myporn.club:9337
 tracker2.dler.org:80
