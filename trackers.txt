@@ -1,6 +1,5 @@
 6ahddutb1ucc3cp.ru:6969
 aarsen.me:6969
-admin.videoenpoche.info:6969
 astrr.ru:6969
 black-bird.ynh.fr:6969
 bt.ktrackers.com:6666
@@ -30,7 +29,7 @@ open.dstud.io:6969
 open.free-tracker.ga:6969
 opentracker.i2p.rocks:6969
 psyco.fr:6969
-public.publictracker.xyz:6969
+public.tracker.vraphim.com:6969
 qtstm32fan.ru:6969
 rep-art.ynh.fr:6969
 run-2.publictracker.xyz:6969
@@ -51,6 +50,7 @@ tracker.artixlinux.org:6969
 tracker.auctor.tv:6969
 tracker.bitsearch.to:1337
 tracker.dler.org:6969
+tracker.encrypted-data.xyz:1337
 tracker.joybomb.tw:6969
 tracker.leech.ie:1337
 tracker.moeking.me:6969
