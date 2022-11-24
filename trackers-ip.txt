@@ -1,5 +1,4 @@
 6ahddutb1ucc3cp.ru:6969:
-89.36.216.8:6969
 9.rarbg.com:2810:
 aarsen.me:6969:
 51.15.79.209:6969
@@ -13,6 +12,7 @@ black-bird.ynh.fr:6969:
 bt.ktrackers.com:6666:
 51.159.54.68:6666
 bt1.archive.org:6969:
+207.241.226.111:6969
 bt2.archive.org:6969:
 207.241.231.226:6969
 camera.lei001.com:6969:
@@ -114,6 +114,7 @@ tracker.bitsearch.to:1337:
 178.170.48.154:1337
 tracker.ddunlimited.net:6969:
 tracker.encrypted-data.xyz:1337:
+151.115.49.115:1337
 tracker.filemail.com:6969:
 tracker.jonaslsa.com:6969:
 tracker.joybomb.tw:6969:
@@ -143,17 +144,16 @@ tracker.theoks.net:6969:
 tracker.tiny-vps.com:6969:
 176.56.6.162:6969
 tracker.torrent.eu.org:451:
-91.216.110.53:451
 89.234.156.205:451
+91.216.110.52:451
 tracker.zerobytes.xyz:1337:
-151.115.49.115:1337
 tracker1.bt.moack.co.kr:80:
 156.234.201.18:80
 tracker1.myporn.club:9337:
 193.42.111.57:9337
 tracker2.dler.org:80:
-167.235.245.209:80
 163.172.209.40:80
+167.235.245.209:80
 uploads.gamecoast.net:6969:
 185.102.219.163:6969
 v2.iperson.xyz:6969:
