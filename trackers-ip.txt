@@ -4,6 +4,7 @@ aarsen.me:6969:
 51.15.79.209:6969
 admin.52ywp.com:6969:
 admin.videoenpoche.info:6969:
+212.83.181.109:6969
 astrr.ru:6969:
 46.138.242.240:6969
 black-bird.ynh.fr:6969:
@@ -116,6 +117,7 @@ tracker.ddunlimited.net:6969:
 tracker.encrypted-data.xyz:1337:
 151.115.49.115:1337
 tracker.filemail.com:6969:
+52.58.128.163:6969
 tracker.jonaslsa.com:6969:
 tracker.joybomb.tw:6969:
 113.196.95.160:6969
@@ -144,6 +146,7 @@ tracker.theoks.net:6969:
 tracker.tiny-vps.com:6969:
 176.56.6.162:6969
 tracker.torrent.eu.org:451:
+89.234.156.205:451
 91.216.110.52:451
 tracker.zerobytes.xyz:1337:
 151.115.49.115:1337
