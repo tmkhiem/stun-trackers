@@ -15,7 +15,6 @@ exodus.desync.com:6969
 f1sh.de:6969
 fe.dealclub.de:6969
 htz3.noho.st:6969
-ipv4.tracker.harry.lu:80
 laze.cc:6969
 leefafa.tk:6969
 mail.artixlinux.org:6969
@@ -29,6 +28,8 @@ open.dstud.io:6969
 open.tracker.cl:1337
 opentracker.i2p.rocks:6969
 psyco.fr:6969
+public.publictracker.xyz:6969
+public.tracker.vraphim.com:6969
 qtstm32fan.ru:6969
 rep-art.ynh.fr:6969
 run-2.publictracker.xyz:6969
@@ -39,6 +40,7 @@ smtp-relay.odysseylabel.com.au:6969
 tamas3.ynh.fr:6969
 themaninashed.com:6969
 thouvenin.cloud:6969
+torrentclub.space:6969
 torrents.artixlinux.org:6969
 tracker-udp.gbitt.info:80
 tracker.4.babico.name.tr:3131
@@ -48,6 +50,7 @@ tracker.artixlinux.org:6969
 tracker.auctor.tv:6969
 tracker.bitsearch.to:1337
 tracker.dler.org:6969
+tracker.encrypted-data.xyz:1337
 tracker.joybomb.tw:6969
 tracker.leech.ie:1337
 tracker.moeking.me:6969
@@ -61,7 +64,6 @@ tracker.tcp.exchange:6969
 tracker.theoks.net:6969
 tracker.tiny-vps.com:6969
 tracker.torrent.eu.org:451
-tracker.zemoj.com:6969
 tracker1.bt.moack.co.kr:80
 tracker1.myporn.club:9337
 tracker2.dler.org:80
