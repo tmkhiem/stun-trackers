@@ -2,6 +2,7 @@
 aarsen.me:6969:
 51.15.79.209:6969
 admin.52ywp.com:6969:
+61.190.182.107:6969
 admin.videoenpoche.info:6969:
 212.83.181.109:6969
 astrr.ru:6969:
@@ -40,6 +41,7 @@ htz3.noho.st:6969:
 ipv4.tracker.harry.lu:80:
 149.202.88.193:80
 kokodayo.site:6969:
+101.43.174.230:6969
 laze.cc:6969:
 172.105.235.127:6969
 leefafa.tk:6969:
@@ -61,7 +63,6 @@ open.demonii.com:1337:
 open.dstud.io:6969:
 179.43.155.30:6969
 open.free-tracker.ga:6969:
-176.123.1.180:6969
 open.stealth.si:80:
 open.tracker.cl:1337:
 186.10.170.198:1337
@@ -114,12 +115,12 @@ tracker.bitsearch.to:1337:
 178.170.48.154:1337
 tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
-217.30.10.77:6969
-211.75.29.254:6969
-220.130.15.30:6969
-185.70.187.79:6969
-61.216.149.33:6969
 61.222.178.254:6969
+220.130.15.30:6969
+61.216.149.33:6969
+211.75.29.254:6969
+217.30.10.77:6969
+185.70.187.79:6969
 tracker.encrypted-data.xyz:1337:
 tracker.jonaslsa.com:6969:
 tracker.joybomb.tw:6969:
@@ -137,6 +138,7 @@ tracker.opentrackr.org:1337:
 tracker.pomf.se:80:
 65.108.63.133:80
 tracker.publictracker.xyz:6969:
+194.53.137.231:6969
 tracker.srv00.com:6969:
 84.252.75.21:6969
 tracker.swateam.org.uk:2710:
@@ -147,6 +149,7 @@ tracker.theoks.net:6969:
 tracker.tiny-vps.com:6969:
 176.56.6.162:6969
 tracker.torrent.eu.org:451:
+91.216.110.53:451
 89.234.156.205:451
 tracker.zemoj.com:6969:
 tracker.zerobytes.xyz:1337:
@@ -155,8 +158,8 @@ tracker1.bt.moack.co.kr:80:
 tracker1.myporn.club:9337:
 193.42.111.57:9337
 tracker2.dler.org:80:
-167.235.245.209:80
 163.172.209.40:80
+167.235.245.209:80
 uploads.gamecoast.net:6969:
 185.102.219.163:6969
 v2.iperson.xyz:6969:
