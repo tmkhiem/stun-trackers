@@ -5,7 +5,6 @@ admin.videoenpoche.info:6969:
 astrr.ru:6969:
 46.138.242.240:6969
 black-bird.ynh.fr:6969:
-82.65.115.10:6969
 bt.ktrackers.com:6666:
 51.159.54.68:6666
 bt1.archive.org:6969:
@@ -13,7 +12,6 @@ bt1.archive.org:6969:
 bt2.archive.org:6969:
 207.241.231.226:6969
 camera.lei001.com:6969:
-61.164.110.198:6969
 carr.codes:6969:
 104.131.98.232:6969
 chouchou.top:8080:
@@ -45,6 +43,7 @@ leefafa.tk:6969:
 mail.artixlinux.org:6969:
 144.91.88.22:6969
 mail.zasaonsk.ga:6969:
+138.3.249.47:6969
 mirror.aptus.co.tz:6969:
 41.79.68.156:6969
 moonburrow.club:6969:
@@ -110,15 +109,14 @@ tracker.bitsearch.to:1337:
 178.170.48.154:1337
 tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
-61.216.149.33:6969
 211.75.29.254:6969
-217.30.10.77:6969
 185.70.187.79:6969
-61.222.178.254:6969
+61.216.149.33:6969
 220.130.15.30:6969
+217.30.10.77:6969
+61.222.178.254:6969
 tracker.encrypted-data.xyz:1337:
 tracker.filemail.com:6969:
-52.58.128.163:6969
 tracker.jonaslsa.com:6969:
 tracker.joybomb.tw:6969:
 113.196.95.160:6969
@@ -131,9 +129,9 @@ tracker.monitorit4.me:6969:
 tracker.openbittorrent.com:6969:
 45.154.253.9:6969
 45.154.253.8:6969
-45.154.253.6:6969
-45.154.253.4:6969
 45.154.253.10:6969
+45.154.253.4:6969
+45.154.253.6:6969
 tracker.openbtba.com:6969:
 43.154.2.254:6969
 tracker.opentrackr.org:1337:
@@ -153,7 +151,7 @@ tracker.tiny-vps.com:6969:
 176.56.6.162:6969
 tracker.torrent.eu.org:451:
 91.216.110.52:451
-91.216.110.53:451
+89.234.156.205:451
 tracker.zemoj.com:6969:
 tracker1.bt.moack.co.kr:80:
 156.234.201.18:80
