@@ -30,14 +30,12 @@ open.tracker.cl:1337
 opentracker.i2p.rocks:6969
 psyco.fr:6969
 public.publictracker.xyz:6969
-public.tracker.vraphim.com:6969
 qtstm32fan.ru:6969
 rep-art.ynh.fr:6969
 run-2.publictracker.xyz:6969
 run.publictracker.xyz:6969
 sanincode.com:6969
 slicie.icon256.com:8000
-tamas3.ynh.fr:6969
 themaninashed.com:6969
 thouvenin.cloud:6969
 torrentclub.space:6969
@@ -53,7 +51,6 @@ tracker.dler.org:6969
 tracker.joybomb.tw:6969
 tracker.leech.ie:1337
 tracker.lelux.fi:6969
-tracker.moeking.me:6969
 tracker.monitorit4.me:6969
 tracker.openbtba.com:6969
 tracker.opentrackr.org:1337
