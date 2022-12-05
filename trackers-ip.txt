@@ -2,6 +2,7 @@
 aarsen.me:6969:
 51.15.79.209:6969
 admin.52ywp.com:6969:
+61.190.182.107:6969
 astrr.ru:6969:
 46.138.242.240:6969
 black-bird.ynh.fr:6969:
@@ -13,6 +14,7 @@ bt1.archive.org:6969:
 bt2.archive.org:6969:
 207.241.231.226:6969
 camera.lei001.com:6969:
+61.164.110.198:6969
 carr.codes:6969:
 104.131.98.232:6969
 chouchou.top:8080:
@@ -37,6 +39,7 @@ htz3.noho.st:6969:
 ipv4.tracker.harry.lu:80:
 149.202.88.193:80
 kokodayo.site:6969:
+101.43.174.230:6969
 laze.cc:6969:
 172.105.235.127:6969
 leefafa.tk:6969:
@@ -52,6 +55,7 @@ moonburrow.club:6969:
 movies.zsw.ca:6969:
 198.100.149.66:6969
 new-line.net:6969:
+94.243.222.100:6969
 open.demonii.com:1337:
 185.107.82.74:1337
 open.dstud.io:6969:
@@ -66,7 +70,6 @@ opentracker.i2p.rocks:6969:
 23.137.251.45:6969
 p4p.arenabg.com:1337:
 psyco.fr:6969:
-37.187.95.112:6969
 public.publictracker.xyz:6969:
 5.188.6.45:6969
 public.tracker.vraphim.com:6969:
@@ -92,6 +95,7 @@ thouvenin.cloud:6969:
 torrentclub.space:6969:
 50.116.14.248:6969
 torrents.artixlinux.org:6969:
+209.126.11.233:6969
 tr.bangumi.moe:6969:
 tr.cili001.com:8070:
 tracker-udp.gbitt.info:80:
@@ -110,13 +114,14 @@ tracker.bitsearch.to:1337:
 178.170.48.154:1337
 tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
+61.222.178.254:6969
+217.30.10.77:6969
+211.75.29.254:6969
 61.216.149.33:6969
 185.70.187.79:6969
-211.75.29.254:6969
 220.130.15.30:6969
-217.30.10.77:6969
-61.222.178.254:6969
 tracker.encrypted-data.xyz:1337:
+151.115.49.115:1337
 tracker.jonaslsa.com:6969:
 tracker.joybomb.tw:6969:
 113.196.95.160:6969
@@ -147,9 +152,10 @@ tracker.theoks.net:6969:
 tracker.tiny-vps.com:6969:
 176.56.6.162:6969
 tracker.torrent.eu.org:451:
+91.216.110.52:451
 91.216.110.53:451
-89.234.156.205:451
 tracker.zemoj.com:6969:
+134.209.1.127:6969
 tracker.zerobytes.xyz:1337:
 151.115.49.115:1337
 tracker1.bt.moack.co.kr:80:
