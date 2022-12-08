@@ -52,7 +52,7 @@ tracker.artixlinux.org:6969
 tracker.auctor.tv:6969
 tracker.bitsearch.to:1337
 tracker.dler.org:6969
-tracker.filemail.com:6969
+tracker.encrypted-data.xyz:1337
 tracker.joybomb.tw:6969
 tracker.leech.ie:1337
 tracker.lelux.fi:6969
@@ -68,6 +68,8 @@ tracker.tcp.exchange:6969
 tracker.theoks.net:6969
 tracker.tiny-vps.com:6969
 tracker.torrent.eu.org:451
+tracker.zemoj.com:6969
+tracker.zerobytes.xyz:1337
 tracker1.bt.moack.co.kr:80
 tracker1.myporn.club:9337
 tracker2.dler.org:80
