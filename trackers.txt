@@ -1,5 +1,7 @@
 aarsen.me:6969
+admin.52ywp.com:6969
 astrr.ru:6969
+black-bird.ynh.fr:6969
 bt.ktrackers.com:6666
 bt1.archive.org:6969
 bt2.archive.org:6969
@@ -14,6 +16,7 @@ f1sh.de:6969
 fe.dealclub.de:6969
 htz3.noho.st:6969
 ipv4.tracker.harry.lu:80
+kokodayo.site:6969
 laze.cc:6969
 leefafa.tk:6969
 mail.artixlinux.org:6969
@@ -28,8 +31,6 @@ open.tracker.cl:1337
 open.tracker.ink:6969
 opentracker.i2p.rocks:6969
 psyco.fr:6969
-public.publictracker.xyz:6969
-public.tracker.vraphim.com:6969
 qtstm32fan.ru:6969
 rep-art.ynh.fr:6969
 run-2.publictracker.xyz:6969
