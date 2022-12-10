@@ -33,7 +33,6 @@ rep-art.ynh.fr:6969
 run.publictracker.xyz:6969
 sanincode.com:6969
 slicie.icon256.com:8000
-tamas3.ynh.fr:6969
 themaninashed.com:6969
 thouvenin.cloud:6969
 torrentclub.space:6969
@@ -46,6 +45,7 @@ tracker.artixlinux.org:6969
 tracker.auctor.tv:6969
 tracker.bitsearch.to:1337
 tracker.dler.org:6969
+tracker.encrypted-data.xyz:1337
 tracker.joybomb.tw:6969
 tracker.leech.ie:1337
 tracker.lelux.fi:6969
