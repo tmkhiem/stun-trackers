@@ -46,7 +46,6 @@ stun.liveo.fr:3478
 stun.lowratevoip.com:3478
 stun.lundimatin.fr:3478
 stun.mit.de:3478
-stun.miwifi.com:3478
 stun.myvoiptraffic.com:3478
 stun.netappel.com:3478
 stun.netgsm.com.tr:3478
@@ -64,7 +63,6 @@ stun.rockenstein.de:3478
 stun.rolmail.net:3478
 stun.rynga.com:3478
 stun.schlund.de:3478
-stun.sigmavoip.com:3478
 stun.sip.us:3478
 stun.sipdiscount.com:3478
 stun.sipgate.net:10000
@@ -87,6 +85,7 @@ stun.t-online.de:3478
 stun.tel.lu:3478
 stun.telbo.com:3478
 stun.tng.de:3478
+stun.twt.it:3478
 stun.uls.co.za:3478
 stun.usfamily.net:3478
 stun.vivox.com:3478
