@@ -28,6 +28,7 @@ open.demonii.com:1337
 open.dstud.io:6969
 open.free-tracker.ga:6969
 open.tracker.cl:1337
+open.tracker.ink:6969
 opentracker.i2p.rocks:6969
 psyco.fr:6969
 public.publictracker.xyz:6969
@@ -46,6 +47,7 @@ torrents.artixlinux.org:6969
 tracker-udp.gbitt.info:80
 tracker.4.babico.name.tr:3131
 tracker.altrosky.nl:6969
+tracker.army:6969
 tracker.artixlinux.org:6969
 tracker.auctor.tv:6969
 tracker.bitsearch.to:1337
@@ -71,5 +73,4 @@ tracker2.dler.org:80
 uploads.gamecoast.net:6969
 v2.iperson.xyz:6969
 vibe.sleepyinternetfun.xyz:1738
-www.peckservers.com:9000
 zecircle.xyz:6969
