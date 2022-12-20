@@ -31,7 +31,6 @@ exodus.desync.com:6969:
 explodie.org:6969:
 f1sh.de:6969:
 89.58.49.71:6969
-fe.dealclub.de:6969:
 fh2.cmp-gaming.com:6969:
 htz3.noho.st:6969:
 95.216.74.39:6969
@@ -69,8 +68,6 @@ opentracker.i2p.rocks:6969:
 p4p.arenabg.com:1337:
 psyco.fr:6969:
 37.187.95.112:6969
-public.publictracker.xyz:6969:
-5.188.6.45:6969
 public.tracker.vraphim.com:6969:
 51.15.41.46:6969
 qtstm32fan.ru:6969:
@@ -112,11 +109,11 @@ tracker.bitsearch.to:1337:
 tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
 211.75.29.254:6969
-220.130.15.30:6969
-61.216.149.33:6969
-61.222.178.254:6969
-217.30.10.77:6969
 185.70.187.79:6969
+61.222.178.254:6969
+220.130.15.30:6969
+217.30.10.77:6969
+61.216.149.33:6969
 tracker.jonaslsa.com:6969:
 tracker.joybomb.tw:6969:
 113.196.95.160:6969
@@ -149,6 +146,7 @@ tracker.tiny-vps.com:6969:
 176.56.6.162:6969
 tracker.torrent.eu.org:451:
 91.216.110.53:451
+91.216.110.52:451
 tracker1.bt.moack.co.kr:80:
 156.234.201.18:80
 tracker1.myporn.club:9337:
@@ -161,6 +159,5 @@ v2.iperson.xyz:6969:
 74.120.175.165:6969
 vibe.sleepyinternetfun.xyz:1738:
 149.28.47.87:1738
-www.peckservers.com:9000:
 zecircle.xyz:6969:
 65.21.91.32:6969
