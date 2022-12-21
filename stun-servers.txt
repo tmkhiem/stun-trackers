@@ -15,7 +15,6 @@ stun.callwithus.com:3478
 stun.cheapvoip.com:3478
 stun.commpeak.com:3478
 stun.cope.es:3478
-stun.counterpath.com:3478
 stun.counterpath.net:3478
 stun.dcalling.de:3478
 stun.demos.ru:3478
@@ -36,6 +35,7 @@ stun.infra.net:3478
 stun.internetcalls.com:3478
 stun.intervoip.com:3478
 stun.ippi.fr:3478
+stun.ipshka.com:3478
 stun.it1.hr:3478
 stun.jumblo.com:3478
 stun.justvoip.com:3478
