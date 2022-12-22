@@ -43,7 +43,6 @@ laze.cc:6969:
 leefafa.tk:6969:
 192.81.211.104:6969
 mail.artixlinux.org:6969:
-144.91.88.22:6969
 mail.zasaonsk.ga:6969:
 138.3.249.47:6969
 mirror.aptus.co.tz:6969:
@@ -62,7 +61,6 @@ open.free-tracker.ga:6969:
 176.123.1.180:6969
 open.stealth.si:80:
 open.tracker.ink:6969:
-171.104.110.21:6969
 opentracker.i2p.rocks:6969:
 23.137.251.45:6969
 p4p.arenabg.com:1337:
@@ -109,12 +107,12 @@ tracker.bitsearch.to:1337:
 178.170.48.154:1337
 tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
-61.222.178.254:6969
+211.75.29.254:6969
+220.130.15.30:6969
 185.70.187.79:6969
 217.30.10.77:6969
-220.130.15.30:6969
+61.222.178.254:6969
 61.216.149.33:6969
-211.75.29.254:6969
 tracker.jonaslsa.com:6969:
 tracker.joybomb.tw:6969:
 113.196.95.160:6969
@@ -127,8 +125,8 @@ tracker.moeking.me:6969:
 tracker.monitorit4.me:6969:
 93.104.214.40:6969
 tracker.openbittorrent.com:6969:
-45.154.253.9:6969
 45.154.253.8:6969
+45.154.253.9:6969
 45.154.253.10:6969
 tracker.openbtba.com:6969:
 43.154.2.254:6969
@@ -139,7 +137,6 @@ tracker.pomf.se:80:
 tracker.publictracker.xyz:6969:
 194.53.137.231:6969
 tracker.skyts.net:6969:
-171.104.110.21:6969
 tracker.srv00.com:6969:
 84.252.75.21:6969
 tracker.swateam.org.uk:2710:
@@ -160,7 +157,6 @@ tracker2.dler.org:80:
 uploads.gamecoast.net:6969:
 185.102.219.163:6969
 v2.iperson.xyz:6969:
-74.120.175.165:6969
 vibe.sleepyinternetfun.xyz:1738:
 149.28.47.87:1738
 www.peckservers.com:9000:
