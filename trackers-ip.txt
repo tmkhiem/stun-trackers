@@ -69,6 +69,7 @@ p4p.arenabg.com:1337:
 psyco.fr:6969:
 37.187.95.112:6969
 public.publictracker.xyz:6969:
+5.188.6.45:6969
 public.tracker.vraphim.com:6969:
 qtstm32fan.ru:6969:
 185.106.94.80:6969
@@ -108,12 +109,12 @@ tracker.bitsearch.to:1337:
 178.170.48.154:1337
 tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
-211.75.29.254:6969
 61.222.178.254:6969
-217.30.10.77:6969
-220.130.15.30:6969
 185.70.187.79:6969
+220.130.15.30:6969
 61.216.149.33:6969
+211.75.29.254:6969
+217.30.10.77:6969
 tracker.jonaslsa.com:6969:
 tracker.joybomb.tw:6969:
 113.196.95.160:6969
@@ -126,9 +127,9 @@ tracker.moeking.me:6969:
 tracker.monitorit4.me:6969:
 93.104.214.40:6969
 tracker.openbittorrent.com:6969:
-45.154.253.10:6969
 45.154.253.9:6969
 45.154.253.8:6969
+45.154.253.10:6969
 tracker.openbtba.com:6969:
 43.154.2.254:6969
 tracker.opentrackr.org:1337:
@@ -138,7 +139,6 @@ tracker.pomf.se:80:
 tracker.publictracker.xyz:6969:
 194.53.137.231:6969
 tracker.skyts.net:6969:
-171.104.110.21:6969
 tracker.srv00.com:6969:
 84.252.75.21:6969
 tracker.swateam.org.uk:2710:
@@ -149,7 +149,6 @@ tracker.theoks.net:6969:
 tracker.tiny-vps.com:6969:
 tracker.torrent.eu.org:451:
 91.216.110.52:451
-91.216.110.53:451
 tracker1.bt.moack.co.kr:80:
 156.234.201.18:80
 tracker1.myporn.club:9337:
