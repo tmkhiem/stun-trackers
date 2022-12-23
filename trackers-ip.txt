@@ -2,6 +2,7 @@
 aarsen.me:6969:
 51.15.79.209:6969
 admin.52ywp.com:6969:
+61.190.182.107:6969
 astrr.ru:6969:
 46.138.242.240:6969
 black-bird.ynh.fr:6969:
@@ -10,6 +11,8 @@ bt.ktrackers.com:6666:
 51.159.54.68:6666
 bt1.archive.org:6969:
 207.241.226.111:6969
+bt2.archive.org:6969:
+207.241.231.226:6969
 camera.lei001.com:6969:
 61.164.110.198:6969
 carr.codes:6969:
@@ -107,12 +110,13 @@ tracker.bitsearch.to:1337:
 tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
 61.222.178.254:6969
-217.30.10.77:6969
-185.70.187.79:6969
 61.216.149.33:6969
+185.70.187.79:6969
 220.130.15.30:6969
+217.30.10.77:6969
 211.75.29.254:6969
 tracker.filemail.com:6969:
+52.58.128.163:6969
 tracker.jonaslsa.com:6969:
 tracker.joybomb.tw:6969:
 113.196.95.160:6969
@@ -124,6 +128,10 @@ tracker.moeking.me:6969:
 107.189.11.230:6969
 tracker.monitorit4.me:6969:
 93.104.214.40:6969
+tracker.openbittorrent.com:6969:
+45.154.253.9:6969
+45.154.253.8:6969
+45.154.253.10:6969
 tracker.openbtba.com:6969:
 43.154.2.254:6969
 tracker.opentrackr.org:1337:
@@ -142,7 +150,6 @@ tracker.tcp.exchange:6969:
 tracker.theoks.net:6969:
 209.141.59.16:6969
 tracker.torrent.eu.org:451:
-91.216.110.53:451
 89.234.156.205:451
 tracker1.bt.moack.co.kr:80:
 156.234.201.18:80
