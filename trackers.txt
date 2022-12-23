@@ -10,6 +10,7 @@ chouchou.top:8080
 cutscloud.duckdns.org:6969
 download.nerocloud.me:6969
 epider.me:6969
+exodus.desync.com:6969
 f1sh.de:6969
 htz3.noho.st:6969
 ipv4.tracker.harry.lu:80
