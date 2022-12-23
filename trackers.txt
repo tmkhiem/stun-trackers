@@ -14,7 +14,6 @@ exodus.desync.com:6969
 f1sh.de:6969
 htz3.noho.st:6969
 ipv4.tracker.harry.lu:80
-kokodayo.site:6969
 laze.cc:6969
 leefafa.tk:6969
 mail.artixlinux.org:6969
@@ -26,9 +25,9 @@ new-line.net:6969
 open.demonii.com:1337
 open.dstud.io:6969
 open.free-tracker.ga:6969
+open.tracker.ink:6969
 opentracker.i2p.rocks:6969
 psyco.fr:6969
-public.publictracker.xyz:6969
 qtstm32fan.ru:6969
 rep-art.ynh.fr:6969
 run-2.publictracker.xyz:6969
@@ -56,6 +55,7 @@ tracker.openbtba.com:6969
 tracker.opentrackr.org:1337
 tracker.pomf.se:80
 tracker.publictracker.xyz:6969
+tracker.skyts.net:6969
 tracker.srv00.com:6969
 tracker.tcp.exchange:6969
 tracker.theoks.net:6969
