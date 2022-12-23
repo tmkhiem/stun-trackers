@@ -8,6 +8,7 @@ stun.actionvoip.com:3478
 stun.annatel.net:3478
 stun.antisip.com:3478
 stun.avigora.fr:3478
+stun.bluesip.net:3478
 stun.cablenet-as.net:3478
 stun.callromania.ro:3478
 stun.callwithus.com:3478
@@ -101,6 +102,7 @@ stun.voipcheap.com:3478
 stun.voipgain.com:3478
 stun.voipgate.com:3478
 stun.voipinfocenter.com:3478
+stun.voipplanet.nl:3478
 stun.voippro.com:3478
 stun.voipraider.com:3478
 stun.voipstunt.com:3478
