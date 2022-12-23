@@ -2,7 +2,6 @@
 aarsen.me:6969:
 51.15.79.209:6969
 admin.52ywp.com:6969:
-61.190.182.107:6969
 astrr.ru:6969:
 46.138.242.240:6969
 black-bird.ynh.fr:6969:
@@ -133,7 +132,6 @@ tracker.pomf.se:80:
 tracker.publictracker.xyz:6969:
 194.53.137.231:6969
 tracker.skyts.net:6969:
-171.104.110.21:6969
 tracker.srv00.com:6969:
 84.252.75.21:6969
 tracker.swateam.org.uk:2710:
@@ -143,7 +141,7 @@ tracker.theoks.net:6969:
 209.141.59.16:6969
 tracker.torrent.eu.org:451:
 91.216.110.52:451
-89.234.156.205:451
+91.216.110.53:451
 tracker1.bt.moack.co.kr:80:
 156.234.201.18:80
 tracker1.myporn.club:9337:
