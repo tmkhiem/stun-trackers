@@ -20,6 +20,7 @@ stun.counterpath.net:3478
 stun.dcalling.de:3478
 stun.demos.ru:3478
 stun.dus.net:3478
+stun.easycall.pl:3478
 stun.easyvoip.com:3478
 stun.ekiga.net:3478
 stun.epygi.com:3478
@@ -34,7 +35,6 @@ stun.hosteurope.de:3478
 stun.internetcalls.com:3478
 stun.intervoip.com:3478
 stun.ippi.fr:3478
-stun.ipshka.com:3478
 stun.it1.hr:3478
 stun.jumblo.com:3478
 stun.justvoip.com:3478
