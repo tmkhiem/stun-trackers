@@ -62,6 +62,7 @@ open.free-tracker.ga:6969:
 176.123.1.180:6969
 open.stealth.si:80:
 open.tracker.ink:6969:
+116.9.207.121:6969
 opentracker.i2p.rocks:6969:
 23.137.251.45:6969
 p4p.arenabg.com:1337:
@@ -74,7 +75,6 @@ qtstm32fan.ru:6969:
 rep-art.ynh.fr:6969:
 135.125.106.92:6969
 run-2.publictracker.xyz:6969:
-107.175.221.194:6969
 run.publictracker.xyz:6969:
 193.37.214.12:6969
 sanincode.com:6969:
@@ -107,12 +107,12 @@ tracker.bitsearch.to:1337:
 178.170.48.154:1337
 tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
-61.216.149.33:6969
-211.75.29.254:6969
-61.222.178.254:6969
-220.130.15.30:6969
-217.30.10.77:6969
 185.70.187.79:6969
+217.30.10.77:6969
+220.130.15.30:6969
+61.216.149.33:6969
+61.222.178.254:6969
+211.75.29.254:6969
 tracker.jonaslsa.com:6969:
 tracker.joybomb.tw:6969:
 113.196.95.160:6969
@@ -125,8 +125,8 @@ tracker.moeking.me:6969:
 tracker.monitorit4.me:6969:
 93.104.214.40:6969
 tracker.openbittorrent.com:6969:
-45.154.253.9:6969
 45.154.253.8:6969
+45.154.253.9:6969
 45.154.253.10:6969
 tracker.openbtba.com:6969:
 43.154.2.254:6969
@@ -137,7 +137,6 @@ tracker.pomf.se:80:
 tracker.publictracker.xyz:6969:
 194.53.137.231:6969
 tracker.skyts.net:6969:
-116.9.207.121:6969
 tracker.srv00.com:6969:
 84.252.75.21:6969
 tracker.tcp.exchange:6969:
