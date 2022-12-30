@@ -69,7 +69,6 @@ p4p.arenabg.com:1337:
 psyco.fr:6969:
 37.187.95.112:6969
 public.publictracker.xyz:6969:
-5.188.6.45:6969
 public.tracker.vraphim.com:6969:
 qtstm32fan.ru:6969:
 185.106.94.80:6969
@@ -94,6 +93,7 @@ torrents.artixlinux.org:6969:
 tr.bangumi.moe:6969:
 tr.cili001.com:8070:
 tracker-udp.gbitt.info:80:
+109.201.134.183:80
 tracker.4.babico.name.tr:3131:
 158.101.161.60:3131
 tracker.altrosky.nl:6969:
@@ -106,8 +106,8 @@ tracker.bitsearch.to:1337:
 178.170.48.154:1337
 tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
-61.222.178.254:6969
 217.30.10.77:6969
+61.222.178.254:6969
 61.216.149.33:6969
 185.70.187.79:6969
 211.75.29.254:6969
@@ -141,7 +141,7 @@ tracker.tcp.exchange:6969:
 tracker.theoks.net:6969:
 209.141.59.16:6969
 tracker.torrent.eu.org:451:
-91.216.110.52:451
+91.216.110.53:451
 89.234.156.205:451
 tracker1.bt.moack.co.kr:80:
 156.234.201.18:80
