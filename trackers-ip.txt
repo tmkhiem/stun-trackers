@@ -83,7 +83,6 @@ tamas3.ynh.fr:6969:
 themaninashed.com:6969:
 37.187.119.212:6969
 theodoric.fr:6969:
-82.66.81.111:6969
 thouvenin.cloud:6969:
 5.196.89.204:6969
 torrentclub.space:6969:
@@ -106,13 +105,14 @@ tracker.bitsearch.to:1337:
 178.170.48.154:1337
 tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
-185.70.187.79:6969
-220.130.15.30:6969
-61.216.149.33:6969
 61.222.178.254:6969
-217.30.10.77:6969
+185.70.187.79:6969
 211.75.29.254:6969
+61.216.149.33:6969
+217.30.10.77:6969
+220.130.15.30:6969
 tracker.filemail.com:6969:
+52.58.128.163:6969
 tracker.jonaslsa.com:6969:
 tracker.joybomb.tw:6969:
 113.196.95.160:6969
@@ -145,6 +145,7 @@ tracker.tcp.exchange:6969:
 tracker.theoks.net:6969:
 209.141.59.16:6969
 tracker.torrent.eu.org:451:
+91.216.110.52:451
 91.216.110.53:451
 tracker1.bt.moack.co.kr:80:
 156.234.201.18:80
