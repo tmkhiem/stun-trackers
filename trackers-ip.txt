@@ -2,10 +2,10 @@
 aarsen.me:6969:
 51.15.79.209:6969
 admin.52ywp.com:6969:
+61.190.182.107:6969
 astrr.ru:6969:
 46.138.242.240:6969
 black-bird.ynh.fr:6969:
-82.65.115.10:6969
 bt.ktrackers.com:6666:
 51.159.54.68:6666
 bt1.archive.org:6969:
@@ -13,6 +13,7 @@ bt1.archive.org:6969:
 bt2.archive.org:6969:
 207.241.231.226:6969
 camera.lei001.com:6969:
+61.164.110.198:6969
 carr.codes:6969:
 104.131.98.232:6969
 chouchou.top:8080:
@@ -58,12 +59,14 @@ open.free-tracker.ga:6969:
 176.123.1.180:6969
 open.stealth.si:80:
 open.tracker.ink:6969:
+116.9.207.121:6969
 opentracker.i2p.rocks:6969:
 23.137.251.45:6969
 p4p.arenabg.com:1337:
 psyco.fr:6969:
 37.187.95.112:6969
 public.publictracker.xyz:6969:
+5.188.6.45:6969
 public.tracker.vraphim.com:6969:
 51.15.41.46:6969
 qtstm32fan.ru:6969:
@@ -104,11 +107,11 @@ tracker.bitsearch.to:1337:
 tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
 211.75.29.254:6969
-220.130.15.30:6969
+217.30.10.77:6969
 61.222.178.254:6969
 61.216.149.33:6969
+220.130.15.30:6969
 185.70.187.79:6969
-217.30.10.77:6969
 tracker.filemail.com:6969:
 tracker.jonaslsa.com:6969:
 tracker.joybomb.tw:6969:
@@ -133,7 +136,6 @@ tracker.pomf.se:80:
 tracker.publictracker.xyz:6969:
 194.53.137.231:6969
 tracker.skyts.net:6969:
-43.139.20.56:6969
 tracker.srv00.com:6969:
 84.252.75.21:6969
 tracker.swateam.org.uk:2710:
@@ -142,7 +144,6 @@ tracker.tcp.exchange:6969:
 tracker.theoks.net:6969:
 209.141.59.16:6969
 tracker.torrent.eu.org:451:
-91.216.110.52:451
 91.216.110.53:451
 tracker1.bt.moack.co.kr:80:
 156.234.201.18:80
