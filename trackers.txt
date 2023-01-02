@@ -7,6 +7,7 @@ bt1.archive.org:6969
 bt2.archive.org:6969
 camera.lei001.com:6969
 carr.codes:6969
+chouchou.top:8080
 cutscloud.duckdns.org:6969
 download.nerocloud.me:6969
 epider.me:6969
