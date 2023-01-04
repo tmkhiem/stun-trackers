@@ -17,7 +17,6 @@ bt.ktrackers.com:6666:
 bt1.archive.org:6969:
 207.241.226.111:6969
 bt2.archive.org:6969:
-207.241.231.226:6969
 camera.lei001.com:6969:
 61.164.110.198:6969
 carr.codes:6969:
@@ -48,7 +47,6 @@ freedom.1776.ga:6969:
 htz3.noho.st:6969:
 95.216.74.39:6969
 kokodayo.site:6969:
-101.43.174.230:6969
 laze.cc:6969:
 172.105.235.127:6969
 leet-tracker.moe:1337:
@@ -75,7 +73,6 @@ open.free-tracker.ga:6969:
 open.stealth.si:80:
 open.tracker.cl:1337:
 open.tracker.ink:6969:
-116.9.207.121:6969
 opentracker.i2p.rocks:6969:
 23.137.251.45:6969
 p4p.arenabg.com:1337:
@@ -129,12 +126,12 @@ tracker.bitsearch.to:1337:
 178.170.48.154:1337
 tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
-185.70.187.79:6969
 220.130.15.30:6969
-211.75.29.254:6969
 217.30.10.77:6969
-61.222.178.254:6969
+185.70.187.79:6969
 61.216.149.33:6969
+61.222.178.254:6969
+211.75.29.254:6969
 tracker.filemail.com:6969:
 tracker.jonaslsa.com:6969:
 tracker.joybomb.tw:6969:
@@ -168,7 +165,8 @@ tracker.tcp.exchange:6969:
 tracker.theoks.net:6969:
 209.141.59.16:6969
 tracker.torrent.eu.org:451:
-91.216.110.52:451
+91.216.110.53:451
+89.234.156.205:451
 tracker1.bt.moack.co.kr:80:
 156.234.201.18:80
 tracker1.myporn.club:9337:
@@ -183,7 +181,7 @@ v1046920.hosted-by-vdsina.ru:6969:
 v2.iperson.xyz:6969:
 74.120.175.165:6969
 wepzone.net:6969:
-83.6.214.201:6969
+83.6.235.43:6969
 www.peckservers.com:9000:
 97.117.145.39:9000
 zecircle.xyz:6969:
