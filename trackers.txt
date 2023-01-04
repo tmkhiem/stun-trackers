@@ -1,6 +1,5 @@
 aarsen.me:6969
 acxx.de:6969
-admin.52ywp.com:6969
 aegir.sexy:6969
 astrr.ru:6969
 bedro.cloud:6969
@@ -38,10 +37,9 @@ opentracker.i2p.rocks:6969
 private.anonseed.com:6969
 psyco.fr:6969
 public-tracker.ml:6969
-public.publictracker.xyz:6969
+public.tracker.vraphim.com:6969
 qtstm32fan.ru:6969
 rep-art.ynh.fr:6969
-run.publictracker.xyz:6969
 sanincode.com:6969
 slicie.icon256.com:8000
 stargrave.org:6969
