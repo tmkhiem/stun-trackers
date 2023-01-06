@@ -47,6 +47,7 @@ free.publictracker.xyz:6969:
 freedom.1776.ga:6969:
 81.7.10.104:6969
 htz3.noho.st:6969:
+95.216.74.39:6969
 ipv4.tracker.harry.lu:80:
 149.202.88.193:80
 kokodayo.site:6969:
@@ -129,9 +130,9 @@ tracker.bitsearch.to:1337:
 tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
 211.75.29.254:6969
-220.130.15.30:6969
 61.216.149.33:6969
 217.30.10.77:6969
+220.130.15.30:6969
 61.222.178.254:6969
 tracker.jonaslsa.com:6969:
 tracker.joybomb.tw:6969:
