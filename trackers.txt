@@ -8,7 +8,6 @@ black-bird.ynh.fr:6969
 bt.ktrackers.com:6666
 bt1.archive.org:6969
 bt2.archive.org:6969
-camera.lei001.com:6969
 carr.codes:6969
 chouchou.top:8080
 creative.7o7.cx:6969
@@ -34,12 +33,12 @@ open.4ever.tk:6969
 open.demonii.com:1337
 open.dstud.io:6969
 open.free-tracker.ga:6969
+open.tracker.ink:6969
 opentracker.i2p.rocks:6969
 private.anonseed.com:6969
 psyco.fr:6969
 public-tracker.ml:6969
 public.publictracker.xyz:6969
-public.tracker.vraphim.com:6969
 qtstm32fan.ru:6969
 rep-art.ynh.fr:6969
 run.publictracker.xyz:6969
