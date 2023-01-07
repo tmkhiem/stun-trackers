@@ -1,5 +1,6 @@
 aarsen.me:6969
 acxx.de:6969
+admin.52ywp.com:6969
 aegir.sexy:6969
 astrr.ru:6969
 bedro.cloud:6969
@@ -24,7 +25,6 @@ ipv4.tracker.harry.lu:80
 kokodayo.site:6969
 laze.cc:6969
 mail.artixlinux.org:6969
-mail.zasaonsk.ga:6969
 mirror.aptus.co.tz:6969
 moonburrow.club:6969
 movies.zsw.ca:6969
@@ -39,7 +39,6 @@ private.anonseed.com:6969
 psyco.fr:6969
 public-tracker.ml:6969
 public.publictracker.xyz:6969
-public.tracker.vraphim.com:6969
 qtstm32fan.ru:6969
 rep-art.ynh.fr:6969
 run.publictracker.xyz:6969
