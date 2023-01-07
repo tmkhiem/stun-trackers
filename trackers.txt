@@ -1,5 +1,6 @@
 aarsen.me:6969
 acxx.de:6969
+admin.52ywp.com:6969
 aegir.sexy:6969
 astrr.ru:6969
 bedro.cloud:6969
@@ -32,12 +33,11 @@ open.4ever.tk:6969
 open.demonii.com:1337
 open.dstud.io:6969
 open.free-tracker.ga:6969
-open.tracker.ink:6969
 opentracker.i2p.rocks:6969
 private.anonseed.com:6969
 psyco.fr:6969
 public-tracker.ml:6969
-public.publictracker.xyz:6969
+public.tracker.vraphim.com:6969
 qtstm32fan.ru:6969
 rep-art.ynh.fr:6969
 run.publictracker.xyz:6969
@@ -48,6 +48,7 @@ thagoat.rocks:6969
 thouvenin.cloud:6969
 torrentclub.space:6969
 torrents.artixlinux.org:6969
+tracker-udp.gbitt.info:80
 tracker.4.babico.name.tr:3131
 tracker.altrosky.nl:6969
 tracker.artixlinux.org:6969
@@ -70,6 +71,7 @@ tracker.theoks.net:6969
 tracker.torrent.eu.org:451
 tracker1.bt.moack.co.kr:80
 tracker1.myporn.club:9337
+tracker2.dler.org:80
 uploads.gamecoast.net:6969
 v1046920.hosted-by-vdsina.ru:6969
 v2.iperson.xyz:6969
