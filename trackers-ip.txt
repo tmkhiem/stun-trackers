@@ -85,7 +85,6 @@ psyco.fr:6969:
 public-tracker.ml:6969:
 45.135.134.94:6969
 public.publictracker.xyz:6969:
-5.188.6.45:6969
 public.tracker.vraphim.com:6969:
 51.15.41.46:6969
 qtstm32fan.ru:6969:
@@ -131,6 +130,7 @@ tracker.filemail.com:6969:
 52.58.128.163:6969
 tracker.jonaslsa.com:6969:
 tracker.joybomb.tw:6969:
+113.196.95.160:6969
 tracker.leech.ie:1337:
 135.181.197.114:1337
 tracker.lelux.fi:6969:
@@ -159,7 +159,6 @@ tracker.theoks.net:6969:
 209.141.59.16:6969
 tracker.torrent.eu.org:451:
 91.216.110.52:451
-89.234.156.205:451
 tracker1.bt.moack.co.kr:80:
 156.234.201.18:80
 tracker1.myporn.club:9337:
