@@ -14,7 +14,6 @@ bedro.cloud:6969:
 black-bird.ynh.fr:6969:
 82.65.115.10:6969
 bt.ktrackers.com:6666:
-51.159.54.68:6666
 bt1.archive.org:6969:
 207.241.226.111:6969
 bt2.archive.org:6969:
@@ -49,7 +48,6 @@ htz3.noho.st:6969:
 ipv4.tracker.harry.lu:80:
 149.202.88.193:80
 kokodayo.site:6969:
-101.43.174.230:6969
 laze.cc:6969:
 172.105.235.127:6969
 mail.artixlinux.org:6969:
@@ -85,6 +83,7 @@ psyco.fr:6969:
 public-tracker.ml:6969:
 45.135.134.94:6969
 public.publictracker.xyz:6969:
+5.188.6.45:6969
 public.tracker.vraphim.com:6969:
 qtstm32fan.ru:6969:
 185.106.94.80:6969
@@ -112,7 +111,6 @@ torrents.artixlinux.org:6969:
 209.126.11.233:6969
 tr.bangumi.moe:6969:
 tracker-udp.gbitt.info:80:
-109.201.134.183:80
 tracker.4.babico.name.tr:3131:
 158.101.161.60:3131
 tracker.altrosky.nl:6969:
@@ -125,9 +123,9 @@ tracker.bitsearch.to:1337:
 178.170.48.154:1337
 tracker.ddunlimited.net:6969:
 tracker.filemail.com:6969:
+52.58.128.163:6969
 tracker.jonaslsa.com:6969:
 tracker.joybomb.tw:6969:
-113.196.95.160:6969
 tracker.leech.ie:1337:
 135.181.197.114:1337
 tracker.lelux.fi:6969:
@@ -156,7 +154,7 @@ tracker.theoks.net:6969:
 209.141.59.16:6969
 tracker.torrent.eu.org:451:
 91.216.110.53:451
-89.234.156.205:451
+91.216.110.52:451
 tracker1.bt.moack.co.kr:80:
 156.234.201.18:80
 tracker1.myporn.club:9337:
@@ -169,6 +167,7 @@ uploads.gamecoast.net:6969:
 v1046920.hosted-by-vdsina.ru:6969:
 94.103.87.87:6969
 v2.iperson.xyz:6969:
+74.120.175.165:6969
 vibe.sleepyinternetfun.xyz:1738:
 149.28.47.87:1738
 wepzone.net:6969:
