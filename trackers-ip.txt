@@ -4,6 +4,7 @@ aarsen.me:6969:
 acxx.de:6969:
 37.187.111.136:6969
 admin.52ywp.com:6969:
+61.190.182.107:6969
 aegir.sexy:6969:
 51.15.26.25:6969
 astrr.ru:6969:
@@ -53,6 +54,7 @@ laze.cc:6969:
 mail.artixlinux.org:6969:
 144.91.88.22:6969
 mail.zasaonsk.ga:6969:
+138.3.249.47:6969
 mirror.aptus.co.tz:6969:
 41.79.68.156:6969
 moonburrow.club:6969:
@@ -82,6 +84,7 @@ psyco.fr:6969:
 public-tracker.ml:6969:
 45.135.134.94:6969
 public.publictracker.xyz:6969:
+5.188.6.45:6969
 public.tracker.vraphim.com:6969:
 51.15.41.46:6969
 qtstm32fan.ru:6969:
@@ -93,7 +96,6 @@ run.publictracker.xyz:6969:
 sanincode.com:6969:
 95.31.11.224:6969
 slicie.icon256.com:8000:
-198.91.25.157:8000
 stargrave.org:6969:
 91.211.5.21:6969
 tamas3.ynh.fr:6969:
@@ -152,7 +154,7 @@ tracker.tcp.exchange:6969:
 tracker.theoks.net:6969:
 209.141.59.16:6969
 tracker.torrent.eu.org:451:
-91.216.110.53:451
+91.216.110.52:451
 tracker1.bt.moack.co.kr:80:
 156.234.201.18:80
 tracker1.myporn.club:9337:
