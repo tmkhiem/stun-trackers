@@ -1,11 +1,13 @@
 aarsen.me:6969
 acxx.de:6969
+admin.52ywp.com:6969
 aegir.sexy:6969
 astrr.ru:6969
 bedro.cloud:6969
 black-bird.ynh.fr:6969
 bt.ktrackers.com:6666
 bt1.archive.org:6969
+bt2.archive.org:6969
 camera.lei001.com:6969
 carr.codes:6969
 creative.7o7.cx:6969
@@ -36,6 +38,7 @@ opentracker.i2p.rocks:6969
 private.anonseed.com:6969
 psyco.fr:6969
 public-tracker.ml:6969
+public.publictracker.xyz:6969
 public.tracker.vraphim.com:6969
 qtstm32fan.ru:6969
 rep-art.ynh.fr:6969
@@ -45,7 +48,6 @@ slicie.icon256.com:8000
 stargrave.org:6969
 tamas3.ynh.fr:6969
 thagoat.rocks:6969
-theodoric.fr:6969
 thouvenin.cloud:6969
 torrentclub.space:6969
 torrents.artixlinux.org:6969
@@ -55,6 +57,7 @@ tracker.altrosky.nl:6969
 tracker.artixlinux.org:6969
 tracker.auctor.tv:6969
 tracker.bitsearch.to:1337
+tracker.joybomb.tw:6969
 tracker.leech.ie:1337
 tracker.lelux.fi:6969
 tracker.moeking.me:6969
