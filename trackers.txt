@@ -6,10 +6,10 @@ astrr.ru:6969
 bedro.cloud:6969
 black-bird.ynh.fr:6969
 bt.ktrackers.com:6666
-bt1.archive.org:6969
 bt2.archive.org:6969
 camera.lei001.com:6969
 carr.codes:6969
+creative.7o7.cx:6969
 cutscloud.duckdns.org:6969
 dht.bt251.com:6969
 download.nerocloud.me:6969
@@ -37,7 +37,7 @@ opentracker.i2p.rocks:6969
 private.anonseed.com:6969
 psyco.fr:6969
 public-tracker.ml:6969
-public.tracker.vraphim.com:6969
+public.publictracker.xyz:6969
 qtstm32fan.ru:6969
 rep-art.ynh.fr:6969
 run.publictracker.xyz:6969
@@ -68,6 +68,7 @@ tracker.tcp.exchange:6969
 tracker.theoks.net:6969
 tracker.torrent.eu.org:451
 tracker1.bt.moack.co.kr:80
+tracker1.myporn.club:9337
 tracker2.dler.org:80
 uploads.gamecoast.net:6969
 v1046920.hosted-by-vdsina.ru:6969
