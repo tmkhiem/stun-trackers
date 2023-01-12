@@ -85,11 +85,8 @@ private.anonseed.com:6969:
 psyco.fr:6969:
 37.187.95.112:6969
 public-tracker.ml:6969:
-45.135.134.94:6969
 public.publictracker.xyz:6969:
-5.188.6.45:6969
 public.tracker.vraphim.com:6969:
-51.15.41.46:6969
 qtstm32fan.ru:6969:
 185.106.94.80:6969
 rep-art.ynh.fr:6969:
@@ -97,6 +94,7 @@ rep-art.ynh.fr:6969:
 run-2.publictracker.xyz:6969:
 107.175.221.194:6969
 run.publictracker.xyz:6969:
+193.37.214.12:6969
 sanincode.com:6969:
 95.31.11.224:6969
 slicie.icon256.com:8000:
@@ -130,13 +128,14 @@ tracker.bitsearch.to:1337:
 tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
 61.216.149.33:6969
-211.75.29.254:6969
 217.30.10.77:6969
 61.222.178.254:6969
+211.75.29.254:6969
 220.130.15.30:6969
 tracker.filemail.com:6969:
 tracker.jonaslsa.com:6969:
 tracker.joybomb.tw:6969:
+113.196.95.160:6969
 tracker.leech.ie:1337:
 135.181.197.114:1337
 tracker.lelux.fi:6969:
@@ -169,9 +168,10 @@ tracker.torrent.eu.org:451:
 tracker1.bt.moack.co.kr:80:
 156.234.201.18:80
 tracker1.myporn.club:9337:
+193.42.111.57:9337
 tracker2.dler.org:80:
-163.172.29.130:80
 211.22.29.93:80
+163.172.29.130:80
 trackerb.jonaslsa.com:6969:
 uploads.gamecoast.net:6969:
 185.102.219.163:6969
