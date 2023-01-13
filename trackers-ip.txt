@@ -28,6 +28,7 @@ carr.codes:6969:
 chouchou.top:8080:
 concen.org:6969:
 creative.7o7.cx:6969:
+95.160.50.62:6969
 cutscloud.duckdns.org:6969:
 77.68.20.254:6969
 dht.bt251.com:6969:
@@ -51,7 +52,6 @@ htz3.noho.st:6969:
 ipv4.tracker.harry.lu:80:
 149.202.88.193:80
 kokodayo.site:6969:
-101.43.174.230:6969
 laze.cc:6969:
 172.105.235.127:6969
 mail.artixlinux.org:6969:
@@ -85,9 +85,7 @@ private.anonseed.com:6969:
 psyco.fr:6969:
 37.187.95.112:6969
 public-tracker.ml:6969:
-45.135.134.94:6969
 public.publictracker.xyz:6969:
-5.188.6.45:6969
 public.tracker.vraphim.com:6969:
 51.15.41.46:6969
 qtstm32fan.ru:6969:
@@ -131,17 +129,17 @@ tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
 61.216.149.33:6969
 217.30.10.77:6969
+211.75.29.254:6969
 220.130.15.30:6969
 61.222.178.254:6969
-211.75.29.254:6969
 tracker.jonaslsa.com:6969:
 tracker.joybomb.tw:6969:
+113.196.95.160:6969
 tracker.leech.ie:1337:
 135.181.197.114:1337
 tracker.lelux.fi:6969:
 95.217.161.135:6969
 tracker.moeking.me:6969:
-107.189.11.58:6969
 tracker.monitorit4.me:6969:
 93.104.214.40:6969
 tracker.openbtba.com:6969:
@@ -154,7 +152,6 @@ tracker.publictracker.xyz:6969:
 tracker.qu.ax:6969:
 45.154.98.215:6969
 tracker.skynetcloud.site:6969:
-185.87.45.163:6969
 tracker.srv00.com:6969:
 84.252.75.21:6969
 tracker.swateam.org.uk:2710:
@@ -163,7 +160,7 @@ tracker.tcp.exchange:6969:
 tracker.theoks.net:6969:
 209.141.59.16:6969
 tracker.torrent.eu.org:451:
-91.216.110.53:451
+89.234.156.205:451
 tracker1.bt.moack.co.kr:80:
 156.234.201.18:80
 tracker1.myporn.club:9337:
