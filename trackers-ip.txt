@@ -26,6 +26,7 @@ camera.lei001.com:6969:
 carr.codes:6969:
 104.131.98.232:6969
 chouchou.top:8080:
+119.28.71.45:8080
 concen.org:6969:
 creative.7o7.cx:6969:
 95.160.50.62:6969
@@ -52,6 +53,7 @@ htz3.noho.st:6969:
 ipv4.tracker.harry.lu:80:
 149.202.88.193:80
 kokodayo.site:6969:
+101.43.174.230:6969
 laze.cc:6969:
 172.105.235.127:6969
 mail.artixlinux.org:6969:
@@ -85,9 +87,9 @@ private.anonseed.com:6969:
 psyco.fr:6969:
 37.187.95.112:6969
 public-tracker.ml:6969:
+45.135.134.94:6969
 public.publictracker.xyz:6969:
 public.tracker.vraphim.com:6969:
-51.15.41.46:6969
 qtstm32fan.ru:6969:
 185.106.94.80:6969
 rep-art.ynh.fr:6969:
@@ -114,7 +116,6 @@ torrents.artixlinux.org:6969:
 tr.bangumi.moe:6969:
 tr.cili001.com:8070:
 tracker-udp.gbitt.info:80:
-109.201.134.183:80
 tracker.4.babico.name.tr:3131:
 158.101.161.60:3131
 tracker.altrosky.nl:6969:
@@ -129,17 +130,17 @@ tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
 61.216.149.33:6969
 217.30.10.77:6969
-211.75.29.254:6969
 220.130.15.30:6969
+211.75.29.254:6969
 61.222.178.254:6969
 tracker.jonaslsa.com:6969:
 tracker.joybomb.tw:6969:
-113.196.95.160:6969
 tracker.leech.ie:1337:
 135.181.197.114:1337
 tracker.lelux.fi:6969:
 95.217.161.135:6969
 tracker.moeking.me:6969:
+107.189.11.58:6969
 tracker.monitorit4.me:6969:
 93.104.214.40:6969
 tracker.openbtba.com:6969:
@@ -161,6 +162,7 @@ tracker.theoks.net:6969:
 209.141.59.16:6969
 tracker.torrent.eu.org:451:
 89.234.156.205:451
+91.216.110.53:451
 tracker1.bt.moack.co.kr:80:
 156.234.201.18:80
 tracker1.myporn.club:9337:
