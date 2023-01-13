@@ -22,7 +22,6 @@ fe.dealclub.de:6969
 free.publictracker.xyz:6969
 freedom.1776.ga:6969
 htz3.noho.st:6969
-ipv4.tracker.harry.lu:80
 kokodayo.site:6969
 laze.cc:6969
 mail.artixlinux.org:6969
@@ -60,6 +59,7 @@ tracker.artixlinux.org:6969
 tracker.auctor.tv:6969
 tracker.bitsearch.to:1337
 tracker.dler.org:6969
+tracker.joybomb.tw:6969
 tracker.leech.ie:1337
 tracker.lelux.fi:6969
 tracker.moeking.me:6969
@@ -79,5 +79,6 @@ uploads.gamecoast.net:6969
 v1046920.hosted-by-vdsina.ru:6969
 v2.iperson.xyz:6969
 vibe.sleepyinternetfun.xyz:1738
+wepzone.net:6969
 www.peckservers.com:9000
 zecircle.xyz:6969
