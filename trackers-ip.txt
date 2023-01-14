@@ -14,7 +14,6 @@ astrr.ru:6969:
 bedro.cloud:6969:
 173.249.201.201:6969
 black-bird.ynh.fr:6969:
-82.65.115.10:6969
 bt.ktrackers.com:6666:
 51.159.54.68:6666
 bt1.archive.org:6969:
@@ -22,7 +21,6 @@ bt1.archive.org:6969:
 bt2.archive.org:6969:
 207.241.231.226:6969
 camera.lei001.com:6969:
-61.164.110.198:6969
 carr.codes:6969:
 104.131.98.232:6969
 chouchou.top:8080:
@@ -89,7 +87,6 @@ public-tracker.ml:6969:
 45.135.134.94:6969
 public.publictracker.xyz:6969:
 public.tracker.vraphim.com:6969:
-51.15.41.46:6969
 qtstm32fan.ru:6969:
 185.106.94.80:6969
 rep-art.ynh.fr:6969:
@@ -128,11 +125,11 @@ tracker.bitsearch.to:1337:
 178.170.48.154:1337
 tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
-61.222.178.254:6969
 211.75.29.254:6969
-217.30.10.77:6969
-220.130.15.30:6969
 61.216.149.33:6969
+220.130.15.30:6969
+61.222.178.254:6969
+217.30.10.77:6969
 tracker.filemail.com:6969:
 tracker.jonaslsa.com:6969:
 tracker.joybomb.tw:6969:
@@ -142,7 +139,6 @@ tracker.leech.ie:1337:
 tracker.lelux.fi:6969:
 95.217.161.135:6969
 tracker.moeking.me:6969:
-107.189.11.230:6969
 tracker.monitorit4.me:6969:
 93.104.214.40:6969
 tracker.openbtba.com:6969:
@@ -168,10 +164,9 @@ tracker.torrent.eu.org:451:
 tracker1.bt.moack.co.kr:80:
 156.234.201.18:80
 tracker1.myporn.club:9337:
-193.42.111.57:9337
 tracker2.dler.org:80:
-163.172.29.130:80
 211.22.29.93:80
+163.172.29.130:80
 trackerb.jonaslsa.com:6969:
 uploads.gamecoast.net:6969:
 185.102.219.163:6969
