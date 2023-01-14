@@ -29,6 +29,7 @@ chouchou.top:8080:
 119.28.71.45:8080
 concen.org:6969:
 creative.7o7.cx:6969:
+95.160.50.62:6969
 cutscloud.duckdns.org:6969:
 77.68.20.254:6969
 dht.bt251.com:6969:
@@ -87,7 +88,9 @@ psyco.fr:6969:
 public-tracker.ml:6969:
 45.135.134.94:6969
 public.publictracker.xyz:6969:
+5.188.6.45:6969
 public.tracker.vraphim.com:6969:
+51.15.41.46:6969
 qtstm32fan.ru:6969:
 185.106.94.80:6969
 rep-art.ynh.fr:6969:
@@ -127,13 +130,12 @@ tracker.bitsearch.to:1337:
 178.170.48.154:1337
 tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
-61.222.178.254:6969
-220.130.15.30:6969
-211.75.29.254:6969
-217.30.10.77:6969
 61.216.149.33:6969
+211.75.29.254:6969
+220.130.15.30:6969
+217.30.10.77:6969
+61.222.178.254:6969
 tracker.filemail.com:6969:
-52.58.128.163:6969
 tracker.jonaslsa.com:6969:
 tracker.joybomb.tw:6969:
 113.196.95.160:6969
@@ -164,7 +166,6 @@ tracker.theoks.net:6969:
 209.141.59.16:6969
 tracker.torrent.eu.org:451:
 89.234.156.205:451
-91.216.110.52:451
 tracker1.bt.moack.co.kr:80:
 156.234.201.18:80
 tracker1.myporn.club:9337:
