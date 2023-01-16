@@ -63,6 +63,7 @@ tracker.moeking.me:6969
 tracker.monitorit4.me:6969
 tracker.openbtba.com:6969
 tracker.opentrackr.org:1337
+tracker.publictracker.xyz:6969
 tracker.qu.ax:6969
 tracker.srv00.com:6969
 tracker.tcp.exchange:6969
@@ -73,6 +74,7 @@ tracker1.myporn.club:9337
 tracker2.dler.org:80
 uploads.gamecoast.net:6969
 v1046920.hosted-by-vdsina.ru:6969
+v2.iperson.xyz:6969
 vibe.sleepyinternetfun.xyz:1738
 www.peckservers.com:9000
 zecircle.xyz:6969
