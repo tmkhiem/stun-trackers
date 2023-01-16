@@ -6,7 +6,6 @@ aarsen.me:6969:
 acxx.de:6969:
 37.187.111.136:6969
 admin.52ywp.com:6969:
-61.190.182.107:6969
 aegir.sexy:6969:
 51.15.26.25:6969
 astrr.ru:6969:
@@ -85,8 +84,8 @@ psyco.fr:6969:
 public-tracker.ml:6969:
 45.135.134.94:6969
 public.publictracker.xyz:6969:
+5.188.6.45:6969
 public.tracker.vraphim.com:6969:
-51.15.41.46:6969
 qtstm32fan.ru:6969:
 185.106.94.80:6969
 rep-art.ynh.fr:6969:
@@ -111,7 +110,6 @@ torrents.artixlinux.org:6969:
 tr.bangumi.moe:6969:
 tr.cili001.com:8070:
 tracker-udp.gbitt.info:80:
-109.201.134.183:80
 tracker.4.babico.name.tr:3131:
 158.101.161.60:3131
 tracker.altrosky.nl:6969:
@@ -124,11 +122,11 @@ tracker.bitsearch.to:1337:
 178.170.48.154:1337
 tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
-217.30.10.77:6969
-61.216.149.33:6969
-220.130.15.30:6969
 211.75.29.254:6969
 61.222.178.254:6969
+220.130.15.30:6969
+217.30.10.77:6969
+61.216.149.33:6969
 tracker.filemail.com:6969:
 tracker.jonaslsa.com:6969:
 tracker.joybomb.tw:6969:
@@ -147,7 +145,6 @@ tracker.opentrackr.org:1337:
 93.158.213.92:1337
 tracker.pimpmyworld.to:6969:
 tracker.publictracker.xyz:6969:
-194.53.137.231:6969
 tracker.qu.ax:6969:
 45.154.98.215:6969
 tracker.skynetcloud.site:6969:
@@ -158,8 +155,7 @@ tracker.tcp.exchange:6969:
 tracker.theoks.net:6969:
 209.141.59.16:6969
 tracker.torrent.eu.org:451:
-89.234.156.205:451
-91.216.110.53:451
+91.216.110.52:451
 tracker1.bt.moack.co.kr:80:
 156.234.201.18:80
 tracker1.myporn.club:9337:
