@@ -24,6 +24,7 @@ htz3.noho.st:6969
 ipv4.tracker.harry.lu:80
 laze.cc:6969
 mail.artixlinux.org:6969
+mail.zasaonsk.ga:6969
 mirror.aptus.co.tz:6969
 moonburrow.club:6969
 movies.zsw.ca:6969
