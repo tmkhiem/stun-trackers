@@ -125,9 +125,9 @@ tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
 61.222.178.254:6969
 220.130.15.30:6969
-61.216.149.33:6969
-211.75.29.254:6969
 217.30.10.77:6969
+211.75.29.254:6969
+61.216.149.33:6969
 tracker.filemail.com:6969:
 52.58.128.163:6969
 tracker.jonaslsa.com:6969:
@@ -174,7 +174,6 @@ uploads.gamecoast.net:6969:
 v1046920.hosted-by-vdsina.ru:6969:
 94.103.87.87:6969
 v2.iperson.xyz:6969:
-74.120.175.165:6969
 vibe.sleepyinternetfun.xyz:1738:
 149.28.47.87:1738
 www.peckservers.com:9000:
