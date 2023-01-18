@@ -53,7 +53,6 @@ torrents.artixlinux.org:6969
 tracker-udp.gbitt.info:80
 tracker.4.babico.name.tr:3131
 tracker.altrosky.nl:6969
-tracker.army:6969
 tracker.artixlinux.org:6969
 tracker.auctor.tv:6969
 tracker.bitsearch.to:1337
