@@ -1,7 +1,6 @@
 6ahddutb1ucc3cp.ru:6969
 aarsen.me:6969
 acxx.de:6969
-admin.52ywp.com:6969
 aegir.sexy:6969
 astrr.ru:6969
 bedro.cloud:6969
@@ -37,9 +36,9 @@ opentracker.i2p.rocks:6969
 private.anonseed.com:6969
 psyco.fr:6969
 public-tracker.ml:6969
+public.publictracker.xyz:6969
 qtstm32fan.ru:6969
 rep-art.ynh.fr:6969
-run-2.publictracker.xyz:6969
 run.publictracker.xyz:6969
 sanincode.com:6969
 slicie.icon256.com:8000
@@ -51,7 +50,6 @@ torrents.artixlinux.org:6969
 tracker-udp.gbitt.info:80
 tracker.4.babico.name.tr:3131
 tracker.altrosky.nl:6969
-tracker.army:6969
 tracker.artixlinux.org:6969
 tracker.auctor.tv:6969
 tracker.bitsearch.to:1337
@@ -63,11 +61,13 @@ tracker.moeking.me:6969
 tracker.monitorit4.me:6969
 tracker.openbtba.com:6969
 tracker.opentrackr.org:1337
+tracker.publictracker.xyz:6969
 tracker.qu.ax:6969
 tracker.srv00.com:6969
 tracker.tcp.exchange:6969
 tracker.theoks.net:6969
 tracker.torrent.eu.org:451
+tracker1.bt.moack.co.kr:80
 tracker1.myporn.club:9337
 tracker2.dler.org:80
 uploads.gamecoast.net:6969
