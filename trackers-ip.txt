@@ -26,7 +26,6 @@ camera.lei001.com:6969:
 carr.codes:6969:
 104.131.98.232:6969
 chouchou.top:8080:
-119.28.71.45:8080
 concen.org:6969:
 cutscloud.duckdns.org:6969:
 77.68.20.254:6969
@@ -73,6 +72,7 @@ open.free-tracker.ga:6969:
 176.123.1.180:6969
 open.stealth.si:80:
 open.tracker.ink:6969:
+171.104.111.83:6969
 opentracker.i2p.rocks:6969:
 23.137.251.45:6969
 p4p.arenabg.com:1337:
@@ -125,11 +125,11 @@ tracker.bitsearch.to:1337:
 178.170.48.154:1337
 tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
-220.130.15.30:6969
-61.216.149.33:6969
-61.222.178.254:6969
 217.30.10.77:6969
 211.75.29.254:6969
+61.216.149.33:6969
+220.130.15.30:6969
+61.222.178.254:6969
 tracker.jonaslsa.com:6969:
 tracker.joybomb.tw:6969:
 113.196.95.160:6969
@@ -138,6 +138,7 @@ tracker.leech.ie:1337:
 tracker.lelux.fi:6969:
 95.217.161.135:6969
 tracker.moeking.me:6969:
+107.189.11.230:6969
 tracker.monitorit4.me:6969:
 93.104.214.40:6969
 tracker.openbtba.com:6969:

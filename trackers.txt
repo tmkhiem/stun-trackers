@@ -11,7 +11,6 @@ bt1.archive.org:6969
 bt2.archive.org:6969
 camera.lei001.com:6969
 carr.codes:6969
-chouchou.top:8080
 cutscloud.duckdns.org:6969
 dht.bt251.com:6969
 download.nerocloud.me:6969
@@ -32,6 +31,7 @@ open.4ever.tk:6969
 open.demonii.com:1337
 open.dstud.io:6969
 open.free-tracker.ga:6969
+open.tracker.ink:6969
 opentracker.i2p.rocks:6969
 private.anonseed.com:6969
 psyco.fr:6969
@@ -59,6 +59,7 @@ tracker.dler.org:6969
 tracker.joybomb.tw:6969
 tracker.leech.ie:1337
 tracker.lelux.fi:6969
+tracker.moeking.me:6969
 tracker.monitorit4.me:6969
 tracker.openbtba.com:6969
 tracker.opentrackr.org:1337
