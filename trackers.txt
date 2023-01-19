@@ -1,13 +1,13 @@
 6ahddutb1ucc3cp.ru:6969
 aarsen.me:6969
 acxx.de:6969
+admin.52ywp.com:6969
 aegir.sexy:6969
 astrr.ru:6969
 bedro.cloud:6969
 black-bird.ynh.fr:6969
 bt.ktrackers.com:6666
 bt1.archive.org:6969
-bt2.archive.org:6969
 camera.lei001.com:6969
 carr.codes:6969
 chouchou.top:8080
@@ -19,6 +19,7 @@ exodus.desync.com:6969
 free.publictracker.xyz:6969
 freedom.1776.ga:6969
 htz3.noho.st:6969
+ipv4.tracker.harry.lu:80
 laze.cc:6969
 mail.artixlinux.org:6969
 mail.zasaonsk.ga:6969
@@ -35,7 +36,6 @@ opentracker.i2p.rocks:6969
 private.anonseed.com:6969
 psyco.fr:6969
 public-tracker.ml:6969
-public.publictracker.xyz:6969
 public.tracker.vraphim.com:6969
 qtstm32fan.ru:6969
 rep-art.ynh.fr:6969
@@ -51,11 +51,11 @@ torrents.artixlinux.org:6969
 tracker-udp.gbitt.info:80
 tracker.4.babico.name.tr:3131
 tracker.altrosky.nl:6969
+tracker.army:6969
 tracker.artixlinux.org:6969
 tracker.auctor.tv:6969
 tracker.bitsearch.to:1337
 tracker.dler.org:6969
-tracker.filemail.com:6969
 tracker.joybomb.tw:6969
 tracker.leech.ie:1337
 tracker.lelux.fi:6969
