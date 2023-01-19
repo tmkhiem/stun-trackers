@@ -37,7 +37,6 @@ private.anonseed.com:6969
 psyco.fr:6969
 public-tracker.ml:6969
 public.publictracker.xyz:6969
-public.tracker.vraphim.com:6969
 qtstm32fan.ru:6969
 rep-art.ynh.fr:6969
 run-2.publictracker.xyz:6969
