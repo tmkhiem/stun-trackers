@@ -1,5 +1,4 @@
 iphone-stun.strato-iphone.de:3478
-numb.viagenie.ca:3478
 stun.12connect.com:3478
 stun.12voip.com:3478
 stun.1und1.de:3478
@@ -84,7 +83,6 @@ stun.t-online.de:3478
 stun.tel.lu:3478
 stun.telbo.com:3478
 stun.tng.de:3478
-stun.twt.it:3478
 stun.uls.co.za:3478
 stun.usfamily.net:3478
 stun.vivox.com:3478
