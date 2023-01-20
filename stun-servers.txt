@@ -32,7 +32,6 @@ stun.gmx.net:3478
 stun.halonet.pl:3478
 stun.hoiio.com:3478
 stun.hosteurope.de:3478
-stun.infra.net:3478
 stun.internetcalls.com:3478
 stun.intervoip.com:3478
 stun.ippi.fr:3478
@@ -115,4 +114,5 @@ stun.wifirst.net:3478
 stun.zadarma.com:3478
 stun1.l.google.com:19302
 stun2.l.google.com:19302
+stun3.l.google.com:19302
 stun4.l.google.com:19302
