@@ -57,6 +57,7 @@ tracker.bitsearch.to:1337
 tracker.dler.org:6969
 tracker.joybomb.tw:6969
 tracker.leech.ie:1337
+tracker.moeking.me:6969
 tracker.monitorit4.me:6969
 tracker.openbtba.com:6969
 tracker.opentrackr.org:1337
