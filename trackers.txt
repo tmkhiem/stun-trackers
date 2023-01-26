@@ -5,7 +5,6 @@ admin.52ywp.com:6969
 aegir.sexy:6969
 astrr.ru:6969
 bedro.cloud:6969
-black-bird.ynh.fr:6969
 bt.ktrackers.com:6666
 bt1.archive.org:6969
 bt2.archive.org:6969
@@ -27,7 +26,6 @@ mail.zasaonsk.ga:6969
 mirror.aptus.co.tz:6969
 moonburrow.club:6969
 movies.zsw.ca:6969
-new-line.net:6969
 open.4ever.tk:6969
 open.demonii.com:1337
 open.dstud.io:6969
@@ -38,7 +36,6 @@ psyco.fr:6969
 public-tracker.ml:6969
 public.publictracker.xyz:6969
 qtstm32fan.ru:6969
-rep-art.ynh.fr:6969
 run-2.publictracker.xyz:6969
 run.publictracker.xyz:6969
 sanincode.com:6969
@@ -57,6 +54,7 @@ tracker.bitsearch.to:1337
 tracker.dler.org:6969
 tracker.joybomb.tw:6969
 tracker.leech.ie:1337
+tracker.moeking.me:6969
 tracker.monitorit4.me:6969
 tracker.openbtba.com:6969
 tracker.opentrackr.org:1337
