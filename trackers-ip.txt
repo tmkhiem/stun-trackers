@@ -25,7 +25,6 @@ camera.lei001.com:6969:
 61.164.110.198:6969
 carr.codes:6969:
 104.131.98.232:6969
-chouchou.top:8080:
 concen.org:6969:
 cutscloud.duckdns.org:6969:
 77.68.20.254:6969
@@ -70,7 +69,6 @@ open.dstud.io:6969:
 open.free-tracker.ga:6969:
 176.123.1.180:6969
 open.stealth.si:80:
-open.tracker.ink:6969:
 opentracker.i2p.rocks:6969:
 23.137.251.45:6969
 p4p.arenabg.com:1337:
@@ -82,6 +80,8 @@ public-tracker.ml:6969:
 45.135.134.94:6969
 public.publictracker.xyz:6969:
 5.188.6.45:6969
+public.tracker.vraphim.com:6969:
+51.15.41.46:6969
 qtstm32fan.ru:6969:
 185.106.94.80:6969
 rep-art.ynh.fr:6969:
@@ -94,6 +94,8 @@ sanincode.com:6969:
 95.31.11.224:6969
 slicie.icon256.com:8000:
 198.91.25.157:8000
+stargrave.org:6969:
+91.211.5.21:6969
 tamas3.ynh.fr:6969:
 176.31.250.174:6969
 thagoat.rocks:6969:
@@ -121,9 +123,9 @@ tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
 61.216.149.33:6969
 211.75.29.254:6969
-217.30.10.77:6969
 61.222.178.254:6969
 220.130.15.30:6969
+217.30.10.77:6969
 tracker.filemail.com:6969:
 tracker.jonaslsa.com:6969:
 tracker.joybomb.tw:6969:
@@ -140,7 +142,6 @@ tracker.opentrackr.org:1337:
 93.158.213.92:1337
 tracker.pimpmyworld.to:6969:
 tracker.publictracker.xyz:6969:
-194.53.137.231:6969
 tracker.qu.ax:6969:
 45.154.98.215:6969
 tracker.skynetcloud.site:6969:
@@ -152,6 +153,7 @@ tracker.tcp.exchange:6969:
 tracker.theoks.net:6969:
 209.141.59.16:6969
 tracker.torrent.eu.org:451:
+91.216.110.53:451
 91.216.110.52:451
 tracker1.bt.moack.co.kr:80:
 156.234.201.18:80
