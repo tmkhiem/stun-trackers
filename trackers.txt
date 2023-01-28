@@ -5,9 +5,9 @@ admin.52ywp.com:6969
 aegir.sexy:6969
 astrr.ru:6969
 bedro.cloud:6969
-black-bird.ynh.fr:6969
 bt.ktrackers.com:6666
 bt1.archive.org:6969
+bt2.archive.org:6969
 camera.lei001.com:6969
 carr.codes:6969
 cutscloud.duckdns.org:6969
@@ -20,7 +20,6 @@ freedom.1776.ga:6969
 htz3.noho.st:6969
 ipv4.tracker.harry.lu:80
 laze.cc:6969
-mail.artixlinux.org:6969
 mail.zasaonsk.ga:6969
 mirror.aptus.co.tz:6969
 moonburrow.club:6969
@@ -52,7 +51,6 @@ tracker.artixlinux.org:6969
 tracker.auctor.tv:6969
 tracker.bitsearch.to:1337
 tracker.dler.org:6969
-tracker.filemail.com:6969
 tracker.joybomb.tw:6969
 tracker.leech.ie:1337
 tracker.moeking.me:6969
