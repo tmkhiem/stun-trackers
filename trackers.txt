@@ -1,7 +1,6 @@
 6ahddutb1ucc3cp.ru:6969
 aarsen.me:6969
 acxx.de:6969
-admin.52ywp.com:6969
 aegir.sexy:6969
 astrr.ru:6969
 bedro.cloud:6969
@@ -21,7 +20,6 @@ htz3.noho.st:6969
 ipv4.tracker.harry.lu:80
 laze.cc:6969
 mail.artixlinux.org:6969
-mail.zasaonsk.ga:6969
 mirror.aptus.co.tz:6969
 moonburrow.club:6969
 movies.zsw.ca:6969
@@ -71,6 +69,7 @@ tracker1.myporn.club:9337
 tracker2.dler.org:80
 uploads.gamecoast.net:6969
 v1046920.hosted-by-vdsina.ru:6969
+v2.iperson.xyz:6969
 vibe.sleepyinternetfun.xyz:1738
 wepzone.net:6969
 www.peckservers.com:9000
