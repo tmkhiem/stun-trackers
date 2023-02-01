@@ -9,7 +9,6 @@ black-bird.ynh.fr:6969
 bt.ktrackers.com:6666
 bt1.archive.org:6969
 bt2.archive.org:6969
-camera.lei001.com:6969
 carr.codes:6969
 chouchou.top:8080
 cutscloud.duckdns.org:6969
@@ -20,6 +19,7 @@ exodus.desync.com:6969
 free.publictracker.xyz:6969
 freedom.1776.ga:6969
 htz3.noho.st:6969
+ipv4.tracker.harry.lu:80
 laze.cc:6969
 mail.artixlinux.org:6969
 mail.zasaonsk.ga:6969
@@ -71,6 +71,7 @@ tracker1.myporn.club:9337
 tracker2.dler.org:80
 uploads.gamecoast.net:6969
 v1046920.hosted-by-vdsina.ru:6969
+v2.iperson.xyz:6969
 wepzone.net:6969
 www.peckservers.com:9000
 zecircle.xyz:6969
