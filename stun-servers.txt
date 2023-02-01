@@ -46,7 +46,6 @@ stun.liveo.fr:3478
 stun.lowratevoip.com:3478
 stun.lundimatin.fr:3478
 stun.mit.de:3478
-stun.miwifi.com:3478
 stun.myvoiptraffic.com:3478
 stun.mywatson.it:3478
 stun.netappel.com:3478
@@ -58,7 +57,6 @@ stun.ozekiphone.com:3478
 stun.phone.com:3478
 stun.pjsip.org:3478
 stun.poivy.com:3478
-stun.powerpbx.org:3478
 stun.powervoip.com:3478
 stun.ppdi.com:3478
 stun.qq.com:3478
