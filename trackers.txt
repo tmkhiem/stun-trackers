@@ -40,7 +40,6 @@ public.publictracker.xyz:6969
 qtstm32fan.ru:6969
 rep-art.ynh.fr:6969
 run-2.publictracker.xyz:6969
-run.publictracker.xyz:6969
 sanincode.com:6969
 slicie.icon256.com:8000
 stargrave.org:6969
