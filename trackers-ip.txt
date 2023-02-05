@@ -125,8 +125,8 @@ tracker.cubonegro.xyz:6969:
 tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
 61.216.149.33:6969
-217.30.10.77:6969
 211.75.29.254:6969
+217.30.10.77:6969
 220.130.15.30:6969
 61.222.178.254:6969
 tracker.filemail.com:6969:
@@ -140,12 +140,12 @@ tracker.moeking.me:6969:
 tracker.monitorit4.me:6969:
 93.104.214.40:6969
 tracker.openbittorrent.com:6969:
+45.154.253.4:6969
+45.154.253.9:6969
 45.154.253.8:6969
 45.154.253.10:6969
-45.154.253.7:6969
-45.154.253.9:6969
 45.154.253.6:6969
-45.154.253.4:6969
+45.154.253.7:6969
 45.154.253.5:6969
 tracker.openbtba.com:6969:
 43.154.2.254:6969
@@ -157,7 +157,6 @@ tracker.publictracker.xyz:6969:
 tracker.qu.ax:6969:
 45.154.98.215:6969
 tracker.skynetcloud.site:6969:
-185.87.45.163:6969
 tracker.srv00.com:6969:
 194.38.21.77:6969
 tracker.swateam.org.uk:2710:

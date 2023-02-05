@@ -66,7 +66,6 @@ tracker.openbtba.com:6969
 tracker.opentrackr.org:1337
 tracker.publictracker.xyz:6969
 tracker.qu.ax:6969
-tracker.skynetcloud.site:6969
 tracker.srv00.com:6969
 tracker.theoks.net:6969
 tracker.torrent.eu.org:451
