@@ -20,6 +20,7 @@ exodus.desync.com:6969
 free.publictracker.xyz:6969
 freedom.1776.ga:6969
 htz3.noho.st:6969
+ipv4.tracker.harry.lu:80
 laze.cc:6969
 mail.artixlinux.org:6969
 mail.zasaonsk.ga:6969
@@ -56,6 +57,7 @@ tracker.auctor.tv:6969
 tracker.bitsearch.to:1337
 tracker.cubonegro.xyz:6969
 tracker.dler.org:6969
+tracker.filemail.com:6969
 tracker.joybomb.tw:6969
 tracker.leech.ie:1337
 tracker.moeking.me:6969
