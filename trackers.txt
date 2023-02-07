@@ -1,7 +1,6 @@
 6ahddutb1ucc3cp.ru:6969
 aarsen.me:6969
 acxx.de:6969
-admin.52ywp.com:6969
 aegir.sexy:6969
 bedro.cloud:6969
 black-bird.ynh.fr:6969
@@ -34,11 +33,11 @@ opentracker.i2p.rocks:6969
 private.anonseed.com:6969
 psyco.fr:6969
 public.publictracker.xyz:6969
+rep-art.ynh.fr:6969
 run-2.publictracker.xyz:6969
 run.publictracker.xyz:6969
 sanincode.com:6969
 slicie.icon256.com:8000
-tamas3.ynh.fr:6969
 thagoat.rocks:6969
 thouvenin.cloud:6969
 torrents.artixlinux.org:6969
@@ -50,7 +49,6 @@ tracker.auctor.tv:6969
 tracker.bitsearch.to:1337
 tracker.cubonegro.xyz:6969
 tracker.dler.org:6969
-tracker.filemail.com:6969
 tracker.joybomb.tw:6969
 tracker.leech.ie:1337
 tracker.moeking.me:6969
@@ -59,7 +57,6 @@ tracker.openbittorrent.com:6969
 tracker.openbtba.com:6969
 tracker.opentrackr.org:1337
 tracker.publictracker.xyz:6969
-tracker.qu.ax:6969
 tracker.srv00.com:6969
 tracker.theoks.net:6969
 tracker.torrent.eu.org:451
@@ -68,6 +65,5 @@ tracker1.myporn.club:9337
 tracker2.dler.org:80
 uploads.gamecoast.net:6969
 v1046920.hosted-by-vdsina.ru:6969
-wepzone.net:6969
 www.peckservers.com:9000
 zecircle.xyz:6969
