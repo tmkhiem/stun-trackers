@@ -52,7 +52,6 @@ tracker.auctor.tv:6969
 tracker.bitsearch.to:1337
 tracker.cubonegro.xyz:6969
 tracker.dler.org:6969
-tracker.filemail.com:6969
 tracker.joybomb.tw:6969
 tracker.leech.ie:1337
 tracker.moeking.me:6969
