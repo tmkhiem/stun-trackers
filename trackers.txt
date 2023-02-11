@@ -1,7 +1,6 @@
 6ahddutb1ucc3cp.ru:6969
 aarsen.me:6969
 acxx.de:6969
-admin.52ywp.com:6969
 aegir.sexy:6969
 astrr.ru:6969
 bedro.cloud:6969
@@ -70,6 +69,5 @@ tracker2.dler.org:80
 uploads.gamecoast.net:6969
 v1046920.hosted-by-vdsina.ru:6969
 v2.iperson.xyz:6969
-wepzone.net:6969
 www.peckservers.com:9000
 zecircle.xyz:6969
