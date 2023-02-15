@@ -15,7 +15,6 @@ cutscloud.duckdns.org:6969
 dht.bt251.com:6969
 download.nerocloud.me:6969
 epider.me:6969
-exodus.desync.com:6969
 free.publictracker.xyz:6969
 freedom.1776.ga:6969
 htz3.noho.st:6969
