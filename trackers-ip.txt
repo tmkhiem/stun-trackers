@@ -79,7 +79,6 @@ psyco.fr:6969:
 public.publictracker.xyz:6969:
 45.156.24.123:6969
 public.tracker.vraphim.com:6969:
-51.15.41.46:6969
 qtstm32fan.ru:6969:
 185.106.94.80:6969
 rep-art.ynh.fr:6969:
@@ -116,10 +115,10 @@ tracker.cubonegro.xyz:6969:
 tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
 61.222.178.254:6969
-61.216.149.33:6969
 211.75.29.254:6969
-217.30.10.77:6969
 220.130.15.30:6969
+61.216.149.33:6969
+217.30.10.77:6969
 tracker.jonaslsa.com:6969:
 tracker.joybomb.tw:6969:
 113.196.95.160:6969
@@ -130,13 +129,13 @@ tracker.moeking.me:6969:
 tracker.monitorit4.me:6969:
 93.104.214.40:6969
 tracker.openbittorrent.com:6969:
-45.154.253.10:6969
-45.154.253.9:6969
-45.154.253.8:6969
 45.154.253.6:6969
+45.154.253.9:6969
 45.154.253.7:6969
-45.154.253.5:6969
 45.154.253.4:6969
+45.154.253.8:6969
+45.154.253.10:6969
+45.154.253.5:6969
 tracker.openbtba.com:6969:
 43.154.2.254:6969
 tracker.opentrackr.org:1337:
@@ -152,7 +151,7 @@ tracker.srv00.com:6969:
 tracker.theoks.net:6969:
 209.141.59.16:6969
 tracker.torrent.eu.org:451:
-91.216.110.52:451
+89.234.156.205:451
 tracker1.bt.moack.co.kr:80:
 156.234.201.18:80
 tracker1.myporn.club:9337:
