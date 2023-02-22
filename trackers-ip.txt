@@ -22,7 +22,6 @@ bt1.archive.org:6969:
 bt2.archive.org:6969:
 207.241.231.226:6969
 camera.lei001.com:6969:
-61.164.110.198:6969
 carr.codes:6969:
 104.131.98.232:6969
 concen.org:6969:
@@ -113,9 +112,9 @@ tracker.auctor.tv:6969:
 tracker.bitsearch.to:1337:
 178.170.48.154:1337
 tracker.cubonegro.xyz:6969:
-45.7.231.191:6969
 tracker.ddunlimited.net:6969:
 tracker.filemail.com:6969:
+52.58.128.163:6969
 tracker.jonaslsa.com:6969:
 tracker.joybomb.tw:6969:
 113.196.95.160:6969
@@ -128,13 +127,13 @@ tracker.moeking.me:6969:
 tracker.monitorit4.me:6969:
 93.104.214.40:6969
 tracker.openbittorrent.com:6969:
-45.154.253.5:6969
 45.154.253.6:6969
 45.154.253.4:6969
-45.154.253.9:6969
-45.154.253.7:6969
-45.154.253.8:6969
 45.154.253.10:6969
+45.154.253.8:6969
+45.154.253.7:6969
+45.154.253.9:6969
+45.154.253.5:6969
 tracker.openbtba.com:6969:
 43.154.2.254:6969
 tracker.opentrackr.org:1337:
@@ -167,7 +166,6 @@ uploads.gamecoast.net:6969:
 v1046920.hosted-by-vdsina.ru:6969:
 94.103.87.87:6969
 v2.iperson.xyz:6969:
-74.120.175.165:6969
 www.peckservers.com:9000:
 97.117.101.163:9000
 zecircle.xyz:6969:
