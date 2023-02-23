@@ -22,6 +22,7 @@ bt1.archive.org:6969:
 bt2.archive.org:6969:
 207.241.231.226:6969
 camera.lei001.com:6969:
+61.164.110.198:6969
 carr.codes:6969:
 104.131.98.232:6969
 chouchou.top:8080:
@@ -59,6 +60,7 @@ moonburrow.club:6969:
 movies.zsw.ca:6969:
 198.100.149.66:6969
 new-line.net:6969:
+94.243.222.100:6969
 open.4ever.tk:6969:
 91.208.206.133:6969
 open.demonii.com:1337:
@@ -67,6 +69,7 @@ open.dstud.io:6969:
 179.43.155.30:6969
 open.stealth.si:80:
 open.tracker.ink:6969:
+171.104.226.87:6969
 opentracker.i2p.rocks:6969:
 23.137.251.45:6969
 p4p.arenabg.com:1337:
@@ -116,11 +119,11 @@ tracker.cubonegro.xyz:6969:
 45.7.231.191:6969
 tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
-220.130.15.30:6969
-211.75.29.254:6969
-61.222.178.254:6969
 61.216.149.33:6969
 217.30.10.77:6969
+61.222.178.254:6969
+220.130.15.30:6969
+211.75.29.254:6969
 tracker.filemail.com:6969:
 tracker.jonaslsa.com:6969:
 tracker.joybomb.tw:6969:
@@ -136,11 +139,11 @@ tracker.monitorit4.me:6969:
 tracker.openbittorrent.com:6969:
 45.154.253.8:6969
 45.154.253.5:6969
-45.154.253.4:6969
-45.154.253.9:6969
-45.154.253.10:6969
 45.154.253.6:6969
+45.154.253.4:6969
 45.154.253.7:6969
+45.154.253.10:6969
+45.154.253.9:6969
 tracker.openbtba.com:6969:
 43.154.2.254:6969
 tracker.opentrackr.org:1337:
@@ -166,8 +169,8 @@ tracker1.bt.moack.co.kr:80:
 tracker1.myporn.club:9337:
 193.42.111.57:9337
 tracker2.dler.org:80:
-163.172.29.130:80
 211.22.29.93:80
+163.172.29.130:80
 trackerb.jonaslsa.com:6969:
 uploads.gamecoast.net:6969:
 185.102.219.163:6969
