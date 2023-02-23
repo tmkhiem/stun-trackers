@@ -18,6 +18,7 @@ dht.bt251.com:6969
 download.nerocloud.me:6969
 epider.me:6969
 exodus.desync.com:6969
+free.publictracker.xyz:6969
 freedom.1776.ga:6969
 htz3.noho.st:6969
 ipv4.tracker.harry.lu:80
@@ -35,7 +36,6 @@ opentracker.i2p.rocks:6969
 private.anonseed.com:6969
 psyco.fr:6969
 public.publictracker.xyz:6969
-public.tracker.vraphim.com:6969
 qtstm32fan.ru:6969
 rep-art.ynh.fr:6969
 run-2.publictracker.xyz:6969
