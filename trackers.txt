@@ -8,6 +8,7 @@ black-bird.ynh.fr:6969
 bt.ktrackers.com:6666
 bt1.archive.org:6969
 bt2.archive.org:6969
+camera.lei001.com:6969
 carr.codes:6969
 chouchou.top:8080
 creative.7o7.cx:6969
@@ -16,7 +17,6 @@ dht.bt251.com:6969
 download.nerocloud.me:6969
 epider.me:6969
 exodus.desync.com:6969
-freedom.1776.ga:6969
 htz3.noho.st:6969
 ipv4.tracker.harry.lu:80
 laze.cc:6969
@@ -32,6 +32,8 @@ open.tracker.ink:6969
 opentracker.i2p.rocks:6969
 private.anonseed.com:6969
 psyco.fr:6969
+public.publictracker.xyz:6969
+public.tracker.vraphim.com:6969
 qtstm32fan.ru:6969
 rep-art.ynh.fr:6969
 run-2.publictracker.xyz:6969
@@ -42,7 +44,6 @@ tamas3.ynh.fr:6969
 thagoat.rocks:6969
 thouvenin.cloud:6969
 torrents.artixlinux.org:6969
-tracker-udp.gbitt.info:80
 tracker.4.babico.name.tr:3131
 tracker.altrosky.nl:6969
 tracker.artixlinux.org:6969
@@ -53,7 +54,6 @@ tracker.dler.org:6969
 tracker.joybomb.tw:6969
 tracker.leech.ie:1337
 tracker.lelux.fi:6969
-tracker.moeking.me:6969
 tracker.monitorit4.me:6969
 tracker.openbittorrent.com:6969
 tracker.openbtba.com:6969
@@ -63,7 +63,6 @@ tracker.qu.ax:6969
 tracker.srv00.com:6969
 tracker.theoks.net:6969
 tracker.tiny-vps.com:6969
-tracker.torrent.eu.org:451
 tracker1.bt.moack.co.kr:80
 tracker1.myporn.club:9337
 tracker2.dler.org:80
