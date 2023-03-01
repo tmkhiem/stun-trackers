@@ -35,6 +35,7 @@ opentracker.i2p.rocks:6969
 private.anonseed.com:6969
 psyco.fr:6969
 public.publictracker.xyz:6969
+public.tracker.vraphim.com:6969
 qtstm32fan.ru:6969
 rep-art.ynh.fr:6969
 run-2.publictracker.xyz:6969
@@ -72,4 +73,5 @@ tracker1.myporn.club:9337
 uploads.gamecoast.net:6969
 v1046920.hosted-by-vdsina.ru:6969
 wepzone.net:6969
+www.peckservers.com:9000
 zecircle.xyz:6969
