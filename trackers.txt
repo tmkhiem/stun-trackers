@@ -57,6 +57,7 @@ tracker.filemail.com:6969
 tracker.joybomb.tw:6969
 tracker.leech.ie:1337
 tracker.lelux.fi:6969
+tracker.moeking.me:6969
 tracker.monitorit4.me:6969
 tracker.openbittorrent.com:6969
 tracker.openbtba.com:6969
