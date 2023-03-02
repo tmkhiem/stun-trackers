@@ -5,11 +5,9 @@ admin.52ywp.com:6969
 aegir.sexy:6969
 astrr.ru:6969
 bedro.cloud:6969
-black-bird.ynh.fr:6969
 bt.ktrackers.com:6666
 bt1.archive.org:6969
 bt2.archive.org:6969
-camera.lei001.com:6969
 carr.codes:6969
 chouchou.top:8080
 creative.7o7.cx:6969
@@ -30,12 +28,10 @@ new-line.net:6969
 open.4ever.tk:6969
 open.demonii.com:1337
 open.dstud.io:6969
-open.tracker.ink:6969
 opentracker.i2p.rocks:6969
 private.anonseed.com:6969
 psyco.fr:6969
 public.publictracker.xyz:6969
-public.tracker.vraphim.com:6969
 rep-art.ynh.fr:6969
 run-2.publictracker.xyz:6969
 run.publictracker.xyz:6969
@@ -58,7 +54,6 @@ tracker.filemail.com:6969
 tracker.joybomb.tw:6969
 tracker.leech.ie:1337
 tracker.lelux.fi:6969
-tracker.moeking.me:6969
 tracker.monitorit4.me:6969
 tracker.openbittorrent.com:6969
 tracker.openbtba.com:6969
@@ -72,7 +67,6 @@ tracker1.bt.moack.co.kr:80
 tracker1.myporn.club:9337
 uploads.gamecoast.net:6969
 v1046920.hosted-by-vdsina.ru:6969
-v2.iperson.xyz:6969
 wepzone.net:6969
 www.peckservers.com:9000
 zecircle.xyz:6969
