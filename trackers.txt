@@ -5,7 +5,6 @@ admin.52ywp.com:6969
 aegir.sexy:6969
 astrr.ru:6969
 bedro.cloud:6969
-black-bird.ynh.fr:6969
 bt.ktrackers.com:6666
 bt1.archive.org:6969
 bt2.archive.org:6969
@@ -18,7 +17,6 @@ dht.bt251.com:6969
 download.nerocloud.me:6969
 epider.me:6969
 exodus.desync.com:6969
-free.publictracker.xyz:6969
 freedom.1776.ga:6969
 htz3.noho.st:6969
 ipv4.tracker.harry.lu:80
@@ -39,7 +37,6 @@ public.publictracker.xyz:6969
 rep-art.ynh.fr:6969
 run-2.publictracker.xyz:6969
 run.publictracker.xyz:6969
-sanincode.com:6969
 slicie.icon256.com:8000
 stargrave.org:6969
 tamas3.ynh.fr:6969
@@ -58,7 +55,6 @@ tracker.filemail.com:6969
 tracker.joybomb.tw:6969
 tracker.leech.ie:1337
 tracker.lelux.fi:6969
-tracker.moeking.me:6969
 tracker.monitorit4.me:6969
 tracker.openbittorrent.com:6969
 tracker.openbtba.com:6969
