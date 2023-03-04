@@ -1,6 +1,7 @@
 6ahddutb1ucc3cp.ru:6969
 aarsen.me:6969
 acxx.de:6969
+admin.52ywp.com:6969
 aegir.sexy:6969
 astrr.ru:6969
 bedro.cloud:6969
@@ -17,7 +18,6 @@ download.nerocloud.me:6969
 epider.me:6969
 exodus.desync.com:6969
 htz3.noho.st:6969
-ipv4.tracker.harry.lu:80
 laze.cc:6969
 mail.artixlinux.org:6969
 mirror.aptus.co.tz:6969
