@@ -14,6 +14,7 @@ astrr.ru:6969:
 bedro.cloud:6969:
 173.249.201.201:6969
 black-bird.ynh.fr:6969:
+82.65.115.10:6969
 bt.ktrackers.com:6666:
 51.159.54.68:6666
 bt1.archive.org:6969:
@@ -54,7 +55,6 @@ moonburrow.club:6969:
 movies.zsw.ca:6969:
 198.100.149.66:6969
 new-line.net:6969:
-94.243.222.100:6969
 open.4ever.tk:6969:
 91.208.206.133:6969
 open.demonii.com:1337:
@@ -64,6 +64,7 @@ open.dstud.io:6969:
 open.stealth.si:80:
 open.tracker.cl:1337:
 open.tracker.ink:6969:
+171.104.111.89:6969
 opentracker.i2p.rocks:6969:
 23.137.251.45:6969
 p4p.arenabg.com:1337:
@@ -74,7 +75,6 @@ psyco.fr:6969:
 public.publictracker.xyz:6969:
 45.156.24.123:6969
 public.tracker.vraphim.com:6969:
-51.15.41.46:6969
 rep-art.ynh.fr:6969:
 135.125.106.92:6969
 run-2.publictracker.xyz:6969:
@@ -109,13 +109,14 @@ tracker.auctor.tv:6969:
 tracker.bitsearch.to:1337:
 178.170.48.154:1337
 tracker.cubonegro.xyz:6969:
+45.7.231.191:6969
 tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
-217.30.10.77:6969
 61.222.178.254:6969
+211.75.29.254:6969
 61.216.149.33:6969
 220.130.15.30:6969
-211.75.29.254:6969
+217.30.10.77:6969
 tracker.filemail.com:6969:
 52.58.128.163:6969
 tracker.jonaslsa.com:6969:
@@ -131,12 +132,12 @@ tracker.monitorit4.me:6969:
 93.104.214.40:6969
 tracker.openbittorrent.com:6969:
 45.154.253.8:6969
-45.154.253.9:6969
 45.154.253.7:6969
 45.154.253.10:6969
-45.154.253.4:6969
 45.154.253.5:6969
+45.154.253.9:6969
 45.154.253.6:6969
+45.154.253.4:6969
 tracker.openbtba.com:6969:
 43.154.2.254:6969
 tracker.opentrackr.org:1337:
