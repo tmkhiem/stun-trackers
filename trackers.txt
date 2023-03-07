@@ -9,7 +9,6 @@ black-bird.ynh.fr:6969
 bt.ktrackers.com:6666
 bt1.archive.org:6969
 bt2.archive.org:6969
-camera.lei001.com:6969
 carr.codes:6969
 chouchou.top:8080
 creative.7o7.cx:6969
@@ -18,6 +17,7 @@ download.nerocloud.me:6969
 epider.me:6969
 exodus.desync.com:6969
 fe.dealclub.de:6969
+free.publictracker.xyz:6969
 htz3.noho.st:6969
 ipv4.tracker.harry.lu:80
 laze.cc:6969
@@ -49,6 +49,7 @@ tracker.altrosky.nl:6969
 tracker.artixlinux.org:6969
 tracker.auctor.tv:6969
 tracker.bitsearch.to:1337
+tracker.cubonegro.xyz:6969
 tracker.dler.org:6969
 tracker.filemail.com:6969
 tracker.joybomb.tw:6969
