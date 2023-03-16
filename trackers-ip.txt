@@ -96,7 +96,6 @@ torrents.artixlinux.org:6969:
 209.126.11.233:6969
 tr.bangumi.moe:6969:
 tracker.4.babico.name.tr:3131:
-158.101.161.60:3131
 tracker.altrosky.nl:6969:
 185.134.22.3:6969
 tracker.arcbox.cc:6969:
@@ -116,11 +115,11 @@ tracker.cubonegro.xyz:6969:
 45.7.231.191:6969
 tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
-61.216.149.33:6969
-61.222.178.254:6969
 211.75.29.254:6969
+61.222.178.254:6969
 220.130.15.30:6969
 217.30.10.77:6969
+61.216.149.33:6969
 tracker.filemail.com:6969:
 52.58.128.163:6969
 tracker.jonaslsa.com:6969:
@@ -135,13 +134,13 @@ tracker.moeking.me:6969:
 tracker.monitorit4.me:6969:
 93.104.214.40:6969
 tracker.openbittorrent.com:6969:
-45.154.253.6:6969
+45.154.253.7:6969
 45.154.253.8:6969
+45.154.253.9:6969
 45.154.253.4:6969
 45.154.253.5:6969
-45.154.253.7:6969
 45.154.253.10:6969
-45.154.253.9:6969
+45.154.253.6:6969
 tracker.opentrackr.org:1337:
 93.158.213.92:1337
 tracker.pimpmyworld.to:6969:
@@ -171,6 +170,7 @@ uploads.gamecoast.net:6969:
 v1046920.hosted-by-vdsina.ru:6969:
 94.103.87.87:6969
 v2.iperson.xyz:6969:
+74.120.175.165:6969
 wepzone.net:6969:
 83.31.201.236:6969
 www.peckservers.com:9000:
