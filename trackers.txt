@@ -9,6 +9,7 @@ boysbitte.be:6969
 bt.ktrackers.com:6666
 bt1.archive.org:6969
 bt2.archive.org:6969
+camera.lei001.com:6969
 carr.codes:6969
 chouchou.top:8080
 download.nerocloud.me:6969
@@ -16,7 +17,6 @@ epider.me:6969
 exodus.desync.com:6969
 fe.dealclub.de:6969
 htz3.noho.st:6969
-ipv4.tracker.harry.lu:80
 laze.cc:6969
 mail.artixlinux.org:6969
 mirror.aptus.co.tz:6969
@@ -59,6 +59,7 @@ tracker.opentrackr.org:1337
 tracker.srv00.com:6969
 tracker.theoks.net:6969
 tracker.tiny-vps.com:6969
+tracker.torrent.eu.org:451
 tracker1.bt.moack.co.kr:80
 tracker1.myporn.club:9337
 tracker2.dler.org:80
