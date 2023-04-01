@@ -24,7 +24,6 @@ bt1.archive.org:6969:
 bt2.archive.org:6969:
 207.241.231.226:6969
 camera.lei001.com:6969:
-61.164.110.198:6969
 carr.codes:6969:
 104.131.98.232:6969
 chouchou.top:8080:
@@ -35,7 +34,6 @@ download.nerocloud.me:6969:
 epider.me:6969:
 51.68.174.87:6969
 exodus.desync.com:6969:
-208.83.20.20:6969
 explodie.org:6969:
 fh2.cmp-gaming.com:6969:
 freedom.1776.ga:6969:
@@ -71,7 +69,6 @@ psyco.fr:6969:
 rep-art.ynh.fr:6969:
 135.125.106.92:6969
 run-2.publictracker.xyz:6969:
-107.175.221.194:6969
 run.publictracker.xyz:6969:
 193.37.214.12:6969
 ryjer.com:6969:
@@ -83,6 +80,7 @@ slicie.icon256.com:8000:
 stargrave.org:6969:
 91.211.5.21:6969
 tamas3.ynh.fr:6969:
+176.31.250.174:6969
 thagoat.rocks:6969:
 5.196.67.51:6969
 thouvenin.cloud:6969:
@@ -91,7 +89,6 @@ torrents.artixlinux.org:6969:
 209.126.11.233:6969
 tr.bangumi.moe:6969:
 tracker-udp.gbitt.info:80:
-109.201.134.183:80
 tracker.4.babico.name.tr:3131:
 158.101.161.60:3131
 tracker.altrosky.nl:6969:
@@ -112,9 +109,9 @@ tracker.ccp.ovh:6969:
 tracker.cubonegro.lol:6969:
 38.7.201.142:6969
 tracker.dler.org:6969:
-211.75.29.254:6969
-217.30.10.77:6969
 61.222.178.254:6969
+217.30.10.77:6969
+211.75.29.254:6969
 61.216.149.33:6969
 220.130.15.30:6969
 tracker.filemail.com:6969:
@@ -129,13 +126,13 @@ tracker.moeking.me:6969:
 tracker.monitorit4.me:6969:
 93.104.214.40:6969
 tracker.openbittorrent.com:6969:
-45.154.253.10:6969
-45.154.253.7:6969
-45.154.253.9:6969
 45.154.253.6:6969
-45.154.253.4:6969
+45.154.253.9:6969
+45.154.253.7:6969
 45.154.253.8:6969
+45.154.253.10:6969
 45.154.253.5:6969
+45.154.253.4:6969
 tracker.opentrackr.org:1337:
 93.158.213.92:1337
 tracker.pimpmyworld.to:6969:
@@ -149,9 +146,9 @@ tracker.theoks.net:6969:
 tracker.tiny-vps.com:6969:
 176.56.2.99:6969
 tracker.torrent.eu.org:451:
+89.234.156.205:451
 91.216.110.53:451
 tracker.zerobytes.xyz:1337:
-104.244.77.14:1337
 tracker1.bt.moack.co.kr:80:
 156.234.201.18:80
 tracker1.myporn.club:9337:
