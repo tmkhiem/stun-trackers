@@ -24,7 +24,6 @@ bt1.archive.org:6969:
 bt2.archive.org:6969:
 207.241.231.226:6969
 camera.lei001.com:6969:
-61.164.110.198:6969
 carr.codes:6969:
 104.131.98.232:6969
 chouchou.top:8080:
@@ -56,6 +55,7 @@ open.dstud.io:6969:
 179.43.155.30:6969
 open.stealth.si:80:
 open.tracker.ink:6969:
+171.104.111.14:6969
 opentracker.i2p.rocks:6969:
 23.137.251.45:6969
 opentracker.io:6969:
@@ -65,7 +65,6 @@ private.anonseed.com:6969:
 192.95.46.115:6969
 psyco.fr:6969:
 public.tracker.vraphim.com:6969:
-51.15.41.46:6969
 rep-art.ynh.fr:6969:
 135.125.106.92:6969
 run-2.publictracker.xyz:6969:
@@ -109,8 +108,8 @@ tracker.cubonegro.lol:6969:
 45.7.231.191:6969
 tracker.dler.org:6969:
 61.216.149.33:6969
-217.30.10.77:6969
 220.130.15.30:6969
+217.30.10.77:6969
 211.75.29.254:6969
 61.222.178.254:6969
 tracker.filemail.com:6969:
@@ -125,11 +124,11 @@ tracker.moeking.me:6969:
 tracker.monitorit4.me:6969:
 93.104.214.40:6969
 tracker.openbittorrent.com:6969:
-45.154.253.7:6969
-45.154.253.5:6969
-45.154.253.4:6969
 45.154.253.8:6969
+45.154.253.5:6969
 45.154.253.10:6969
+45.154.253.4:6969
+45.154.253.7:6969
 45.154.253.6:6969
 45.154.253.9:6969
 tracker.opentrackr.org:1337:
@@ -159,6 +158,7 @@ uploads.gamecoast.net:6969:
 v1046920.hosted-by-vdsina.ru:6969:
 94.103.87.87:6969
 v2.iperson.xyz:6969:
+74.120.175.165:6969
 wepzone.net:6969:
 83.31.199.157:6969
 www.peckservers.com:9000:
