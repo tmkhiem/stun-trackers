@@ -9,7 +9,6 @@ black-bird.ynh.fr:6969
 boysbitte.be:6969
 bt.ktrackers.com:6666
 bt1.archive.org:6969
-bt2.archive.org:6969
 camera.lei001.com:6969
 carr.codes:6969
 chouchou.top:8080
@@ -29,7 +28,9 @@ open.tracker.ink:6969
 opentracker.i2p.rocks:6969
 opentracker.io:6969
 private.anonseed.com:6969
+public.publictracker.xyz:6969
 rep-art.ynh.fr:6969
+run-2.publictracker.xyz:6969
 run.publictracker.xyz:6969
 ryjer.com:6969
 sanincode.com:6969
