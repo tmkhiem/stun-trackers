@@ -14,6 +14,7 @@ astrr.ru:6969:
 bedro.cloud:6969:
 173.249.201.201:6969
 black-bird.ynh.fr:6969:
+82.65.115.10:6969
 boysbitte.be:6969:
 84.197.224.61:6969
 bt.ktrackers.com:6666:
@@ -56,6 +57,7 @@ open.dstud.io:6969:
 open.stealth.si:80:
 open.tracker.cl:1337:
 open.tracker.ink:6969:
+171.104.111.14:6969
 opentracker.i2p.rocks:6969:
 23.137.251.45:6969
 opentracker.io:6969:
@@ -65,6 +67,7 @@ private.anonseed.com:6969:
 192.95.46.115:6969
 psyco.fr:6969:
 public.publictracker.xyz:6969:
+45.156.24.123:6969
 public.tracker.vraphim.com:6969:
 rep-art.ynh.fr:6969:
 135.125.106.92:6969
@@ -109,10 +112,10 @@ tracker.cubonegro.lol:6969:
 45.7.231.191:6969
 tracker.dler.org:6969:
 61.216.149.33:6969
-220.130.15.30:6969
-211.75.29.254:6969
-61.222.178.254:6969
 217.30.10.77:6969
+61.222.178.254:6969
+211.75.29.254:6969
+220.130.15.30:6969
 tracker.filemail.com:6969:
 52.58.128.163:6969
 tracker.jonaslsa.com:6969:
@@ -127,13 +130,13 @@ tracker.moeking.me:6969:
 tracker.monitorit4.me:6969:
 93.104.214.40:6969
 tracker.openbittorrent.com:6969:
-45.154.253.4:6969
-45.154.253.9:6969
-45.154.253.7:6969
-45.154.253.5:6969
-45.154.253.6:6969
-45.154.253.8:6969
 45.154.253.10:6969
+45.154.253.6:6969
+45.154.253.4:6969
+45.154.253.8:6969
+45.154.253.7:6969
+45.154.253.9:6969
+45.154.253.5:6969
 tracker.opentrackr.org:1337:
 93.158.213.92:1337
 tracker.pimpmyworld.to:6969:
@@ -147,7 +150,6 @@ tracker.tiny-vps.com:6969:
 176.56.2.99:6969
 tracker.torrent.eu.org:451:
 89.234.156.205:451
-91.216.110.53:451
 tracker.zerobytes.xyz:1337:
 tracker1.bt.moack.co.kr:80:
 156.234.201.18:80
@@ -161,7 +163,6 @@ uploads.gamecoast.net:6969:
 v1046920.hosted-by-vdsina.ru:6969:
 94.103.87.87:6969
 v2.iperson.xyz:6969:
-74.120.175.165:6969
 wepzone.net:6969:
 83.31.199.157:6969
 www.peckservers.com:9000:
