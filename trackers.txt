@@ -9,7 +9,6 @@ black-bird.ynh.fr:6969
 boysbitte.be:6969
 bt.ktrackers.com:6666
 bt1.archive.org:6969
-bt2.archive.org:6969
 camera.lei001.com:6969
 carr.codes:6969
 chouchou.top:8080
@@ -22,7 +21,6 @@ mail.artixlinux.org:6969
 moonburrow.club:6969
 movies.zsw.ca:6969
 new-line.net:6969
-open.4ever.tk:6969
 open.demonii.com:1337
 open.dstud.io:6969
 opentracker.i2p.rocks:6969
@@ -64,6 +62,5 @@ tracker1.myporn.club:9337
 tracker2.dler.org:80
 uploads.gamecoast.net:6969
 v1046920.hosted-by-vdsina.ru:6969
-v2.iperson.xyz:6969
 wepzone.net:6969
 zecircle.xyz:6969
