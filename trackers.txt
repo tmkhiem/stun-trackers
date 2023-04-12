@@ -1,7 +1,6 @@
 6ahddutb1ucc3cp.ru:6969
 aarsen.me:6969
 acxx.de:6969
-admin.52ywp.com:6969
 aegir.sexy:6969
 astrr.ru:6969
 bedro.cloud:6969
@@ -31,7 +30,6 @@ public.tracker.vraphim.com:6969
 rep-art.ynh.fr:6969
 run-2.publictracker.xyz:6969
 run.publictracker.xyz:6969
-ryjer.com:6969
 sanincode.com:6969
 stargrave.org:6969
 tamas3.ynh.fr:6969
@@ -66,6 +64,5 @@ tracker1.myporn.club:9337
 tracker2.dler.org:80
 uploads.gamecoast.net:6969
 v1046920.hosted-by-vdsina.ru:6969
-v2.iperson.xyz:6969
 wepzone.net:6969
 zecircle.xyz:6969
