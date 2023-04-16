@@ -25,6 +25,7 @@ open.dstud.io:6969
 opentracker.i2p.rocks:6969
 opentracker.io:6969
 private.anonseed.com:6969
+public.tracker.vraphim.com:6969
 rep-art.ynh.fr:6969
 run.publictracker.xyz:6969
 ryjer.com:6969
@@ -54,7 +55,6 @@ tracker.opentrackr.org:1337
 tracker.qu.ax:6969
 tracker.srv00.com:6969
 tracker.theoks.net:6969
-tracker.torrent.eu.org:451
 tracker1.bt.moack.co.kr:80
 tracker1.myporn.club:9337
 tracker2.dler.org:80
