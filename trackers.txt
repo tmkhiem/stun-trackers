@@ -36,6 +36,7 @@ tamas3.ynh.fr:6969
 thagoat.rocks:6969
 thouvenin.cloud:6969
 torrents.artixlinux.org:6969
+tracker-udp.gbitt.info:80
 tracker.4.babico.name.tr:3131
 tracker.altrosky.nl:6969
 tracker.arcbox.cc:6969
@@ -52,9 +53,11 @@ tracker.moeking.me:6969
 tracker.monitorit4.me:6969
 tracker.openbittorrent.com:6969
 tracker.opentrackr.org:1337
+tracker.qu.ax:6969
 tracker.srv00.com:6969
 tracker.theoks.net:6969
 tracker.tiny-vps.com:6969
+tracker.torrent.eu.org:451
 tracker1.bt.moack.co.kr:80
 tracker1.myporn.club:9337
 tracker2.dler.org:80
