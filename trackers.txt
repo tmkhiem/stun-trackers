@@ -46,13 +46,13 @@ tracker.auctor.tv:6969
 tracker.bitsearch.to:1337
 tracker.cubonegro.lol:6969
 tracker.dler.org:6969
-tracker.filemail.com:6969
 tracker.joybomb.tw:6969
 tracker.leech.ie:1337
 tracker.moeking.me:6969
 tracker.monitorit4.me:6969
 tracker.openbittorrent.com:6969
 tracker.opentrackr.org:1337
+tracker.qu.ax:6969
 tracker.srv00.com:6969
 tracker.theoks.net:6969
 tracker.torrent.eu.org:451
