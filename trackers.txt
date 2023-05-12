@@ -20,18 +20,18 @@ moonburrow.club:6969
 movies.zsw.ca:6969
 open.demonii.com:1337
 open.dstud.io:6969
-open.tracker.cl:1337
 opentracker.i2p.rocks:6969
 opentracker.io:6969
 private.anonseed.com:6969
+public.tracker.vraphim.com:6969
 rep-art.ynh.fr:6969
 run.publictracker.xyz:6969
-ryjer.com:6969
 sanincode.com:6969
 t.zerg.pw:6969
 tamas3.ynh.fr:6969
 thagoat.rocks:6969
 thouvenin.cloud:6969
+torrents.artixlinux.org:6969
 tracker-udp.gbitt.info:80
 tracker.4.babico.name.tr:3131
 tracker.altrosky.nl:6969
@@ -50,6 +50,7 @@ tracker.moeking.me:6969
 tracker.monitorit4.me:6969
 tracker.openbittorrent.com:6969
 tracker.opentrackr.org:1337
+tracker.qu.ax:6969
 tracker.srv00.com:6969
 tracker.theoks.net:6969
 tracker.torrent.eu.org:451
@@ -58,4 +59,5 @@ tracker1.myporn.club:9337
 tracker2.dler.org:80
 uploads.gamecoast.net:6969
 v1046920.hosted-by-vdsina.ru:6969
+v2.iperson.xyz:6969
 wepzone.net:6969
