@@ -27,9 +27,9 @@ private.anonseed.com:6969
 public.publictracker.xyz:6969
 rep-art.ynh.fr:6969
 run.publictracker.xyz:6969
-ryjer.com:6969
 sanincode.com:6969
 t.zerg.pw:6969
+tamas3.ynh.fr:6969
 thagoat.rocks:6969
 thouvenin.cloud:6969
 torrents.artixlinux.org:6969
