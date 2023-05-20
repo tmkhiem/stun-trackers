@@ -25,8 +25,8 @@ opentracker.i2p.rocks:6969
 opentracker.io:6969
 private.anonseed.com:6969
 public.publictracker.xyz:6969
+rep-art.ynh.fr:6969
 run.publictracker.xyz:6969
-ryjer.com:6969
 sanincode.com:6969
 tamas3.ynh.fr:6969
 thagoat.rocks:6969
@@ -43,7 +43,6 @@ tracker.bittor.pw:1337
 tracker.ccp.ovh:6969
 tracker.cubonegro.lol:6969
 tracker.dler.org:6969
-tracker.filemail.com:6969
 tracker.joybomb.tw:6969
 tracker.leech.ie:1337
 tracker.moeking.me:6969
