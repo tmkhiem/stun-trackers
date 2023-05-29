@@ -31,6 +31,7 @@ fe.dealclub.de:6969:
 148.251.53.72:6969
 fh2.cmp-gaming.com:6969:
 free.publictracker.xyz:6969:
+194.116.215.60:6969
 83.138.55.6:6969
 freedom.1776.ga:6969:
 81.7.10.104:6969
@@ -63,6 +64,7 @@ psyco.fr:6969:
 public.publictracker.xyz:6969:
 45.156.24.123:6969
 public.tracker.vraphim.com:6969:
+51.15.41.46:6969
 rep-art.ynh.fr:6969:
 135.125.106.92:6969
 run-2.publictracker.xyz:6969:
@@ -85,6 +87,7 @@ torrents.artixlinux.org:6969:
 tr.bangumi.moe:6969:
 tracker-udp.gbitt.info:80:
 tracker.4.babico.name.tr:3131:
+158.101.161.60:3131
 tracker.altrosky.nl:6969:
 23.159.16.237:6969
 tracker.artixlinux.org:6969:
@@ -117,13 +120,13 @@ tracker.moeking.me:6969:
 tracker.monitorit4.me:6969:
 93.104.214.40:6969
 tracker.openbittorrent.com:6969:
-45.154.253.5:6969
-45.154.253.7:6969
-45.154.253.10:6969
-45.154.253.9:6969
 45.154.253.6:6969
+45.154.253.7:6969
 45.154.253.8:6969
+45.154.253.9:6969
 45.154.253.4:6969
+45.154.253.5:6969
+45.154.253.10:6969
 tracker.opentrackr.org:1337:
 93.158.213.92:1337
 tracker.pimpmyworld.to:6969:
@@ -140,6 +143,7 @@ tracker.theoks.net:6969:
 tracker.tiny-vps.com:6969:
 89.237.25.134:6969
 tracker.torrent.eu.org:451:
+91.216.110.53:451
 91.216.110.52:451
 tracker.zerobytes.xyz:1337:
 tracker1.bt.moack.co.kr:80:

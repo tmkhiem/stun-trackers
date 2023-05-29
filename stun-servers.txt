@@ -76,7 +76,6 @@ stun.sma.de:3478
 stun.smartvoip.com:3478
 stun.smsdiscount.com:3478
 stun.solcon.nl:3478
-stun.solnet.ch:3478
 stun.sonetel.com:3478
 stun.sonetel.net:3478
 stun.srce.hr:3478
@@ -102,6 +101,7 @@ stun.voipfibre.com:3478
 stun.voipgain.com:3478
 stun.voipgate.com:3478
 stun.voipinfocenter.com:3478
+stun.voipplanet.nl:3478
 stun.voippro.com:3478
 stun.voipraider.com:3478
 stun.voipstunt.com:3478
