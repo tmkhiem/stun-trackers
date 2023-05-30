@@ -8,7 +8,6 @@ aegir.sexy:6969:
 astrr.ru:6969:
 46.138.242.240:6969
 black-bird.ynh.fr:6969:
-82.65.115.10:6969
 boysbitte.be:6969:
 bt.ktrackers.com:6666:
 51.159.54.68:6666
@@ -32,6 +31,7 @@ fe.dealclub.de:6969:
 fh2.cmp-gaming.com:6969:
 free.publictracker.xyz:6969:
 83.138.55.6:6969
+194.116.215.60:6969
 freedom.1776.ga:6969:
 81.7.10.104:6969
 htz3.noho.st:6969:
@@ -63,7 +63,6 @@ psyco.fr:6969:
 public.publictracker.xyz:6969:
 45.156.24.123:6969
 rep-art.ynh.fr:6969:
-135.125.106.92:6969
 run-2.publictracker.xyz:6969:
 216.201.9.155:6969
 run.publictracker.xyz:6969:
@@ -75,6 +74,7 @@ sanincode.com:6969:
 t.zerg.pw:6969:
 149.56.179.233:6969
 tamas3.ynh.fr:6969:
+176.31.250.174:6969
 thagoat.rocks:6969:
 5.196.67.51:6969
 thouvenin.cloud:6969:
@@ -100,11 +100,11 @@ tracker.ccp.ovh:6969:
 tracker.cubonegro.lol:6969:
 38.7.201.142:6969
 tracker.dler.org:6969:
-220.130.15.30:6969
 217.30.10.77:6969
 61.216.149.33:6969
 61.222.178.254:6969
 211.75.29.254:6969
+220.130.15.30:6969
 tracker.filemail.com:6969:
 tracker.jonaslsa.com:6969:
 tracker.joybomb.tw:6969:
@@ -117,12 +117,12 @@ tracker.monitorit4.me:6969:
 93.104.214.40:6969
 tracker.openbittorrent.com:6969:
 45.154.253.9:6969
-45.154.253.6:6969
-45.154.253.8:6969
-45.154.253.4:6969
-45.154.253.7:6969
-45.154.253.5:6969
 45.154.253.10:6969
+45.154.253.7:6969
+45.154.253.4:6969
+45.154.253.8:6969
+45.154.253.6:6969
+45.154.253.5:6969
 tracker.opentrackr.org:1337:
 93.158.213.92:1337
 tracker.pimpmyworld.to:6969:
