@@ -25,7 +25,6 @@ download.nerocloud.me:6969:
 epider.me:6969:
 51.68.174.87:6969
 exodus.desync.com:6969:
-208.83.20.20:6969
 explodie.org:6969:
 fe.dealclub.de:6969:
 148.251.53.72:6969
@@ -47,7 +46,6 @@ movies.zsw.ca:6969:
 new-line.net:6969:
 94.243.222.100:6969
 open.demonii.com:1337:
-185.44.82.25:1337
 open.dstud.io:6969:
 179.43.155.30:6969
 open.stealth.si:80:
@@ -100,9 +98,10 @@ tracker.cubonegro.lol:6969:
 38.7.201.142:6969
 tracker.dler.org:6969:
 220.130.15.30:6969
-61.222.178.254:6969
-61.216.149.33:6969
 211.75.29.254:6969
+61.216.149.33:6969
+217.30.10.77:6969
+61.222.178.254:6969
 tracker.jonaslsa.com:6969:
 tracker.joybomb.tw:6969:
 113.196.95.160:6969
@@ -113,11 +112,11 @@ tracker.moeking.me:6969:
 tracker.monitorit4.me:6969:
 93.104.214.40:6969
 tracker.openbittorrent.com:6969:
-45.154.253.5:6969
-45.154.253.7:6969
 45.154.253.10:6969
-45.154.253.6:6969
 45.154.253.9:6969
+45.154.253.7:6969
+45.154.253.6:6969
+45.154.253.5:6969
 45.154.253.4:6969
 45.154.253.8:6969
 tracker.opentrackr.org:1337:
@@ -136,8 +135,6 @@ tracker.theoks.net:6969:
 tracker.tiny-vps.com:6969:
 185.50.158.164:6969
 tracker.torrent.eu.org:451:
-89.234.156.205:451
-91.216.110.53:451
 tracker1.bt.moack.co.kr:80:
 156.234.201.18:80
 tracker1.myporn.club:9337:
@@ -150,6 +147,5 @@ uploads.gamecoast.net:6969:
 v1046920.hosted-by-vdsina.ru:6969:
 94.103.87.87:6969
 v2.iperson.xyz:6969:
-74.120.175.165:6969
 wepzone.net:6969:
 83.6.207.108:6969
