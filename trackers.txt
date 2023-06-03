@@ -14,7 +14,6 @@ fe.dealclub.de:6969
 free.publictracker.xyz:6969
 freedom.1776.ga:6969
 htz3.noho.st:6969
-laze.cc:6969
 moonburrow.club:6969
 movies.zsw.ca:6969
 new-line.net:6969
@@ -31,7 +30,6 @@ run.publictracker.xyz:6969
 ryjer.com:6969
 sanincode.com:6969
 t.zerg.pw:6969
-tamas3.ynh.fr:6969
 thagoat.rocks:6969
 thouvenin.cloud:6969
 tracker-udp.gbitt.info:80
@@ -42,16 +40,17 @@ tracker.bitsearch.to:1337
 tracker.ccp.ovh:6969
 tracker.cubonegro.lol:6969
 tracker.dler.org:6969
-tracker.filemail.com:6969
 tracker.leech.ie:1337
 tracker.moeking.me:6969
 tracker.monitorit4.me:6969
 tracker.openbittorrent.com:6969
 tracker.opentrackr.org:1337
+tracker.publictracker.xyz:6969
 tracker.qu.ax:6969
 tracker.srv00.com:6969
 tracker.theoks.net:6969
 tracker.tiny-vps.com:6969
+tracker.torrent.eu.org:451
 tracker1.bt.moack.co.kr:80
 tracker1.myporn.club:9337
 tracker2.dler.org:80
