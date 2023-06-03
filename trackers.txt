@@ -38,6 +38,7 @@ tracker.4.babico.name.tr:3131
 tracker.altrosky.nl:6969
 tracker.auctor.tv:6969
 tracker.bitsearch.to:1337
+tracker.bittor.pw:1337
 tracker.ccp.ovh:6969
 tracker.cubonegro.lol:6969
 tracker.dler.org:6969
