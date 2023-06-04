@@ -35,7 +35,6 @@ stun.internetcalls.com:3478
 stun.intervoip.com:3478
 stun.ippi.fr:3478
 stun.ipshka.com:3478
-stun.it1.hr:3478
 stun.jumblo.com:3478
 stun.justvoip.com:3478
 stun.l.google.com:19302
@@ -100,6 +99,7 @@ stun.voipfibre.com:3478
 stun.voipgain.com:3478
 stun.voipgate.com:3478
 stun.voipinfocenter.com:3478
+stun.voipplanet.nl:3478
 stun.voippro.com:3478
 stun.voipraider.com:3478
 stun.voipstunt.com:3478
