@@ -23,7 +23,6 @@ public.publictracker.xyz:6969
 rep-art.ynh.fr:6969
 run-2.publictracker.xyz:6969
 run.publictracker.xyz:6969
-ryjer.com:6969
 sanincode.com:6969
 t.zerg.pw:6969
 tamas3.ynh.fr:6969
@@ -44,7 +43,6 @@ tracker.moeking.me:6969
 tracker.monitorit4.me:6969
 tracker.openbittorrent.com:6969
 tracker.opentrackr.org:1337
-tracker.publictracker.xyz:6969
 tracker.qu.ax:6969
 tracker.srv00.com:6969
 tracker.theoks.net:6969
