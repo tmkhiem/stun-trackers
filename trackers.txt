@@ -1,5 +1,6 @@
 6ahddutb1ucc3cp.ru:6969
 aarsen.me:6969
+acxx.de:6969
 astrr.ru:6969
 black-bird.ynh.fr:6969
 bt.ktrackers.com:6666
@@ -8,7 +9,6 @@ bt2.archive.org:6969
 carr.codes:6969
 download.nerocloud.me:6969
 epider.me:6969
-exodus.desync.com:6969
 free.publictracker.xyz:6969
 htz3.noho.st:6969
 moonburrow.club:6969
@@ -42,7 +42,6 @@ tracker.moeking.me:6969
 tracker.monitorit4.me:6969
 tracker.openbittorrent.com:6969
 tracker.opentrackr.org:1337
-tracker.publictracker.xyz:6969
 tracker.qu.ax:6969
 tracker.srv00.com:6969
 tracker.theoks.net:6969
@@ -53,4 +52,5 @@ tracker1.myporn.club:9337
 tracker2.dler.org:80
 uploads.gamecoast.net:6969
 v1046920.hosted-by-vdsina.ru:6969
+v2.iperson.xyz:6969
 wepzone.net:6969
