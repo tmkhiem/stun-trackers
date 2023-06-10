@@ -11,7 +11,6 @@ black-bird.ynh.fr:6969:
 82.65.115.10:6969
 boysbitte.be:6969:
 bt.ktrackers.com:6666:
-51.159.54.68:6666
 bt1.archive.org:6969:
 207.241.226.111:6969
 bt2.archive.org:6969:
@@ -38,6 +37,7 @@ moonburrow.club:6969:
 movies.zsw.ca:6969:
 198.100.149.66:6969
 new-line.net:6969:
+94.243.222.100:6969
 open.demonii.com:1337:
 185.44.82.25:1337
 open.dstud.io:6969:
@@ -54,7 +54,6 @@ psyco.fr:6969:
 public.publictracker.xyz:6969:
 45.156.24.123:6969
 rep-art.ynh.fr:6969:
-135.125.106.92:6969
 run-2.publictracker.xyz:6969:
 216.201.9.155:6969
 15.204.205.14:6969
@@ -77,7 +76,6 @@ tr.bangumi.moe:6969:
 tracker-udp.gbitt.info:80:
 109.201.134.183:80
 tracker.4.babico.name.tr:3131:
-158.101.161.60:3131
 tracker.artixlinux.org:6969:
 tracker.auctor.tv:6969:
 192.3.165.191:6969
@@ -91,12 +89,11 @@ tracker.ccp.ovh:6969:
 tracker.cubonegro.lol:6969:
 38.7.201.142:6969
 tracker.dler.org:6969:
-61.216.149.33:6969
 211.75.29.254:6969
-220.130.15.30:6969
 61.222.178.254:6969
+61.216.149.33:6969
+220.130.15.30:6969
 tracker.filemail.com:6969:
-52.58.128.163:6969
 tracker.jonaslsa.com:6969:
 tracker.joybomb.tw:6969:
 113.196.95.160:6969
@@ -119,7 +116,6 @@ tracker.tiny-vps.com:6969:
 185.50.158.164:6969
 tracker.torrent.eu.org:451:
 91.216.110.53:451
-91.216.110.52:451
 tracker.zerobytes.xyz:1337:
 tracker1.bt.moack.co.kr:80:
 156.234.201.18:80
