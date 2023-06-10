@@ -8,6 +8,7 @@ aegir.sexy:6969:
 astrr.ru:6969:
 46.138.242.240:6969
 black-bird.ynh.fr:6969:
+82.65.115.10:6969
 boysbitte.be:6969:
 bt.ktrackers.com:6666:
 51.159.54.68:6666
@@ -37,7 +38,6 @@ moonburrow.club:6969:
 movies.zsw.ca:6969:
 198.100.149.66:6969
 new-line.net:6969:
-94.243.222.100:6969
 open.demonii.com:1337:
 185.44.82.25:1337
 open.dstud.io:6969:
@@ -91,10 +91,10 @@ tracker.ccp.ovh:6969:
 tracker.cubonegro.lol:6969:
 38.7.201.142:6969
 tracker.dler.org:6969:
-61.222.178.254:6969
 61.216.149.33:6969
-220.130.15.30:6969
 211.75.29.254:6969
+220.130.15.30:6969
+61.222.178.254:6969
 tracker.filemail.com:6969:
 52.58.128.163:6969
 tracker.jonaslsa.com:6969:
@@ -133,5 +133,6 @@ uploads.gamecoast.net:6969:
 v1046920.hosted-by-vdsina.ru:6969:
 94.103.87.87:6969
 v2.iperson.xyz:6969:
+74.120.175.165:6969
 wepzone.net:6969:
 83.6.228.225:6969
