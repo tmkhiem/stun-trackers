@@ -8,6 +8,7 @@ aegir.sexy:6969:
 astrr.ru:6969:
 46.138.242.240:6969
 black-bird.ynh.fr:6969:
+82.65.115.10:6969
 boysbitte.be:6969:
 bt.ktrackers.com:6666:
 51.159.54.68:6666
@@ -37,6 +38,7 @@ moonburrow.club:6969:
 movies.zsw.ca:6969:
 198.100.149.66:6969
 new-line.net:6969:
+94.243.222.100:6969
 open.demonii.com:1337:
 185.44.82.25:1337
 open.dstud.io:6969:
@@ -79,7 +81,6 @@ tracker.4.babico.name.tr:3131:
 158.101.161.60:3131
 tracker.artixlinux.org:6969:
 tracker.auctor.tv:6969:
-192.3.165.191:6969
 tracker.bitsearch.to:1337:
 178.170.48.154:1337
 tracker.bittor.pw:1337:
@@ -90,10 +91,10 @@ tracker.ccp.ovh:6969:
 tracker.cubonegro.lol:6969:
 38.7.201.142:6969
 tracker.dler.org:6969:
-61.222.178.254:6969
+220.130.15.30:6969
 211.75.29.254:6969
 61.216.149.33:6969
-220.130.15.30:6969
+61.222.178.254:6969
 tracker.filemail.com:6969:
 52.58.128.163:6969
 tracker.jonaslsa.com:6969:
