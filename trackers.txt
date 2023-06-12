@@ -6,7 +6,6 @@ acxx.de:6969
 astrr.ru:6969
 astrra.space:6969
 axell24.ru:6969
-black-bird.ynh.fr:6969
 bt.ktrackers.com:6666
 bt1.archive.org:6969
 bt2.archive.org:6969
@@ -21,7 +20,6 @@ mail.segso.net:6969
 market-re.quest:6969
 moonburrow.club:6969
 movies.zsw.ca:6969
-netmap.top:6969
 new-line.net:6969
 ns1.monolithindustries.com:6969
 nullzone.fr:6969
@@ -38,7 +36,6 @@ retracker01-msk-virt.corbina.net:80
 run-2.publictracker.xyz:6969
 run.publictracker.xyz:6969
 ryjer.com:6969
-sanincode.com:6969
 ssb14.nohost.me:6969
 su-data.com:6969
 t.zerg.pw:6969
@@ -50,7 +47,6 @@ tk1.trackerservers.com:8080
 tracker-udp.gbitt.info:80
 tracker.0x7c0.com:6969
 tracker.4.babico.name.tr:3131
-tracker.auctor.tv:6969
 tracker.bitsearch.to:1337
 tracker.bittor.pw:1337
 tracker.ccp.ovh:6969
