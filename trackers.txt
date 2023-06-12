@@ -6,7 +6,6 @@ acxx.de:6969
 astrr.ru:6969
 astrra.space:6969
 axell24.ru:6969
-black-bird.ynh.fr:6969
 bt.ktrackers.com:6666
 bt1.archive.org:6969
 bt2.archive.org:6969
@@ -51,6 +50,7 @@ tk1.trackerservers.com:8080
 tracker-udp.gbitt.info:80
 tracker.0x7c0.com:6969
 tracker.4.babico.name.tr:3131
+tracker.auctor.tv:6969
 tracker.bitsearch.to:1337
 tracker.bittor.pw:1337
 tracker.ccp.ovh:6969
@@ -70,7 +70,6 @@ tracker.theoks.net:6969
 tracker.tiny-vps.com:6969
 tracker.torrent.eu.org:451
 tracker.trojangogogo.site:8080
-tracker1.bt.moack.co.kr:80
 tracker1.myporn.club:9337
 tracker2.dler.org:80
 tracker2.itzmx.com:6961
