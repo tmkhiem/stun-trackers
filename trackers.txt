@@ -5,6 +5,7 @@ aarsen.me:6969
 acxx.de:6969
 astrr.ru:6969
 astrra.space:6969
+axell24.ru:6969
 bt.ktrackers.com:6666
 bt1.archive.org:6969
 bt2.archive.org:6969
@@ -78,3 +79,4 @@ uploads.gamecoast.net:6969
 v1046920.hosted-by-vdsina.ru:6969
 v2.iperson.xyz:6969
 wepzone.net:6969
+yahor.of.by:6969
