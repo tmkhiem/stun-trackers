@@ -3,7 +3,6 @@
 6ahddutb1ucc3cp.ru:6969
 aarsen.me:6969
 acxx.de:6969
-astrr.ru:6969
 astrra.space:6969
 axell24.ru:6969
 bt.ktrackers.com:6666
@@ -12,7 +11,6 @@ bt2.archive.org:6969
 carr.codes:6969
 download.nerocloud.me:6969
 epider.me:6969
-exodus.desync.com:6969
 free.publictracker.xyz:6969
 freedomalternative.com:6969
 htz3.noho.st:6969
@@ -22,6 +20,7 @@ movies.zsw.ca:6969
 netmap.top:6969
 new-line.net:6969
 ns1.monolithindustries.com:6969
+nullzone.fr:6969
 oh.fuuuuuck.com:6969
 open.demonii.com:1337
 open.dstud.io:6969
@@ -30,7 +29,7 @@ opentracker.i2p.rocks:6969
 opentracker.io:6969
 private.anonseed.com:6969
 public-tracker.cf:6969
-public.publictracker.xyz:6969
+public.tracker.vraphim.com:6969
 retracker01-msk-virt.corbina.net:80
 run-2.publictracker.xyz:6969
 run.publictracker.xyz:6969
@@ -54,6 +53,7 @@ tracker.ccp.ovh:6969
 tracker.cubonegro.lol:6969
 tracker.dler.org:6969
 tracker.farted.net:6969
+tracker.filemail.com:6969
 tracker.joybomb.tw:6969
 tracker.leech.ie:1337
 tracker.moeking.me:6969
@@ -74,6 +74,5 @@ tracker2.itzmx.com:6961
 ts.populargamers.co.za:6969
 uploads.gamecoast.net:6969
 v1046920.hosted-by-vdsina.ru:6969
-v2.iperson.xyz:6969
 wepzone.net:6969
 yahor.of.by:6969
