@@ -31,7 +31,6 @@ stun.gmx.net:3478
 stun.halonet.pl:3478
 stun.hoiio.com:3478
 stun.hosteurope.de:3478
-stun.infra.net:3478
 stun.internetcalls.com:3478
 stun.intervoip.com:3478
 stun.ippi.fr:3478
@@ -56,7 +55,6 @@ stun.ozekiphone.com:3478
 stun.phone.com:3478
 stun.pjsip.org:3478
 stun.poivy.com:3478
-stun.powerpbx.org:3478
 stun.powervoip.com:3478
 stun.ppdi.com:3478
 stun.qq.com:3478
@@ -85,7 +83,6 @@ stun.tel.lu:3478
 stun.telbo.com:3478
 stun.tng.de:3478
 stun.twt.it:3478
-stun.uls.co.za:3478
 stun.usfamily.net:3478
 stun.vivox.com:3478
 stun.vo.lu:3478
