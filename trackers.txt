@@ -19,7 +19,6 @@ htz3.noho.st:6969
 market-re.quest:6969
 moonburrow.club:6969
 movies.zsw.ca:6969
-netmap.top:6969
 new-line.net:6969
 ns1.monolithindustries.com:6969
 nullzone.fr:6969
@@ -32,7 +31,6 @@ opentracker.io:6969
 private.anonseed.com:6969
 public-tracker.cf:6969
 public.publictracker.xyz:6969
-public.tracker.vraphim.com:6969
 retracker01-msk-virt.corbina.net:80
 run-2.publictracker.xyz:6969
 run.publictracker.xyz:6969
@@ -67,7 +65,6 @@ tracker.qu.ax:6969
 tracker.srv00.com:6969
 tracker.theoks.net:6969
 tracker.tiny-vps.com:6969
-tracker.torrent.eu.org:451
 tracker.trojangogogo.site:8080
 tracker1.bt.moack.co.kr:80
 tracker1.myporn.club:9337
