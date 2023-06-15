@@ -62,7 +62,6 @@ tracker.monitorit4.me:6969
 tracker.ocnix.net:6969
 tracker.openbittorrent.com:6969
 tracker.opentrackr.org:1337
-tracker.publictracker.xyz:6969
 tracker.qu.ax:6969
 tracker.srv00.com:6969
 tracker.theoks.net:6969
@@ -75,5 +74,6 @@ tracker2.itzmx.com:6961
 ts.populargamers.co.za:6969
 uploads.gamecoast.net:6969
 v1046920.hosted-by-vdsina.ru:6969
+v2.iperson.xyz:6969
 wepzone.net:6969
 yahor.of.by:6969
