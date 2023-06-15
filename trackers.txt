@@ -20,7 +20,6 @@ htz3.noho.st:6969
 market-re.quest:6969
 moonburrow.club:6969
 movies.zsw.ca:6969
-netmap.top:6969
 new-line.net:6969
 ns1.monolithindustries.com:6969
 nullzone.fr:6969
@@ -35,7 +34,6 @@ public-tracker.cf:6969
 retracker01-msk-virt.corbina.net:80
 run-2.publictracker.xyz:6969
 run.publictracker.xyz:6969
-ryjer.com:6969
 sanincode.com:6969
 ssb14.nohost.me:6969
 su-data.com:6969
@@ -62,7 +60,6 @@ tracker.monitorit4.me:6969
 tracker.ocnix.net:6969
 tracker.openbittorrent.com:6969
 tracker.opentrackr.org:1337
-tracker.publictracker.xyz:6969
 tracker.qu.ax:6969
 tracker.srv00.com:6969
 tracker.theoks.net:6969
@@ -75,5 +72,6 @@ tracker2.itzmx.com:6961
 ts.populargamers.co.za:6969
 uploads.gamecoast.net:6969
 v1046920.hosted-by-vdsina.ru:6969
+v2.iperson.xyz:6969
 wepzone.net:6969
 yahor.of.by:6969
