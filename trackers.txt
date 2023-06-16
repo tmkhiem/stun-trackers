@@ -6,6 +6,7 @@ acxx.de:6969
 astrr.ru:6969
 astrra.space:6969
 axell24.ru:6969
+black-bird.ynh.fr:6969
 bt.ktrackers.com:6666
 bt1.archive.org:6969
 bt2.archive.org:6969
@@ -21,6 +22,7 @@ mail.segso.net:6969
 market-re.quest:6969
 moonburrow.club:6969
 movies.zsw.ca:6969
+netmap.top:6969
 new-line.net:6969
 ns1.monolithindustries.com:6969
 nullzone.fr:6969
@@ -56,7 +58,6 @@ tracker.bitsearch.to:1337
 tracker.ccp.ovh:6969
 tracker.cubonegro.lol:6969
 tracker.dler.org:6969
-tracker.farted.net:6969
 tracker.filemail.com:6969
 tracker.joybomb.tw:6969
 tracker.leech.ie:1337
