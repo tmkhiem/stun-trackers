@@ -16,6 +16,7 @@ astrra.space:6969:
 axell24.ru:6969:
 194.87.219.14:6969
 black-bird.ynh.fr:6969:
+82.65.115.10:6969
 boysbitte.be:6969:
 bt.ktrackers.com:6666:
 51.159.54.68:6666
@@ -51,6 +52,7 @@ moonburrow.club:6969:
 movies.zsw.ca:6969:
 198.100.149.66:6969
 netmap.top:6969:
+149.28.239.70:6969
 new-line.net:6969:
 94.243.222.100:6969
 ns1.monolithindustries.com:6969:
@@ -64,8 +66,8 @@ open.demonii.com:1337:
 open.dstud.io:6969:
 179.43.155.30:6969
 open.free-tracker.ga:6969:
-34.94.213.23:6969
 35.227.12.84:6969
+34.94.213.23:6969
 open.stealth.si:80:
 open.u-p.pw:6969:
 104.244.77.87:6969
@@ -82,6 +84,7 @@ public-tracker.cf:6969:
 public.publictracker.xyz:6969:
 45.156.24.123:6969
 public.tracker.vraphim.com:6969:
+51.15.41.46:6969
 retracker01-msk-virt.corbina.net:80:
 83.102.180.21:80
 run-2.publictracker.xyz:6969:
@@ -89,6 +92,7 @@ run-2.publictracker.xyz:6969:
 run.publictracker.xyz:6969:
 193.37.214.12:6969
 ryjer.com:6969:
+82.156.24.219:6969
 ssb14.nohost.me:6969:
 185.68.21.244:6969
 su-data.com:6969:
@@ -98,6 +102,7 @@ t.zerg.pw:6969:
 tamas3.ynh.fr:6969:
 176.31.250.174:6969
 thagoat.rocks:6969:
+5.196.67.51:6969
 thinking.duckdns.org:6969:
 thouvenin.cloud:6969:
 5.196.89.204:6969
@@ -125,8 +130,8 @@ tracker.cubonegro.lol:6969:
 38.7.201.142:6969
 tracker.dler.org:6969:
 61.216.149.33:6969
-211.75.29.254:6969
 61.222.178.254:6969
+211.75.29.254:6969
 220.130.15.30:6969
 tracker.farted.net:6969:
 tracker.filemail.com:6969:
@@ -143,17 +148,15 @@ tracker.monitorit4.me:6969:
 tracker.ocnix.net:6969:
 45.130.21.69:6969
 tracker.openbittorrent.com:6969:
-45.154.253.9:6969
-45.154.253.5:6969
-45.154.253.4:6969
-45.154.253.6:6969
 45.154.253.10:6969
-45.154.253.7:6969
+45.154.253.6:6969
 45.154.253.8:6969
+45.154.253.9:6969
+45.154.253.4:6969
+45.154.253.7:6969
 tracker.opentrackr.org:1337:
 93.158.213.92:1337
 tracker.publictracker.xyz:6969:
-45.145.4.50:6969
 tracker.qu.ax:6969:
 107.189.31.134:6969
 tracker.srv00.com:6969:
@@ -164,8 +167,9 @@ tracker.theoks.net:6969:
 tracker.tiny-vps.com:6969:
 185.50.158.164:6969
 tracker.torrent.eu.org:451:
-91.216.110.52:451
+91.216.110.53:451
 tracker1.bt.moack.co.kr:80:
+156.234.201.18:80
 tracker1.myporn.club:9337:
 193.42.111.57:9337
 tracker2.dler.org:80:
@@ -177,7 +181,6 @@ uploads.gamecoast.net:6969:
 v1046920.hosted-by-vdsina.ru:6969:
 94.103.87.87:6969
 v2.iperson.xyz:6969:
-74.120.175.165:6969
 wepzone.net:6969:
 83.6.228.225:6969
 yahor.of.by:6969:
