@@ -27,12 +27,12 @@ oh.fuuuuuck.com:6969
 open.demonii.com:1337
 open.dstud.io:6969
 open.free-tracker.ga:6969
+open.tracker.ink:6969
 open.u-p.pw:6969
 opentracker.i2p.rocks:6969
 opentracker.io:6969
 private.anonseed.com:6969
 public-tracker.cf:6969
-public.publictracker.xyz:6969
 retracker01-msk-virt.corbina.net:80
 run-2.publictracker.xyz:6969
 run.publictracker.xyz:6969
@@ -50,10 +50,8 @@ tracker.0x7c0.com:6969
 tracker.bitsearch.to:1337
 tracker.bittor.pw:1337
 tracker.ccp.ovh:6969
-tracker.cubonegro.lol:6969
 tracker.dler.org:6969
 tracker.farted.net:6969
-tracker.filemail.com:6969
 tracker.joybomb.tw:6969
 tracker.leech.ie:1337
 tracker.moeking.me:6969
@@ -66,7 +64,6 @@ tracker.qu.ax:6969
 tracker.skyts.net:6969
 tracker.srv00.com:6969
 tracker.theoks.net:6969
-tracker.tiny-vps.com:6969
 tracker.torrent.eu.org:451
 tracker1.bt.moack.co.kr:80
 tracker1.myporn.club:9337
