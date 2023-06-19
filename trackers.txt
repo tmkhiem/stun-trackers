@@ -20,7 +20,6 @@ mail.segso.net:6969
 market-re.quest:6969
 moonburrow.club:6969
 movies.zsw.ca:6969
-netmap.top:6969
 new-line.net:6969
 ns1.monolithindustries.com:6969
 oh.fuuuuuck.com:6969
@@ -43,17 +42,17 @@ su-data.com:6969
 t.zerg.pw:6969
 tamas3.ynh.fr:6969
 thagoat.rocks:6969
+thinking.duckdns.org:6969
 thouvenin.cloud:6969
 tk1.trackerservers.com:8080
 tracker-udp.gbitt.info:80
 tracker.0x7c0.com:6969
+tracker.auctor.tv:6969
 tracker.bitsearch.to:1337
 tracker.bittor.pw:1337
 tracker.ccp.ovh:6969
 tracker.cubonegro.lol:6969
 tracker.dler.org:6969
-tracker.farted.net:6969
-tracker.filemail.com:6969
 tracker.joybomb.tw:6969
 tracker.leech.ie:1337
 tracker.moeking.me:6969
@@ -63,7 +62,6 @@ tracker.openbittorrent.com:6969
 tracker.opentrackr.org:1337
 tracker.publictracker.xyz:6969
 tracker.qu.ax:6969
-tracker.skyts.net:6969
 tracker.srv00.com:6969
 tracker.theoks.net:6969
 tracker.tiny-vps.com:6969
@@ -75,6 +73,5 @@ tracker2.itzmx.com:6961
 ts.populargamers.co.za:6969
 uploads.gamecoast.net:6969
 v1046920.hosted-by-vdsina.ru:6969
-v2.iperson.xyz:6969
 wepzone.net:6969
 yahor.of.by:6969
