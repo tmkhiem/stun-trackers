@@ -5,6 +5,7 @@ aarsen.me:6969
 acxx.de:6969
 astrr.ru:6969
 astrra.space:6969
+black-bird.ynh.fr:6969
 bt.ktrackers.com:6666
 bt1.archive.org:6969
 bt2.archive.org:6969
@@ -30,7 +31,6 @@ opentracker.i2p.rocks:6969
 opentracker.io:6969
 private.anonseed.com:6969
 public-tracker.cf:6969
-public.publictracker.xyz:6969
 retracker01-msk-virt.corbina.net:80
 run.publictracker.xyz:6969
 ryjer.com:6969
@@ -46,7 +46,6 @@ tk1.trackerservers.com:8080
 tracker-udp.gbitt.info:80
 tracker.0x7c0.com:6969
 tracker.4.babico.name.tr:3131
-tracker.auctor.tv:6969
 tracker.bitsearch.to:1337
 tracker.bittor.pw:1337
 tracker.ccp.ovh:6969
@@ -68,7 +67,6 @@ tracker.torrent.eu.org:451
 tracker1.bt.moack.co.kr:80
 tracker1.myporn.club:9337
 tracker2.dler.org:80
-tracker2.itzmx.com:6961
 ts.populargamers.co.za:6969
 uploads.gamecoast.net:6969
 v1046920.hosted-by-vdsina.ru:6969
