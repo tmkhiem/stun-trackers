@@ -12,6 +12,7 @@ bt2.archive.org:6969
 carr.codes:6969
 download.nerocloud.me:6969
 epider.me:6969
+exodus.desync.com:6969
 fe.dealclub.de:6969
 free.publictracker.xyz:6969
 htz3.noho.st:6969
@@ -74,5 +75,6 @@ tracker2.dler.org:80
 tracker2.itzmx.com:6961
 uploads.gamecoast.net:6969
 v1046920.hosted-by-vdsina.ru:6969
+v2.iperson.xyz:6969
 wepzone.net:6969
 yahor.of.by:6969
