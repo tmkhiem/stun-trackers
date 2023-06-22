@@ -12,7 +12,6 @@ bt2.archive.org:6969
 carr.codes:6969
 download.nerocloud.me:6969
 epider.me:6969
-exodus.desync.com:6969
 fe.dealclub.de:6969
 free.publictracker.xyz:6969
 htz3.noho.st:6969
@@ -21,7 +20,6 @@ mail.segso.net:6969
 market-re.quest:6969
 moonburrow.club:6969
 movies.zsw.ca:6969
-netmap.top:6969
 new-line.net:6969
 ns1.monolithindustries.com:6969
 oh.fuuuuuck.com:6969
@@ -73,7 +71,6 @@ tracker.torrent.eu.org:451
 tracker1.bt.moack.co.kr:80
 tracker1.myporn.club:9337
 tracker2.dler.org:80
-ts.populargamers.co.za:6969
 uploads.gamecoast.net:6969
 v1046920.hosted-by-vdsina.ru:6969
 v2.iperson.xyz:6969
