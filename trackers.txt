@@ -7,6 +7,7 @@ astrra.space:6969
 black-bird.ynh.fr:6969
 bt.ktrackers.com:6666
 bt1.archive.org:6969
+bt2.archive.org:6969
 carr.codes:6969
 download.nerocloud.me:6969
 epider.me:6969
@@ -18,6 +19,7 @@ mail.segso.net:6969
 market-re.quest:6969
 moonburrow.club:6969
 movies.zsw.ca:6969
+netmap.top:6969
 ns1.monolithindustries.com:6969
 oh.fuuuuuck.com:6969
 open.demonii.com:1337
@@ -53,6 +55,8 @@ tracker.bittor.pw:1337
 tracker.ccp.ovh:6969
 tracker.cubonegro.lol:6969
 tracker.dler.org:6969
+tracker.farted.net:6969
+tracker.filemail.com:6969
 tracker.joybomb.tw:6969
 tracker.leech.ie:1337
 tracker.moeking.me:6969
@@ -69,6 +73,5 @@ tracker2.dler.org:80
 tracker2.itzmx.com:6961
 uploads.gamecoast.net:6969
 v1046920.hosted-by-vdsina.ru:6969
-v2.iperson.xyz:6969
 wepzone.net:6969
 yahor.of.by:6969
