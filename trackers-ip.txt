@@ -11,7 +11,6 @@ aegir.sexy:6969:
 astrra.space:6969:
 139.144.68.88:6969
 black-bird.ynh.fr:6969:
-82.65.115.10:6969
 boysbitte.be:6969:
 bt.ktrackers.com:6666:
 51.159.54.68:6666
@@ -45,7 +44,6 @@ moonburrow.club:6969:
 movies.zsw.ca:6969:
 198.100.149.66:6969
 netmap.top:6969:
-149.28.239.70:6969
 ns1.monolithindustries.com:6969:
 45.63.30.114:6969
 oh.fuuuuuck.com:6969:
@@ -74,7 +72,6 @@ public-tracker.cf:6969:
 public.publictracker.xyz:6969:
 45.156.24.123:6969
 public.tracker.vraphim.com:6969:
-51.15.41.46:6969
 retracker01-msk-virt.corbina.net:80:
 83.102.180.21:80
 run-2.publictracker.xyz:6969:
@@ -83,6 +80,7 @@ run-2.publictracker.xyz:6969:
 run.publictracker.xyz:6969:
 193.37.214.12:6969
 ryjer.com:6969:
+82.156.24.219:6969
 sanincode.com:6969:
 95.31.11.224:6969
 ssb14.nohost.me:6969:
@@ -121,17 +119,14 @@ tracker.bittor.pw:1337:
 tracker.ccp.ovh:6969:
 51.81.222.188:6969
 tracker.cubonegro.lol:6969:
-38.7.201.142:6969
 tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
-220.130.15.30:6969
 61.222.178.254:6969
-211.75.29.254:6969
 61.216.149.33:6969
+211.75.29.254:6969
+220.130.15.30:6969
 tracker.farted.net:6969:
-85.239.33.28:6969
 tracker.filemail.com:6969:
-52.58.128.163:6969
 tracker.jonaslsa.com:6969:
 tracker.joybomb.tw:6969:
 113.196.95.160:6969
@@ -142,11 +137,10 @@ tracker.moeking.me:6969:
 tracker.ocnix.net:6969:
 45.130.21.69:6969
 tracker.openbittorrent.com:6969:
+45.154.253.5:6969
 45.154.253.9:6969
 45.154.253.10:6969
 45.154.253.8:6969
-45.154.253.4:6969
-45.154.253.5:6969
 tracker.opentrackr.org:1337:
 93.158.213.92:1337
 tracker.publictracker.xyz:6969:
@@ -160,9 +154,8 @@ tracker.theoks.net:6969:
 tracker.tiny-vps.com:6969:
 89.237.0.43:6969
 tracker.torrent.eu.org:451:
-91.216.110.53:451
+91.216.110.52:451
 tracker.zerobytes.xyz:1337:
-104.244.77.14:1337
 tracker1.bt.moack.co.kr:80:
 156.234.201.18:80
 tracker1.myporn.club:9337:
@@ -177,7 +170,6 @@ uploads.gamecoast.net:6969:
 v1046920.hosted-by-vdsina.ru:6969:
 94.103.87.87:6969
 v2.iperson.xyz:6969:
-74.120.175.165:6969
 wepzone.net:6969:
 83.31.30.182:6969
 yahor.of.by:6969:
