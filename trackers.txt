@@ -12,7 +12,6 @@ download.nerocloud.me:6969
 epider.me:6969
 exodus.desync.com:6969
 fe.dealclub.de:6969
-freedomalternative.com:6969
 htz3.noho.st:6969
 mail.segso.net:6969
 market-re.quest:6969
@@ -55,7 +54,7 @@ tracker.bittor.pw:1337
 tracker.ccp.ovh:6969
 tracker.cubonegro.lol:6969
 tracker.dler.org:6969
-tracker.farted.net:6969
+tracker.filemail.com:6969
 tracker.joybomb.tw:6969
 tracker.leech.ie:1337
 tracker.moeking.me:6969
@@ -69,7 +68,7 @@ tracker1.bt.moack.co.kr:80
 tracker1.myporn.club:9337
 tracker2.dler.org:80
 tracker2.itzmx.com:6961
+uploads.gamecoast.net:6969
 v1046920.hosted-by-vdsina.ru:6969
-v2.iperson.xyz:6969
 wepzone.net:6969
 yahor.of.by:6969
