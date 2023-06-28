@@ -10,6 +10,7 @@ bt2.archive.org:6969
 carr.codes:6969
 download.nerocloud.me:6969
 epider.me:6969
+exodus.desync.com:6969
 fe.dealclub.de:6969
 htz3.noho.st:6969
 mail.segso.net:6969
@@ -21,14 +22,15 @@ new-line.net:6969
 ns1.monolithindustries.com:6969
 oh.fuuuuuck.com:6969
 open.demonii.com:1337
+open.dstud.io:6969
 open.free-tracker.ga:6969
+open.u-p.pw:6969
 opentracker.i2p.rocks:6969
 opentracker.io:6969
 p4p.arenabg.com:1337
 private.anonseed.com:6969
 public-tracker.cf:6969
 public.publictracker.xyz:6969
-public.tracker.vraphim.com:6969
 retracker01-msk-virt.corbina.net:80
 run-2.publictracker.xyz:6969
 run.publictracker.xyz:6969
@@ -39,6 +41,7 @@ su-data.com:6969
 t.zerg.pw:6969
 tamas3.ynh.fr:6969
 thagoat.rocks:6969
+thinking.duckdns.org:6969
 thouvenin.cloud:6969
 tk1.trackerservers.com:8080
 tracker-udp.gbitt.info:80
@@ -49,8 +52,9 @@ tracker.auctor.tv:6969
 tracker.bitsearch.to:1337
 tracker.bittor.pw:1337
 tracker.ccp.ovh:6969
-tracker.cubonegro.lol:6969
 tracker.dler.org:6969
+tracker.filemail.com:6969
+tracker.joybomb.tw:6969
 tracker.leech.ie:1337
 tracker.moeking.me:6969
 tracker.openbittorrent.com:6969
