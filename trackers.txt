@@ -56,6 +56,7 @@ tracker.ccp.ovh:6969
 tracker.cubonegro.lol:6969
 tracker.dler.org:6969
 tracker.filemail.com:6969
+tracker.joybomb.tw:6969
 tracker.leech.ie:1337
 tracker.moeking.me:6969
 tracker.openbittorrent.com:6969
@@ -72,5 +73,3 @@ tracker2.itzmx.com:6961
 uploads.gamecoast.net:6969
 v1046920.hosted-by-vdsina.ru:6969
 v2.iperson.xyz:6969
-wepzone.net:6969
-yahor.of.by:6969
