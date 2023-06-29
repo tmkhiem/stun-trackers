@@ -1,4 +1,3 @@
-1c.premierzal.ru:6969
 6.pocketnet.app:6969
 6ahddutb1ucc3cp.ru:6969
 aarsen.me:6969
@@ -33,6 +32,7 @@ public.publictracker.xyz:6969
 retracker01-msk-virt.corbina.net:80
 run-2.publictracker.xyz:6969
 run.publictracker.xyz:6969
+ryjer.com:6969
 sanincode.com:6969
 ssb14.nohost.me:6969
 su-data.com:6969
@@ -43,6 +43,7 @@ thouvenin.cloud:6969
 tk1.trackerservers.com:8080
 tracker-udp.gbitt.info:80
 tracker.0x7c0.com:6969
+tracker.4.babico.name.tr:3131
 tracker.army:6969
 tracker.auctor.tv:6969
 tracker.bitsearch.to:1337
@@ -63,7 +64,6 @@ tracker.tiny-vps.com:6969
 tracker1.bt.moack.co.kr:80
 tracker1.myporn.club:9337
 tracker2.dler.org:80
-tracker2.itzmx.com:6961
 uploads.gamecoast.net:6969
 v1046920.hosted-by-vdsina.ru:6969
 wepzone.net:6969
