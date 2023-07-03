@@ -3,6 +3,7 @@
 6.pocketnet.app:6969:
 23.254.228.89:6969
 6ahddutb1ucc3cp.ru:6969:
+185.189.13.108:6969
 aarsen.me:6969:
 51.15.79.209:6969
 acxx.de:6969:
@@ -11,7 +12,6 @@ aegir.sexy:6969:
 astrra.space:6969:
 139.144.68.88:6969
 black-bird.ynh.fr:6969:
-82.65.115.10:6969
 boysbitte.be:6969:
 bt.ktrackers.com:6666:
 51.159.54.68:6666
@@ -60,8 +60,8 @@ open.demonii.com:1337:
 open.dstud.io:6969:
 179.43.155.30:6969
 open.free-tracker.ga:6969:
-35.227.12.84:6969
 34.94.213.23:6969
+35.227.12.84:6969
 open.stealth.si:80:
 open.u-p.pw:6969:
 104.244.77.87:6969
@@ -79,7 +79,6 @@ public-tracker.cf:6969:
 public.publictracker.xyz:6969:
 45.156.24.123:6969
 public.tracker.vraphim.com:6969:
-51.15.41.46:6969
 retracker01-msk-virt.corbina.net:80:
 83.102.180.21:80
 run-2.publictracker.xyz:6969:
@@ -92,7 +91,6 @@ ryjer.com:6969:
 sanincode.com:6969:
 95.31.11.224:6969
 ssb14.nohost.me:6969:
-185.68.21.244:6969
 su-data.com:6969:
 212.237.53.230:6969
 t.zerg.pw:6969:
@@ -129,10 +127,10 @@ tracker.cubonegro.lol:6969:
 38.7.201.142:6969
 tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
-220.130.15.30:6969
-61.216.149.33:6969
 61.222.178.254:6969
 211.75.29.254:6969
+220.130.15.30:6969
+61.216.149.33:6969
 tracker.farted.net:6969:
 85.239.33.28:6969
 tracker.filemail.com:6969:
@@ -147,12 +145,12 @@ tracker.moeking.me:6969:
 tracker.ocnix.net:6969:
 tracker.openbittorrent.com:6969:
 45.154.253.9:6969
-45.154.253.7:6969
-45.154.253.6:6969
-45.154.253.4:6969
-45.154.253.5:6969
 45.154.253.8:6969
 45.154.253.10:6969
+45.154.253.4:6969
+45.154.253.6:6969
+45.154.253.5:6969
+45.154.253.7:6969
 tracker.opentrackr.org:1337:
 93.158.213.92:1337
 tracker.publictracker.xyz:6969:
@@ -166,7 +164,6 @@ tracker.theoks.net:6969:
 tracker.tiny-vps.com:6969:
 176.56.4.238:6969
 tracker.zerobytes.xyz:1337:
-104.244.77.14:1337
 tracker1.bt.moack.co.kr:80:
 156.234.201.18:80
 tracker1.myporn.club:9337:
