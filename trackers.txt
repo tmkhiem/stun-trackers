@@ -14,7 +14,6 @@ fe.dealclub.de:6969
 htz3.noho.st:6969
 isk.richardsw.club:6969
 mail.segso.net:6969
-market-re.quest:6969
 moonburrow.club:6969
 movies.zsw.ca:6969
 netmap.top:6969
@@ -47,7 +46,6 @@ tracker-udp.gbitt.info:80
 tracker.0x7c0.com:6969
 tracker.4.babico.name.tr:3131
 tracker.army:6969
-tracker.auctor.tv:6969
 tracker.bitsearch.to:1337
 tracker.bittor.pw:1337
 tracker.ccp.ovh:6969
@@ -66,7 +64,6 @@ tracker.theoks.net:6969
 tracker.tiny-vps.com:6969
 tracker1.bt.moack.co.kr:80
 tracker1.myporn.club:9337
-tracker2.dler.org:80
 uploads.gamecoast.net:6969
 v1046920.hosted-by-vdsina.ru:6969
 wepzone.net:6969
