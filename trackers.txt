@@ -1,5 +1,6 @@
 1c.premierzal.ru:6969
 6.pocketnet.app:6969
+6ahddutb1ucc3cp.ru:6969
 aarsen.me:6969
 acxx.de:6969
 black-bird.ynh.fr:6969
@@ -28,9 +29,9 @@ opentracker.i2p.rocks:6969
 opentracker.io:6969
 private.anonseed.com:6969
 public-tracker.cf:6969
-public.tracker.vraphim.com:6969
 retracker01-msk-virt.corbina.net:80
 run-2.publictracker.xyz:6969
+ryjer.com:6969
 sanincode.com:6969
 ssb14.nohost.me:6969
 su-data.com:6969
@@ -46,7 +47,6 @@ tracker.army:6969
 tracker.auctor.tv:6969
 tracker.bittor.pw:1337
 tracker.ccp.ovh:6969
-tracker.cubonegro.lol:6969
 tracker.dler.org:6969
 tracker.farted.net:6969
 tracker.joybomb.tw:6969
