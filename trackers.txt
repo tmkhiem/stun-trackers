@@ -1,14 +1,14 @@
 1c.premierzal.ru:6969
 6.pocketnet.app:6969
-6ahddutb1ucc3cp.ru:6969
 aarsen.me:6969
 acxx.de:6969
+black-bird.ynh.fr:6969
+bt.ktrackers.com:6666
 bt1.archive.org:6969
 bt2.archive.org:6969
 carr.codes:6969
 download.nerocloud.me:6969
 epider.me:6969
-exodus.desync.com:6969
 free.publictracker.xyz:6969
 htz3.noho.st:6969
 mail.segso.net:6969
@@ -29,6 +29,7 @@ public-tracker.cf:6969
 retracker01-msk-virt.corbina.net:80
 run-2.publictracker.xyz:6969
 run.publictracker.xyz:6969
+ryjer.com:6969
 sanincode.com:6969
 ssb14.nohost.me:6969
 su-data.com:6969
@@ -52,9 +53,8 @@ tracker.moeking.me:6969
 tracker.opentrackr.org:1337
 tracker.qu.ax:6969
 tracker.srv00.com:6969
-tracker.tiny-vps.com:6969
+tracker.theoks.net:6969
 tracker.torrent.eu.org:451
-tracker.zerobytes.xyz:1337
 tracker1.bt.moack.co.kr:80
 tracker1.myporn.club:9337
 tracker2.dler.org:80
