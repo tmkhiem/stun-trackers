@@ -77,6 +77,7 @@ stun.sonetel.com:3478
 stun.sonetel.net:3478
 stun.srce.hr:3478
 stun.t-online.de:3478
+stun.tel.lu:3478
 stun.telbo.com:3478
 stun.tng.de:3478
 stun.twt.it:3478
@@ -97,6 +98,7 @@ stun.voipfibre.com:3478
 stun.voipgain.com:3478
 stun.voipgate.com:3478
 stun.voipinfocenter.com:3478
+stun.voipplanet.nl:3478
 stun.voippro.com:3478
 stun.voipraider.com:3478
 stun.voipstunt.com:3478
