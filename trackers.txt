@@ -13,6 +13,7 @@ epider.me:6969
 exodus.desync.com:6969
 free.publictracker.xyz:6969
 freedomalternative.com:6969
+htz3.noho.st:6969
 mail.segso.net:6969
 market-re.quest:6969
 moonburrow.club:6969
