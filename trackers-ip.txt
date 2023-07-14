@@ -10,6 +10,7 @@ acxx.de:6969:
 37.187.111.136:6969
 aegir.sexy:6969:
 black-bird.ynh.fr:6969:
+82.65.115.10:6969
 boysbitte.be:6969:
 bt.ktrackers.com:6666:
 51.159.54.68:6666
@@ -32,6 +33,7 @@ free.publictracker.xyz:6969:
 freedomalternative.com:6969:
 185.225.68.26:6969
 htz3.noho.st:6969:
+95.216.74.39:6969
 inferno.demonoid.is:3391:
 mail.artixlinux.org:6969:
 mail.segso.net:6969:
@@ -53,8 +55,8 @@ open.demonii.com:1337:
 open.dstud.io:6969:
 179.43.155.30:6969
 open.free-tracker.ga:6969:
-35.227.12.84:6969
 34.94.213.23:6969
+35.227.12.84:6969
 open.stealth.si:80:
 open.u-p.pw:6969:
 104.244.77.87:6969
@@ -70,6 +72,7 @@ psyco.fr:6969:
 public-tracker.cf:6969:
 85.206.172.159:6969
 public.tracker.vraphim.com:6969:
+51.15.41.46:6969
 retracker01-msk-virt.corbina.net:80:
 83.102.180.21:80
 run-2.publictracker.xyz:6969:
@@ -104,9 +107,10 @@ tracker.army:6969:
 103.196.36.31:6969
 tracker.artixlinux.org:6969:
 tracker.auctor.tv:6969:
+192.3.165.191:6969
 tracker.bittor.pw:1337:
-34.94.213.23:1337
 35.227.12.84:1337
+34.94.213.23:1337
 tracker.ccp.ovh:6969:
 51.81.222.188:6969
 tracker.cubonegro.lol:6969:
@@ -115,8 +119,8 @@ tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
 61.216.149.33:6969
 61.222.178.254:6969
-220.130.15.30:6969
 211.75.29.254:6969
+220.130.15.30:6969
 tracker.farted.net:6969:
 85.239.33.28:6969
 tracker.filemail.com:6969:
@@ -128,11 +132,11 @@ tracker.moeking.me:6969:
 tracker.ocnix.net:6969:
 tracker.openbittorrent.com:6969:
 45.154.253.10:6969
-45.154.253.8:6969
+45.154.253.9:6969
 45.154.253.4:6969
 45.154.253.5:6969
+45.154.253.8:6969
 45.154.253.6:6969
-45.154.253.9:6969
 tracker.opentrackr.org:1337:
 93.158.213.92:1337
 tracker.qu.ax:6969:
@@ -148,6 +152,7 @@ tracker1.bt.moack.co.kr:80:
 tracker1.myporn.club:9337:
 193.42.111.57:9337
 tracker2.dler.org:80:
+163.172.29.130:80
 tracker2.itzmx.com:6961:
 uploads.gamecoast.net:6969:
 185.102.219.163:6969
