@@ -1,6 +1,5 @@
 1c.premierzal.ru:6969
 6.pocketnet.app:6969
-6ahddutb1ucc3cp.ru:6969
 aarsen.me:6969
 acxx.de:6969
 black-bird.ynh.fr:6969
@@ -13,6 +12,7 @@ epider.me:6969
 exodus.desync.com:6969
 free.publictracker.xyz:6969
 freedomalternative.com:6969
+htz3.noho.st:6969
 mail.segso.net:6969
 market-re.quest:6969
 moonburrow.club:6969
