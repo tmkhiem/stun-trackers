@@ -37,7 +37,6 @@ ssb14.nohost.me:6969
 su-data.com:6969
 t.zerg.pw:6969
 tamas3.ynh.fr:6969
-thinking.duckdns.org:6969
 thouvenin.cloud:6969
 tk1.trackerservers.com:8080
 tracker-udp.gbitt.info:80
@@ -63,6 +62,7 @@ tracker1.myporn.club:9337
 tracker2.dler.org:80
 ts.populargamers.co.za:6969
 uploads.gamecoast.net:6969
+v1046920.hosted-by-vdsina.ru:6969
 v2.iperson.xyz:6969
 wepzone.net:6969
 yahor.of.by:6969
