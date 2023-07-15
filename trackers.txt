@@ -18,7 +18,6 @@ mail.segso.net:6969
 market-re.quest:6969
 moonburrow.club:6969
 movies.zsw.ca:6969
-new-line.net:6969
 ns1.monolithindustries.com:6969
 oh.fuuuuuck.com:6969
 open.demonii.com:1337
