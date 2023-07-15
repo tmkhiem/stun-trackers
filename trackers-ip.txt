@@ -57,7 +57,6 @@ open.dstud.io:6969:
 179.43.155.30:6969
 open.stealth.si:80:
 open.u-p.pw:6969:
-104.244.77.87:6969
 opentracker.i2p.rocks:6969:
 102.223.180.235:6969
 opentracker.io:6969:
@@ -71,7 +70,6 @@ public-tracker.cf:6969:
 85.206.172.159:6969
 public.publictracker.xyz:6969:
 public.tracker.vraphim.com:6969:
-51.15.41.46:6969
 retracker01-msk-virt.corbina.net:80:
 83.102.180.21:80
 run-2.publictracker.xyz:6969:
@@ -79,7 +77,6 @@ run-2.publictracker.xyz:6969:
 run.publictracker.xyz:6969:
 62.233.57.13:6969
 ryjer.com:6969:
-82.156.24.219:6969
 sanincode.com:6969:
 95.31.11.224:6969
 ssb14.nohost.me:6969:
@@ -91,7 +88,6 @@ t.zerg.pw:6969:
 tamas3.ynh.fr:6969:
 176.31.250.174:6969
 thinking.duckdns.org:6969:
-73.170.204.100:6969
 thouvenin.cloud:6969:
 5.196.89.204:6969
 tk1.trackerservers.com:8080:
@@ -115,10 +111,10 @@ tracker.cubonegro.lol:6969:
 38.7.201.142:6969
 tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
-220.130.15.30:6969
-61.222.178.254:6969
 211.75.29.254:6969
 61.216.149.33:6969
+220.130.15.30:6969
+61.222.178.254:6969
 tracker.farted.net:6969:
 85.239.33.28:6969
 tracker.jonaslsa.com:6969:
@@ -127,14 +123,15 @@ tracker.joybomb.tw:6969:
 tracker.leech.ie:1337:
 135.181.197.114:1337
 tracker.moeking.me:6969:
+107.189.11.58:6969
 tracker.ocnix.net:6969:
 tracker.openbittorrent.com:6969:
+45.154.253.5:6969
 45.154.253.9:6969
+45.154.253.4:6969
 45.154.253.10:6969
 45.154.253.8:6969
 45.154.253.6:6969
-45.154.253.5:6969
-45.154.253.4:6969
 tracker.opentrackr.org:1337:
 93.158.213.92:1337
 tracker.publictracker.xyz:6969:
@@ -163,7 +160,6 @@ uploads.gamecoast.net:6969:
 v1046920.hosted-by-vdsina.ru:6969:
 94.103.87.87:6969
 v2.iperson.xyz:6969:
-74.120.175.165:6969
 wepzone.net:6969:
 83.6.211.93:6969
 yahor.of.by:6969:
