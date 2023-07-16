@@ -10,7 +10,6 @@ acxx.de:6969:
 37.187.111.136:6969
 aegir.sexy:6969:
 black-bird.ynh.fr:6969:
-82.65.115.10:6969
 boysbitte.be:6969:
 bt.ktrackers.com:6666:
 51.159.54.68:6666
@@ -111,6 +110,7 @@ tracker.army:6969:
 103.196.36.31:6969
 tracker.artixlinux.org:6969:
 tracker.auctor.tv:6969:
+192.3.165.191:6969
 tracker.bittor.pw:1337:
 34.94.213.23:1337
 35.227.12.84:1337
@@ -125,8 +125,8 @@ tracker.dler.org:6969:
 211.75.29.254:6969
 220.130.15.30:6969
 tracker.farted.net:6969:
-85.239.33.28:6969
 tracker.filemail.com:6969:
+52.58.128.163:6969
 tracker.jonaslsa.com:6969:
 tracker.joybomb.tw:6969:
 113.196.95.160:6969
@@ -134,12 +134,12 @@ tracker.leech.ie:1337:
 135.181.197.114:1337
 tracker.ocnix.net:6969:
 tracker.openbittorrent.com:6969:
-45.154.253.8:6969
 45.154.253.9:6969
-45.154.253.4:6969
+45.154.253.8:6969
 45.154.253.10:6969
 45.154.253.6:6969
 45.154.253.5:6969
+45.154.253.4:6969
 tracker.opentrackr.org:1337:
 93.158.213.92:1337
 tracker.publictracker.xyz:6969:
