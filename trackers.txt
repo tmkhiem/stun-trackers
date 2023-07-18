@@ -8,8 +8,10 @@ bt2.archive.org:6969
 carr.codes:6969
 download.nerocloud.me:6969
 epider.me:6969
+exodus.desync.com:6969
 free.publictracker.xyz:6969
 freedomalternative.com:6969
+htz3.noho.st:6969
 isk.richardsw.club:6969
 mail.segso.net:6969
 market-re.quest:6969
@@ -27,7 +29,6 @@ public-tracker.cf:6969
 retracker01-msk-virt.corbina.net:80
 run-2.publictracker.xyz:6969
 run.publictracker.xyz:6969
-ryjer.com:6969
 sanincode.com:6969
 ssb14.nohost.me:6969
 su-data.com:6969
@@ -55,6 +56,7 @@ tracker.qu.ax:6969
 tracker.srv00.com:6969
 tracker.theoks.net:6969
 tracker.tiny-vps.com:6969
+tracker.torrent.eu.org:451
 tracker1.bt.moack.co.kr:80
 tracker1.myporn.club:9337
 tracker2.dler.org:80
