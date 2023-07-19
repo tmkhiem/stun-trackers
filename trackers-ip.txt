@@ -111,12 +111,13 @@ tracker.bittor.pw:1337:
 tracker.ccp.ovh:6969:
 51.81.222.188:6969
 tracker.cubonegro.lol:6969:
+38.7.201.142:6969
 tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
-61.216.149.33:6969
 211.75.29.254:6969
-220.130.15.30:6969
+61.216.149.33:6969
 61.222.178.254:6969
+220.130.15.30:6969
 tracker.farted.net:6969:
 85.239.33.28:6969
 tracker.jonaslsa.com:6969:
@@ -131,6 +132,7 @@ tracker.publictracker.xyz:6969:
 147.189.136.146:6969
 tracker.qu.ax:6969:
 107.189.31.134:6969
+103.212.81.223:6969
 tracker.srv00.com:6969:
 185.217.199.21:6969
 tracker.theoks.net:6969:
@@ -151,6 +153,7 @@ uploads.gamecoast.net:6969:
 v1046920.hosted-by-vdsina.ru:6969:
 94.103.87.87:6969
 v2.iperson.xyz:6969:
+74.120.175.165:6969
 wepzone.net:6969:
 83.31.219.152:6969
 yahor.of.by:6969:
