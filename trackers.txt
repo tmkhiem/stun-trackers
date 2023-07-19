@@ -21,6 +21,7 @@ new-line.net:6969
 ns1.monolithindustries.com:6969
 oh.fuuuuuck.com:6969
 open.dstud.io:6969
+open.u-p.pw:6969
 opentracker.i2p.rocks:6969
 opentracker.io:6969
 private.anonseed.com:6969
@@ -28,6 +29,7 @@ public-tracker.cf:6969
 retracker01-msk-virt.corbina.net:80
 run-2.publictracker.xyz:6969
 run.publictracker.xyz:6969
+ryjer.com:6969
 sanincode.com:6969
 ssb14.nohost.me:6969
 su-data.com:6969
