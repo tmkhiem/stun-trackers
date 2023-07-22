@@ -61,6 +61,8 @@ stun.schlund.de:3478
 stun.sigmavoip.com:3478
 stun.sip.us:3478
 stun.sipdiscount.com:3478
+stun.sipgate.net:10000
+stun.sipgate.net:3478
 stun.siplogin.de:3478
 stun.sippeer.dk:3478
 stun.siptraffic.com:3478
