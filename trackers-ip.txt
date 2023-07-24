@@ -109,17 +109,16 @@ tracker.cubonegro.lol:6969:
 38.7.201.142:6969
 tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
-61.216.149.33:6969
-211.75.29.254:6969
 61.222.178.254:6969
 220.130.15.30:6969
+211.75.29.254:6969
+61.216.149.33:6969
 tracker.dump.cl:6969:
 35.227.12.84:6969
 34.94.213.23:6969
 tracker.farted.net:6969:
 85.239.33.28:6969
 tracker.filemail.com:6969:
-52.58.128.163:6969
 tracker.leech.ie:1337:
 135.181.197.114:1337
 tracker.ocnix.net:6969:
@@ -139,7 +138,6 @@ tracker.torrent.eu.org:451:
 91.216.110.52:451
 91.216.110.53:451
 tracker.zerobytes.xyz:1337:
-104.244.77.14:1337
 tracker1.bt.moack.co.kr:80:
 156.234.201.18:80
 tracker1.myporn.club:9337:
