@@ -17,8 +17,8 @@ moonburrow.club:6969
 movies.zsw.ca:6969
 netmap.top:6969
 new-line.net:6969
-ns1.monolithindustries.com:6969
 oh.fuuuuuck.com:6969
+open.demonii.com:1337
 open.dstud.io:6969
 open.free-tracker.ga:6969
 open.u-p.pw:6969
@@ -49,6 +49,7 @@ tracker.dler.org:6969
 tracker.dump.cl:6969
 tracker.leech.ie:1337
 tracker.openbittorrent.com:6969
+tracker.opentrackr.org:1337
 tracker.publictracker.xyz:6969
 tracker.qu.ax:6969
 tracker.srv00.com:6969
@@ -59,6 +60,5 @@ tracker1.myporn.club:9337
 tracker2.dler.org:80
 uploads.gamecoast.net:6969
 v1046920.hosted-by-vdsina.ru:6969
-v2.iperson.xyz:6969
 wepzone.net:6969
 yahor.of.by:6969
