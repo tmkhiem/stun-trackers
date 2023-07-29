@@ -1,6 +1,5 @@
 1c.premierzal.ru:6969
 6.pocketnet.app:6969
-6ahddutb1ucc3cp.ru:6969
 aarsen.me:6969
 acxx.de:6969
 black-bird.ynh.fr:6969
@@ -42,11 +41,11 @@ thouvenin.cloud:6969
 tk1.trackerservers.com:8080
 tracker-udp.gbitt.info:80
 tracker.0x7c0.com:6969
+tracker.4.babico.name.tr:3131
 tracker.army:6969
 tracker.ccp.ovh:6969
 tracker.cubonegro.lol:6969
 tracker.dler.org:6969
-tracker.filemail.com:6969
 tracker.leech.ie:1337
 tracker.openbittorrent.com:6969
 tracker.opentrackr.org:1337
