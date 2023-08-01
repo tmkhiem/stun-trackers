@@ -32,6 +32,7 @@ stun.hoiio.com:3478
 stun.internetcalls.com:3478
 stun.intervoip.com:3478
 stun.ippi.fr:3478
+stun.ipshka.com:3478
 stun.it1.hr:3478
 stun.jumblo.com:3478
 stun.justvoip.com:3478
