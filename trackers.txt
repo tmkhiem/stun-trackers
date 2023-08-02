@@ -36,7 +36,6 @@ run-2.publictracker.xyz:6969
 run.publictracker.xyz:6969
 ryjer.com:6969
 sanincode.com:6969
-ssb14.nohost.me:6969
 su-data.com:6969
 t.zerg.pw:6969
 tamas3.ynh.fr:6969
@@ -47,6 +46,7 @@ tracker-udp.gbitt.info:80
 tracker.0x7c0.com:6969
 tracker.4.babico.name.tr:3131
 tracker.army:6969
+tracker.auctor.tv:6969
 tracker.bittor.pw:1337
 tracker.ccp.ovh:6969
 tracker.cubonegro.lol:6969
