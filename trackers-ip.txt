@@ -26,7 +26,6 @@ download.nerocloud.me:6969:
 epider.me:6969:
 51.68.174.87:6969
 exodus.desync.com:6969:
-208.83.20.20:6969
 explodie.org:6969:
 fh2.cmp-gaming.com:6969:
 free.publictracker.xyz:6969:
@@ -73,6 +72,7 @@ public-tracker.cf:6969:
 public.publictracker.xyz:6969:
 45.156.24.123:6969
 public.tracker.vraphim.com:6969:
+51.15.41.46:6969
 retracker01-msk-virt.corbina.net:80:
 83.102.180.21:80
 run-2.publictracker.xyz:6969:
@@ -119,16 +119,17 @@ tracker.cubonegro.lol:6969:
 38.7.201.142:6969
 tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
-61.216.149.33:6969
 211.75.29.254:6969
-61.222.178.254:6969
 220.130.15.30:6969
+61.216.149.33:6969
+61.222.178.254:6969
 tracker.dump.cl:6969:
 34.94.213.23:6969
 35.227.12.84:6969
 tracker.farted.net:6969:
 85.239.33.28:6969
 tracker.filemail.com:6969:
+52.58.128.163:6969
 tracker.leech.ie:1337:
 135.181.197.114:1337
 tracker.ocnix.net:6969:
@@ -163,7 +164,6 @@ uploads.gamecoast.net:6969:
 v1046920.hosted-by-vdsina.ru:6969:
 94.103.87.87:6969
 v2.iperson.xyz:6969:
-74.120.175.165:6969
 wepzone.net:6969:
 83.31.201.85:6969
 yahor.of.by:6969:
