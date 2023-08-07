@@ -54,13 +54,11 @@ tracker.cubonegro.lol:6969
 tracker.dler.org:6969
 tracker.dump.cl:6969
 tracker.farted.net:6969
-tracker.filemail.com:6969
 tracker.leech.ie:1337
 tracker.opentrackr.org:1337
 tracker.qu.ax:6969
 tracker.sheesh.rip:6969
 tracker.srv00.com:6969
-tracker.swateam.org.uk:2710
 tracker.t-rb.org:6969
 tracker.theoks.net:6969
 tracker.therarbg.com:6969
@@ -71,5 +69,6 @@ tracker2.dler.org:80
 ts.populargamers.co.za:6969
 uploads.gamecoast.net:6969
 v1046920.hosted-by-vdsina.ru:6969
+v2.iperson.xyz:6969
 wepzone.net:6969
 yahor.of.by:6969
