@@ -8,7 +8,6 @@ bt.ktrackers.com:6666
 bt1.archive.org:6969
 bt2.archive.org:6969
 carr.codes:6969
-download.nerocloud.me:6969
 epider.me:6969
 exodus.desync.com:6969
 free.publictracker.xyz:6969
@@ -34,7 +33,6 @@ public.publictracker.xyz:6969
 retracker01-msk-virt.corbina.net:80
 run-2.publictracker.xyz:6969
 run.publictracker.xyz:6969
-ryjer.com:6969
 sanincode.com:6969
 ssb14.nohost.me:6969
 su-data.com:6969
@@ -68,5 +66,6 @@ tracker2.dler.org:80
 ts.populargamers.co.za:6969
 uploads.gamecoast.net:6969
 v1046920.hosted-by-vdsina.ru:6969
+v2.iperson.xyz:6969
 wepzone.net:6969
 yahor.of.by:6969
