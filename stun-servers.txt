@@ -12,6 +12,7 @@ stun.bluesip.net:3478
 stun.cablenet-as.net:3478
 stun.callromania.ro:3478
 stun.callwithus.com:3478
+stun.cheapvoip.com:3478
 stun.commpeak.com:3478
 stun.cope.es:3478
 stun.counterpath.com:3478
@@ -63,6 +64,8 @@ stun.schlund.de:3478
 stun.sigmavoip.com:3478
 stun.sip.us:3478
 stun.sipdiscount.com:3478
+stun.sipgate.net:10000
+stun.sipgate.net:3478
 stun.siplogin.de:3478
 stun.sippeer.dk:3478
 stun.siptraffic.com:3478
