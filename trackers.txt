@@ -1,5 +1,6 @@
 1c.premierzal.ru:6969
 6.pocketnet.app:6969
+6ahddutb1ucc3cp.ru:6969
 aarsen.me:6969
 acxx.de:6969
 bedro.cloud:6969
@@ -71,6 +72,5 @@ tracker2.dler.org:80
 ts.populargamers.co.za:6969
 uploads.gamecoast.net:6969
 v1046920.hosted-by-vdsina.ru:6969
-v2.iperson.xyz:6969
 wepzone.net:6969
 yahor.of.by:6969
