@@ -26,7 +26,6 @@ open.demonii.com:1337
 open.dstud.io:6969
 open.free-tracker.ga:6969
 open.stealth.si:80
-open.u-p.pw:6969
 opentracker.i2p.rocks:6969
 opentracker.io:6969
 p4p.arenabg.com:1337
@@ -48,13 +47,12 @@ tracker-udp.gbitt.info:80
 tracker.0x7c0.com:6969
 tracker.4.babico.name.tr:3131
 tracker.army:6969
-tracker.auctor.tv:6969
 tracker.bittor.pw:1337
 tracker.ccp.ovh:6969
 tracker.cubonegro.lol:6969
 tracker.dler.org:6969
 tracker.dump.cl:6969
-tracker.filemail.com:6969
+tracker.farted.net:6969
 tracker.leech.ie:1337
 tracker.openbittorrent.com:6969
 tracker.opentrackr.org:1337
