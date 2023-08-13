@@ -4,6 +4,7 @@
 aarsen.me:6969
 acxx.de:6969
 bedro.cloud:6969
+black-bird.ynh.fr:6969
 bt.ktrackers.com:6666
 bt1.archive.org:6969
 bt2.archive.org:6969
@@ -71,5 +72,6 @@ tracker2.dler.org:80
 ts.populargamers.co.za:6969
 uploads.gamecoast.net:6969
 v1046920.hosted-by-vdsina.ru:6969
+v2.iperson.xyz:6969
 wepzone.net:6969
 yahor.of.by:6969
