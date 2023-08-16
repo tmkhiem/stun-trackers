@@ -33,6 +33,7 @@ stun.infra.net:3478
 stun.internetcalls.com:3478
 stun.intervoip.com:3478
 stun.ippi.fr:3478
+stun.ipshka.com:3478
 stun.it1.hr:3478
 stun.jumblo.com:3478
 stun.justvoip.com:3478
@@ -62,8 +63,6 @@ stun.schlund.de:3478
 stun.sigmavoip.com:3478
 stun.sip.us:3478
 stun.sipdiscount.com:3478
-stun.sipgate.net:10000
-stun.sipgate.net:3478
 stun.siplogin.de:3478
 stun.sippeer.dk:3478
 stun.siptraffic.com:3478
