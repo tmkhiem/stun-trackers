@@ -10,7 +10,6 @@ aegir.sexy:6969:
 bedro.cloud:6969:
 173.249.201.201:6969
 black-bird.ynh.fr:6969:
-82.65.115.10:6969
 boysbitte.be:6969:
 bt.ktrackers.com:6666:
 51.159.54.68:6666
@@ -68,6 +67,7 @@ psyco.fr:6969:
 public-tracker.cf:6969:
 85.206.172.159:6969
 public.tracker.vraphim.com:6969:
+51.15.41.46:6969
 retracker01-msk-virt.corbina.net:80:
 83.102.180.21:80
 run-2.publictracker.xyz:6969:
@@ -79,7 +79,6 @@ ryjer.com:6969:
 sanincode.com:6969:
 95.31.11.224:6969
 ssb14.nohost.me:6969:
-185.68.21.244:6969
 su-data.com:6969:
 212.237.53.230:6969
 t.zerg.pw:6969:
@@ -111,11 +110,12 @@ tracker.bittor.pw:1337:
 tracker.ccp.ovh:6969:
 51.81.222.188:6969
 tracker.cubonegro.lol:6969:
+38.7.201.142:6969
 tracker.dler.org:6969:
-220.130.15.30:6969
-61.222.178.254:6969
 61.216.149.33:6969
 211.75.29.254:6969
+220.130.15.30:6969
+61.222.178.254:6969
 tracker.dump.cl:6969:
 35.227.12.84:6969
 34.94.213.23:6969
@@ -125,14 +125,13 @@ tracker.filemail.com:6969:
 tracker.leech.ie:1337:
 135.181.197.114:1337
 tracker.moeking.me:6969:
-107.189.11.58:6969
 tracker.openbittorrent.com:6969:
-45.154.253.8:6969
-45.154.253.9:6969
-45.154.253.10:6969
 45.154.253.6:6969
+45.154.253.9:6969
 45.154.253.4:6969
+45.154.253.10:6969
 45.154.253.5:6969
+45.154.253.8:6969
 tracker.opentrackr.org:1337:
 93.158.213.92:1337
 tracker.qu.ax:6969:
@@ -153,7 +152,7 @@ tracker.therarbg.com:6969:
 tracker.tiny-vps.com:6969:
 83.146.97.90:6969
 tracker.torrent.eu.org:451:
-89.234.156.205:451
+91.216.110.53:451
 91.216.110.52:451
 tracker.zerobytes.xyz:1337:
 tracker1.bt.moack.co.kr:80:
