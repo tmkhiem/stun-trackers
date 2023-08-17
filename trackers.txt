@@ -3,9 +3,9 @@
 aarsen.me:6969
 acxx.de:6969
 bedro.cloud:6969
+black-bird.ynh.fr:6969
 bt.ktrackers.com:6666
 bt1.archive.org:6969
-bt2.archive.org:6969
 carr.codes:6969
 download.nerocloud.me:6969
 epider.me:6969
@@ -46,7 +46,6 @@ tracker.ccp.ovh:6969
 tracker.cubonegro.lol:6969
 tracker.dler.org:6969
 tracker.farted.net:6969
-tracker.leech.ie:1337
 tracker.openbittorrent.com:6969
 tracker.opentrackr.org:1337
 tracker.qu.ax:6969
@@ -61,7 +60,6 @@ tracker.torrent.eu.org:451
 tracker1.bt.moack.co.kr:80
 tracker1.myporn.club:9337
 tracker2.dler.org:80
-ts.populargamers.co.za:6969
 uploads.gamecoast.net:6969
 v1046920.hosted-by-vdsina.ru:6969
 wepzone.net:6969
