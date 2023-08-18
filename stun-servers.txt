@@ -63,6 +63,8 @@ stun.schlund.de:3478
 stun.sigmavoip.com:3478
 stun.sip.us:3478
 stun.sipdiscount.com:3478
+stun.sipgate.net:10000
+stun.sipgate.net:3478
 stun.siplogin.de:3478
 stun.sippeer.dk:3478
 stun.siptraffic.com:3478
@@ -83,7 +85,6 @@ stun.uls.co.za:3478
 stun.usfamily.net:3478
 stun.vivox.com:3478
 stun.vo.lu:3478
-stun.voicetrading.com:3478
 stun.voip.aebc.com:3478
 stun.voip.blackberry.com:3478
 stun.voip.eutelia.it:3478
