@@ -31,7 +31,6 @@ public.tracker.vraphim.com:6969
 retracker01-msk-virt.corbina.net:80
 run.publictracker.xyz:6969
 ryjer.com:6969
-sanincode.com:6969
 ssb14.nohost.me:6969
 su-data.com:6969
 t.zerg.pw:6969
@@ -41,7 +40,6 @@ thouvenin.cloud:6969
 tk1.trackerservers.com:8080
 tracker-udp.gbitt.info:80
 tracker.0x7c0.com:6969
-tracker.4.babico.name.tr:3131
 tracker.army:6969
 tracker.auctor.tv:6969
 tracker.ccp.ovh:6969
@@ -56,7 +54,6 @@ tracker.swateam.org.uk:2710
 tracker.t-rb.org:6969
 tracker.theoks.net:6969
 tracker.therarbg.com:6969
-tracker.tiny-vps.com:6969
 tracker.torrent.eu.org:451
 tracker1.bt.moack.co.kr:80
 tracker1.myporn.club:9337
