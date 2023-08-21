@@ -3,6 +3,7 @@
 aarsen.me:6969
 acxx.de:6969
 bedro.cloud:6969
+black-bird.ynh.fr:6969
 bt.ktrackers.com:6666
 bt1.archive.org:6969
 bt2.archive.org:6969
@@ -22,7 +23,6 @@ open.dstud.io:6969
 open.free-tracker.ga:6969
 open.stealth.si:80
 open.u-p.pw:6969
-opentracker.i2p.rocks:6969
 opentracker.io:6969
 private.anonseed.com:6969
 public-tracker.cf:6969
@@ -48,9 +48,9 @@ tracker.bittor.pw:1337
 tracker.ccp.ovh:6969
 tracker.cubonegro.lol:6969
 tracker.dler.org:6969
+tracker.farted.net:6969
 tracker.leech.ie:1337
 tracker.opentrackr.org:1337
-tracker.qu.ax:6969
 tracker.sheesh.rip:6969
 tracker.srv00.com:6969
 tracker.swateam.org.uk:2710
