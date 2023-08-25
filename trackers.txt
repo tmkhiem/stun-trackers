@@ -3,7 +3,6 @@
 aarsen.me:6969
 acxx.de:6969
 bedro.cloud:6969
-black-bird.ynh.fr:6969
 bt.ktrackers.com:6666
 bt1.archive.org:6969
 bt2.archive.org:6969
@@ -43,6 +42,7 @@ tracker-udp.gbitt.info:80
 tracker.0x7c0.com:6969
 tracker.bittor.pw:1337
 tracker.ccp.ovh:6969
+tracker.cubonegro.lol:6969
 tracker.dler.org:6969
 tracker.filemail.com:6969
 tracker.leech.ie:1337
