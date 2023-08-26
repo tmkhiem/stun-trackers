@@ -45,7 +45,6 @@ stun.mit.de:3478
 stun.miwifi.com:3478
 stun.myvoiptraffic.com:3478
 stun.mywatson.it:3478
-stun.netappel.com:3478
 stun.netgsm.com.tr:3478
 stun.nfon.net:3478
 stun.nonoh.net:3478
@@ -63,8 +62,6 @@ stun.schlund.de:3478
 stun.sigmavoip.com:3478
 stun.sip.us:3478
 stun.sipdiscount.com:3478
-stun.sipgate.net:10000
-stun.sipgate.net:3478
 stun.siplogin.de:3478
 stun.sippeer.dk:3478
 stun.siptraffic.com:3478
@@ -93,7 +90,6 @@ stun.voipblast.com:3478
 stun.voipbuster.com:3478
 stun.voipbusterpro.com:3478
 stun.voipcheap.co.uk:3478
-stun.voipcheap.com:3478
 stun.voipfibre.com:3478
 stun.voipgain.com:3478
 stun.voipgate.com:3478
