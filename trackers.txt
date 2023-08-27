@@ -41,9 +41,11 @@ thouvenin.cloud:6969
 tk1.trackerservers.com:8080
 tracker-udp.gbitt.info:80
 tracker.0x7c0.com:6969
+tracker.auctor.tv:6969
 tracker.bittor.pw:1337
 tracker.ccp.ovh:6969
 tracker.dler.org:6969
+tracker.filemail.com:6969
 tracker.leech.ie:1337
 tracker.opentrackr.org:1337
 tracker.qu.ax:6969
