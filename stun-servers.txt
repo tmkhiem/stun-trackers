@@ -53,7 +53,6 @@ stun.phone.com:3478
 stun.pjsip.org:3478
 stun.poivy.com:3478
 stun.powervoip.com:3478
-stun.ppdi.com:3478
 stun.qq.com:3478
 stun.rockenstein.de:3478
 stun.rolmail.net:3478
@@ -89,11 +88,9 @@ stun.voip.aebc.com:3478
 stun.voip.blackberry.com:3478
 stun.voip.eutelia.it:3478
 stun.voipblast.com:3478
-stun.voipbuster.com:3478
 stun.voipbusterpro.com:3478
 stun.voipcheap.co.uk:3478
 stun.voipcheap.com:3478
-stun.voipfibre.com:3478
 stun.voipgain.com:3478
 stun.voipgate.com:3478
 stun.voipinfocenter.com:3478
@@ -105,7 +102,6 @@ stun.voipwise.com:3478
 stun.voipzoom.com:3478
 stun.voys.nl:3478
 stun.voztele.com:3478
-stun.webcalldirect.com:3478
 stun.zadarma.com:3478
 stun1.l.google.com:19302
 stun2.l.google.com:19302
