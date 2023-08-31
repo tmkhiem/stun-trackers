@@ -42,6 +42,7 @@ tracker.bittor.pw:1337
 tracker.ccp.ovh:6969
 tracker.cubonegro.lol:6969
 tracker.dler.org:6969
+tracker.leech.ie:1337
 tracker.opentrackr.org:1337
 tracker.qu.ax:6969
 tracker.sheesh.rip:6969
