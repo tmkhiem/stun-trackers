@@ -107,9 +107,9 @@ tracker.cubonegro.lol:6969:
 38.7.201.142:6969
 tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
+61.222.178.254:6969
 220.130.15.30:6969
 61.216.149.33:6969
-61.222.178.254:6969
 211.75.29.254:6969
 tracker.farted.net:6969:
 tracker.filemail.com:6969:
@@ -148,7 +148,7 @@ uploads.gamecoast.net:6969:
 v1046920.hosted-by-vdsina.ru:6969:
 94.103.87.87:6969
 v2.iperson.xyz:6969:
+74.120.175.165:6969
 wepzone.net:6969:
-83.6.126.117:6969
 yahor.of.by:6969:
 86.57.161.157:6969
