@@ -56,11 +56,9 @@ tracker.therarbg.com:6969
 tracker.tiny-vps.com:6969
 tracker.torrent.eu.org:451
 tracker1.bt.moack.co.kr:80
-tracker1.myporn.club:9337
 tracker2.dler.org:80
 tracker2.itzmx.com:6961
 ts.populargamers.co.za:6969
 uploads.gamecoast.net:6969
 v1046920.hosted-by-vdsina.ru:6969
-v2.iperson.xyz:6969
 yahor.of.by:6969
