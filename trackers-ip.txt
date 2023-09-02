@@ -3,6 +3,7 @@
 6.pocketnet.app:6969:
 23.254.228.89:6969
 6ahddutb1ucc3cp.ru:6969:
+185.189.13.108:6969
 aarsen.me:6969:
 51.15.79.209:6969
 acxx.de:6969:
@@ -46,8 +47,8 @@ open.demonii.com:1337:
 open.dstud.io:6969:
 179.43.155.30:6969
 open.free-tracker.ga:6969:
-34.94.213.23:6969
 35.227.12.84:6969
+34.94.213.23:6969
 open.stealth.si:80:
 185.243.218.213:80
 open.tracker.cl:1337:
@@ -68,7 +69,6 @@ public-tracker.cf:6969:
 public.publictracker.xyz:6969:
 45.156.24.123:6969
 public.tracker.vraphim.com:6969:
-51.15.41.46:6969
 retracker01-msk-virt.corbina.net:80:
 83.102.180.21:80
 run-2.publictracker.xyz:6969:
@@ -76,7 +76,6 @@ run-2.publictracker.xyz:6969:
 run.publictracker.xyz:6969:
 62.233.57.13:6969
 ryjer.com:6969:
-82.156.24.219:6969
 sanincode.com:6969:
 95.31.11.224:6969
 su-data.com:6969:
@@ -105,15 +104,18 @@ tracker.cubonegro.lol:6969:
 38.7.201.142:6969
 tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
-211.75.29.254:6969
 220.130.15.30:6969
-61.222.178.254:6969
 61.216.149.33:6969
+211.75.29.254:6969
+61.222.178.254:6969
 tracker.leech.ie:1337:
 104.244.79.114:1337
 tracker.moeking.me:6969:
+107.189.11.58:6969
 tracker.openbittorrent.com:6969:
+193.189.100.190:6969
 193.189.100.188:6969
+193.189.100.187:6969
 tracker.opentrackr.org:1337:
 93.158.213.92:1337
 tracker.publictracker.xyz:6969:
@@ -121,7 +123,6 @@ tracker.publictracker.xyz:6969:
 tracker.qu.ax:6969:
 107.189.31.134:6969
 tracker.sheesh.rip:6969:
-91.224.92.110:6969
 tracker.srv00.com:6969:
 185.217.199.21:6969
 tracker.swateam.org.uk:2710:
@@ -135,8 +136,7 @@ tracker.therarbg.com:6969:
 tracker.tiny-vps.com:6969:
 83.146.97.90:6969
 tracker.torrent.eu.org:451:
-91.216.110.52:451
-89.234.156.205:451
+91.216.110.53:451
 tracker1.bt.moack.co.kr:80:
 156.234.201.18:80
 tracker1.myporn.club:9337:
@@ -153,6 +153,7 @@ uploads.gamecoast.net:6969:
 v1046920.hosted-by-vdsina.ru:6969:
 94.103.87.87:6969
 v2.iperson.xyz:6969:
+74.120.175.165:6969
 wepzone.net:6969:
 83.6.211.54:6969
 yahor.of.by:6969:
