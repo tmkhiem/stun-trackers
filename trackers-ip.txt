@@ -3,6 +3,7 @@
 6.pocketnet.app:6969:
 23.254.228.89:6969
 6ahddutb1ucc3cp.ru:6969:
+185.189.13.108:6969
 aarsen.me:6969:
 51.15.79.209:6969
 acxx.de:6969:
@@ -66,14 +67,12 @@ psyco.fr:6969:
 public-tracker.cf:6969:
 85.206.172.159:6969
 public.publictracker.xyz:6969:
-45.156.24.123:6969
 public.tracker.vraphim.com:6969:
 retracker01-msk-virt.corbina.net:80:
 83.102.180.21:80
 run-2.publictracker.xyz:6969:
 216.201.9.155:6969
 run.publictracker.xyz:6969:
-62.233.57.13:6969
 ryjer.com:6969:
 sanincode.com:6969:
 95.31.11.224:6969
@@ -122,7 +121,6 @@ tracker.qu.ax:6969:
 tracker.sheesh.rip:6969:
 91.224.92.110:6969
 tracker.srv00.com:6969:
-185.217.199.21:6969
 tracker.swateam.org.uk:2710:
 45.92.156.182:2710
 tracker.t-rb.org:6969:
@@ -134,8 +132,6 @@ tracker.therarbg.com:6969:
 tracker.tiny-vps.com:6969:
 83.146.97.90:6969
 tracker.torrent.eu.org:451:
-91.216.110.52:451
-91.216.110.53:451
 tracker1.bt.moack.co.kr:80:
 156.234.201.18:80
 tracker1.myporn.club:9337:
@@ -143,8 +139,8 @@ tracker1.myporn.club:9337:
 tracker2.dler.org:80:
 163.172.29.130:80
 tracker2.itzmx.com:6961:
-49.12.76.8:6961
 46.17.46.112:6961
+49.12.76.8:6961
 ts.populargamers.co.za:6969:
 89.58.13.197:6969
 uploads.gamecoast.net:6969:
