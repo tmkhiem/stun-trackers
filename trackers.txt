@@ -33,7 +33,6 @@ public.tracker.vraphim.com:6969
 retracker01-msk-virt.corbina.net:80
 run-2.publictracker.xyz:6969
 run.publictracker.xyz:6969
-ryjer.com:6969
 sanincode.com:6969
 su-data.com:6969
 tamas3.ynh.fr:6969
@@ -47,6 +46,7 @@ tracker.bittor.pw:1337
 tracker.ccp.ovh:6969
 tracker.cubonegro.lol:6969
 tracker.dler.org:6969
+tracker.filemail.com:6969
 tracker.leech.ie:1337
 tracker.openbittorrent.com:6969
 tracker.opentrackr.org:1337
@@ -67,5 +67,6 @@ tracker2.itzmx.com:6961
 ts.populargamers.co.za:6969
 uploads.gamecoast.net:6969
 v1046920.hosted-by-vdsina.ru:6969
+v2.iperson.xyz:6969
 wepzone.net:6969
 yahor.of.by:6969
