@@ -11,7 +11,6 @@ epider.me:6969
 exodus.desync.com:6969
 free.publictracker.xyz:6969
 htz3.noho.st:6969
-lloria.fr:6969
 mail.segso.net:6969
 moonburrow.club:6969
 movies.zsw.ca:6969
@@ -49,6 +48,7 @@ tracker.filemail.com:6969
 tracker.leech.ie:1337
 tracker.openbittorrent.com:6969
 tracker.opentrackr.org:1337
+tracker.publictracker.xyz:6969
 tracker.qu.ax:6969
 tracker.srv00.com:6969
 tracker.swateam.org.uk:2710
@@ -63,5 +63,6 @@ tracker2.dler.org:80
 tracker2.itzmx.com:6961
 ts.populargamers.co.za:6969
 uploads.gamecoast.net:6969
+v1046920.hosted-by-vdsina.ru:6969
 wepzone.net:6969
 yahor.of.by:6969
