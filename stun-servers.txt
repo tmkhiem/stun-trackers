@@ -31,7 +31,6 @@ stun.halonet.pl:3478
 stun.hoiio.com:3478
 stun.infra.net:3478
 stun.internetcalls.com:3478
-stun.intervoip.com:3478
 stun.ippi.fr:3478
 stun.ipshka.com:3478
 stun.it1.hr:3478
@@ -102,10 +101,10 @@ stun.voipplanet.nl:3478
 stun.voippro.com:3478
 stun.voipraider.com:3478
 stun.voipstunt.com:3478
-stun.voipwise.com:3478
 stun.voipzoom.com:3478
 stun.voys.nl:3478
 stun.voztele.com:3478
+stun.webcalldirect.com:3478
 stun.zadarma.com:3478
 stun1.l.google.com:19302
 stun2.l.google.com:19302
