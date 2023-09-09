@@ -30,6 +30,7 @@ opentracker.io:6969
 p4p.arenabg.com:1337
 private.anonseed.com:6969
 public-tracker.cf:6969
+public.tracker.vraphim.com:6969
 retracker01-msk-virt.corbina.net:80
 run-2.publictracker.xyz:6969
 run.publictracker.xyz:6969
@@ -68,6 +69,5 @@ tracker2.dler.org:80
 tracker2.itzmx.com:6961
 uploads.gamecoast.net:6969
 v1046920.hosted-by-vdsina.ru:6969
-v2.iperson.xyz:6969
 wepzone.net:6969
 yahor.of.by:6969
