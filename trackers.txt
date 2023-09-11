@@ -30,7 +30,6 @@ opentracker.io:6969
 p4p.arenabg.com:1337
 private.anonseed.com:6969
 public-tracker.cf:6969
-public.publictracker.xyz:6969
 retracker01-msk-virt.corbina.net:80
 run-2.publictracker.xyz:6969
 run.publictracker.xyz:6969
@@ -46,6 +45,7 @@ tracker.0x7c0.com:6969
 tracker.4.babico.name.tr:3131
 tracker.bittor.pw:1337
 tracker.ccp.ovh:6969
+tracker.cubonegro.lol:6969
 tracker.dler.org:6969
 tracker.dump.cl:6969
 tracker.filemail.com:6969
@@ -59,7 +59,6 @@ tracker.swateam.org.uk:2710
 tracker.t-rb.org:6969
 tracker.theoks.net:6969
 tracker.therarbg.com:6969
-tracker.tiny-vps.com:6969
 tracker.torrent.eu.org:451
 tracker1.bt.moack.co.kr:80
 tracker1.myporn.club:9337
