@@ -4,6 +4,7 @@ aarsen.me:6969
 acxx.de:6969
 bt.ktrackers.com:6666
 bt1.archive.org:6969
+bt2.archive.org:6969
 carr.codes:6969
 epider.me:6969
 exodus.desync.com:6969
@@ -27,7 +28,6 @@ opentracker.io:6969
 p4p.arenabg.com:1337
 private.anonseed.com:6969
 public-tracker.cf:6969
-public.publictracker.xyz:6969
 public.tracker.vraphim.com:6969
 retracker01-msk-virt.corbina.net:80
 run-2.publictracker.xyz:6969
@@ -44,6 +44,8 @@ tracker.bittor.pw:1337
 tracker.ccp.ovh:6969
 tracker.cubonegro.lol:6969
 tracker.dler.org:6969
+tracker.filemail.com:6969
+tracker.leech.ie:1337
 tracker.openbittorrent.com:6969
 tracker.opentrackr.org:1337
 tracker.publictracker.xyz:6969
@@ -56,6 +58,7 @@ tracker.therarbg.com:6969
 tracker.tiny-vps.com:6969
 tracker.torrent.eu.org:451
 tracker1.bt.moack.co.kr:80
+tracker1.myporn.club:9337
 tracker2.dler.org:80
 uploads.gamecoast.net:6969
 v1046920.hosted-by-vdsina.ru:6969
