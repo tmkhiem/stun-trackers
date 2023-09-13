@@ -4,7 +4,6 @@ stun.12voip.com:3478
 stun.1und1.de:3478
 stun.aa.net.uk:3478
 stun.acrobits.cz:3478
-stun.actionvoip.com:3478
 stun.annatel.net:3478
 stun.antisip.com:3478
 stun.avigora.fr:3478
@@ -46,6 +45,7 @@ stun.miwifi.com:3478
 stun.myvoiptraffic.com:3478
 stun.mywatson.it:3478
 stun.netappel.com:3478
+stun.netgsm.com.tr:3478
 stun.nfon.net:3478
 stun.nonoh.net:3478
 stun.ozekiphone.com:3478
