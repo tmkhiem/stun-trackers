@@ -17,6 +17,7 @@ lloria.fr:6969
 mail.segso.net:6969
 moonburrow.club:6969
 movies.zsw.ca:6969
+netmap.top:6969
 new-line.net:6969
 oh.fuuuuuck.com:6969
 open.demonii.com:1337
@@ -42,6 +43,7 @@ tracker-udp.gbitt.info:80
 tracker.0x7c0.com:6969
 tracker.4.babico.name.tr:3131
 tracker.ccp.ovh:6969
+tracker.cubonegro.lol:6969
 tracker.dler.org:6969
 tracker.leech.ie:1337
 tracker.openbittorrent.com:6969
