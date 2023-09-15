@@ -1,5 +1,4 @@
 6.pocketnet.app:6969
-6ahddutb1ucc3cp.ru:6969
 aarsen.me:6969
 acxx.de:6969
 bt.ktrackers.com:6666
@@ -16,7 +15,6 @@ lloria.fr:6969
 mail.segso.net:6969
 moonburrow.club:6969
 movies.zsw.ca:6969
-netmap.top:6969
 new-line.net:6969
 oh.fuuuuuck.com:6969
 open.demonii.com:1337
@@ -49,7 +47,6 @@ tracker.leech.ie:1337
 tracker.openbittorrent.com:6969
 tracker.opentrackr.org:1337
 tracker.publictracker.xyz:6969
-tracker.qu.ax:6969
 tracker.srv00.com:6969
 tracker.swateam.org.uk:2710
 tracker.t-rb.org:6969
