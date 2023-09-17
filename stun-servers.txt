@@ -57,7 +57,6 @@ stun.powervoip.com:3478
 stun.ppdi.com:3478
 stun.qq.com:3478
 stun.rockenstein.de:3478
-stun.rolmail.net:3478
 stun.rynga.com:3478
 stun.schlund.de:3478
 stun.sigmavoip.com:3478
@@ -93,7 +92,6 @@ stun.voipblast.com:3478
 stun.voipbuster.com:3478
 stun.voipbusterpro.com:3478
 stun.voipcheap.co.uk:3478
-stun.voipcheap.com:3478
 stun.voipfibre.com:3478
 stun.voipgain.com:3478
 stun.voipgate.com:3478
