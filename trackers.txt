@@ -1,6 +1,5 @@
 1c.premierzal.ru:6969
 6.pocketnet.app:6969
-6ahddutb1ucc3cp.ru:6969
 aarsen.me:6969
 acxx.de:6969
 bt.ktrackers.com:6666
@@ -17,7 +16,6 @@ lloria.fr:6969
 mail.segso.net:6969
 moonburrow.club:6969
 movies.zsw.ca:6969
-netmap.top:6969
 new-line.net:6969
 oh.fuuuuuck.com:6969
 open.demonii.com:1337
@@ -55,7 +53,6 @@ tracker.theoks.net:6969
 tracker.therarbg.com:6969
 tracker.tiny-vps.com:6969
 tracker.torrent.eu.org:451
-tracker1.bt.moack.co.kr:80
 tracker1.myporn.club:9337
 tracker2.dler.org:80
 tracker2.itzmx.com:6961
