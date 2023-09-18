@@ -32,8 +32,8 @@ freedomalternative.com:6969:
 htz3.noho.st:6969:
 95.216.74.39:6969
 isk.richardsw.club:6969:
-34.94.213.23:6969
 35.227.12.84:6969
+34.94.213.23:6969
 lloria.fr:6969:
 193.70.88.98:6969
 mail.artixlinux.org:6969:
@@ -44,7 +44,6 @@ moonburrow.club:6969:
 movies.zsw.ca:6969:
 198.100.149.66:6969
 netmap.top:6969:
-112.234.145.0:6969
 new-line.net:6969:
 94.243.222.100:6969
 oh.fuuuuuck.com:6969:
@@ -54,8 +53,8 @@ open.demonii.com:1337:
 open.dstud.io:6969:
 179.43.155.30:6969
 open.free-tracker.ga:6969:
-35.227.12.84:6969
 34.94.213.23:6969
+35.227.12.84:6969
 open.stealth.si:80:
 185.243.218.213:80
 open.u-p.pw:6969:
@@ -104,10 +103,10 @@ tracker.ccp.ovh:6969:
 tracker.cubonegro.lol:6969:
 38.7.201.142:6969
 tracker.dler.org:6969:
+220.130.15.30:6969
 61.222.178.254:6969
 211.75.29.254:6969
 61.216.149.33:6969
-220.130.15.30:6969
 tracker.leech.ie:1337:
 104.244.79.114:1337
 tracker.moeking.me:6969:
@@ -130,8 +129,7 @@ tracker.therarbg.com:6969:
 tracker.tiny-vps.com:6969:
 83.146.97.90:6969
 tracker.torrent.eu.org:451:
-91.216.110.53:451
-91.216.110.52:451
+89.234.156.205:451
 tracker1.bt.moack.co.kr:80:
 156.234.201.18:80
 tracker1.myporn.club:9337:
@@ -144,6 +142,4 @@ uploads.gamecoast.net:6969:
 185.102.219.163:6969
 v1046920.hosted-by-vdsina.ru:6969:
 wepzone.net:6969:
-83.31.206.75:6969
 yahor.of.by:6969:
-86.57.161.157:6969

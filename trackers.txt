@@ -17,7 +17,6 @@ lloria.fr:6969
 mail.segso.net:6969
 moonburrow.club:6969
 movies.zsw.ca:6969
-netmap.top:6969
 new-line.net:6969
 oh.fuuuuuck.com:6969
 open.demonii.com:1337
@@ -62,5 +61,3 @@ tracker1.myporn.club:9337
 tracker2.dler.org:80
 tracker2.itzmx.com:6961
 uploads.gamecoast.net:6969
-wepzone.net:6969
-yahor.of.by:6969
