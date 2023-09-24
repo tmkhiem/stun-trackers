@@ -53,10 +53,12 @@ stun.ozekiphone.com:3478
 stun.phone.com:3478
 stun.pjsip.org:3478
 stun.poivy.com:3478
+stun.powerpbx.org:3478
 stun.powervoip.com:3478
 stun.ppdi.com:3478
 stun.qq.com:3478
 stun.rockenstein.de:3478
+stun.rolmail.net:3478
 stun.rynga.com:3478
 stun.schlund.de:3478
 stun.sigmavoip.com:3478
@@ -68,7 +70,6 @@ stun.siplogin.de:3478
 stun.sippeer.dk:3478
 stun.siptraffic.com:3478
 stun.sma.de:3478
-stun.smartvoip.com:3478
 stun.smsdiscount.com:3478
 stun.solcon.nl:3478
 stun.solnet.ch:3478
