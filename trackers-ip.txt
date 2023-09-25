@@ -3,7 +3,6 @@
 6.pocketnet.app:6969:
 23.254.228.89:6969
 6ahddutb1ucc3cp.ru:6969:
-185.189.13.108:6969
 aarsen.me:6969:
 51.15.79.209:6969
 acxx.de:6969:
@@ -30,8 +29,8 @@ free.publictracker.xyz:6969:
 htz3.noho.st:6969:
 95.216.74.39:6969
 isk.richardsw.club:6969:
-35.227.12.84:6969
 34.94.213.23:6969
+35.227.12.84:6969
 lloria.fr:6969:
 193.70.88.98:6969
 mail.artixlinux.org:6969:
@@ -63,6 +62,7 @@ private.anonseed.com:6969:
 192.95.46.115:6969
 psyco.fr:6969:
 public.publictracker.xyz:6969:
+107.175.221.194:6969
 retracker01-msk-virt.corbina.net:80:
 83.102.180.21:80
 run-2.publictracker.xyz:6969:
@@ -70,6 +70,7 @@ run-2.publictracker.xyz:6969:
 run.publictracker.xyz:6969:
 62.233.57.13:6969
 ryjer.com:6969:
+82.156.24.219:6969
 sanincode.com:6969:
 95.31.11.224:6969
 tamas3.ynh.fr:6969:
@@ -95,19 +96,21 @@ tracker.cubonegro.lol:6969:
 38.7.201.142:6969
 tracker.dler.org:6969:
 61.222.178.254:6969
-211.75.29.254:6969
 220.130.15.30:6969
+211.75.29.254:6969
 61.216.149.33:6969
 tracker.farted.net:6969:
 85.239.33.28:6969
 tracker.filemail.com:6969:
-52.58.128.163:6969
 tracker.leech.ie:1337:
+104.244.79.114:1337
 tracker.moeking.me:6969:
+107.189.11.58:6969
 tracker.netmap.top:6969:
 39.67.104.164:6969
 tracker.openbittorrent.com:6969:
 193.189.100.189:6969
+193.189.100.188:6969
 tracker.opentrackr.org:1337:
 93.158.213.92:1337
 tracker.publictracker.xyz:6969:
@@ -127,8 +130,8 @@ tracker.therarbg.com:6969:
 tracker.tiny-vps.com:6969:
 83.146.97.90:6969
 tracker.torrent.eu.org:451:
+91.216.110.53:451
 91.216.110.52:451
-89.234.156.205:451
 tracker1.bt.moack.co.kr:80:
 156.234.201.18:80
 tracker1.myporn.club:9337:
