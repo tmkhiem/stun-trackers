@@ -27,10 +27,10 @@ opentracker.io:6969
 p4p.arenabg.com:1337
 private.anonseed.com:6969
 public.publictracker.xyz:6969
-public.tracker.vraphim.com:6969
 retracker01-msk-virt.corbina.net:80
 run-2.publictracker.xyz:6969
 run.publictracker.xyz:6969
+ryjer.com:6969
 sanincode.com:6969
 tamas3.ynh.fr:6969
 thouvenin.cloud:6969
@@ -42,6 +42,7 @@ tracker.ccp.ovh:6969
 tracker.cubonegro.lol:6969
 tracker.dler.org:6969
 tracker.farted.net:6969
+tracker.leech.ie:1337
 tracker.openbittorrent.com:6969
 tracker.opentrackr.org:1337
 tracker.publictracker.xyz:6969
