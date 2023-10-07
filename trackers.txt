@@ -1,5 +1,6 @@
 1c.premierzal.ru:6969
 6.pocketnet.app:6969
+6ahddutb1ucc3cp.ru:6969
 aarsen.me:6969
 acxx.de:6969
 bt.ktrackers.com:6666
@@ -9,7 +10,6 @@ carr.codes:6969
 epider.me:6969
 exodus.desync.com:6969
 free.publictracker.xyz:6969
-freedomalternative.com:6969
 htz3.noho.st:6969
 isk.richardsw.club:6969
 lloria.fr:6969
@@ -29,6 +29,7 @@ private.anonseed.com:6969
 retracker01-msk-virt.corbina.net:80
 run-2.publictracker.xyz:6969
 run.publictracker.xyz:6969
+ryjer.com:6969
 sanincode.com:6969
 tamas3.ynh.fr:6969
 thinking.duckdns.org:6969
@@ -38,10 +39,10 @@ tracker.0x7c0.com:6969
 tracker.4.babico.name.tr:3131
 tracker.bittor.pw:1337
 tracker.ccp.ovh:6969
-tracker.cubonegro.lol:6969
 tracker.dler.org:6969
 tracker.farted.net:6969
 tracker.filemail.com:6969
+tracker.leech.ie:1337
 tracker.netmap.top:6969
 tracker.openbittorrent.com:6969
 tracker.opentrackr.org:1337
@@ -54,7 +55,6 @@ tracker.therarbg.com:6969
 tracker.tiny-vps.com:6969
 tracker.torrent.eu.org:451
 tracker1.bt.moack.co.kr:80
-tracker1.myporn.club:9337
 tracker2.dler.org:80
 uploads.gamecoast.net:6969
 v2.iperson.xyz:6969
