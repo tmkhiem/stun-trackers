@@ -37,6 +37,7 @@ thouvenin.cloud:6969
 tracker-udp.gbitt.info:80
 tracker.0x7c0.com:6969
 tracker.4.babico.name.tr:3131
+tracker.auctor.tv:6969
 tracker.ccp.ovh:6969
 tracker.cubonegro.lol:6969
 tracker.dler.org:6969
@@ -58,4 +59,3 @@ tracker2.dler.org:80
 uploads.gamecoast.net:6969
 v2.iperson.xyz:6969
 wepzone.net:6969
-yahor.of.by:6969
