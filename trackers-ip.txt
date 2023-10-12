@@ -66,6 +66,7 @@ run-2.publictracker.xyz:6969:
 run.publictracker.xyz:6969:
 62.233.57.13:6969
 ryjer.com:6969:
+82.156.24.219:6969
 sanincode.com:6969:
 95.31.11.224:6969
 tamas3.ynh.fr:6969:
@@ -83,15 +84,15 @@ tracker.4.babico.name.tr:3131:
 130.61.55.93:3131
 tracker.artixlinux.org:6969:
 tracker.auctor.tv:6969:
+45.156.24.123:6969
 tracker.ccp.ovh:6969:
 51.81.222.188:6969
 tracker.cubonegro.lol:6969:
-38.7.201.142:6969
 tracker.dler.org:6969:
-61.216.149.33:6969
-211.75.29.254:6969
 61.222.178.254:6969
 220.130.15.30:6969
+61.216.149.33:6969
+211.75.29.254:6969
 tracker.farted.net:6969:
 85.239.33.28:6969
 tracker.filemail.com:6969:
@@ -101,8 +102,9 @@ tracker.moeking.me:6969:
 tracker.netmap.top:6969:
 112.228.90.244:6969
 tracker.openbittorrent.com:6969:
+193.189.100.186:6969
 193.189.100.188:6969
-193.189.100.190:6969
+193.189.100.187:6969
 tracker.opentrackr.org:1337:
 93.158.213.92:1337
 tracker.publictracker.xyz:6969:
