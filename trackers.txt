@@ -7,7 +7,6 @@ bt1.archive.org:6969
 bt2.archive.org:6969
 carr.codes:6969
 epider.me:6969
-exodus.desync.com:6969
 fe.dealclub.de:6969
 free.publictracker.xyz:6969
 isk.richardsw.club:6969
@@ -34,6 +33,7 @@ thinking.duckdns.org:6969
 thouvenin.cloud:6969
 tracker-udp.gbitt.info:80
 tracker.0x7c0.com:6969
+tracker.auctor.tv:6969
 tracker.bittor.pw:1337
 tracker.ccp.ovh:6969
 tracker.cubonegro.lol:6969
