@@ -43,7 +43,6 @@ stun.liveo.fr:3478
 stun.lowratevoip.com:3478
 stun.mit.de:3478
 stun.miwifi.com:3478
-stun.myvoiptraffic.com:3478
 stun.mywatson.it:3478
 stun.netappel.com:3478
 stun.netgsm.com.tr:3478
@@ -92,6 +91,7 @@ stun.voip.eutelia.it:3478
 stun.voipblast.com:3478
 stun.voipbuster.com:3478
 stun.voipbusterpro.com:3478
+stun.voipcheap.co.uk:3478
 stun.voipcheap.com:3478
 stun.voipfibre.com:3478
 stun.voipgain.com:3478
