@@ -16,6 +16,7 @@ moonburrow.club:6969
 movies.zsw.ca:6969
 new-line.net:6969
 oh.fuuuuuck.com:6969
+open.demonii.com:1337
 open.dstud.io:6969
 open.free-tracker.ga:6969
 open.stealth.si:80
@@ -26,6 +27,7 @@ p4p.arenabg.com:1337
 private.anonseed.com:6969
 retracker01-msk-virt.corbina.net:80
 run-2.publictracker.xyz:6969
+run.publictracker.xyz:6969
 ryjer.com:6969
 sanincode.com:6969
 tamas3.ynh.fr:6969
@@ -50,6 +52,7 @@ tracker.theoks.net:6969
 tracker.therarbg.com:6969
 tracker.tiny-vps.com:6969
 tracker.torrent.eu.org:451
+tracker1.bt.moack.co.kr:80
 tracker1.myporn.club:9337
 tracker2.dler.org:80
 uploads.gamecoast.net:6969
