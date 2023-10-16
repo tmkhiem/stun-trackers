@@ -1,5 +1,6 @@
 1c.premierzal.ru:6969
 6.pocketnet.app:6969
+6ahddutb1ucc3cp.ru:6969
 aarsen.me:6969
 acxx.de:6969
 bt.ktrackers.com:6666
@@ -11,7 +12,6 @@ exodus.desync.com:6969
 fe.dealclub.de:6969
 free.publictracker.xyz:6969
 isk.richardsw.club:6969
-lloria.fr:6969
 mail.segso.net:6969
 moonburrow.club:6969
 movies.zsw.ca:6969
@@ -36,7 +36,6 @@ thouvenin.cloud:6969
 tracker-udp.gbitt.info:80
 tracker.0x7c0.com:6969
 tracker.4.babico.name.tr:3131
-tracker.auctor.tv:6969
 tracker.bittor.pw:1337
 tracker.ccp.ovh:6969
 tracker.cubonegro.lol:6969
