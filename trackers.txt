@@ -32,7 +32,6 @@ sanincode.com:6969
 tamas3.ynh.fr:6969
 thinking.duckdns.org:6969
 thouvenin.cloud:6969
-tracker-udp.gbitt.info:80
 tracker.0x7c0.com:6969
 tracker.bittor.pw:1337
 tracker.ccp.ovh:6969
