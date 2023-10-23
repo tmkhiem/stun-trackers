@@ -28,9 +28,9 @@ retracker01-msk-virt.corbina.net:80
 run-2.publictracker.xyz:6969
 run.publictracker.xyz:6969
 ryjer.com:6969
-sanincode.com:6969
 su-data.com:6969
 tamas3.ynh.fr:6969
+thinking.duckdns.org:6969
 thouvenin.cloud:6969
 tracker-udp.gbitt.info:80
 tracker.0x7c0.com:6969
