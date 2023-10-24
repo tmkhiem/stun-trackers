@@ -25,6 +25,7 @@ p4p.arenabg.com:1337
 private.anonseed.com:6969
 retracker01-msk-virt.corbina.net:80
 run-2.publictracker.xyz:6969
+run.publictracker.xyz:6969
 ryjer.com:6969
 sanincode.com:6969
 su-data.com:6969
@@ -36,11 +37,13 @@ tracker.0x7c0.com:6969
 tracker.4.babico.name.tr:3131
 tracker.bittor.pw:1337
 tracker.ccp.ovh:6969
+tracker.cubonegro.lol:6969
 tracker.dler.org:6969
 tracker.dump.cl:6969
 tracker.filemail.com:6969
 tracker.openbittorrent.com:6969
 tracker.opentrackr.org:1337
+tracker.publictracker.xyz:6969
 tracker.qu.ax:6969
 tracker.srv00.com:6969
 tracker.t-rb.org:6969
@@ -52,5 +55,4 @@ tracker1.myporn.club:9337
 tracker2.dler.org:80
 uploads.gamecoast.net:6969
 v2.iperson.xyz:6969
-wepzone.net:6969
 yahor.of.by:6969
