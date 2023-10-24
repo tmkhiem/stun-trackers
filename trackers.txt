@@ -35,9 +35,9 @@ thinking.duckdns.org:6969
 thouvenin.cloud:6969
 tracker-udp.gbitt.info:80
 tracker.0x7c0.com:6969
+tracker.4.babico.name.tr:3131
 tracker.bittor.pw:1337
 tracker.ccp.ovh:6969
-tracker.cubonegro.lol:6969
 tracker.dler.org:6969
 tracker.dump.cl:6969
 tracker.filemail.com:6969
