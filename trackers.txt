@@ -9,7 +9,6 @@ carr.codes:6969
 epider.me:6969
 exodus.desync.com:6969
 free.publictracker.xyz:6969
-freedomalternative.com:6969
 isk.richardsw.club:6969
 movies.zsw.ca:6969
 new-line.net:6969
@@ -26,7 +25,6 @@ p4p.arenabg.com:1337
 private.anonseed.com:6969
 retracker01-msk-virt.corbina.net:80
 run-2.publictracker.xyz:6969
-run.publictracker.xyz:6969
 ryjer.com:6969
 sanincode.com:6969
 su-data.com:6969
