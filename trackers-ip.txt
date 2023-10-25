@@ -15,7 +15,6 @@ bt1.archive.org:6969:
 bt2.archive.org:6969:
 207.241.231.226:6969
 carr.codes:6969:
-104.131.98.232:6969
 concen.org:6969:
 epider.me:6969:
 51.68.174.87:6969
@@ -71,7 +70,6 @@ sanincode.com:6969:
 su-data.com:6969:
 212.237.53.230:6969
 tamas3.ynh.fr:6969:
-176.31.250.174:6969
 thinking.duckdns.org:6969:
 73.170.204.100:6969
 thouvenin.cloud:6969:
@@ -86,17 +84,17 @@ tracker.4.babico.name.tr:3131:
 tracker.artixlinux.org:6969:
 tracker.auctor.tv:6969:
 tracker.bittor.pw:1337:
-34.94.213.23:1337
 35.227.12.84:1337
+34.94.213.23:1337
 tracker.ccp.ovh:6969:
 51.81.222.188:6969
 tracker.cubonegro.lol:6969:
 38.7.201.142:6969
 tracker.dler.org:6969:
-211.75.29.254:6969
 61.216.149.33:6969
-61.222.178.254:6969
 220.130.15.30:6969
+211.75.29.254:6969
+61.222.178.254:6969
 tracker.dump.cl:6969:
 34.94.213.23:6969
 35.227.12.84:6969
@@ -106,7 +104,6 @@ tracker.moeking.me:6969:
 tracker.openbittorrent.com:6969:
 193.189.100.189:6969
 193.189.100.190:6969
-193.189.100.186:6969
 tracker.opentrackr.org:1337:
 93.158.213.92:1337
 tracker.publictracker.xyz:6969:
