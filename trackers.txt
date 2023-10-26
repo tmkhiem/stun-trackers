@@ -35,6 +35,7 @@ tracker.0x7c0.com:6969
 tracker.4.babico.name.tr:3131
 tracker.bittor.pw:1337
 tracker.ccp.ovh:6969
+tracker.cubonegro.lol:6969
 tracker.dler.org:6969
 tracker.dump.cl:6969
 tracker.filemail.com:6969
@@ -44,7 +45,6 @@ tracker.publictracker.xyz:6969
 tracker.qu.ax:6969
 tracker.srv00.com:6969
 tracker.t-rb.org:6969
-tracker.theoks.net:6969
 tracker.therarbg.com:6969
 tracker.tiny-vps.com:6969
 tracker.torrent.eu.org:451
