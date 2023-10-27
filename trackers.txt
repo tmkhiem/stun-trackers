@@ -9,7 +9,6 @@ carr.codes:6969
 epider.me:6969
 exodus.desync.com:6969
 free.publictracker.xyz:6969
-freedomalternative.com:6969
 isk.richardsw.club:6969
 movies.zsw.ca:6969
 new-line.net:6969
@@ -46,6 +45,7 @@ tracker.publictracker.xyz:6969
 tracker.qu.ax:6969
 tracker.srv00.com:6969
 tracker.t-rb.org:6969
+tracker.theoks.net:6969
 tracker.therarbg.com:6969
 tracker.tiny-vps.com:6969
 tracker.torrent.eu.org:451
