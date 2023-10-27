@@ -11,7 +11,6 @@ boysbitte.be:6969:
 bt.ktrackers.com:6666:
 51.159.54.68:6666
 bt1.archive.org:6969:
-207.241.226.111:6969
 bt2.archive.org:6969:
 207.241.231.226:6969
 carr.codes:6969:
@@ -28,8 +27,8 @@ free.publictracker.xyz:6969:
 15.204.205.14:6969
 freedomalternative.com:6969:
 isk.richardsw.club:6969:
-34.94.213.23:6969
 35.227.12.84:6969
+34.94.213.23:6969
 mail.artixlinux.org:6969:
 movies.zsw.ca:6969:
 198.100.149.66:6969
@@ -91,13 +90,12 @@ tracker.cubonegro.lol:6969:
 38.7.201.142:6969
 tracker.dler.org:6969:
 61.216.149.33:6969
-211.75.29.254:6969
-61.222.178.254:6969
 220.130.15.30:6969
+61.222.178.254:6969
+211.75.29.254:6969
 tracker.filemail.com:6969:
 52.58.128.163:6969
 tracker.openbittorrent.com:6969:
-193.189.100.188:6969
 193.189.100.189:6969
 193.189.100.186:6969
 tracker.opentrackr.org:1337:
@@ -118,6 +116,7 @@ tracker.tiny-vps.com:6969:
 83.146.97.90:6969
 tracker.torrent.eu.org:451:
 91.216.110.52:451
+91.216.110.53:451
 tracker1.bt.moack.co.kr:80:
 156.234.201.18:80
 tracker1.myporn.club:9337:
