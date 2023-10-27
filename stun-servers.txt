@@ -29,6 +29,7 @@ stun.gmx.de:3478
 stun.gmx.net:3478
 stun.halonet.pl:3478
 stun.hoiio.com:3478
+stun.infra.net:3478
 stun.internetcalls.com:3478
 stun.intervoip.com:3478
 stun.ippi.fr:3478
@@ -65,6 +66,7 @@ stun.sipgate.net:10000
 stun.sipgate.net:3478
 stun.siplogin.de:3478
 stun.sippeer.dk:3478
+stun.siptraffic.com:3478
 stun.sma.de:3478
 stun.smartvoip.com:3478
 stun.smsdiscount.com:3478
@@ -91,7 +93,6 @@ stun.voipbuster.com:3478
 stun.voipbusterpro.com:3478
 stun.voipcheap.co.uk:3478
 stun.voipcheap.com:3478
-stun.voipfibre.com:3478
 stun.voipgain.com:3478
 stun.voipgate.com:3478
 stun.voipinfocenter.com:3478
