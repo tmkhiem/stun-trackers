@@ -20,9 +20,9 @@ open.u-p.pw:6969
 opentracker.i2p.rocks:6969
 opentracker.io:6969
 p4p.arenabg.com:1337
+public.tracker.vraphim.com:6969
 retracker01-msk-virt.corbina.net:80
 run-2.publictracker.xyz:6969
-ryjer.com:6969
 sanincode.com:6969
 su-data.com:6969
 tamas3.ynh.fr:6969
@@ -35,6 +35,7 @@ tracker.ccp.ovh:6969
 tracker.cubonegro.lol:6969
 tracker.dler.org:6969
 tracker.filemail.com:6969
+tracker.moeking.me:6969
 tracker.openbittorrent.com:6969
 tracker.opentrackr.org:1337
 tracker.qu.ax:6969
