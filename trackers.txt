@@ -4,6 +4,7 @@ aarsen.me:6969
 acxx.de:6969
 bt.ktrackers.com:6666
 bt1.archive.org:6969
+bt2.archive.org:6969
 carr.codes:6969
 epider.me:6969
 exodus.desync.com:6969
@@ -20,7 +21,6 @@ opentracker.io:6969
 p4p.arenabg.com:1337
 retracker01-msk-virt.corbina.net:80
 run-2.publictracker.xyz:6969
-run.publictracker.xyz:6969
 ryjer.com:6969
 sanincode.com:6969
 su-data.com:6969
@@ -51,3 +51,4 @@ ts.populargamers.co.za:6969
 uploads.gamecoast.net:6969
 v2.iperson.xyz:6969
 wepzone.net:6969
+yahor.of.by:6969
