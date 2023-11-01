@@ -23,6 +23,7 @@ opentracker.io:6969
 p4p.arenabg.com:1337
 retracker01-msk-virt.corbina.net:80
 run.publictracker.xyz:6969
+ryjer.com:6969
 sanincode.com:6969
 su-data.com:6969
 tamas3.ynh.fr:6969
@@ -50,5 +51,6 @@ tracker1.bt.moack.co.kr:80
 tracker1.myporn.club:9337
 tracker2.dler.org:80
 uploads.gamecoast.net:6969
+v2.iperson.xyz:6969
 wepzone.net:6969
 yahor.of.by:6969
