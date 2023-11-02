@@ -2,7 +2,6 @@
 6.pocketnet.app:6969
 aarsen.me:6969
 acxx.de:6969
-bt.ktrackers.com:6666
 bt1.archive.org:6969
 bt2.archive.org:6969
 carr.codes:6969
@@ -15,6 +14,7 @@ new-line.net:6969
 oh.fuuuuuck.com:6969
 open.demonii.com:1337
 open.dstud.io:6969
+open.stealth.si:80
 open.tracker.cl:1337
 open.u-p.pw:6969
 opentracker.i2p.rocks:6969
@@ -38,7 +38,6 @@ tracker.farted.net:6969
 tracker.filemail.com:6969
 tracker.openbittorrent.com:6969
 tracker.opentrackr.org:1337
-tracker.publictracker.xyz:6969
 tracker.qu.ax:6969
 tracker.srv00.com:6969
 tracker.t-rb.org:6969
@@ -51,3 +50,4 @@ tracker2.dler.org:80
 uploads.gamecoast.net:6969
 v2.iperson.xyz:6969
 wepzone.net:6969
+yahor.of.by:6969
