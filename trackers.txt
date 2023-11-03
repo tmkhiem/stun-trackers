@@ -17,6 +17,7 @@ open.dstud.io:6969
 open.stealth.si:80
 open.tracker.cl:1337
 open.u-p.pw:6969
+opentracker.i2p.rocks:6969
 opentracker.io:6969
 p4p.arenabg.com:1337
 retracker01-msk-virt.corbina.net:80
