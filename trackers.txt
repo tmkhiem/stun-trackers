@@ -1,7 +1,7 @@
-1c.premierzal.ru:6969
 6.pocketnet.app:6969
 aarsen.me:6969
 acxx.de:6969
+bt.ktrackers.com:6666
 bt1.archive.org:6969
 bt2.archive.org:6969
 carr.codes:6969
@@ -9,7 +9,9 @@ epider.me:6969
 exodus.desync.com:6969
 free.publictracker.xyz:6969
 movies.zsw.ca:6969
+new-line.net:6969
 oh.fuuuuuck.com:6969
+open.demonii.com:1337
 open.dstud.io:6969
 open.free-tracker.ga:6969
 open.stealth.si:80
