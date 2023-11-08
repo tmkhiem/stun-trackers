@@ -1,6 +1,5 @@
 iphone-stun.strato-iphone.de:3478
 stun.12connect.com:3478
-stun.12voip.com:3478
 stun.1und1.de:3478
 stun.aa.net.uk:3478
 stun.acrobits.cz:3478
@@ -30,7 +29,6 @@ stun.gmx.net:3478
 stun.halonet.pl:3478
 stun.hoiio.com:3478
 stun.infra.net:3478
-stun.internetcalls.com:3478
 stun.intervoip.com:3478
 stun.ippi.fr:3478
 stun.ipshka.com:3478
