@@ -9,6 +9,7 @@ carr.codes:6969
 epider.me:6969
 exodus.desync.com:6969
 free.publictracker.xyz:6969
+mail.segso.net:6969
 moonburrow.club:6969
 movies.zsw.ca:6969
 new-line.net:6969
