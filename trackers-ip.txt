@@ -9,7 +9,6 @@ acxx.de:6969:
 aegir.sexy:6969:
 boysbitte.be:6969:
 bt.ktrackers.com:6666:
-51.159.54.68:6666
 bt1.archive.org:6969:
 207.241.226.111:6969
 bt2.archive.org:6969:
@@ -59,6 +58,7 @@ retracker01-msk-virt.corbina.net:80:
 83.102.180.21:80
 run.publictracker.xyz:6969:
 ryjer.com:6969:
+82.156.24.219:6969
 sanincode.com:6969:
 95.31.11.224:6969
 su-data.com:6969:
@@ -85,10 +85,10 @@ tracker.ccp.ovh:6969:
 tracker.cubonegro.lol:6969:
 38.7.201.142:6969
 tracker.dler.org:6969:
-61.222.178.254:6969
-211.75.29.254:6969
 61.216.149.33:6969
+211.75.29.254:6969
 220.130.15.30:6969
+61.222.178.254:6969
 tracker.dump.cl:6969:
 35.227.12.84:6969
 34.94.213.23:6969
@@ -101,7 +101,6 @@ tracker.openbittorrent.com:6969:
 tracker.opentrackr.org:1337:
 93.158.213.92:1337
 tracker.publictracker.xyz:6969:
-107.189.5.254:6969
 tracker.qu.ax:6969:
 45.95.232.15:6969
 tracker.skynetcloud.site:6969:
@@ -121,7 +120,6 @@ tracker.torrent.eu.org:451:
 tracker1.bt.moack.co.kr:80:
 156.234.201.18:80
 tracker1.myporn.club:9337:
-193.42.111.57:9337
 tracker2.dler.org:80:
 163.172.29.130:80
 uploads.gamecoast.net:6969:
@@ -131,3 +129,4 @@ v2.iperson.xyz:6969:
 x.paranoid.agency:6969:
 x.t-1.org:6969:
 yahor.of.by:6969:
+86.57.161.157:6969
