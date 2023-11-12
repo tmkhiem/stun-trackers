@@ -42,13 +42,13 @@ tracker.farted.net:6969
 tracker.filemail.com:6969
 tracker.openbittorrent.com:6969
 tracker.opentrackr.org:1337
-tracker.publictracker.xyz:6969
 tracker.qu.ax:6969
 tracker.srv00.com:6969
 tracker.t-rb.org:6969
 tracker.theoks.net:6969
 tracker.therarbg.com:6969
 tracker.tiny-vps.com:6969
+tracker.torrent.eu.org:451
 tracker1.bt.moack.co.kr:80
 tracker1.myporn.club:9337
 tracker2.dler.org:80
