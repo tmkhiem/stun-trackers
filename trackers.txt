@@ -4,6 +4,7 @@ aarsen.me:6969
 acxx.de:6969
 bt.ktrackers.com:6666
 bt1.archive.org:6969
+bt2.archive.org:6969
 carr.codes:6969
 epider.me:6969
 exodus.desync.com:6969
@@ -53,3 +54,4 @@ tracker1.myporn.club:9337
 tracker2.dler.org:80
 uploads.gamecoast.net:6969
 v2.iperson.xyz:6969
+yahor.of.by:6969
