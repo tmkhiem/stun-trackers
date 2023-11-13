@@ -5,7 +5,6 @@ acxx.de:6969
 bittorrent-tracker.e-n-c-r-y-p-t.net:1337
 bt.ktrackers.com:6666
 bt1.archive.org:6969
-bt2.archive.org:6969
 carr.codes:6969
 epider.me:6969
 exodus.desync.com:6969
