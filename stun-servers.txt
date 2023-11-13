@@ -88,7 +88,6 @@ stun.voip.aebc.com:3478
 stun.voip.blackberry.com:3478
 stun.voip.eutelia.it:3478
 stun.voipblast.com:3478
-stun.voipbuster.com:3478
 stun.voipbusterpro.com:3478
 stun.voipcheap.co.uk:3478
 stun.voipcheap.com:3478
