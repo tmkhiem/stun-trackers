@@ -14,7 +14,6 @@ moonburrow.club:6969
 movies.zsw.ca:6969
 new-line.net:6969
 oh.fuuuuuck.com:6969
-open.demonii.com:1337
 open.dstud.io:6969
 open.stealth.si:80
 open.u-p.pw:6969
@@ -54,5 +53,4 @@ tracker1.bt.moack.co.kr:80
 tracker1.myporn.club:9337
 tracker2.dler.org:80
 uploads.gamecoast.net:6969
-v2.iperson.xyz:6969
 wepzone.net:6969
