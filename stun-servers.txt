@@ -52,12 +52,12 @@ stun.ozekiphone.com:3478
 stun.phone.com:3478
 stun.pjsip.org:3478
 stun.poivy.com:3478
+stun.powerpbx.org:3478
 stun.powervoip.com:3478
 stun.ppdi.com:3478
 stun.qq.com:3478
 stun.rockenstein.de:3478
 stun.rolmail.net:3478
-stun.rynga.com:3478
 stun.schlund.de:3478
 stun.sigmavoip.com:3478
 stun.sip.us:3478
@@ -84,7 +84,6 @@ stun.uls.co.za:3478
 stun.usfamily.net:3478
 stun.vivox.com:3478
 stun.vo.lu:3478
-stun.voicetrading.com:3478
 stun.voip.aebc.com:3478
 stun.voip.blackberry.com:3478
 stun.voip.eutelia.it:3478
