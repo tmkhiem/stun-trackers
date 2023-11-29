@@ -102,6 +102,7 @@ stun.voippro.com:3478
 stun.voipraider.com:3478
 stun.voipstunt.com:3478
 stun.voipwise.com:3478
+stun.voipzoom.com:3478
 stun.voys.nl:3478
 stun.voztele.com:3478
 stun.webcalldirect.com:3478
