@@ -1,5 +1,4 @@
 1c.premierzal.ru:6969
-6.pocketnet.app:6969
 aarsen.me:6969
 acxx.de:6969
 bt.ktrackers.com:6666
@@ -20,10 +19,10 @@ open.stealth.si:80
 open.u-p.pw:6969
 opentracker.i2p.rocks:6969
 opentracker.io:6969
+p4p.arenabg.com:1337
 private.anonseed.com:6969
 retracker01-msk-virt.corbina.net:80
 run.publictracker.xyz:6969
-ryjer.com:6969
 su-data.com:6969
 tamas3.ynh.fr:6969
 thouvenin.cloud:6969
@@ -31,11 +30,11 @@ tracker-udp.gbitt.info:80
 tracker.0x7c0.com:6969
 tracker.4.babico.name.tr:3131
 tracker.ccp.ovh:6969
-tracker.cubonegro.lol:6969
 tracker.dler.org:6969
 tracker.dump.cl:6969
 tracker.farted.net:6969
 tracker.filemail.com:6969
+tracker.openbittorrent.com:6969
 tracker.opentrackr.org:1337
 tracker.qu.ax:6969
 tracker.srv00.com:6969
@@ -50,3 +49,4 @@ tracker2.dler.org:80
 uploads.gamecoast.net:6969
 v2.iperson.xyz:6969
 wepzone.net:6969
+yahor.of.by:6969
