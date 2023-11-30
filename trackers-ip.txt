@@ -56,6 +56,7 @@ p4p.arenabg.com:1337:
 private.anonseed.com:6969:
 168.235.69.112:6969
 public.tracker.vraphim.com:6969:
+51.15.41.46:6969
 retracker01-msk-virt.corbina.net:80:
 83.102.180.21:80
 run.publictracker.xyz:6969:
@@ -67,7 +68,6 @@ su-data.com:6969:
 tamas3.ynh.fr:6969:
 176.31.250.174:6969
 thouvenin.cloud:6969:
-5.196.89.204:6969
 torrents.artixlinux.org:6969:
 tracker-udp.gbitt.info:80:
 109.201.134.183:80
@@ -87,12 +87,15 @@ tracker.dler.org:6969:
 220.130.15.30:6969
 tracker.dump.cl:6969:
 34.94.213.23:6969
+35.227.12.84:6969
 tracker.farted.net:6969:
 85.239.33.28:6969
 tracker.filemail.com:6969:
 52.58.128.163:6969
 tracker.openbittorrent.com:6969:
+193.189.100.190:6969
 193.189.100.186:6969
+193.189.100.188:6969
 193.189.100.187:6969
 tracker.opentrackr.org:1337:
 93.158.213.92:1337
@@ -110,6 +113,7 @@ tracker.therarbg.com:6969:
 tracker.tiny-vps.com:6969:
 185.50.159.149:6969
 tracker.torrent.eu.org:451:
+91.216.110.52:451
 89.234.156.205:451
 tracker1.bt.moack.co.kr:80:
 156.234.201.18:80
