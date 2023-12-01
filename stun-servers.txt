@@ -8,6 +8,7 @@ stun.actionvoip.com:3478
 stun.annatel.net:3478
 stun.antisip.com:3478
 stun.avigora.fr:3478
+stun.bluesip.net:3478
 stun.cablenet-as.net:3478
 stun.callromania.ro:3478
 stun.cheapvoip.com:3478
@@ -20,15 +21,17 @@ stun.dus.net:3478
 stun.easybell.de:3478
 stun.easyvoip.com:3478
 stun.ekiga.net:3478
+stun.epygi.com:3478
 stun.freecall.com:3478
 stun.freeswitch.org:3478
 stun.freevoipdeal.com:3478
 stun.gmx.de:3478
 stun.gmx.net:3478
 stun.halonet.pl:3478
-stun.infra.net:3478
+stun.hoiio.com:3478
 stun.internetcalls.com:3478
 stun.intervoip.com:3478
+stun.ippi.fr:3478
 stun.ipshka.com:3478
 stun.it1.hr:3478
 stun.jumblo.com:3478
@@ -37,7 +40,9 @@ stun.l.google.com:19302
 stun.linphone.org:3478
 stun.liveo.fr:3478
 stun.lowratevoip.com:3478
+stun.miwifi.com:3478
 stun.myvoiptraffic.com:3478
+stun.mywatson.it:3478
 stun.netappel.com:3478
 stun.netgsm.com.tr:3478
 stun.nfon.net:3478
@@ -61,6 +66,7 @@ stun.sipgate.net:3478
 stun.siplogin.de:3478
 stun.sippeer.dk:3478
 stun.siptraffic.com:3478
+stun.sma.de:3478
 stun.smartvoip.com:3478
 stun.smsdiscount.com:3478
 stun.solcon.nl:3478
@@ -73,6 +79,7 @@ stun.tel.lu:3478
 stun.telbo.com:3478
 stun.tng.de:3478
 stun.twt.it:3478
+stun.uls.co.za:3478
 stun.usfamily.net:3478
 stun.vivox.com:3478
 stun.vo.lu:3478
@@ -85,7 +92,6 @@ stun.voipbuster.com:3478
 stun.voipbusterpro.com:3478
 stun.voipcheap.co.uk:3478
 stun.voipcheap.com:3478
-stun.voipfibre.com:3478
 stun.voipgain.com:3478
 stun.voipgate.com:3478
 stun.voipinfocenter.com:3478
