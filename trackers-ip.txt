@@ -5,6 +5,7 @@
 aarsen.me:6969:
 51.15.79.209:6969
 acxx.de:6969:
+37.187.111.136:6969
 aegir.sexy:6969:
 bittorrent-tracker.e-n-c-r-y-p-t.net:1337:
 bt.ktrackers.com:6666:
@@ -40,6 +41,7 @@ open.demonii.com:1337:
 open.dstud.io:6969:
 179.43.155.30:6969
 open.free-tracker.ga:6969:
+34.94.213.23:6969
 35.227.12.84:6969
 open.stealth.si:80:
 185.243.218.213:80
@@ -84,9 +86,9 @@ tracker.cubonegro.lol:6969:
 38.7.201.142:6969
 tracker.dler.org:6969:
 61.222.178.254:6969
+61.216.149.33:6969
 220.130.15.30:6969
 211.75.29.254:6969
-61.216.149.33:6969
 tracker.dump.cl:6969:
 35.227.12.84:6969
 34.94.213.23:6969
@@ -96,10 +98,13 @@ tracker.filemail.com:6969:
 52.58.128.163:6969
 tracker.moeking.me:6969:
 tracker.openbittorrent.com:6969:
+193.189.100.187:6969
+193.189.100.189:6969
+193.189.100.188:6969
+193.189.100.190:6969
 tracker.opentrackr.org:1337:
 93.158.213.92:1337
 tracker.publictracker.xyz:6969:
-107.189.5.254:6969
 tracker.qu.ax:6969:
 116.203.107.12:6969
 tracker.skynetcloud.site:6969:
@@ -114,11 +119,11 @@ tracker.therarbg.com:6969:
 tracker.tiny-vps.com:6969:
 185.50.159.149:6969
 tracker.torrent.eu.org:451:
-91.216.110.52:451
+91.216.110.53:451
+89.234.156.205:451
 tracker1.bt.moack.co.kr:80:
 156.234.201.18:80
 tracker1.myporn.club:9337:
-193.42.111.57:9337
 tracker2.dler.org:80:
 163.172.29.130:80
 ts.populargamers.co.za:6969:
