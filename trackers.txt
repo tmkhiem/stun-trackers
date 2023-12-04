@@ -53,7 +53,6 @@ tracker.tryhackx.org:6969
 tracker1.bt.moack.co.kr:80
 tracker1.myporn.club:9337
 tracker2.dler.org:80
-ts.populargamers.co.za:6969
 uploads.gamecoast.net:6969
 v2.iperson.xyz:6969
 wepzone.net:6969
