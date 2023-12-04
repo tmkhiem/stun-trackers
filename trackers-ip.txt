@@ -82,8 +82,8 @@ tracker.4.babico.name.tr:3131:
 tracker.anima.nz:6969:
 tracker.artixlinux.org:6969:
 tracker.bittor.pw:1337:
-35.227.12.84:1337
 34.94.213.23:1337
+35.227.12.84:1337
 tracker.ccp.ovh:6969:
 51.81.222.188:6969
 tracker.cubonegro.lol:6969:
@@ -94,8 +94,8 @@ tracker.dler.org:6969:
 61.222.178.254:6969
 220.130.15.30:6969
 tracker.dump.cl:6969:
-35.227.12.84:6969
 34.94.213.23:6969
+35.227.12.84:6969
 tracker.edkj.club:6969:
 15.204.57.168:6969
 tracker.filemail.com:6969:
@@ -104,13 +104,13 @@ tracker.fnix.net:6969:
 tracker.iperson.xyz:6969:
 45.152.84.245:6969
 tracker.openbittorrent.com:6969:
+193.189.100.188:6969
 193.189.100.187:6969
-193.189.100.186:6969
-193.189.100.189:6969
 193.189.100.190:6969
 tracker.opentrackr.org:1337:
 93.158.213.92:1337
 tracker.publictracker.xyz:6969:
+107.189.5.254:6969
 tracker.qu.ax:6969:
 116.203.107.12:6969
 tracker.skynetcloud.site:6969:
@@ -125,7 +125,7 @@ tracker.therarbg.com:6969:
 tracker.tiny-vps.com:6969:
 185.50.159.149:6969
 tracker.torrent.eu.org:451:
-89.234.156.205:451
+91.216.110.52:451
 tracker.tryhackx.org:6969:
 135.125.202.143:6969
 tracker1.bt.moack.co.kr:80:
@@ -144,3 +144,4 @@ wepzone.net:6969:
 x.paranoid.agency:6969:
 x.t-1.org:6969:
 yahor.of.by:6969:
+86.57.161.157:6969
