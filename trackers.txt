@@ -43,7 +43,6 @@ tracker.filemail.com:6969
 tracker.iperson.xyz:6969
 tracker.openbittorrent.com:6969
 tracker.opentrackr.org:1337
-tracker.publictracker.xyz:6969
 tracker.qu.ax:6969
 tracker.srv00.com:6969
 tracker.t-rb.org:6969
@@ -58,4 +57,3 @@ tracker2.dler.org:80
 uploads.gamecoast.net:6969
 v2.iperson.xyz:6969
 wepzone.net:6969
-yahor.of.by:6969
