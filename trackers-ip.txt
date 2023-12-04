@@ -5,6 +5,7 @@
 aarsen.me:6969:
 51.15.79.209:6969
 acxx.de:6969:
+37.187.111.136:6969
 aegir.sexy:6969:
 bittorrent-tracker.e-n-c-r-y-p-t.net:1337:
 bt.ktrackers.com:6666:
@@ -29,8 +30,8 @@ free.publictracker.xyz:6969:
 15.204.205.14:6969
 hz.is:1337:
 isk.richardsw.club:6969:
-34.94.213.23:6969
 35.227.12.84:6969
+34.94.213.23:6969
 mail.artixlinux.org:6969:
 moonburrow.club:6969:
 167.99.185.219:6969
@@ -45,7 +46,6 @@ open.demonii.com:1337:
 open.dstud.io:6969:
 179.43.155.30:6969
 open.free-tracker.ga:6969:
-34.94.213.23:6969
 35.227.12.84:6969
 open.stealth.si:80:
 185.243.218.213:80
@@ -61,9 +61,7 @@ private.anonseed.com:6969:
 retracker01-msk-virt.corbina.net:80:
 83.102.180.21:80
 run.publictracker.xyz:6969:
-62.233.57.13:6969
 ryjer.com:6969:
-82.156.24.219:6969
 sanincode.com:6969:
 95.31.11.224:6969
 tamas3.ynh.fr:6969:
@@ -88,8 +86,8 @@ tracker.cubonegro.lol:6969:
 38.7.201.142:6969
 tracker.dler.org:6969:
 211.75.29.254:6969
-220.130.15.30:6969
 61.216.149.33:6969
+220.130.15.30:6969
 61.222.178.254:6969
 tracker.dump.cl:6969:
 34.94.213.23:6969
@@ -102,9 +100,10 @@ tracker.fnix.net:6969:
 tracker.iperson.xyz:6969:
 45.152.84.245:6969
 tracker.openbittorrent.com:6969:
-193.189.100.186:6969
 193.189.100.187:6969
+193.189.100.189:6969
 193.189.100.190:6969
+193.189.100.186:6969
 tracker.opentrackr.org:1337:
 93.158.213.92:1337
 tracker.publictracker.xyz:6969:
@@ -122,7 +121,6 @@ tracker.therarbg.com:6969:
 tracker.tiny-vps.com:6969:
 185.50.159.149:6969
 tracker.torrent.eu.org:451:
-91.216.110.52:451
 tracker.tryhackx.org:6969:
 135.125.202.143:6969
 tracker1.bt.moack.co.kr:80:
@@ -141,3 +139,4 @@ wepzone.net:6969:
 x.paranoid.agency:6969:
 x.t-1.org:6969:
 yahor.of.by:6969:
+86.57.161.157:6969
