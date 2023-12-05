@@ -11,6 +11,7 @@ bittorrent-tracker.e-n-c-r-y-p-t.net:1337:
 bt.ktrackers.com:6666:
 51.159.54.68:6666
 bt.rer.lol:2710:
+27.151.85.47:2710
 bt1.archive.org:6969:
 207.241.226.111:6969
 bt2.archive.org:6969:
@@ -52,7 +53,6 @@ open.stealth.si:80:
 opentracker.i2p.rocks:6969:
 102.223.180.235:6969
 opentracker.io:6969:
-45.9.60.30:6969
 p4p.arenabg.com:1337:
 185.230.4.150:1337
 private.anonseed.com:6969:
@@ -82,8 +82,8 @@ tracker.4.babico.name.tr:3131:
 tracker.anima.nz:6969:
 tracker.artixlinux.org:6969:
 tracker.bittor.pw:1337:
-35.227.12.84:1337
 34.94.213.23:1337
+35.227.12.84:1337
 tracker.ccp.ovh:6969:
 51.81.222.188:6969
 tracker.cubonegro.lol:6969:
@@ -104,9 +104,8 @@ tracker.fnix.net:6969:
 tracker.iperson.xyz:6969:
 45.152.84.245:6969
 tracker.openbittorrent.com:6969:
-193.189.100.189:6969
-193.189.100.187:6969
 193.189.100.188:6969
+193.189.100.187:6969
 tracker.opentrackr.org:1337:
 93.158.213.92:1337
 tracker.qu.ax:6969:
@@ -123,8 +122,7 @@ tracker.therarbg.com:6969:
 tracker.tiny-vps.com:6969:
 185.50.159.149:6969
 tracker.torrent.eu.org:451:
-89.234.156.205:451
-91.216.110.53:451
+91.216.110.52:451
 tracker.tryhackx.org:6969:
 135.125.202.143:6969
 tracker1.bt.moack.co.kr:80:
@@ -136,7 +134,6 @@ tracker2.dler.org:80:
 uploads.gamecoast.net:6969:
 185.102.219.163:6969
 v2.iperson.xyz:6969:
-45.152.84.245:6969
 wepzone.net:6969:
 83.31.30.249:6969
 x.paranoid.agency:6969:
