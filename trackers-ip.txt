@@ -11,6 +11,7 @@ bittorrent-tracker.e-n-c-r-y-p-t.net:1337:
 bt.ktrackers.com:6666:
 51.159.54.68:6666
 bt.rer.lol:2710:
+27.151.85.47:2710
 bt1.archive.org:6969:
 207.241.226.111:6969
 bt2.archive.org:6969:
@@ -30,7 +31,6 @@ free.publictracker.xyz:6969:
 hz.is:1337:
 isk.richardsw.club:6969:
 34.94.213.23:6969
-35.227.12.84:6969
 mail.artixlinux.org:6969:
 moonburrow.club:6969:
 167.99.185.219:6969
@@ -48,7 +48,6 @@ open.free-tracker.ga:6969:
 34.94.213.23:6969
 35.227.12.84:6969
 open.stealth.si:80:
-185.243.218.213:80
 opentracker.i2p.rocks:6969:
 102.223.180.235:6969
 opentracker.io:6969:
@@ -63,6 +62,7 @@ retracker01-msk-virt.corbina.net:80:
 run.publictracker.xyz:6969:
 62.233.57.13:6969
 ryjer.com:6969:
+82.156.24.219:6969
 sanincode.com:6969:
 95.31.11.224:6969
 tamas3.ynh.fr:6969:
@@ -81,20 +81,20 @@ tracker.4.babico.name.tr:3131:
 tracker.anima.nz:6969:
 tracker.artixlinux.org:6969:
 tracker.bittor.pw:1337:
-35.227.12.84:1337
 34.94.213.23:1337
+35.227.12.84:1337
 tracker.ccp.ovh:6969:
 51.81.222.188:6969
 tracker.cubonegro.lol:6969:
 38.7.201.142:6969
 tracker.dler.org:6969:
-220.130.15.30:6969
-61.222.178.254:6969
 211.75.29.254:6969
+61.222.178.254:6969
 61.216.149.33:6969
+220.130.15.30:6969
 tracker.dump.cl:6969:
-35.227.12.84:6969
 34.94.213.23:6969
+35.227.12.84:6969
 tracker.edkj.club:6969:
 15.204.57.168:6969
 tracker.filemail.com:6969:
@@ -103,7 +103,7 @@ tracker.fnix.net:6969:
 tracker.iperson.xyz:6969:
 45.152.84.245:6969
 tracker.openbittorrent.com:6969:
-193.189.100.188:6969
+193.189.100.190:6969
 193.189.100.186:6969
 tracker.opentrackr.org:1337:
 93.158.213.92:1337
