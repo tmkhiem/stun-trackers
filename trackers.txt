@@ -3,6 +3,7 @@
 aarsen.me:6969
 acxx.de:6969
 bt.ktrackers.com:6666
+bt.rer.lol:2710
 bt1.archive.org:6969
 bt2.archive.org:6969
 carr.codes:6969
@@ -15,7 +16,6 @@ movies.zsw.ca:6969
 new-line.net:6969
 oh.fuuuuuck.com:6969
 open.demonii.com:1337
-open.dstud.io:6969
 open.free-tracker.ga:6969
 open.stealth.si:80
 opentracker.i2p.rocks:6969
@@ -26,6 +26,7 @@ retracker01-msk-virt.corbina.net:80
 run.publictracker.xyz:6969
 ryjer.com:6969
 sanincode.com:6969
+tamas3.ynh.fr:6969
 thinking.duckdns.org:6969
 thouvenin.cloud:6969
 tracker-udp.gbitt.info:80
@@ -55,4 +56,3 @@ tracker2.dler.org:80
 uploads.gamecoast.net:6969
 v2.iperson.xyz:6969
 wepzone.net:6969
-yahor.of.by:6969
