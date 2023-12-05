@@ -1,7 +1,6 @@
 1c.premierzal.ru:6969:
 5.102.159.190:6969
 6.pocketnet.app:6969:
-23.254.228.89:6969
 aarsen.me:6969:
 51.15.79.209:6969
 acxx.de:6969:
@@ -30,8 +29,8 @@ free.publictracker.xyz:6969:
 15.204.205.14:6969
 hz.is:1337:
 isk.richardsw.club:6969:
-35.227.12.84:6969
 34.94.213.23:6969
+35.227.12.84:6969
 mail.artixlinux.org:6969:
 moonburrow.club:6969:
 167.99.185.219:6969
@@ -53,6 +52,7 @@ open.stealth.si:80:
 opentracker.i2p.rocks:6969:
 102.223.180.235:6969
 opentracker.io:6969:
+45.9.60.30:6969
 p4p.arenabg.com:1337:
 185.230.4.150:1337
 private.anonseed.com:6969:
@@ -89,10 +89,10 @@ tracker.ccp.ovh:6969:
 tracker.cubonegro.lol:6969:
 38.7.201.142:6969
 tracker.dler.org:6969:
-61.222.178.254:6969
+220.130.15.30:6969
 211.75.29.254:6969
 61.216.149.33:6969
-220.130.15.30:6969
+61.222.178.254:6969
 tracker.dump.cl:6969:
 35.227.12.84:6969
 34.94.213.23:6969
@@ -102,10 +102,10 @@ tracker.filemail.com:6969:
 52.58.128.163:6969
 tracker.fnix.net:6969:
 tracker.iperson.xyz:6969:
-45.152.84.245:6969
 tracker.openbittorrent.com:6969:
+193.189.100.186:6969
+193.189.100.189:6969
 193.189.100.188:6969
-193.189.100.187:6969
 tracker.opentrackr.org:1337:
 93.158.213.92:1337
 tracker.qu.ax:6969:
@@ -122,7 +122,8 @@ tracker.therarbg.com:6969:
 tracker.tiny-vps.com:6969:
 185.50.159.149:6969
 tracker.torrent.eu.org:451:
-91.216.110.52:451
+91.216.110.53:451
+89.234.156.205:451
 tracker.tryhackx.org:6969:
 135.125.202.143:6969
 tracker1.bt.moack.co.kr:80:
@@ -134,6 +135,7 @@ tracker2.dler.org:80:
 uploads.gamecoast.net:6969:
 185.102.219.163:6969
 v2.iperson.xyz:6969:
+45.152.84.245:6969
 wepzone.net:6969:
 83.31.30.249:6969
 x.paranoid.agency:6969:
