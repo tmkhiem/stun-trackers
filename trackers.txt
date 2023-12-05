@@ -16,6 +16,7 @@ movies.zsw.ca:6969
 new-line.net:6969
 oh.fuuuuuck.com:6969
 open.demonii.com:1337
+open.dstud.io:6969
 open.free-tracker.ga:6969
 open.stealth.si:80
 opentracker.i2p.rocks:6969
