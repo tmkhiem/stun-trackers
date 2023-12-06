@@ -2,6 +2,8 @@
 6.pocketnet.app:6969
 aarsen.me:6969
 acxx.de:6969
+bt.ktrackers.com:6666
+bt.rer.lol:2710
 bt1.archive.org:6969
 bt2.archive.org:6969
 carr.codes:6969
@@ -38,7 +40,6 @@ tracker.dump.cl:6969
 tracker.edkj.club:6969
 tracker.filemail.com:6969
 tracker.iperson.xyz:6969
-tracker.moeking.me:6969
 tracker.openbittorrent.com:6969
 tracker.opentrackr.org:1337
 tracker.qu.ax:6969
@@ -55,4 +56,3 @@ tracker2.dler.org:80
 uploads.gamecoast.net:6969
 v2.iperson.xyz:6969
 wepzone.net:6969
-yahor.of.by:6969
