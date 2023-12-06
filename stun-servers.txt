@@ -1,7 +1,8 @@
-iphone-stun.strato-iphone.de:3478
+numb.viagenie.ca:3478
 stun.12connect.com:3478
 stun.12voip.com:3478
 stun.1und1.de:3478
+stun.2talk.co.nz:3478
 stun.aa.net.uk:3478
 stun.acrobits.cz:3478
 stun.actionvoip.com:3478
@@ -90,7 +91,6 @@ stun.voip.blackberry.com:3478
 stun.voip.eutelia.it:3478
 stun.voipblast.com:3478
 stun.voipbuster.com:3478
-stun.voipbusterpro.com:3478
 stun.voipcheap.co.uk:3478
 stun.voipcheap.com:3478
 stun.voipfibre.com:3478
