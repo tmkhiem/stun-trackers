@@ -30,8 +30,8 @@ free.publictracker.xyz:6969:
 15.204.205.14:6969
 hz.is:1337:
 isk.richardsw.club:6969:
-35.227.12.84:6969
 34.94.213.23:6969
+35.227.12.84:6969
 mail.artixlinux.org:6969:
 moonburrow.club:6969:
 167.99.185.219:6969
@@ -90,8 +90,8 @@ tracker.cubonegro.lol:6969:
 38.7.201.142:6969
 tracker.dler.org:6969:
 61.216.149.33:6969
-61.222.178.254:6969
 220.130.15.30:6969
+61.222.178.254:6969
 211.75.29.254:6969
 tracker.dump.cl:6969:
 34.94.213.23:6969
@@ -121,8 +121,8 @@ tracker.therarbg.com:6969:
 tracker.tiny-vps.com:6969:
 185.50.159.149:6969
 tracker.torrent.eu.org:451:
+91.216.110.52:451
 89.234.156.205:451
-91.216.110.53:451
 tracker.tryhackx.org:6969:
 135.125.202.143:6969
 tracker1.bt.moack.co.kr:80:
