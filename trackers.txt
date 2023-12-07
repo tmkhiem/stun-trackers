@@ -11,6 +11,7 @@ epider.me:6969
 exodus.desync.com:6969
 free.publictracker.xyz:6969
 isk.richardsw.club:6969
+moonburrow.club:6969
 movies.zsw.ca:6969
 new-line.net:6969
 oh.fuuuuuck.com:6969
@@ -56,4 +57,3 @@ tracker2.dler.org:80
 uploads.gamecoast.net:6969
 v2.iperson.xyz:6969
 wepzone.net:6969
-yahor.of.by:6969
