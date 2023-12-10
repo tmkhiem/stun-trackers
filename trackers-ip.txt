@@ -37,7 +37,6 @@ oh.fuuuuuck.com:6969:
 open.demonii.com:1337:
 23.134.88.6:1337
 open.dstud.io:6969:
-179.43.155.30:6969
 open.free-tracker.ga:6969:
 34.94.213.23:6969
 35.227.12.84:6969
@@ -52,6 +51,7 @@ opentracker.io:6969:
 private.anonseed.com:6969:
 168.235.69.112:6969
 public.tracker.vraphim.com:6969:
+51.15.41.46:6969
 retracker01-msk-virt.corbina.net:80:
 83.102.180.21:80
 ryjer.com:6969:
@@ -74,16 +74,16 @@ tracker.4.babico.name.tr:3131:
 tracker.anima.nz:6969:
 tracker.artixlinux.org:6969:
 tracker.bittor.pw:1337:
-34.94.213.23:1337
 35.227.12.84:1337
+34.94.213.23:1337
 tracker.ccp.ovh:6969:
 51.81.222.188:6969
 tracker.cubonegro.lol:6969:
 38.7.201.142:6969
 tracker.dler.org:6969:
 220.130.15.30:6969
-61.216.149.33:6969
 211.75.29.254:6969
+61.216.149.33:6969
 61.222.178.254:6969
 tracker.edkj.club:6969:
 15.204.57.168:6969
@@ -92,8 +92,9 @@ tracker.filemail.com:6969:
 tracker.fnix.net:6969:
 tracker.iperson.xyz:6969:
 tracker.openbittorrent.com:6969:
-193.189.100.188:6969
 193.189.100.186:6969
+193.189.100.189:6969
+193.189.100.187:6969
 tracker.opentrackr.org:1337:
 93.158.213.92:1337
 tracker.qu.ax:6969:
@@ -113,7 +114,6 @@ tracker.tiny-vps.com:6969:
 185.50.159.149:6969
 tracker.torrent.eu.org:451:
 91.216.110.52:451
-89.234.156.205:451
 tracker.tryhackx.org:6969:
 135.125.202.143:6969
 tracker1.bt.moack.co.kr:80:
@@ -123,6 +123,7 @@ tracker1.myporn.club:9337:
 tracker2.dler.org:80:
 163.172.29.130:80
 ts.populargamers.co.za:6969:
+89.58.13.197:6969
 uploads.gamecoast.net:6969:
 185.102.219.163:6969
 v2.iperson.xyz:6969:
