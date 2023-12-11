@@ -11,12 +11,14 @@ stun.avigora.fr:3478
 stun.bluesip.net:3478
 stun.cablenet-as.net:3478
 stun.callromania.ro:3478
+stun.cheapvoip.com:3478
 stun.commpeak.com:3478
 stun.cope.es:3478
 stun.counterpath.com:3478
 stun.counterpath.net:3478
 stun.dcalling.de:3478
 stun.dus.net:3478
+stun.easybell.de:3478
 stun.easyvoip.com:3478
 stun.ekiga.net:3478
 stun.epygi.com:3478
@@ -90,8 +92,8 @@ stun.voipblast.com:3478
 stun.voipbuster.com:3478
 stun.voipbusterpro.com:3478
 stun.voipcheap.co.uk:3478
+stun.voipcheap.com:3478
 stun.voipfibre.com:3478
-stun.voipgain.com:3478
 stun.voipgate.com:3478
 stun.voipinfocenter.com:3478
 stun.voipplanet.nl:3478
