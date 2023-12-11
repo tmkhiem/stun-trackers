@@ -1,3 +1,4 @@
+1c.premierzal.ru:6969
 6.pocketnet.app:6969
 acxx.de:6969
 bt.ktrackers.com:6666
@@ -51,3 +52,4 @@ tracker1.myporn.club:9337
 tracker2.dler.org:80
 uploads.gamecoast.net:6969
 wepzone.net:6969
+yahor.of.by:6969
