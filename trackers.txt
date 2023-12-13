@@ -7,6 +7,7 @@ bt1.archive.org:6969
 bt2.archive.org:6969
 carr.codes:6969
 epider.me:6969
+exodus.desync.com:6969
 free.publictracker.xyz:6969
 isk.richardsw.club:6969
 moonburrow.club:6969
@@ -53,4 +54,5 @@ tracker1.bt.moack.co.kr:80
 tracker1.myporn.club:9337
 tracker2.dler.org:80
 uploads.gamecoast.net:6969
+wepzone.net:6969
 yahor.of.by:6969
