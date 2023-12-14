@@ -1,7 +1,6 @@
 1c.premierzal.ru:6969:
 5.102.159.190:6969
 6.pocketnet.app:6969:
-23.254.228.89:6969
 acxx.de:6969:
 37.187.111.136:6969
 aegir.sexy:6969:
@@ -13,7 +12,6 @@ bt.rer.lol:2710:
 bt1.archive.org:6969:
 207.241.226.111:6969
 bt2.archive.org:6969:
-207.241.231.226:6969
 carr.codes:6969:
 104.131.98.232:6969
 concen.org:6969:
@@ -45,8 +43,8 @@ open.demonii.com:1337:
 open.dstud.io:6969:
 179.43.155.30:6969
 open.free-tracker.ga:6969:
-35.227.12.84:6969
 34.94.213.23:6969
+35.227.12.84:6969
 open.stealth.si:80:
 185.243.218.213:80
 open.u-p.pw:6969:
@@ -86,19 +84,18 @@ tracker.ccp.ovh:6969:
 tracker.cubonegro.lol:6969:
 38.7.201.142:6969
 tracker.dler.org:6969:
-61.216.149.33:6969
-61.222.178.254:6969
-220.130.15.30:6969
 211.75.29.254:6969
+61.216.149.33:6969
+220.130.15.30:6969
+61.222.178.254:6969
 tracker.edkj.club:6969:
 15.204.57.168:6969
 tracker.filemail.com:6969:
 52.58.128.163:6969
 tracker.fnix.net:6969:
 tracker.openbittorrent.com:6969:
-193.189.100.188:6969
 193.189.100.187:6969
-193.189.100.189:6969
+193.189.100.190:6969
 tracker.opentrackr.org:1337:
 93.158.213.92:1337
 tracker.qu.ax:6969:
@@ -117,7 +114,7 @@ tracker.therarbg.to:6969:
 tracker.tiny-vps.com:6969:
 185.50.159.149:6969
 tracker.torrent.eu.org:451:
-91.216.110.53:451
+89.234.156.205:451
 91.216.110.52:451
 tracker.tryhackx.org:6969:
 135.125.202.143:6969
@@ -130,6 +127,6 @@ tracker2.dler.org:80:
 uploads.gamecoast.net:6969:
 185.102.219.163:6969
 wepzone.net:6969:
+83.31.218.243:6969
 x.t-1.org:6969:
 yahor.of.by:6969:
-86.57.161.157:6969
