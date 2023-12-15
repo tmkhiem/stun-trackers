@@ -27,8 +27,8 @@ free.publictracker.xyz:6969:
 15.204.205.14:6969
 hz.is:1337:
 isk.richardsw.club:6969:
-34.94.213.23:6969
 35.227.12.84:6969
+34.94.213.23:6969
 mail.artixlinux.org:6969:
 moonburrow.club:6969:
 167.99.185.219:6969
@@ -57,7 +57,6 @@ p4p.arenabg.com:1337:
 private.anonseed.com:6969:
 168.235.69.112:6969
 public.tracker.vraphim.com:6969:
-51.15.41.46:6969
 retracker01-msk-virt.corbina.net:80:
 83.102.180.21:80
 ryjer.com:6969:
@@ -84,19 +83,17 @@ tracker.ccp.ovh:6969:
 tracker.cubonegro.lol:6969:
 38.7.201.142:6969
 tracker.dler.org:6969:
-211.75.29.254:6969
-61.216.149.33:6969
 220.130.15.30:6969
+61.216.149.33:6969
 61.222.178.254:6969
+211.75.29.254:6969
 tracker.edkj.club:6969:
 15.204.57.168:6969
 tracker.filemail.com:6969:
 52.58.128.163:6969
 tracker.fnix.net:6969:
 tracker.openbittorrent.com:6969:
-193.189.100.190:6969
 193.189.100.188:6969
-193.189.100.186:6969
 tracker.opentrackr.org:1337:
 93.158.213.92:1337
 tracker.qu.ax:6969:
@@ -131,4 +128,3 @@ wepzone.net:6969:
 83.31.218.243:6969
 x.t-1.org:6969:
 yahor.of.by:6969:
-86.57.161.157:6969
