@@ -1,6 +1,5 @@
 iphone-stun.strato-iphone.de:3478
 stun.12connect.com:3478
-stun.12voip.com:3478
 stun.1und1.de:3478
 stun.aa.net.uk:3478
 stun.acrobits.cz:3478
@@ -68,7 +67,6 @@ stun.siplogin.de:3478
 stun.sippeer.dk:3478
 stun.siptraffic.com:3478
 stun.sma.de:3478
-stun.smartvoip.com:3478
 stun.smsdiscount.com:3478
 stun.solcon.nl:3478
 stun.solnet.ch:3478
@@ -105,7 +103,6 @@ stun.voipwise.com:3478
 stun.voipzoom.com:3478
 stun.voys.nl:3478
 stun.voztele.com:3478
-stun.webcalldirect.com:3478
 stun.zadarma.com:3478
 stun1.l.google.com:19302
 stun2.l.google.com:19302
