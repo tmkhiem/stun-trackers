@@ -34,7 +34,6 @@ tracker-udp.gbitt.info:80
 tracker.0x7c0.com:6969
 tracker.4.babico.name.tr:3131
 tracker.ccp.ovh:6969
-tracker.cubonegro.lol:6969
 tracker.dler.org:6969
 tracker.edkj.club:6969
 tracker.filemail.com:6969
@@ -53,4 +52,5 @@ tracker1.bt.moack.co.kr:80
 tracker1.myporn.club:9337
 tracker2.dler.org:80
 uploads.gamecoast.net:6969
+wepzone.net:6969
 yahor.of.by:6969
