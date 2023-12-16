@@ -1,10 +1,14 @@
 iphone-stun.strato-iphone.de:3478
+numb.viagenie.ca:3478
 stun.12connect.com:3478
 stun.12voip.com:3478
 stun.1und1.de:3478
+stun.2talk.co.nz:3478
+stun.2talk.com:3478
 stun.aa.net.uk:3478
 stun.acrobits.cz:3478
 stun.actionvoip.com:3478
+stun.advfn.com:3478
 stun.annatel.net:3478
 stun.antisip.com:3478
 stun.avigora.fr:3478
@@ -65,7 +69,6 @@ stun.sipdiscount.com:3478
 stun.sipgate.net:10000
 stun.sipgate.net:3478
 stun.siplogin.de:3478
-stun.sipnet.net:3478
 stun.sippeer.dk:3478
 stun.siptraffic.com:3478
 stun.sma.de:3478
