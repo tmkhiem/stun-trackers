@@ -2,6 +2,7 @@ iphone-stun.strato-iphone.de:3478
 stun.12connect.com:3478
 stun.12voip.com:3478
 stun.1und1.de:3478
+stun.aa.net.uk:3478
 stun.acrobits.cz:3478
 stun.actionvoip.com:3478
 stun.annatel.net:3478
@@ -12,12 +13,12 @@ stun.cablenet-as.net:3478
 stun.callromania.ro:3478
 stun.cheapvoip.com:3478
 stun.commpeak.com:3478
+stun.cope.es:3478
 stun.counterpath.com:3478
 stun.counterpath.net:3478
 stun.dcalling.de:3478
-stun.doublerobotics.com:3478
 stun.dus.net:3478
-stun.easycall.pl:3478
+stun.easybell.de:3478
 stun.easyvoip.com:3478
 stun.ekiga.net:3478
 stun.epygi.com:3478
@@ -65,6 +66,7 @@ stun.sipgate.net:10000
 stun.sipgate.net:3478
 stun.siplogin.de:3478
 stun.sippeer.dk:3478
+stun.siptraffic.com:3478
 stun.sma.de:3478
 stun.smartvoip.com:3478
 stun.smsdiscount.com:3478
