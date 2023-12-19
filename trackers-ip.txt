@@ -9,6 +9,7 @@ bittorrent-tracker.e-n-c-r-y-p-t.net:1337:
 bt.ktrackers.com:6666:
 51.159.54.68:6666
 bt.rer.lol:2710:
+27.151.84.163:2710
 bt1.archive.org:6969:
 207.241.226.111:6969
 bt2.archive.org:6969:
@@ -39,6 +40,7 @@ open.dstud.io:6969:
 179.43.155.30:6969
 open.free-tracker.ga:6969:
 34.94.213.23:6969
+35.227.12.84:6969
 open.stealth.si:80:
 185.243.218.213:80
 open.u-p.pw:6969:
@@ -54,6 +56,7 @@ private.anonseed.com:6969:
 retracker01-msk-virt.corbina.net:80:
 83.102.180.21:80
 ryjer.com:6969:
+82.156.24.219:6969
 sanincode.com:6969:
 95.31.11.224:6969
 tamas3.ynh.fr:6969:
@@ -76,10 +79,10 @@ tracker.ccp.ovh:6969:
 tracker.cubonegro.lol:6969:
 38.7.201.142:6969
 tracker.dler.org:6969:
+61.222.178.254:6969
+220.130.15.30:6969
 61.216.149.33:6969
 211.75.29.254:6969
-220.130.15.30:6969
-61.222.178.254:6969
 tracker.dump.cl:6969:
 34.94.213.23:6969
 35.227.12.84:6969
@@ -89,7 +92,6 @@ tracker.filemail.com:6969:
 52.58.128.163:6969
 tracker.fnix.net:6969:
 tracker.moeking.me:6969:
-107.189.11.58:6969
 tracker.opentrackr.org:1337:
 93.158.213.92:1337
 tracker.qu.ax:6969:
@@ -109,7 +111,6 @@ tracker.tiny-vps.com:6969:
 185.50.159.149:6969
 tracker.torrent.eu.org:451:
 91.216.110.53:451
-89.234.156.205:451
 tracker.tryhackx.org:6969:
 135.125.202.143:6969
 tracker1.bt.moack.co.kr:80:
@@ -121,5 +122,4 @@ tracker2.dler.org:80:
 uploads.gamecoast.net:6969:
 185.102.219.163:6969
 wepzone.net:6969:
-83.31.218.243:6969
 x.t-1.org:6969:
