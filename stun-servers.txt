@@ -1,10 +1,8 @@
 iphone-stun.strato-iphone.de:3478
 stun.12connect.com:3478
-stun.12voip.com:3478
 stun.1und1.de:3478
 stun.aa.net.uk:3478
 stun.acrobits.cz:3478
-stun.actionvoip.com:3478
 stun.annatel.net:3478
 stun.antisip.com:3478
 stun.avigora.fr:3478
@@ -94,12 +92,12 @@ stun.voipbusterpro.com:3478
 stun.voipcheap.co.uk:3478
 stun.voipcheap.com:3478
 stun.voipfibre.com:3478
-stun.voipgain.com:3478
 stun.voipgate.com:3478
 stun.voipinfocenter.com:3478
 stun.voipplanet.nl:3478
 stun.voippro.com:3478
 stun.voipraider.com:3478
+stun.voipstunt.com:3478
 stun.voipwise.com:3478
 stun.voipzoom.com:3478
 stun.voys.nl:3478
