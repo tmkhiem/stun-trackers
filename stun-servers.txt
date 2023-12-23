@@ -1,4 +1,3 @@
-iphone-stun.strato-iphone.de:3478
 stun.12connect.com:3478
 stun.12voip.com:3478
 stun.1und1.de:3478
