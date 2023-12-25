@@ -1,4 +1,5 @@
 stun.12connect.com:3478
+stun.12voip.com:3478
 stun.1und1.de:3478
 stun.aa.net.uk:3478
 stun.acrobits.cz:3478
