@@ -59,7 +59,6 @@ stun.rynga.com:3478
 stun.schlund.de:3478
 stun.sigmavoip.com:3478
 stun.sip.us:3478
-stun.sipdiscount.com:3478
 stun.sipgate.net:10000
 stun.sipgate.net:3478
 stun.siplogin.de:3478
@@ -82,7 +81,6 @@ stun.uls.co.za:3478
 stun.usfamily.net:3478
 stun.vivox.com:3478
 stun.vo.lu:3478
-stun.voicetrading.com:3478
 stun.voip.aebc.com:3478
 stun.voip.blackberry.com:3478
 stun.voip.eutelia.it:3478
@@ -103,6 +101,7 @@ stun.voipwise.com:3478
 stun.voipzoom.com:3478
 stun.voys.nl:3478
 stun.voztele.com:3478
+stun.webcalldirect.com:3478
 stun.zadarma.com:3478
 stun1.l.google.com:19302
 stun2.l.google.com:19302
