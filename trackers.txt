@@ -1,13 +1,11 @@
 1c.premierzal.ru:6969
 6.pocketnet.app:6969
-6ahddutb1ucc3cp.ru:6969
 acxx.de:6969
 bt.ktrackers.com:6666
 bt.rer.lol:2710
 bt1.archive.org:6969
 bt2.archive.org:6969
 carr.codes:6969
-exodus.desync.com:6969
 free.publictracker.xyz:6969
 moonburrow.club:6969
 movies.zsw.ca:6969
@@ -20,6 +18,7 @@ open.u-p.pw:6969
 opentracker.i2p.rocks:6969
 opentracker.io:6969
 p4p.arenabg.com:1337
+public.tracker.vraphim.com:6969
 retracker01-msk-virt.corbina.net:80
 ryjer.com:6969
 su-data.com:6969
@@ -30,6 +29,7 @@ tracker.0x7c0.com:6969
 tracker.cubonegro.lol:6969
 tracker.dler.org:6969
 tracker.edkj.club:6969
+tracker.filemail.com:6969
 tracker.opentrackr.org:1337
 tracker.qu.ax:6969
 tracker.srv00.com:6969
