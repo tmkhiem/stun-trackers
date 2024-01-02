@@ -20,7 +20,6 @@ carr.codes:6969:
 concen.org:6969:
 evan.im:6969:
 exodus.desync.com:6969:
-208.83.20.20:6969
 explodie.org:6969:
 fh2.cmp-gaming.com:6969:
 free.publictracker.xyz:6969:
@@ -50,6 +49,7 @@ opentracker.io:6969:
 p4p.arenabg.com:1337:
 185.230.4.150:1337
 public.tracker.vraphim.com:6969:
+51.15.41.46:6969
 retracker01-msk-virt.corbina.net:80:
 83.102.180.21:80
 ryjer.com:6969:
@@ -71,10 +71,10 @@ tracker.cubonegro.lol:6969:
 38.7.201.142:6969
 tracker.dler.org:6969:
 51.159.145.55:6969
-61.222.178.254:6969
 211.75.29.254:6969
 220.130.15.30:6969
 61.216.149.33:6969
+61.222.178.254:6969
 tracker.edkj.club:6969:
 15.204.57.168:6969
 tracker.filemail.com:6969:
@@ -95,7 +95,7 @@ tracker.therarbg.to:6969:
 tracker.tiny-vps.com:6969:
 185.50.159.149:6969
 tracker.torrent.eu.org:451:
-91.216.110.52:451
+91.216.110.53:451
 89.234.156.205:451
 tracker.tryhackx.org:6969:
 135.125.202.143:6969

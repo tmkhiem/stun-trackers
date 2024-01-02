@@ -51,6 +51,7 @@ stun.ozekiphone.com:3478
 stun.phone.com:3478
 stun.pjsip.org:3478
 stun.poivy.com:3478
+stun.powerpbx.org:3478
 stun.powervoip.com:3478
 stun.ppdi.com:3478
 stun.qq.com:3478
@@ -90,6 +91,7 @@ stun.voip.eutelia.it:3478
 stun.voipblast.com:3478
 stun.voipbuster.com:3478
 stun.voipbusterpro.com:3478
+stun.voipcheap.co.uk:3478
 stun.voipcheap.com:3478
 stun.voipfibre.com:3478
 stun.voipgain.com:3478
