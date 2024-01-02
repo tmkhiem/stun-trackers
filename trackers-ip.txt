@@ -3,7 +3,6 @@
 6.pocketnet.app:6969:
 23.254.228.89:6969
 6ahddutb1ucc3cp.ru:6969:
-185.189.13.108:6969
 acxx.de:6969:
 37.187.111.136:6969
 aegir.sexy:6969:
@@ -71,11 +70,11 @@ tracker.artixlinux.org:6969:
 tracker.cubonegro.lol:6969:
 38.7.201.142:6969
 tracker.dler.org:6969:
-211.75.29.254:6969
 51.159.145.55:6969
-61.216.149.33:6969
 61.222.178.254:6969
 220.130.15.30:6969
+61.216.149.33:6969
+211.75.29.254:6969
 tracker.edkj.club:6969:
 15.204.57.168:6969
 tracker.filemail.com:6969:
@@ -88,7 +87,6 @@ tracker.qu.ax:6969:
 tracker.t-rb.org:6969:
 159.65.224.91:6969
 tracker.theoks.net:6969:
-209.141.59.16:6969
 tracker.therarbg.com:6969:
 80.240.22.46:6969
 tracker.therarbg.to:6969:
@@ -97,7 +95,6 @@ tracker.tiny-vps.com:6969:
 185.50.159.149:6969
 tracker.torrent.eu.org:451:
 89.234.156.205:451
-91.216.110.52:451
 tracker.tryhackx.org:6969:
 135.125.202.143:6969
 tracker1.bt.moack.co.kr:80:
