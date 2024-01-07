@@ -1,10 +1,8 @@
-1c.premierzal.ru:6969
 6.pocketnet.app:6969
 acxx.de:6969
 bt.ktrackers.com:6666
 bt.rer.lol:2710
 bt1.archive.org:6969
-bt2.archive.org:6969
 epider.me:6969
 exodus.desync.com:6969
 free.publictracker.xyz:6969
@@ -37,7 +35,6 @@ tracker.qu.ax:6969
 tracker.skyts.net:6969
 tracker.srv00.com:6969
 tracker.t-rb.org:6969
-tracker.theoks.net:6969
 tracker.therarbg.com:6969
 tracker.therarbg.to:6969
 tracker.tiny-vps.com:6969
