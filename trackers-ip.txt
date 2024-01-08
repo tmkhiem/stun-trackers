@@ -64,10 +64,10 @@ tracker.artixlinux.org:6969:
 tracker.cubonegro.lol:6969:
 38.7.201.142:6969
 tracker.dler.org:6969:
+51.159.145.55:6969
 220.130.15.30:6969
 61.216.149.33:6969
 61.222.178.254:6969
-51.159.145.55:6969
 211.75.29.254:6969
 tracker.edkj.club:6969:
 15.204.57.168:6969
@@ -77,6 +77,7 @@ tracker.fnix.net:6969:
 tracker.opentrackr.org:1337:
 93.158.213.92:1337
 tracker.qu.ax:6969:
+85.215.156.254:6969
 tracker.skyts.net:6969:
 222.216.138.154:6969
 tracker.srv00.com:6969:
@@ -92,6 +93,7 @@ tracker.therarbg.to:6969:
 tracker.tiny-vps.com:6969:
 185.50.159.149:6969
 tracker.torrent.eu.org:451:
+91.216.110.52:451
 91.216.110.53:451
 tracker.tryhackx.org:6969:
 135.125.202.143:6969
