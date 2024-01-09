@@ -32,7 +32,7 @@ stun.internetcalls.com:3478
 stun.intervoip.com:3478
 stun.ippi.fr:3478
 stun.ipshka.com:3478
-stun.ivao.aero:3478
+stun.it1.hr:3478
 stun.jumblo.com:3478
 stun.justvoip.com:3478
 stun.l.google.com:19302
@@ -45,6 +45,7 @@ stun.mywatson.it:3478
 stun.netappel.com:3478
 stun.netgsm.com.tr:3478
 stun.nfon.net:3478
+stun.nonoh.net:3478
 stun.ozekiphone.com:3478
 stun.phone.com:3478
 stun.pjsip.org:3478
