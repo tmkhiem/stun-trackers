@@ -49,6 +49,7 @@ opentracker.io:6969:
 p4p.arenabg.com:1337:
 185.230.4.150:1337
 retracker01-msk-virt.corbina.net:80:
+83.102.180.21:80
 ryjer.com:6969:
 82.156.24.219:6969
 su-data.com:6969:
@@ -67,9 +68,9 @@ tracker.cubonegro.lol:6969:
 38.7.201.142:6969
 tracker.dler.org:6969:
 211.75.29.254:6969
-61.222.178.254:6969
 220.130.15.30:6969
 61.216.149.33:6969
+61.222.178.254:6969
 tracker.edkj.club:6969:
 15.204.57.168:6969
 tracker.filemail.com:6969:
@@ -77,7 +78,6 @@ tracker.filemail.com:6969:
 tracker.fnix.net:6969:
 tracker.moeking.me:6969:
 tracker.openbittorrent.com:6969:
-193.189.100.189:6969
 tracker.opentrackr.org:1337:
 93.158.213.92:1337
 tracker.qu.ax:6969:
