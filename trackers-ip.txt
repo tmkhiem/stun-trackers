@@ -60,7 +60,6 @@ thinking.duckdns.org:6969:
 73.170.204.100:6969
 torrents.artixlinux.org:6969:
 tracker-udp.gbitt.info:80:
-109.201.134.183:80
 tracker.0x7c0.com:6969:
 23.153.248.83:6969
 tracker.anima.nz:6969:
@@ -68,17 +67,18 @@ tracker.artixlinux.org:6969:
 tracker.cubonegro.lol:6969:
 38.7.201.142:6969
 tracker.dler.org:6969:
-211.75.29.254:6969
-61.216.149.33:6969
-220.130.15.30:6969
 61.222.178.254:6969
+220.130.15.30:6969
+61.216.149.33:6969
+211.75.29.254:6969
 tracker.edkj.club:6969:
 15.204.57.168:6969
 tracker.filemail.com:6969:
 52.58.128.163:6969
 tracker.fnix.net:6969:
 tracker.openbittorrent.com:6969:
-193.189.100.188:6969
+193.189.100.187:6969
+193.189.100.189:6969
 tracker.opentrackr.org:1337:
 93.158.213.92:1337
 tracker.qu.ax:6969:
@@ -90,7 +90,6 @@ tracker.srv00.com:6969:
 tracker.t-rb.org:6969:
 159.65.224.91:6969
 tracker.theoks.net:6969:
-209.141.59.16:6969
 tracker.therarbg.com:6969:
 80.240.22.46:6969
 tracker.therarbg.to:6969:
@@ -98,7 +97,6 @@ tracker.therarbg.to:6969:
 tracker.tiny-vps.com:6969:
 83.146.104.162:6969
 tracker.torrent.eu.org:451:
-91.216.110.53:451
 91.216.110.52:451
 tracker.tryhackx.org:6969:
 135.125.202.143:6969
