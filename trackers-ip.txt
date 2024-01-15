@@ -82,7 +82,7 @@ tracker.filemail.com:6969:
 52.58.128.163:6969
 tracker.fnix.net:6969:
 tracker.openbittorrent.com:6969:
-193.189.100.187:6969
+193.189.100.186:6969
 193.189.100.190:6969
 tracker.opentrackr.org:1337:
 93.158.213.92:1337
@@ -95,6 +95,7 @@ tracker.srv00.com:6969:
 tracker.t-rb.org:6969:
 159.65.224.91:6969
 tracker.theoks.net:6969:
+209.141.59.16:6969
 tracker.therarbg.com:6969:
 80.240.22.46:6969
 tracker.therarbg.to:6969:
@@ -103,6 +104,7 @@ tracker.tiny-vps.com:6969:
 83.146.104.162:6969
 tracker.torrent.eu.org:451:
 89.234.156.205:451
+91.216.110.52:451
 tracker.tryhackx.org:6969:
 135.125.202.143:6969
 tracker1.myporn.club:9337:
