@@ -68,6 +68,7 @@ stun.sippeer.dk:3478
 stun.siptraffic.com:3478
 stun.sma.de:3478
 stun.smartvoip.com:3478
+stun.smsdiscount.com:3478
 stun.solcon.nl:3478
 stun.solnet.ch:3478
 stun.sonetel.com:3478
@@ -88,10 +89,8 @@ stun.voip.blackberry.com:3478
 stun.voip.eutelia.it:3478
 stun.voipblast.com:3478
 stun.voipbuster.com:3478
-stun.voipbusterpro.com:3478
 stun.voipcheap.co.uk:3478
 stun.voipcheap.com:3478
-stun.voipfibre.com:3478
 stun.voipgain.com:3478
 stun.voipgate.com:3478
 stun.voipinfocenter.com:3478
@@ -100,7 +99,6 @@ stun.voippro.com:3478
 stun.voipraider.com:3478
 stun.voipstunt.com:3478
 stun.voipwise.com:3478
-stun.voipzoom.com:3478
 stun.voys.nl:3478
 stun.voztele.com:3478
 stun.webcalldirect.com:3478
