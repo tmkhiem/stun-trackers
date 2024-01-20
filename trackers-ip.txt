@@ -9,7 +9,6 @@ acxx.de:6969:
 aegir.sexy:6969:
 bittorrent-tracker.e-n-c-r-y-p-t.net:1337:
 bt.ktrackers.com:6666:
-51.159.54.68:6666
 bt.rer.lol:2710:
 120.36.84.26:2710
 bt1.archive.org:6969:
@@ -84,8 +83,7 @@ tracker.filemail.com:6969:
 52.58.128.163:6969
 tracker.fnix.net:6969:
 tracker.openbittorrent.com:6969:
-193.189.100.189:6969
-193.189.100.187:6969
+193.189.100.186:6969
 tracker.opentrackr.org:1337:
 93.158.213.92:1337
 tracker.qu.ax:6969:
