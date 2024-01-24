@@ -56,7 +56,6 @@ ryjer.com:6969:
 su-data.com:6969:
 212.237.53.230:6969
 tamas3.ynh.fr:6969:
-176.31.250.174:6969
 thinking.duckdns.org:6969:
 73.170.204.100:6969
 torrents.artixlinux.org:6969:
@@ -69,7 +68,6 @@ tracker.artixlinux.org:6969:
 tracker.auctor.tv:6969:
 102.223.180.235:6969
 tracker.ccp.ovh:6969:
-51.81.222.188:6969
 tracker.cubonegro.lol:6969:
 38.7.201.142:6969
 tracker.ddunlimited.net:6969:
@@ -105,7 +103,6 @@ tracker.tiny-vps.com:6969:
 83.146.104.162:6969
 tracker.torrent.eu.org:451:
 91.216.110.53:451
-89.234.156.205:451
 tracker.tryhackx.org:6969:
 135.125.202.143:6969
 tracker1.myporn.club:9337:
