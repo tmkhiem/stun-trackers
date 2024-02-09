@@ -54,7 +54,6 @@ stun.poivy.com:3478
 stun.powervoip.com:3478
 stun.ppdi.com:3478
 stun.qq.com:3478
-stun.rackco.com:3478
 stun.rockenstein.de:3478
 stun.rolmail.net:3478
 stun.rynga.com:3478
