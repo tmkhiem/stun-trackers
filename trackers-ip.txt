@@ -90,9 +90,11 @@ tracker.theoks.net:6969:
 tracker.therarbg.com:6969:
 80.240.22.46:6969
 tracker.therarbg.to:6969:
+94.177.106.22:6969
 tracker.tiny-vps.com:6969:
 83.146.98.78:6969
 tracker.torrent.eu.org:451:
+89.234.156.205:451
 91.216.110.52:451
 tracker.tryhackx.org:6969:
 135.125.202.143:6969
