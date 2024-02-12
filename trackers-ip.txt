@@ -53,7 +53,6 @@ ryjer.com:6969:
 su-data.com:6969:
 212.237.53.230:6969
 tamas3.ynh.fr:6969:
-176.31.250.174:6969
 torrents.artixlinux.org:6969:
 tracker.0x7c0.com:6969:
 23.153.248.83:6969
@@ -65,10 +64,10 @@ tracker.cubonegro.lol:6969:
 38.7.201.142:6969
 tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
-61.222.178.254:6969
-61.216.149.33:6969
-220.130.15.30:6969
 211.75.29.254:6969
+61.216.149.33:6969
+61.222.178.254:6969
+220.130.15.30:6969
 tracker.edkj.club:6969:
 15.204.57.168:6969
 tracker.filemail.com:6969:
@@ -94,7 +93,6 @@ tracker.therarbg.to:6969:
 tracker.tiny-vps.com:6969:
 83.146.98.78:6969
 tracker.torrent.eu.org:451:
-91.216.110.53:451
 89.234.156.205:451
 tracker.tryhackx.org:6969:
 135.125.202.143:6969
