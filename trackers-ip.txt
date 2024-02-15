@@ -43,7 +43,6 @@ open.dstud.io:6969:
 open.free-tracker.ga:6969:
 34.89.30.59:6969
 35.227.12.84:6969
-34.94.213.23:6969
 open.stealth.si:80:
 185.243.218.213:80
 open.tracker.cl:1337:
@@ -74,7 +73,6 @@ tracker.artixlinux.org:6969:
 tracker.auctor.tv:6969:
 23.137.251.46:6969
 tracker.bittor.pw:1337:
-34.94.213.23:1337
 35.227.12.84:1337
 34.89.30.59:1337
 tracker.cubonegro.lol:6969:
@@ -86,9 +84,9 @@ tracker.dler.org:6969:
 211.75.29.254:6969
 61.222.178.254:6969
 tracker.dump.cl:6969:
+34.89.30.59:6969
 34.94.213.23:6969
 35.227.12.84:6969
-34.89.30.59:6969
 tracker.edkj.club:6969:
 15.204.57.168:6969
 tracker.filemail.com:6969:
@@ -104,6 +102,7 @@ tracker.skyts.net:6969:
 tracker.srv00.com:6969:
 185.217.199.21:6969
 tracker.theoks.net:6969:
+209.141.59.16:6969
 tracker.therarbg.com:6969:
 80.240.22.46:6969
 tracker.therarbg.to:6969:
@@ -111,7 +110,8 @@ tracker.therarbg.to:6969:
 tracker.tiny-vps.com:6969:
 83.146.98.78:6969
 tracker.torrent.eu.org:451:
-91.216.110.52:451
+91.216.110.53:451
+89.234.156.205:451
 tracker.tryhackx.org:6969:
 135.125.202.143:6969
 tracker1.bt.moack.co.kr:80:
