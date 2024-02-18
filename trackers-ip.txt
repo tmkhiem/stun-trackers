@@ -23,9 +23,9 @@ fh2.cmp-gaming.com:6969:
 free.publictracker.xyz:6969:
 15.204.205.14:6969
 ipv4.rer.lol:2710:
+117.29.108.158:2710
 isk.richardsw.club:6969:
 34.94.213.23:6969
-34.89.30.59:6969
 mail.artixlinux.org:6969:
 moonburrow.club:6969:
 167.99.185.219:6969
@@ -40,12 +40,11 @@ open.demonii.com:1337:
 open.dstud.io:6969:
 179.43.155.30:6969
 open.free-tracker.ga:6969:
-34.89.30.59:6969
 35.227.12.84:6969
+34.89.30.59:6969
 open.stealth.si:80:
 185.243.218.213:80
 open.tracker.cl:1337:
-152.231.114.71:1337
 open.tracker.ink:6969:
 open.u-p.pw:6969:
 104.244.77.87:6969
@@ -58,7 +57,6 @@ pirate.t-1.org:1337:
 retracker01-msk-virt.corbina.net:80:
 83.102.180.21:80
 ryjer.com:6969:
-82.156.24.219:6969
 su-data.com:6969:
 212.237.53.230:6969
 tamas3.ynh.fr:6969:
@@ -71,7 +69,6 @@ tracker.0x7c0.com:6969:
 tracker.anima.nz:6969:
 tracker.artixlinux.org:6969:
 tracker.auctor.tv:6969:
-23.137.251.46:6969
 tracker.bittor.pw:1337:
 34.89.30.59:1337
 tracker.cubonegro.lol:6969:
@@ -79,9 +76,9 @@ tracker.cubonegro.lol:6969:
 tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
 61.222.178.254:6969
-220.130.15.30:6969
-211.75.29.254:6969
 61.216.149.33:6969
+211.75.29.254:6969
+220.130.15.30:6969
 tracker.dump.cl:6969:
 34.89.30.59:6969
 34.94.213.23:6969
@@ -97,7 +94,6 @@ tracker.opentrackr.org:1337:
 tracker.qu.ax:6969:
 85.215.156.254:6969
 tracker.skyts.net:6969:
-116.8.90.195:6969
 tracker.srv00.com:6969:
 91.238.104.240:6969
 tracker.t-rb.org:6969:
@@ -111,12 +107,8 @@ tracker.tiny-vps.com:6969:
 83.146.98.78:6969
 tracker.torrent.eu.org:451:
 91.216.110.53:451
-89.234.156.205:451
 tracker.tryhackx.org:6969:
 135.125.202.143:6969
 tracker1.myporn.club:9337:
-193.42.111.57:9337
 tracker2.dler.org:80:
-220.130.15.30:80
 wepzone.net:6969:
-83.31.219.23:6969
