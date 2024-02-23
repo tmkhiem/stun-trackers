@@ -91,6 +91,7 @@ tracker.opentrackr.org:1337:
 tracker.qu.ax:6969:
 85.215.156.254:6969
 tracker.skyts.net:6969:
+116.8.90.195:6969
 tracker.srv00.com:6969:
 91.238.104.240:6969
 tracker.t-rb.org:6969:
@@ -104,6 +105,7 @@ tracker.tiny-vps.com:6969:
 83.146.98.78:6969
 tracker.torrent.eu.org:451:
 89.234.156.205:451
+91.216.110.52:451
 tracker.tryhackx.org:6969:
 135.125.202.143:6969
 tracker1.bt.moack.co.kr:80:
@@ -113,4 +115,3 @@ tracker1.myporn.club:9337:
 tracker2.dler.org:80:
 220.130.15.30:80
 wepzone.net:6969:
-83.31.219.23:6969
