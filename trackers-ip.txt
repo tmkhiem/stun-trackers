@@ -22,9 +22,7 @@ fh2.cmp-gaming.com:6969:
 free.publictracker.xyz:6969:
 15.204.205.14:6969
 ipv4.rer.lol:2710:
-120.36.85.211:2710
 isk.richardsw.club:6969:
-34.94.213.23:6969
 mail.artixlinux.org:6969:
 moonburrow.club:6969:
 167.99.185.219:6969
@@ -55,13 +53,10 @@ p4p.arenabg.com:1337:
 185.230.4.150:1337
 pirate.t-1.org:1337:
 public.tracker.vraphim.com:6969:
-51.15.41.46:6969
 r.l5.ca:6969:
-135.180.32.219:6969
 retracker01-msk-virt.corbina.net:80:
 83.102.180.21:80
 ryjer.com:6969:
-82.156.24.219:6969
 su-data.com:6969:
 212.237.53.230:6969
 tamas3.ynh.fr:6969:
@@ -97,7 +92,6 @@ tracker.srv00.com:6969:
 tracker.t-rb.org:6969:
 78.40.116.12:6969
 tracker.theoks.net:6969:
-209.141.59.16:6969
 tracker.therarbg.com:6969:
 78.40.116.12:6969
 tracker.therarbg.to:6969:
@@ -105,7 +99,8 @@ tracker.therarbg.to:6969:
 tracker.tiny-vps.com:6969:
 83.146.98.78:6969
 tracker.torrent.eu.org:451:
-91.216.110.53:451
+89.234.156.205:451
+91.216.110.52:451
 tracker.tryhackx.org:6969:
 135.125.202.143:6969
 tracker1.myporn.club:9337:
