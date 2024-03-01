@@ -7,7 +7,6 @@
 aegir.sexy:6969:
 bittorrent-tracker.e-n-c-r-y-p-t.net:1337:
 bt.ktrackers.com:6666:
-51.159.54.68:6666
 bt1.archive.org:6969:
 207.241.226.111:6969
 bt2.archive.org:6969:
@@ -45,6 +44,7 @@ open.tracker.cl:1337:
 open.tracker.ink:6969:
 222.84.22.43:6969
 open.u-p.pw:6969:
+104.244.77.87:6969
 open.xxtor.com:3074:
 opentracker.i2p.rocks:6969:
 23.137.251.46:6969
@@ -54,9 +54,9 @@ p4p.arenabg.com:1337:
 185.230.4.150:1337
 pirate.t-1.org:1337:
 public.tracker.vraphim.com:6969:
+51.15.41.46:6969
 r.l5.ca:6969:
 retracker01-msk-virt.corbina.net:80:
-83.102.180.21:80
 ryjer.com:6969:
 82.156.24.219:6969
 su-data.com:6969:
@@ -74,10 +74,10 @@ tracker.cubonegro.lol:6969:
 38.7.201.142:6969
 tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
-61.216.149.33:6969
 211.75.29.254:6969
-220.130.15.30:6969
+61.216.149.33:6969
 61.222.178.254:6969
+220.130.15.30:6969
 tracker.edkj.club:6969:
 15.204.57.168:6969
 tracker.filemail.com:6969:
@@ -101,7 +101,6 @@ tracker.therarbg.to:6969:
 tracker.tiny-vps.com:6969:
 83.146.98.78:6969
 tracker.torrent.eu.org:451:
-91.216.110.53:451
 91.216.110.52:451
 tracker.tryhackx.org:6969:
 135.125.202.143:6969
