@@ -22,7 +22,6 @@ fh2.cmp-gaming.com:6969:
 free.publictracker.xyz:6969:
 15.204.205.14:6969
 freedomalternative.com:6969:
-185.225.68.26:6969
 ipv4.rer.lol:2710:
 120.36.85.211:2710
 mail.artixlinux.org:6969:
@@ -35,6 +34,7 @@ new-line.net:6969:
 oh.fuuuuuck.com:6969:
 37.27.4.53:6969
 open.demonii.com:1337:
+23.134.90.6:1337
 open.dstud.io:6969:
 179.43.155.30:6969
 open.stealth.si:80:
@@ -50,6 +50,7 @@ opentracker.io:6969:
 45.9.60.30:6969
 pirate.t-1.org:1337:
 public.tracker.vraphim.com:6969:
+51.15.41.46:6969
 retracker01-msk-virt.corbina.net:80:
 83.102.180.21:80
 ryjer.com:6969:
@@ -79,7 +80,6 @@ tracker.dler.org:6969:
 tracker.edkj.club:6969:
 15.204.57.168:6969
 tracker.filemail.com:6969:
-52.58.128.163:6969
 tracker.fnix.net:6969:
 tracker.moeking.me:6969:
 107.189.11.58:6969
@@ -92,6 +92,7 @@ tracker.srv00.com:6969:
 tracker.t-rb.org:6969:
 193.233.161.213:6969
 tracker.theoks.net:6969:
+209.141.59.16:6969
 tracker.therarbg.com:6969:
 78.40.116.12:6969
 tracker.therarbg.to:6969:
@@ -99,7 +100,8 @@ tracker.therarbg.to:6969:
 tracker.tiny-vps.com:6969:
 83.146.98.78:6969
 tracker.torrent.eu.org:451:
-89.234.156.205:451
+91.216.110.53:451
+91.216.110.52:451
 tracker.tryhackx.org:6969:
 135.125.202.143:6969
 tracker1.myporn.club:9337:
