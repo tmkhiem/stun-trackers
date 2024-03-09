@@ -62,7 +62,6 @@ tracker.0x7c0.com:6969:
 tracker.anima.nz:6969:
 tracker.artixlinux.org:6969:
 tracker.bittor.pw:1337:
-34.89.30.59:1337
 tracker.cubonegro.lol:6969:
 38.7.201.142:6969
 tracker.ddunlimited.net:6969:
@@ -93,8 +92,8 @@ tracker.therarbg.to:6969:
 tracker.tiny-vps.com:6969:
 83.146.98.78:6969
 tracker.torrent.eu.org:451:
+91.216.110.52:451
 91.216.110.53:451
-89.234.156.205:451
 tracker.tryhackx.org:6969:
 135.125.202.143:6969
 tracker1.bt.moack.co.kr:80:
@@ -104,3 +103,4 @@ tracker1.myporn.club:9337:
 tracker2.dler.org:80:
 220.130.15.30:80
 wepzone.net:6969:
+83.31.187.237:6969
