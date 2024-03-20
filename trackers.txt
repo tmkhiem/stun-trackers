@@ -2,7 +2,6 @@
 6.pocketnet.app:6969
 6ahddutb1ucc3cp.ru:6969
 aarsen.me:6969
-bt.ktrackers.com:6666
 bt1.archive.org:6969
 bt2.archive.org:6969
 epider.me:6969
@@ -32,6 +31,7 @@ tracker.0x7c0.com:6969
 tracker.auctor.tv:6969
 tracker.cubonegro.lol:6969
 tracker.dler.org:6969
+tracker.edkj.club:6969
 tracker.filemail.com:6969
 tracker.moeking.me:6969
 tracker.opentrackr.org:1337
@@ -44,7 +44,6 @@ tracker.therarbg.to:6969
 tracker.tiny-vps.com:6969
 tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
-tracker1.bt.moack.co.kr:80
 tracker1.myporn.club:9337
 tracker2.dler.org:80
 tracker2.itzmx.com:6961
