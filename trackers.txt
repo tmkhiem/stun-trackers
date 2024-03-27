@@ -1,4 +1,5 @@
 1c.premierzal.ru:6969
+6ahddutb1ucc3cp.ru:6969
 aarsen.me:6969
 bt.ktrackers.com:6666
 bt1.archive.org:6969
@@ -8,7 +9,6 @@ evan.im:6969
 exodus.desync.com:6969
 free.publictracker.xyz:6969
 ipv4.rer.lol:2710
-isk.richardsw.club:6969
 moonburrow.club:6969
 movies.zsw.ca:6969
 new-line.net:6969
@@ -16,7 +16,6 @@ oh.fuuuuuck.com:6969
 open.demonii.com:1337
 open.dstud.io:6969
 open.stealth.si:80
-open.tracker.ink:6969
 open.u-p.pw:6969
 opentracker.i2p.rocks:6969
 opentracker.io:6969
@@ -39,6 +38,7 @@ tracker.moeking.me:6969
 tracker.opentrackr.org:1337
 tracker.publictracker.xyz:6969
 tracker.qu.ax:6969
+tracker.skyts.net:6969
 tracker.srv00.com:6969
 tracker.t-rb.org:6969
 tracker.therarbg.com:6969
@@ -46,6 +46,5 @@ tracker.therarbg.to:6969
 tracker.tiny-vps.com:6969
 tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
-tracker1.myporn.club:9337
 tracker2.dler.org:80
 wepzone.net:6969
