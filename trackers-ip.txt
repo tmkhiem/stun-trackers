@@ -88,8 +88,8 @@ tracker.opentrackr.org:1337:
 tracker.publictracker.xyz:6969:
 178.215.224.155:6969
 tracker.qu.ax:6969:
-181.214.58.63:6969
 93.185.165.29:6969
+181.214.58.63:6969
 tracker.srv00.com:6969:
 91.238.104.240:6969
 tracker.t-rb.org:6969:
@@ -101,7 +101,7 @@ tracker.therarbg.to:6969:
 tracker.tiny-vps.com:6969:
 83.146.98.78:6969
 tracker.torrent.eu.org:451:
-91.216.110.52:451
+91.216.110.53:451
 89.234.156.205:451
 tracker.tryhackx.org:6969:
 135.125.202.143:6969
