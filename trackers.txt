@@ -43,3 +43,4 @@ tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
 tracker1.myporn.club:9337
 tracker2.dler.org:80
+wepzone.net:6969
