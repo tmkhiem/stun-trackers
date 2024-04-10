@@ -16,9 +16,6 @@ open.demonii.com:1337
 open.stealth.si:80
 open.u-p.pw:6969
 opentracker.io:6969
-public.publictracker.xyz:6969
-public.tracker.vraphim.com:6969
-retracker01-msk-virt.corbina.net:80
 run-2.publictracker.xyz:6969
 run.publictracker.xyz:6969
 ryjer.com:6969
@@ -35,6 +32,7 @@ tracker.opentrackr.org:1337
 tracker.publictracker.xyz:6969
 tracker.srv00.com:6969
 tracker.t-rb.org:6969
+tracker.theoks.net:6969
 tracker.therarbg.com:6969
 tracker.therarbg.to:6969
 tracker.tiny-vps.com:6969
