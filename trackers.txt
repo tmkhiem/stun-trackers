@@ -20,7 +20,6 @@ public.publictracker.xyz:6969
 retracker01-msk-virt.corbina.net:80
 run-2.publictracker.xyz:6969
 run.publictracker.xyz:6969
-ryjer.com:6969
 su-data.com:6969
 tamas3.ynh.fr:6969
 tracker-udp.gbitt.info:80
@@ -39,5 +38,6 @@ tracker.therarbg.to:6969
 tracker.tiny-vps.com:6969
 tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
+tracker1.myporn.club:9337
 tracker2.dler.org:80
 wepzone.net:6969
