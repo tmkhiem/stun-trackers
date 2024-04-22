@@ -1,4 +1,5 @@
 1c.premierzal.ru:6969
+6ahddutb1ucc3cp.ru:6969
 bt1.archive.org:6969
 bt2.archive.org:6969
 bubu.mapfactor.com:6969
@@ -13,6 +14,7 @@ oh.fuuuuuck.com:6969
 open.demonii.com:1337
 open.free-tracker.ga:6969
 open.stealth.si:80
+open.u-p.pw:6969
 opentracker.io:6969
 public.publictracker.xyz:6969
 retracker01-msk-virt.corbina.net:80
@@ -34,12 +36,9 @@ tracker.publictracker.xyz:6969
 tracker.qu.ax:6969
 tracker.srv00.com:6969
 tracker.t-rb.org:6969
-tracker.theoks.net:6969
 tracker.therarbg.com:6969
 tracker.therarbg.to:6969
 tracker.tiny-vps.com:6969
 tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
-tracker1.bt.moack.co.kr:80
-tracker1.myporn.club:9337
 tracker2.dler.org:80
