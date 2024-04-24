@@ -13,6 +13,7 @@ new-line.net:6969
 oh.fuuuuuck.com:6969
 open.demonii.com:1337
 open.stealth.si:80
+open.u-p.pw:6969
 opentracker.io:6969
 public.publictracker.xyz:6969
 retracker01-msk-virt.corbina.net:80
