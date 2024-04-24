@@ -17,7 +17,6 @@ epider.me:6969:
 51.68.174.87:6969
 evan.im:6969:
 exodus.desync.com:6969:
-208.83.20.20:6969
 explodie.org:6969:
 fh2.cmp-gaming.com:6969:
 free.publictracker.xyz:6969:
@@ -36,6 +35,7 @@ open.demonii.com:1337:
 open.stealth.si:80:
 185.243.218.213:80
 open.u-p.pw:6969:
+104.244.77.87:6969
 open.xxtor.com:3074:
 opentracker.io:6969:
 45.9.60.30:6969
@@ -49,7 +49,6 @@ run-2.publictracker.xyz:6969:
 run.publictracker.xyz:6969:
 15.204.56.171:6969
 ryjer.com:6969:
-82.156.24.219:6969
 su-data.com:6969:
 212.237.53.230:6969
 tamas3.ynh.fr:6969:
@@ -62,10 +61,10 @@ tracker.0x7c0.com:6969:
 tracker.anima.nz:6969:
 tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
-211.75.29.254:6969
 61.222.178.254:6969
-220.130.15.30:6969
+211.75.29.254:6969
 61.216.149.33:6969
+220.130.15.30:6969
 tracker.farted.net:6969:
 85.239.33.28:6969
 tracker.filemail.com:6969:
