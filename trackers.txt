@@ -2,7 +2,6 @@
 6ahddutb1ucc3cp.ru:6969
 bt.ktrackers.com:6666
 bt1.archive.org:6969
-bt2.archive.org:6969
 bubu.mapfactor.com:6969
 epider.me:6969
 exodus.desync.com:6969
@@ -29,7 +28,6 @@ tracker.farted.net:6969
 tracker.filemail.com:6969
 tracker.opentrackr.org:1337
 tracker.publictracker.xyz:6969
-tracker.qu.ax:6969
 tracker.srv00.com:6969
 tracker.t-rb.org:6969
 tracker.theoks.net:6969
