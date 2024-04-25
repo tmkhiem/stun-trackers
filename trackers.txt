@@ -1,4 +1,6 @@
 1c.premierzal.ru:6969
+6ahddutb1ucc3cp.ru:6969
+bt.ktrackers.com:6666
 bt1.archive.org:6969
 bt2.archive.org:6969
 bubu.mapfactor.com:6969
@@ -37,5 +39,4 @@ tracker.therarbg.to:6969
 tracker.tiny-vps.com:6969
 tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
-tracker1.bt.moack.co.kr:80
 wepzone.net:6969
