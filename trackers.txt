@@ -1,6 +1,5 @@
 1c.premierzal.ru:6969
 6ahddutb1ucc3cp.ru:6969
-bt.ktrackers.com:6666
 bt1.archive.org:6969
 bt2.archive.org:6969
 bubu.mapfactor.com:6969
@@ -15,6 +14,7 @@ oh.fuuuuuck.com:6969
 open.demonii.com:1337
 open.free-tracker.ga:6969
 open.stealth.si:80
+open.u-p.pw:6969
 opentracker.io:6969
 retracker01-msk-virt.corbina.net:80
 run-2.publictracker.xyz:6969
