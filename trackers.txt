@@ -42,7 +42,6 @@ tracker.farted.net:6969
 tracker.filemail.com:6969
 tracker.jamesthebard.net:6969
 tracker.leena.network:6969
-tracker.moeking.me:6969
 tracker.opentrackr.org:1337
 tracker.publictracker.xyz:6969
 tracker.qu.ax:6969
