@@ -22,7 +22,6 @@ open.demonoid.ch:6969
 open.free-tracker.ga:6969
 open.publictracker.xyz:6969
 open.stealth.si:80
-open.u-p.pw:6969
 opentracker.io:6969
 p2p.publictracker.xyz:6969
 public.demonoid.ch:6969
@@ -43,7 +42,6 @@ tracker.farted.net:6969
 tracker.filemail.com:6969
 tracker.jamesthebard.net:6969
 tracker.leena.network:6969
-tracker.moeking.me:6969
 tracker.opentrackr.org:1337
 tracker.publictracker.xyz:6969
 tracker.qu.ax:6969
