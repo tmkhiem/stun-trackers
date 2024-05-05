@@ -1,12 +1,12 @@
 1c.premierzal.ru:6969:
 5.102.159.190:6969
 6ahddutb1ucc3cp.ru:6969:
+185.189.13.108:6969
 aegir.sexy:6969:
 amigacity.xyz:6969:
 96.126.98.54:6969
 bittorrent-tracker.e-n-c-r-y-p-t.net:1337:
 bt.ktrackers.com:6666:
-51.159.54.68:6666
 bt1.archive.org:6969:
 207.241.226.111:6969
 bt2.archive.org:6969:
@@ -51,8 +51,8 @@ open.demonii.com:1337:
 open.demonoid.ch:6969:
 198.12.89.149:6969
 open.free-tracker.ga:6969:
-34.89.30.59:6969
 35.231.115.55:6969
+34.89.30.59:6969
 open.publictracker.xyz:6969:
 88.216.2.71:6969
 open.stealth.si:80:
@@ -79,13 +79,12 @@ tamas3.ynh.fr:6969:
 176.31.250.174:6969
 torrents.artixlinux.org:6969:
 tracker-udp.gbitt.info:80:
-109.201.134.183:80
 tracker.0x7c0.com:6969:
 23.153.248.83:6969
 tracker.anima.nz:6969:
 tracker.bittor.pw:1337:
-34.94.213.23:1337
 34.89.30.59:1337
+34.94.213.23:1337
 tracker.ccp.ovh:6969:
 tracker.darkness.services:6969:
 138.124.183.78:6969
@@ -94,9 +93,9 @@ tracker.deadorbit.nl:6969:
 64.23.195.62:6969
 tracker.dler.org:6969:
 220.130.15.30:6969
+61.222.178.254:6969
 211.75.29.254:6969
 61.216.149.33:6969
-61.222.178.254:6969
 tracker.farted.net:6969:
 tracker.filemail.com:6969:
 52.58.128.163:6969
@@ -119,6 +118,7 @@ tracker.t-rb.org:6969:
 tracker.theoks.net:6969:
 tracker.therarbg.com:6969:
 tracker.therarbg.to:6969:
+193.233.161.213:6969
 tracker.tiny-vps.com:6969:
 83.146.98.78:6969
 tracker.torrent.eu.org:451:
@@ -128,6 +128,7 @@ tracker.tryhackx.org:6969:
 tracker.vds.nz:6969:
 190.146.242.81:6969
 tracker1.bt.moack.co.kr:80:
+156.234.201.18:80
 tracker1.myporn.club:9337:
 193.42.111.57:9337
 tracker2.dler.org:80:
