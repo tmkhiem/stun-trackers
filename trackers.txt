@@ -1,5 +1,4 @@
 1c.premierzal.ru:6969
-6ahddutb1ucc3cp.ru:6969
 amigacity.xyz:6969
 bt.ktrackers.com:6666
 bt1.archive.org:6969
@@ -16,7 +15,6 @@ martin-gebhardt.eu:25
 moonburrow.club:6969
 odd-hd.fr:6969
 oh.fuuuuuck.com:6969
-open-tracker.demonoid.ch:6969
 open.demonii.com:1337
 open.demonoid.ch:6969
 open.free-tracker.ga:6969
@@ -45,10 +43,10 @@ tracker.leena.network:6969
 tracker.opentrackr.org:1337
 tracker.publictracker.xyz:6969
 tracker.srv00.com:6969
-tracker.therarbg.to:6969
 tracker.tiny-vps.com:6969
 tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
+tracker1.myporn.club:9337
 tracker2.dler.org:80
 ttk2.nbaonlineservice.com:6969
 wepzone.net:6969
