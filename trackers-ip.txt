@@ -30,9 +30,8 @@ inferno.demonoid.is:3391:
 ipv4.rer.lol:2710:
 117.29.108.3:2710
 isk.richardsw.club:6969:
-34.94.213.23:6969
-35.231.115.55:6969
 34.89.30.59:6969
+35.231.115.55:6969
 jutone.com:6969:
 121.199.16.229:6969
 martin-gebhardt.eu:25:
@@ -51,7 +50,6 @@ open.demonii.com:1337:
 open.demonoid.ch:6969:
 198.12.89.149:6969
 open.free-tracker.ga:6969:
-35.231.115.55:6969
 34.89.30.59:6969
 open.publictracker.xyz:6969:
 88.216.2.71:6969
@@ -84,7 +82,6 @@ tracker.0x7c0.com:6969:
 23.153.248.83:6969
 tracker.anima.nz:6969:
 tracker.bittor.pw:1337:
-35.231.115.55:1337
 34.89.30.59:1337
 tracker.darkness.services:6969:
 138.124.183.78:6969
@@ -93,9 +90,9 @@ tracker.deadorbit.nl:6969:
 64.23.195.62:6969
 tracker.dler.org:6969:
 220.130.15.30:6969
+61.216.149.33:6969
 61.222.178.254:6969
 211.75.29.254:6969
-61.216.149.33:6969
 tracker.dump.cl:6969:
 34.89.30.59:6969
 35.231.115.55:6969
@@ -107,7 +104,6 @@ tracker.jamesthebard.net:6969:
 tracker.leena.network:6969:
 45.81.242.8:6969
 tracker.moeking.me:6969:
-107.189.11.58:6969
 tracker.opentrackr.org:1337:
 93.158.213.92:1337
 tracker.picotorrent.one:6969:
@@ -122,9 +118,11 @@ tracker.tiny-vps.com:6969:
 83.146.98.78:6969
 tracker.torrent.eu.org:451:
 89.234.156.205:451
+91.216.110.53:451
 tracker.tryhackx.org:6969:
 135.125.202.143:6969
 tracker1.bt.moack.co.kr:80:
+156.234.201.18:80
 tracker1.myporn.club:9337:
 193.42.111.57:9337
 tracker2.dler.org:80:
