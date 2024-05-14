@@ -7,8 +7,6 @@ bubu.mapfactor.com:6969
 d40969.acod.regrucolo.ru:6969
 epider.me:6969
 exodus.desync.com:6969
-free.publictracker.xyz:6969
-ipv4.rer.lol:2710
 isk.richardsw.club:6969
 jutone.com:6969
 leet-tracker.moe:1337
@@ -38,9 +36,8 @@ tracker.bittor.pw:1337
 tracker.darkness.services:6969
 tracker.deadorbit.nl:6969
 tracker.dler.org:6969
+tracker.dump.cl:6969
 tracker.edkj.club:6969
-tracker.farted.net:6969
-tracker.filemail.com:6969
 tracker.jamesthebard.net:6969
 tracker.opentrackr.org:1337
 tracker.publictracker.xyz:6969
@@ -54,4 +51,3 @@ tracker.tryhackx.org:6969
 tracker1.myporn.club:9337
 tracker2.dler.org:80
 ttk2.nbaonlineservice.com:6969
-wepzone.net:6969
