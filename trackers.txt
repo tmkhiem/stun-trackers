@@ -8,10 +8,12 @@ d40969.acod.regrucolo.ru:6969
 epider.me:6969
 exodus.desync.com:6969
 ipv4.rer.lol:2710
+isk.richardsw.club:6969
 jutone.com:6969
 leet-tracker.moe:1337
 martin-gebhardt.eu:25
 moonburrow.club:6969
+new-line.net:6969
 odd-hd.fr:6969
 oh.fuuuuuck.com:6969
 open-tracker.demonoid.ch:6969
@@ -43,12 +45,10 @@ tracker.qu.ax:6969
 tracker.skyts.net:6969
 tracker.srv00.com:6969
 tracker.t-rb.org:6969
-tracker.theoks.net:6969
-tracker.therarbg.to:6969
+tracker.therarbg.com:6969
 tracker.tiny-vps.com:6969
 tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
 tracker1.myporn.club:9337
 tracker2.dler.org:80
 ttk2.nbaonlineservice.com:6969
-wepzone.net:6969
