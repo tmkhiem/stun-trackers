@@ -1,4 +1,5 @@
 1c.premierzal.ru:6969
+6ahddutb1ucc3cp.ru:6969
 amigacity.xyz:6969
 bt.ktrackers.com:6666
 bt1.archive.org:6969
@@ -23,6 +24,7 @@ open.free-tracker.ga:6969
 open.publictracker.xyz:6969
 open.stealth.si:80
 open.tracker.cl:1337
+open.u-p.pw:6969
 opentracker.io:6969
 p2p.publictracker.xyz:6969
 p4p.arenabg.com:1337
