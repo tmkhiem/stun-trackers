@@ -25,12 +25,15 @@ inferno.demonoid.is:3391:
 ipv4.rer.lol:2710:
 27.155.141.22:2710
 isk.richardsw.club:6969:
-34.94.76.146:6969
+34.89.51.235:6969
 35.227.59.57:6969
+34.94.76.146:6969
 jutone.com:6969:
 121.199.16.229:6969
 leet-tracker.moe:1337:
 35.227.59.57:1337
+34.94.76.146:1337
+34.89.51.235:1337
 martin-gebhardt.eu:25:
 185.216.179.62:25
 moonburrow.club:6969:
@@ -49,7 +52,9 @@ open.demonoid.ch:6969:
 open.dstud.io:6969:
 179.43.155.30:6969
 open.free-tracker.ga:6969:
+35.227.59.57:6969
 34.89.51.235:6969
+34.94.76.146:6969
 open.publictracker.xyz:6969:
 88.216.2.71:6969
 open.stealth.si:80:
@@ -65,6 +70,7 @@ p2p.publictracker.xyz:6969:
 p4p.arenabg.com:1337:
 185.230.4.150:1337
 public.tracker.vraphim.com:6969:
+51.15.41.46:6969
 retracker.lanta.me:2710:
 37.235.176.37:2710
 retracker01-msk-virt.corbina.net:80:
@@ -83,6 +89,7 @@ tracker.0x7c0.com:6969:
 tracker.bittor.pw:1337:
 34.94.76.146:1337
 35.227.59.57:1337
+34.89.51.235:1337
 tracker.darkness.services:6969:
 138.124.183.78:6969
 tracker.ddunlimited.net:6969:
@@ -95,14 +102,14 @@ tracker.dler.org:6969:
 tracker.dump.cl:6969:
 35.227.59.57:6969
 34.89.51.235:6969
+34.94.76.146:6969
 tracker.edkj.club:6969:
+15.204.57.168:6969
 tracker.farted.net:6969:
-85.239.33.28:6969
 tracker.filemail.com:6969:
 52.58.128.163:6969
 tracker.fnix.net:6969:
 tracker.jamesthebard.net:6969:
-143.198.64.177:6969
 tracker.opentrackr.org:1337:
 93.158.213.92:1337
 tracker.srv00.com:6969:
@@ -110,7 +117,6 @@ tracker.srv00.com:6969:
 tracker.tiny-vps.com:6969:
 176.56.6.248:6969
 tracker.torrent.eu.org:451:
-91.216.110.53:451
 89.234.156.205:451
 tracker.tryhackx.org:6969:
 135.125.202.143:6969
