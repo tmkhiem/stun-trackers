@@ -35,7 +35,6 @@ ryjer.com:6969
 tamas3.ynh.fr:6969
 tracker-udp.gbitt.info:80
 tracker.0x7c0.com:6969
-tracker.bittor.pw:1337
 tracker.darkness.services:6969
 tracker.deadorbit.nl:6969
 tracker.dler.org:6969
