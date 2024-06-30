@@ -1,6 +1,4 @@
-1c.premierzal.ru:6969
 amigacity.xyz:6969
-bt.ktrackers.com:6666
 bt1.archive.org:6969
 bt2.archive.org:6969
 bubu.mapfactor.com:6969
@@ -8,6 +6,7 @@ d40969.acod.regrucolo.ru:6969
 epider.me:6969
 exodus.desync.com:6969
 ipv4.rer.lol:2710
+isk.richardsw.club:6969
 jutone.com:6969
 leet-tracker.moe:1337
 martin-gebhardt.eu:25
@@ -25,12 +24,14 @@ opentracker.io:6969
 p2p.publictracker.xyz:6969
 p4p.arenabg.com:1337
 public.publictracker.xyz:6969
+public.tracker.vraphim.com:6969
 retracker.lanta.me:2710
+retracker01-msk-virt.corbina.net:80
 run.publictracker.xyz:6969
 ryjer.com:6969
 tamas3.ynh.fr:6969
-tracker-udp.gbitt.info:80
 tracker.0x7c0.com:6969
+tracker.bittor.pw:1337
 tracker.darkness.services:6969
 tracker.dler.org:6969
 tracker.dump.cl:6969
