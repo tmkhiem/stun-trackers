@@ -1,4 +1,6 @@
+1c.premierzal.ru:6969
 amigacity.xyz:6969
+bt.ktrackers.com:6666
 bt1.archive.org:6969
 bt2.archive.org:6969
 bubu.mapfactor.com:6969
@@ -34,9 +36,11 @@ tracker.darkness.services:6969
 tracker.deadorbit.nl:6969
 tracker.dler.org:6969
 tracker.dump.cl:6969
+tracker.edkj.club:6969
 tracker.filemail.com:6969
 tracker.opentrackr.org:1337
 tracker.qu.ax:6969
+tracker.tiny-vps.com:6969
 tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
 tracker1.myporn.club:9337
