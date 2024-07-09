@@ -12,6 +12,7 @@ jutone.com:6969
 leet-tracker.moe:1337
 martin-gebhardt.eu:25
 moonburrow.club:6969
+new-line.net:6969
 odd-hd.fr:6969
 oh.fuuuuuck.com:6969
 open-tracker.demonoid.ch:6969
@@ -39,8 +40,8 @@ tracker.darkness.services:6969
 tracker.deadorbit.nl:6969
 tracker.dler.org:6969
 tracker.dump.cl:6969
-tracker.edkj.club:6969
 tracker.filemail.com:6969
+tracker.jamesthebard.net:6969
 tracker.opentrackr.org:1337
 tracker.qu.ax:6969
 tracker.srv00.com:6969
