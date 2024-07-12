@@ -1,5 +1,4 @@
 1c.premierzal.ru:6969:
-5.102.159.190:6969
 aegir.sexy:6969:
 amigacity.xyz:6969:
 96.126.98.54:6969
@@ -25,9 +24,9 @@ inferno.demonoid.is:3391:
 ipv4.rer.lol:2710:
 27.155.141.177:2710
 isk.richardsw.club:6969:
+34.89.51.235:6969
 34.94.76.146:6969
 jutone.com:6969:
-121.199.16.229:6969
 martin-gebhardt.eu:25:
 185.216.179.62:25
 moonburrow.club:6969:
@@ -39,13 +38,12 @@ odd-hd.fr:6969:
 oh.fuuuuuck.com:6969:
 37.27.4.53:6969
 open-tracker.demonoid.ch:6969:
-45.135.134.94:6969
 open.demonii.com:1337:
-23.140.248.9:1337
+23.134.90.9:1337
 23.134.88.9:1337
 23.168.232.9:1337
 23.134.89.9:1337
-23.134.90.9:1337
+23.140.248.9:1337
 open.demonoid.ch:6969:
 198.12.89.149:6969
 open.dstud.io:6969:
@@ -81,8 +79,6 @@ torrents.artixlinux.org:6969:
 tracker.0x7c0.com:6969:
 23.153.248.83:6969
 tracker.bittor.pw:1337:
-34.89.51.235:1337
-35.227.59.57:1337
 tracker.ccp.ovh:6969:
 51.81.222.188:6969
 tracker.darkness.services:6969:
@@ -95,6 +91,8 @@ tracker.dler.org:6969:
 211.75.210.220:6969
 125.227.79.123:6969
 tracker.dump.cl:6969:
+35.227.59.57:6969
+34.89.51.235:6969
 tracker.edkj.club:6969:
 15.204.57.168:6969
 tracker.filemail.com:6969:
@@ -124,8 +122,8 @@ tracker1.myporn.club:9337:
 tracker2.dler.org:80:
 125.227.79.123:80
 ttk2.nbaonlineservice.com:6969:
-54.39.48.3:6969
 51.222.82.36:6969
+54.39.48.3:6969
 u.peer-exchange.download:6969:
 wepzone.net:6969:
 178.42.152.76:6969
