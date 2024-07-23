@@ -26,7 +26,6 @@ isk.richardsw.club:6969:
 jutone.com:6969:
 121.199.16.229:6969
 leet-tracker.moe:1337:
-34.89.51.235:1337
 moonburrow.club:6969:
 167.99.185.219:6969
 new-line.net:6969:
@@ -36,11 +35,11 @@ odd-hd.fr:6969:
 oh.fuuuuuck.com:6969:
 37.27.4.53:6969
 open.demonii.com:1337:
+23.168.232.9:1337
 23.134.88.9:1337
+23.134.89.9:1337
 23.140.248.9:1337
 23.134.90.9:1337
-23.134.89.9:1337
-23.168.232.9:1337
 open.demonoid.ch:6969:
 198.12.89.149:6969
 open.dstud.io:6969:
@@ -83,10 +82,11 @@ tracker.ddunlimited.net:6969:
 tracker.deadorbit.nl:6969:
 64.23.195.62:6969
 tracker.dler.org:6969:
+211.23.142.127:6969
 211.75.210.220:6969
 125.227.79.123:6969
-211.23.142.127:6969
 tracker.dump.cl:6969:
+34.89.51.235:6969
 35.227.59.57:6969
 tracker.edkj.club:6969:
 15.204.57.168:6969
@@ -98,7 +98,7 @@ tracker.jamesthebard.net:6969:
 tracker.opentrackr.org:1337:
 93.158.213.92:1337
 tracker.qu.ax:6969:
-93.185.165.29:6969
+45.154.96.33:6969
 181.214.58.63:6969
 tracker.srv00.com:6969:
 89.110.76.229:6969
@@ -117,8 +117,8 @@ tracker1.myporn.club:9337:
 tracker2.dler.org:80:
 125.227.79.123:80
 ttk2.nbaonlineservice.com:6969:
-54.39.48.3:6969
 51.222.82.36:6969
+54.39.48.3:6969
 u.peer-exchange.download:6969:
 wepzone.net:6969:
 83.31.212.5:6969
