@@ -8,9 +8,7 @@ d40969.acod.regrucolo.ru:6969
 epider.me:6969
 exodus.desync.com:6969
 ipv4.rer.lol:2710
-isk.richardsw.club:6969
 jutone.com:6969
-leet-tracker.moe:1337
 martin-gebhardt.eu:25
 moonburrow.club:6969
 new-line.net:6969
@@ -19,14 +17,13 @@ open.demonii.com:1337
 open.demonoid.ch:6969
 open.dstud.io:6969
 open.free-tracker.ga:6969
+open.publictracker.xyz:6969
 open.stealth.si:80
-open.tracker.cl:1337
 open.u-p.pw:6969
 opentracker.io:6969
 p2p.publictracker.xyz:6969
 p4p.arenabg.com:1337
 retracker01-msk-virt.corbina.net:80
-run.publictracker.xyz:6969
 ryjer.com:6969
 tamas3.ynh.fr:6969
 tracker.0x7c0.com:6969
@@ -39,8 +36,10 @@ tracker.dump.cl:6969
 tracker.edkj.club:6969
 tracker.farted.net:6969
 tracker.filemail.com:6969
+tracker.jamesthebard.net:6969
 tracker.opentrackr.org:1337
 tracker.srv00.com:6969
+tracker.theoks.net:6969
 tracker.tiny-vps.com:6969
 tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
