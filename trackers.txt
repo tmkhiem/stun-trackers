@@ -1,4 +1,3 @@
-1c.premierzal.ru:6969
 amigacity.xyz:6969
 bt1.archive.org:6969
 bt2.archive.org:6969
@@ -9,7 +8,6 @@ isk.richardsw.club:6969
 jutone.com:6969
 martin-gebhardt.eu:25
 moonburrow.club:6969
-new-line.net:6969
 odd-hd.fr:6969
 open.demonii.com:1337
 open.demonoid.ch:6969
@@ -23,7 +21,6 @@ p4p.arenabg.com:1337
 retracker01-msk-virt.corbina.net:80
 run.publictracker.xyz:6969
 ryjer.com:6969
-tamas3.ynh.fr:6969
 tracker.0x7c0.com:6969
 tracker.bittor.pw:1337
 tracker.ccp.ovh:6969
@@ -31,6 +28,7 @@ tracker.darkness.services:6969
 tracker.deadorbit.nl:6969
 tracker.dler.org:6969
 tracker.dump.cl:6969
+tracker.edkj.club:6969
 tracker.farted.net:6969
 tracker.filemail.com:6969
 tracker.jamesthebard.net:6969
@@ -39,6 +37,4 @@ tracker.srv00.com:6969
 tracker.tiny-vps.com:6969
 tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
-tracker1.myporn.club:9337
-tracker2.dler.org:80
 ttk2.nbaonlineservice.com:6969
