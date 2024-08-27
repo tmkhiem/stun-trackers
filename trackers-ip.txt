@@ -1,5 +1,4 @@
 1c.premierzal.ru:6969:
-5.102.159.190:6969
 amigacity.xyz:6969:
 96.126.98.54:6969
 bittorrent-tracker.e-n-c-r-y-p-t.net:1337:
@@ -17,7 +16,6 @@ explodie.org:6969:
 ipv4.rer.lol:2710:
 27.151.84.5:2710
 isk.richardsw.club:6969:
-34.89.51.235:6969
 34.94.76.146:6969
 jutone.com:6969:
 121.199.16.229:6969
@@ -32,13 +30,14 @@ odd-hd.fr:6969:
 62.210.114.129:6969
 open.demonii.com:1337:
 23.140.248.9:1337
-23.134.88.9:1337
-23.168.232.9:1337
-23.134.90.9:1337
 23.134.89.9:1337
+23.168.232.9:1337
+23.134.88.9:1337
+23.134.90.9:1337
 open.dstud.io:6969:
 5.181.156.41:6969
 open.free-tracker.ga:6969:
+35.227.59.57:6969
 open.publictracker.xyz:6969:
 88.216.2.71:6969
 open.stealth.si:80:
@@ -46,6 +45,7 @@ open.stealth.si:80:
 open.u-p.pw:6969:
 104.244.77.87:6969
 opentracker.io:6969:
+45.9.60.30:6969
 p2p.publictracker.xyz:6969:
 176.123.1.180:6969
 p4p.arenabg.com:1337:
@@ -63,7 +63,7 @@ tracker-udp.gbitt.info:80:
 tracker.0x7c0.com:6969:
 23.153.248.83:6969
 tracker.bittor.pw:1337:
-35.227.59.57:1337
+34.94.76.146:1337
 tracker.ccp.ovh:6969:
 51.81.222.188:6969
 tracker.darkness.services:6969:
@@ -72,9 +72,11 @@ tracker.deadorbit.nl:6969:
 64.23.195.62:6969
 tracker.dler.org:6969:
 211.23.142.127:6969
-211.75.210.220:6969
 125.227.79.123:6969
+211.75.210.220:6969
 tracker.dump.cl:6969:
+35.227.59.57:6969
+34.94.76.146:6969
 tracker.edkj.club:6969:
 tracker.farted.net:6969:
 85.239.33.28:6969
@@ -95,10 +97,10 @@ tracker.tiny-vps.com:6969:
 83.146.98.119:6969
 tracker.torrent.eu.org:451:
 91.216.110.53:451
+89.234.156.205:451
 tracker.tryhackx.org:6969:
 135.125.202.143:6969
 tracker1.bt.moack.co.kr:80:
-156.234.201.18:80
 tracker2.dler.org:80:
 125.227.79.123:80
 ttk2.nbaonlineservice.com:6969:
