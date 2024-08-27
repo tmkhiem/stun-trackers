@@ -11,7 +11,6 @@ moonburrow.club:6969
 odd-hd.fr:6969
 open.demonii.com:1337
 open.dstud.io:6969
-open.free-tracker.ga:6969
 open.publictracker.xyz:6969
 open.stealth.si:80
 open.u-p.pw:6969
@@ -28,15 +27,17 @@ tracker.ccp.ovh:6969
 tracker.darkness.services:6969
 tracker.deadorbit.nl:6969
 tracker.dler.org:6969
+tracker.dump.cl:6969
 tracker.edkj.club:6969
 tracker.farted.net:6969
 tracker.filemail.com:6969
+tracker.jamesthebard.net:6969
 tracker.opentrackr.org:1337
 tracker.qu.ax:6969
 tracker.srv00.com:6969
+tracker.theoks.net:6969
 tracker.tiny-vps.com:6969
 tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
-tracker1.bt.moack.co.kr:80
 tracker2.dler.org:80
 ttk2.nbaonlineservice.com:6969
