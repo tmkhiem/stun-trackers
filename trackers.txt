@@ -5,6 +5,7 @@ bt2.archive.org:6969
 d40969.acod.regrucolo.ru:6969
 epider.me:6969
 exodus.desync.com:6969
+freedomalternative.com:6969
 ipv4.rer.lol:2710
 jutone.com:6969
 leet-tracker.moe:1337
@@ -37,7 +38,6 @@ tracker.srv00.com:6969
 tracker.tiny-vps.com:6969
 tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
-tracker1.bt.moack.co.kr:80
 tracker2.dler.org:80
 ttk2.nbaonlineservice.com:6969
 wepzone.net:6969
