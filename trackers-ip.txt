@@ -18,6 +18,7 @@ exodus.desync.com:6969:
 208.83.20.20:6969
 explodie.org:6969:
 ipv4.rer.lol:2710:
+120.36.84.13:2710
 isk.richardsw.club:6969:
 jutone.com:6969:
 121.199.16.229:6969
@@ -28,11 +29,11 @@ moonburrow.club:6969:
 odd-hd.fr:6969:
 62.210.114.129:6969
 open.demonii.com:1337:
-23.134.88.9:1337
-23.140.248.9:1337
-23.168.232.9:1337
 23.134.90.9:1337
 23.134.89.9:1337
+23.134.88.9:1337
+23.168.232.9:1337
+23.140.248.9:1337
 open.dstud.io:6969:
 5.181.156.41:6969
 open.publictracker.xyz:6969:
@@ -79,7 +80,6 @@ tracker.jamesthebard.net:6969:
 tracker.opentrackr.org:1337:
 93.158.213.92:1337
 tracker.qu.ax:6969:
-93.185.165.29:6969
 181.214.58.63:6969
 tracker.skynetcloud.site:6969:
 tracker.srv00.com:6969:
@@ -88,11 +88,9 @@ tracker.tiny-vps.com:6969:
 83.146.98.119:6969
 tracker.torrent.eu.org:451:
 89.234.156.205:451
-91.216.110.53:451
 tracker.tryhackx.org:6969:
 135.125.202.143:6969
 tracker1.myporn.club:9337:
-193.42.111.57:9337
 tracker2.dler.org:80:
 125.227.79.123:80
 ttk2.nbaonlineservice.com:6969:
