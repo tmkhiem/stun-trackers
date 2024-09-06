@@ -29,7 +29,6 @@ run.publictracker.xyz:6969
 ryjer.com:6969
 tamas3.ynh.fr:6969
 tracker.0x7c0.com:6969
-tracker.auctor.tv:6969
 tracker.bittor.pw:1337
 tracker.ccp.ovh:6969
 tracker.darkness.services:6969
