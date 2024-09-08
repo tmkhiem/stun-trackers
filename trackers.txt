@@ -12,6 +12,7 @@ jutone.com:6969
 leet-tracker.moe:1337
 martin-gebhardt.eu:25
 moonburrow.club:6969
+new-line.net:6969
 odd-hd.fr:6969
 open.demonii.com:1337
 open.free-tracker.ga:6969
@@ -27,7 +28,6 @@ ryjer.com:6969
 tamas3.ynh.fr:6969
 tracker.0x7c0.com:6969
 tracker.bittor.pw:1337
-tracker.ccp.ovh:6969
 tracker.darkness.services:6969
 tracker.deadorbit.nl:6969
 tracker.dler.org:6969
