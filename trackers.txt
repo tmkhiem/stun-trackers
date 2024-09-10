@@ -6,6 +6,7 @@ bt.rer.lol:6969
 bt1.archive.org:6969
 bt2.archive.org:6969
 d40969.acod.regrucolo.ru:6969
+exodus.desync.com:6969
 jutone.com:6969
 martin-gebhardt.eu:25
 moonburrow.club:6969
@@ -16,6 +17,7 @@ open.dstud.io:6969
 open.free-tracker.ga:6969
 open.publictracker.xyz:6969
 open.stealth.si:80
+open.tracker.cl:1337
 opentracker.io:6969
 p2p.publictracker.xyz:6969
 p4p.arenabg.com:1337
@@ -25,6 +27,7 @@ ryjer.com:6969
 tamas3.ynh.fr:6969
 tracker.0x7c0.com:6969
 tracker.bittor.pw:1337
+tracker.ccp.ovh:6969
 tracker.darkness.services:6969
 tracker.dler.org:6969
 tracker.dump.cl:6969
