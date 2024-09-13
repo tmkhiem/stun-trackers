@@ -20,7 +20,7 @@ open.dstud.io:6969
 open.free-tracker.ga:6969
 open.publictracker.xyz:6969
 open.stealth.si:80
-opentracker.io:6969
+open.u-p.pw:6969
 p2p.publictracker.xyz:6969
 p4p.arenabg.com:1337
 retracker01-msk-virt.corbina.net:80
