@@ -21,9 +21,9 @@ open.stealth.si:80
 opentracker.io:6969
 p2p.publictracker.xyz:6969
 p4p.arenabg.com:1337
+public.tracker.vraphim.com:6969
 retracker01-msk-virt.corbina.net:80
 run.publictracker.xyz:6969
-tamas3.ynh.fr:6969
 tracker.0x7c0.com:6969
 tracker.bittor.pw:1337
 tracker.ccp.ovh:6969
