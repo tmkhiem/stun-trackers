@@ -7,7 +7,6 @@ stun.actionvoip.com:3478
 stun.annatel.net:3478
 stun.antisip.com:3478
 stun.avigora.fr:3478
-stun.cablenet-as.net:3478
 stun.callromania.ro:3478
 stun.cheapvoip.com:3478
 stun.commpeak.com:3478
@@ -53,7 +52,6 @@ stun.poivy.com:3478
 stun.powervoip.com:3478
 stun.ppdi.com:3478
 stun.rockenstein.de:3478
-stun.rolmail.net:3478
 stun.rynga.com:3478
 stun.schlund.de:3478
 stun.sigmavoip.com:3478
