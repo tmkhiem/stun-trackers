@@ -8,7 +8,6 @@ bt.ktrackers.com:6666:
 bt.rer.lol:2710:
 27.155.141.83:2710
 bt.rer.lol:6969:
-27.155.141.83:6969
 bt1.archive.org:6969:
 207.241.226.111:6969
 bt2.archive.org:6969:
@@ -23,6 +22,7 @@ explodie.org:6969:
 ipv4.rer.lol:2710:
 27.155.141.83:2710
 jutone.com:6969:
+121.199.16.229:6969
 jvavav.com:6969:
 leet-tracker.moe:1337:
 35.227.59.57:1337
@@ -34,10 +34,10 @@ odd-hd.fr:6969:
 62.210.114.129:6969
 open.demonii.com:1337:
 23.168.232.9:1337
-23.134.88.9:1337
-23.134.90.9:1337
-23.140.248.9:1337
 23.134.89.9:1337
+23.134.88.9:1337
+23.140.248.9:1337
+23.134.90.9:1337
 open.dstud.io:6969:
 5.181.156.41:6969
 open.stealth.si:80:
@@ -73,7 +73,6 @@ tracker.dler.org:6969:
 211.75.210.220:6969
 211.23.142.127:6969
 tracker.dump.cl:6969:
-35.227.59.57:6969
 tracker.edkj.club:6969:
 47.243.23.189:6969
 tracker.farted.net:6969:
@@ -89,6 +88,7 @@ tracker.skynetcloud.site:6969:
 tracker.srv00.com:6969:
 89.110.76.229:6969
 tracker.theoks.net:6969:
+209.141.59.16:6969
 tracker.tiny-vps.com:6969:
 176.56.7.44:6969
 tracker.tryhackx.org:6969:
@@ -100,8 +100,8 @@ tracker2.dler.org:80:
 tracker2.itzmx.com:6961:
 46.29.162.181:6961
 ttk2.nbaonlineservice.com:6969:
-54.39.48.3:6969
 51.222.82.36:6969
+54.39.48.3:6969
 wepzone.net:6969:
 83.31.190.167:6969
 www.2600.com:6969:
