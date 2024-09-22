@@ -21,14 +21,15 @@ retracker01-msk-virt.corbina.net:80
 run.publictracker.xyz:6969
 tamas3.ynh.fr:6969
 tracker.0x7c0.com:6969
+tracker.ccp.ovh:6969
 tracker.darkness.services:6969
 tracker.deadorbit.nl:6969
 tracker.dler.org:6969
-tracker.edkj.club:6969
 tracker.filemail.com:6969
 tracker.jamesthebard.net:6969
 tracker.opentrackr.org:1337
 tracker.srv00.com:6969
+tracker.theoks.net:6969
 tracker.tiny-vps.com:6969
 tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
