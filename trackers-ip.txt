@@ -3,6 +3,7 @@
 aegir.sexy:6969:
 bittorrent-tracker.e-n-c-r-y-p-t.net:1337:
 bt.ktrackers.com:6666:
+51.159.54.68:6666
 bt.rer.lol:2710:
 27.151.84.97:2710
 bt.rer.lol:6969:
@@ -28,14 +29,13 @@ martin-gebhardt.eu:25:
 moonburrow.club:6969:
 167.99.185.219:6969
 new-line.net:6969:
-94.243.222.100:6969
 odd-hd.fr:6969:
 62.210.114.129:6969
 open.demonii.com:1337:
-23.168.232.9:1337
 23.140.248.9:1337
-23.134.89.9:1337
 23.134.88.9:1337
+23.168.232.9:1337
+23.134.89.9:1337
 open.dstud.io:6969:
 5.181.156.41:6969
 open.stealth.si:80:
@@ -70,6 +70,7 @@ tracker.dler.org:6969:
 tracker.edkj.club:6969:
 15.204.57.168:6969
 tracker.farted.net:6969:
+85.239.33.28:6969
 tracker.filemail.com:6969:
 52.58.128.163:6969
 tracker.fnix.net:6969:
@@ -85,6 +86,7 @@ tracker.tiny-vps.com:6969:
 176.56.7.44:6969
 tracker.torrent.eu.org:451:
 89.234.156.205:451
+91.216.110.53:451
 tracker.tryhackx.org:6969:
 135.125.202.143:6969
 tracker1.bt.moack.co.kr:80:
@@ -93,7 +95,7 @@ tracker2.dler.org:80:
 tracker2.itzmx.com:6961:
 46.29.162.181:6961
 ttk2.nbaonlineservice.com:6969:
-51.222.82.36:6969
 54.39.48.3:6969
+51.222.82.36:6969
 wepzone.net:6969:
 83.6.101.246:6969
