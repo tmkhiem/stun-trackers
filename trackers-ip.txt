@@ -33,10 +33,10 @@ new-line.net:6969:
 odd-hd.fr:6969:
 62.210.114.129:6969
 open.demonii.com:1337:
-23.134.89.9:1337
-23.168.232.9:1337
 23.134.88.9:1337
+23.168.232.9:1337
 23.140.248.9:1337
+23.134.89.9:1337
 open.stealth.si:80:
 185.243.218.213:80
 open.u-p.pw:6969:
@@ -55,6 +55,7 @@ tracker-udp.gbitt.info:80:
 tracker.0x7c0.com:6969:
 23.153.248.83:6969
 tracker.ccp.ovh:6969:
+51.81.222.188:6969
 tracker.darkness.services:6969:
 138.124.183.78:6969
 tracker.ddunlimited.net:6969:
@@ -79,7 +80,6 @@ tracker.skynetcloud.site:6969:
 tracker.srv00.com:6969:
 89.110.76.229:6969
 tracker.theoks.net:6969:
-209.141.59.16:6969
 tracker.tiny-vps.com:6969:
 176.56.7.44:6969
 tracker.torrent.eu.org:451:
@@ -87,7 +87,6 @@ tracker.torrent.eu.org:451:
 tracker.tryhackx.org:6969:
 135.125.202.143:6969
 tracker1.myporn.club:9337:
-193.42.111.57:9337
 tracker2.dler.org:80:
 125.227.79.123:80
 tracker2.itzmx.com:6961:
