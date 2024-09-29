@@ -1,4 +1,3 @@
-bt.ktrackers.com:6666
 bt.rer.lol:2710
 bt.rer.lol:6969
 bt1.archive.org:6969
