@@ -35,6 +35,5 @@ tracker.tiny-vps.com:6969
 tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
 tracker.vds.nz:6969
-tracker2.dler.org:80
 tracker2.itzmx.com:6961
 ttk2.nbaonlineservice.com:6969
