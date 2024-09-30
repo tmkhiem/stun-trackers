@@ -1,5 +1,4 @@
 1c.premierzal.ru:6969
-bt.ktrackers.com:6666
 bt.rer.lol:2710
 bt.rer.lol:6969
 bt1.archive.org:6969
@@ -20,8 +19,8 @@ p2p.publictracker.xyz:6969
 p4p.arenabg.com:1337
 retracker.lanta.me:2710
 retracker01-msk-virt.corbina.net:80
-run.publictracker.xyz:6969
 tracker.0x7c0.com:6969
+tracker.ccp.ovh:6969
 tracker.darkness.services:6969
 tracker.dler.org:6969
 tracker.farted.net:6969
@@ -34,5 +33,5 @@ tracker.tiny-vps.com:6969
 tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
 tracker.vds.nz:6969
-tracker1.bt.moack.co.kr:80
+tracker2.dler.org:80
 ttk2.nbaonlineservice.com:6969
