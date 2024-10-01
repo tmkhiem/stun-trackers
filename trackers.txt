@@ -1,4 +1,5 @@
 1c.premierzal.ru:6969
+bt.rer.lol:2710
 bt.rer.lol:6969
 bt1.archive.org:6969
 bt2.archive.org:6969
@@ -20,7 +21,6 @@ retracker01-msk-virt.corbina.net:80
 run.publictracker.xyz:6969
 ryjer.com:6969
 tracker.0x7c0.com:6969
-tracker.ccp.ovh:6969
 tracker.darkness.services:6969
 tracker.dler.org:6969
 tracker.edkj.club:6969
