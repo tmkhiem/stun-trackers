@@ -21,7 +21,6 @@ retracker01-msk-virt.corbina.net:80
 run.publictracker.xyz:6969
 ryjer.com:6969
 tracker.0x7c0.com:6969
-tracker.ccp.ovh:6969
 tracker.darkness.services:6969
 tracker.dler.org:6969
 tracker.edkj.club:6969
@@ -34,5 +33,6 @@ tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
 tracker.vds.nz:6969
 tracker1.myporn.club:9337
+tracker2.dler.org:80
 ttk2.nbaonlineservice.com:6969
 wepzone.net:6969
