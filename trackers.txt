@@ -1,5 +1,4 @@
 1c.premierzal.ru:6969
-bt.ktrackers.com:6666
 bt.rer.lol:2710
 bt.rer.lol:6969
 bt1.archive.org:6969
@@ -14,7 +13,6 @@ martin-gebhardt.eu:25
 moonburrow.club:6969
 new-line.net:6969
 odd-hd.fr:6969
-open.demonii.com:1337
 open.dstud.io:6969
 open.free-tracker.ga:6969
 open.stealth.si:80
@@ -31,7 +29,6 @@ tracker.darkness.services:6969
 tracker.deadorbit.nl:6969
 tracker.dler.org:6969
 tracker.dump.cl:6969
-tracker.edkj.club:6969
 tracker.filemail.com:6969
 tracker.jamesthebard.net:6969
 tracker.opentrackr.org:1337
