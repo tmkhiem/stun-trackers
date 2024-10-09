@@ -1,7 +1,6 @@
 stun.12connect.com:3478
 stun.12voip.com:3478
 stun.1und1.de:3478
-stun.2talk.co.nz:3478
 stun.aa.net.uk:3478
 stun.acrobits.cz:3478
 stun.actionvoip.com:3478
@@ -16,8 +15,8 @@ stun.cope.es:3478
 stun.counterpath.com:3478
 stun.counterpath.net:3478
 stun.dcalling.de:3478
+stun.dus.net:3478
 stun.easybell.de:3478
-stun.easycall.pl:3478
 stun.easyvoip.com:3478
 stun.ekiga.net:3478
 stun.epygi.com:3478
@@ -43,7 +42,6 @@ stun.lowratevoip.com:3478
 stun.miwifi.com:3478
 stun.myvoiptraffic.com:3478
 stun.mywatson.it:3478
-stun.nas.net:3478
 stun.netappel.com:3478
 stun.netgsm.com.tr:3478
 stun.nfon.net:3478

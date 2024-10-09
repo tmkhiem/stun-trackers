@@ -16,8 +16,15 @@ odd-hd.fr:6969
 open.demonii.com:1337
 open.dstud.io:6969
 open.free-tracker.ga:6969
+open.stealth.si:80
+opentracker.io:6969
+p2p.publictracker.xyz:6969
+p4p.arenabg.com:1337
+retracker.lanta.me:2710
+retracker01-msk-virt.corbina.net:80
+ryjer.com:6969
+tracker.0x7c0.com:6969
 tracker.bittor.pw:1337
-tracker.ccp.ovh:6969
 tracker.darkness.services:6969
 tracker.deadorbit.nl:6969
 tracker.dler.org:6969
@@ -25,6 +32,7 @@ tracker.dump.cl:6969
 tracker.edkj.club:6969
 tracker.filemail.com:6969
 tracker.jamesthebard.net:6969
+tracker.opentrackr.org:1337
 tracker.qu.ax:6969
 tracker.skynetcloud.site:6969
 tracker.srv00.com:6969
