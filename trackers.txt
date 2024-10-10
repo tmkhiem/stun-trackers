@@ -1,5 +1,5 @@
 1c.premierzal.ru:6969
-bt.ktrackers.com:6666
+bt.rer.lol:2710
 bt.rer.lol:6969
 d40969.acod.regrucolo.ru:6969
 exodus.desync.com:6969
@@ -22,7 +22,6 @@ retracker01-msk-virt.corbina.net:80
 ryjer.com:6969
 tracker.0x7c0.com:6969
 tracker.bittor.pw:1337
-tracker.ccp.ovh:6969
 tracker.darkness.services:6969
 tracker.deadorbit.nl:6969
 tracker.dler.org:6969
@@ -34,7 +33,6 @@ tracker.opentrackr.org:1337
 tracker.qu.ax:6969
 tracker.skynetcloud.site:6969
 tracker.srv00.com:6969
-tracker.theoks.net:6969
 tracker.tiny-vps.com:6969
 tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
