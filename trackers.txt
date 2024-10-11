@@ -1,5 +1,4 @@
 1c.premierzal.ru:6969
-bt.ktrackers.com:6666
 bt.rer.lol:2710
 bt.rer.lol:6969
 d40969.acod.regrucolo.ru:6969
@@ -13,13 +12,11 @@ moonburrow.club:6969
 new-line.net:6969
 odd-hd.fr:6969
 open.demonii.com:1337
-open.dstud.io:6969
 open.free-tracker.ga:6969
 open.stealth.si:80
 opentracker.io:6969
 p2p.publictracker.xyz:6969
 p4p.arenabg.com:1337
-public.tracker.vraphim.com:6969
 retracker.lanta.me:2710
 retracker01-msk-virt.corbina.net:80
 ryjer.com:6969
@@ -36,9 +33,11 @@ tracker.jamesthebard.net:6969
 tracker.opentrackr.org:1337
 tracker.qu.ax:6969
 tracker.srv00.com:6969
+tracker.theoks.net:6969
 tracker.tiny-vps.com:6969
 tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
 tracker.vds.nz:6969
+tracker2.dler.org:80
 ttk2.nbaonlineservice.com:6969
 wepzone.net:6969
