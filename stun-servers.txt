@@ -53,7 +53,6 @@ stun.poivy.com:3478
 stun.powervoip.com:3478
 stun.ppdi.com:3478
 stun.rockenstein.de:3478
-stun.rolmail.net:3478
 stun.rynga.com:3478
 stun.schlund.de:3478
 stun.sigmavoip.com:3478
@@ -99,7 +98,6 @@ stun.voipstunt.com:3478
 stun.voipwise.com:3478
 stun.voipzoom.com:3478
 stun.voys.nl:3478
-stun.voztele.com:3478
 stun.webcalldirect.com:3478
 stun.zadarma.com:3478
 stun1.l.google.com:19302
