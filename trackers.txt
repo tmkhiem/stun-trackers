@@ -6,7 +6,6 @@ bt.rer.lol:6969
 d40969.acod.regrucolo.ru:6969
 exodus.desync.com:6969
 ipv4.rer.lol:2710
-isk.richardsw.club:6969
 jutone.com:6969
 leet-tracker.moe:1337
 martin-gebhardt.eu:25
@@ -40,8 +39,6 @@ tracker.srv00.com:6969
 tracker.tiny-vps.com:6969
 tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
-tracker1.myporn.club:9337
-tracker2.dler.org:80
 ttk2.nbaonlineservice.com:6969
 wepzone.net:6969
 yahor.of.by:6969
