@@ -33,6 +33,7 @@ tracker.darkness.services:6969
 tracker.deadorbit.nl:6969
 tracker.dler.org:6969
 tracker.dump.cl:6969
+tracker.edkj.club:6969
 tracker.filemail.com:6969
 tracker.jamesthebard.net:6969
 tracker.opentrackr.org:1337
@@ -41,6 +42,8 @@ tracker.srv00.com:6969
 tracker.tiny-vps.com:6969
 tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
+tracker1.myporn.club:9337
+tracker2.dler.org:80
 ttk2.nbaonlineservice.com:6969
 wepzone.net:6969
 yahor.of.by:6969
