@@ -19,6 +19,7 @@ explodie.org:6969:
 ipv4.rer.lol:2710:
 120.36.84.3:2710
 jutone.com:6969:
+121.199.16.229:6969
 martin-gebhardt.eu:25:
 185.216.179.62:25
 moonburrow.club:6969:
@@ -32,6 +33,7 @@ open.stealth.si:80:
 open.tracker.cl:1337:
 186.10.170.97:1337
 open.tracker.ink:6969:
+116.8.90.240:6969
 opentracker.io:6969:
 45.9.60.30:6969
 p2p.publictracker.xyz:6969:
@@ -47,7 +49,6 @@ retracker01-msk-virt.corbina.net:80:
 run.publictracker.xyz:6969:
 15.204.56.171:6969
 ryjer.com:6969:
-82.156.24.219:6969
 torrents.artixlinux.org:6969:
 tracker-udp.gbitt.info:80:
 tracker.0x7c0.com:6969:
@@ -60,10 +61,11 @@ tracker.ddunlimited.net:6969:
 tracker.deadorbit.nl:6969:
 64.23.195.62:6969
 tracker.dler.org:6969:
-211.23.142.127:6969
 125.227.79.123:6969
 211.75.210.220:6969
+211.23.142.127:6969
 tracker.edkj.club:6969:
+15.204.57.168:6969
 tracker.filemail.com:6969:
 52.58.128.163:6969
 tracker.fnix.net:6969:
@@ -83,6 +85,7 @@ tracker.torrent.eu.org:451:
 tracker.tryhackx.org:6969:
 135.125.202.143:6969
 tracker1.bt.moack.co.kr:80:
+156.234.201.18:80
 tracker1.myporn.club:9337:
 193.42.111.57:9337
 tracker2.dler.org:80:
