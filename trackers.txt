@@ -25,8 +25,8 @@ tracker.ccp.ovh:6969
 tracker.darkness.services:6969
 tracker.deadorbit.nl:6969
 tracker.dler.org:6969
-tracker.edkj.club:6969
 tracker.filemail.com:6969
+tracker.jamesthebard.net:6969
 tracker.opentrackr.org:1337
 tracker.skynetcloud.site:6969
 tracker.srv00.com:6969
