@@ -4,7 +4,6 @@ bt.rer.lol:2710
 bt.rer.lol:6969
 d40969.acod.regrucolo.ru:6969
 exodus.desync.com:6969
-free.publictracker.xyz:6969
 ipv4.rer.lol:2710
 jutone.com:6969
 martin-gebhardt.eu:25
@@ -12,7 +11,6 @@ moonburrow.club:6969
 odd-hd.fr:6969
 open.dstud.io:6969
 open.stealth.si:80
-open.tracker.cl:1337
 opentracker.io:6969
 p2p.publictracker.xyz:6969
 p4p.arenabg.com:1337
@@ -28,13 +26,14 @@ tracker.deadorbit.nl:6969
 tracker.dler.org:6969
 tracker.edkj.club:6969
 tracker.filemail.com:6969
+tracker.jamesthebard.net:6969
 tracker.opentrackr.org:1337
+tracker.skyts.net:6969
 tracker.srv00.com:6969
 tracker.theoks.net:6969
 tracker.tiny-vps.com:6969
 tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
-tracker1.myporn.club:9337
 tracker2.dler.org:80
 ttk2.nbaonlineservice.com:6969
 wepzone.net:6969
