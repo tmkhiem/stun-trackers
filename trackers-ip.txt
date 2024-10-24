@@ -5,8 +5,8 @@ amigacity.xyz:6969:
 bittorrent-tracker.e-n-c-r-y-p-t.net:1337:
 5.181.188.172:1337
 bt.rer.lol:2710:
+120.36.84.3:2710
 bt.rer.lol:6969:
-120.36.84.3:6969
 concen.org:6969:
 d40969.acod.regrucolo.ru:6969:
 176.99.7.59:6969
@@ -15,7 +15,6 @@ exodus.desync.com:6969:
 208.83.20.20:6969
 explodie.org:6969:
 free.publictracker.xyz:6969:
-15.204.205.14:6969
 ipv4.rer.lol:2710:
 120.36.84.3:2710
 jutone.com:6969:
@@ -64,6 +63,7 @@ tracker.dler.org:6969:
 211.75.210.220:6969
 125.227.79.123:6969
 tracker.edkj.club:6969:
+15.204.57.168:6969
 tracker.filemail.com:6969:
 52.58.128.163:6969
 tracker.fnix.net:6969:
@@ -80,8 +80,8 @@ tracker.theoks.net:6969:
 tracker.tiny-vps.com:6969:
 83.146.104.232:6969
 tracker.torrent.eu.org:451:
-89.234.156.205:451
 91.216.110.53:451
+89.234.156.205:451
 tracker.tryhackx.org:6969:
 135.125.202.143:6969
 tracker1.bt.moack.co.kr:80:
