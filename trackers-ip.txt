@@ -54,7 +54,6 @@ tracker-udp.gbitt.info:80:
 tracker.0x7c0.com:6969:
 23.153.248.83:6969
 tracker.auctor.tv:6969:
-15.204.205.14:6969
 tracker.bittor.pw:1337:
 tracker.ccp.ovh:6969:
 tracker.darkness.services:6969:
@@ -63,9 +62,8 @@ tracker.ddunlimited.net:6969:
 tracker.deadorbit.nl:6969:
 64.23.195.62:6969
 tracker.dler.org:6969:
-125.227.79.123:6969
-211.23.142.127:6969
 211.75.210.220:6969
+211.23.142.127:6969
 tracker.dump.cl:6969:
 tracker.edkj.club:6969:
 15.204.57.168:6969
@@ -83,7 +81,6 @@ tracker.tiny-vps.com:6969:
 83.146.104.232:6969
 tracker.torrent.eu.org:451:
 91.216.110.53:451
-89.234.156.205:451
 tracker.tryhackx.org:6969:
 135.125.202.143:6969
 tracker1.bt.moack.co.kr:80:
