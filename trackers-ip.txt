@@ -1,5 +1,4 @@
 1c.premierzal.ru:6969:
-5.102.159.190:6969
 aegir.sexy:6969:
 amigacity.xyz:6969:
 96.126.98.54:6969
@@ -31,7 +30,6 @@ open.dstud.io:6969:
 open.stealth.si:80:
 185.243.218.213:80
 open.tracker.cl:1337:
-186.10.170.97:1337
 opentracker.io:6969:
 45.9.60.30:6969
 p2p.publictracker.xyz:6969:
@@ -60,9 +58,9 @@ tracker.ddunlimited.net:6969:
 tracker.deadorbit.nl:6969:
 64.23.195.62:6969
 tracker.dler.org:6969:
-211.75.210.220:6969
 125.227.79.123:6969
 211.23.142.127:6969
+211.75.210.220:6969
 tracker.edkj.club:6969:
 15.204.57.168:6969
 tracker.filemail.com:6969:
@@ -73,15 +71,13 @@ tracker.jamesthebard.net:6969:
 tracker.opentrackr.org:1337:
 93.158.213.92:1337
 tracker.qu.ax:6969:
-45.154.96.35:6969
 tracker.srv00.com:6969:
 89.110.76.229:6969
 tracker.theoks.net:6969:
-209.141.59.16:6969
 tracker.tiny-vps.com:6969:
 83.146.104.232:6969
 tracker.torrent.eu.org:451:
-91.216.110.53:451
+89.234.156.205:451
 tracker.tryhackx.org:6969:
 135.125.202.143:6969
 tracker1.bt.moack.co.kr:80:
