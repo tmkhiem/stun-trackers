@@ -31,6 +31,7 @@ open.dstud.io:6969:
 open.stealth.si:80:
 185.243.218.213:80
 open.tracker.cl:1337:
+186.10.170.97:1337
 opentracker.io:6969:
 45.9.60.30:6969
 p2p.publictracker.xyz:6969:
@@ -74,16 +75,16 @@ tracker.qu.ax:6969:
 tracker.srv00.com:6969:
 89.110.76.229:6969
 tracker.theoks.net:6969:
-209.141.59.16:6969
 tracker.tiny-vps.com:6969:
 83.146.104.232:6969
 tracker.torrent.eu.org:451:
 91.216.110.53:451
 tracker.tryhackx.org:6969:
-135.125.202.143:6969
 tracker1.bt.moack.co.kr:80:
 tracker2.dler.org:80:
+125.227.79.123:80
 ttk2.nbaonlineservice.com:6969:
 54.39.48.3:6969
 51.222.82.36:6969
 wepzone.net:6969:
+83.6.210.153:6969
