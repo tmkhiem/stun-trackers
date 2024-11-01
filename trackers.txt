@@ -35,11 +35,9 @@ tracker.filemail.com:6969
 tracker.jamesthebard.net:6969
 tracker.opentrackr.org:1337
 tracker.srv00.com:6969
-tracker.theoks.net:6969
 tracker.tiny-vps.com:6969
 tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
-tracker1.bt.moack.co.kr:80
 tracker1.myporn.club:9337
 tracker2.dler.org:80
 ttk2.nbaonlineservice.com:6969
