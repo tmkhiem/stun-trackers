@@ -1,6 +1,7 @@
 1c.premierzal.ru:6969
 amigacity.xyz:6969
 bandito.byterunner.io:6969
+bt.ktrackers.com:6666
 canardscitrons.nohost.me:6969
 d13bttrck.duckdns.org:6969
 d40969.acod.regrucolo.ru:6969
@@ -9,7 +10,6 @@ exodus.desync.com:6969
 ipv4.rer.lol:2710
 isk.richardsw.club:6969
 ismaarino.com:1234
-jutone.com:6969
 leet-tracker.moe:1337
 martin-gebhardt.eu:25
 moonburrow.club:6969
@@ -20,7 +20,6 @@ open.dstud.io:6969
 open.free-tracker.ga:6969
 open.stealth.si:80
 open.tracker.cl:1337
-opentracker.io:6969
 p2p.publictracker.xyz:6969
 p4p.arenabg.com:1337
 public.tracker.vraphim.com:6969
@@ -32,6 +31,7 @@ seedpeer.net:6969
 serpb.vpsburti.com:6969
 t.overflow.biz:6969
 tracker.0x7c0.com:6969
+tracker.auctor.tv:6969
 tracker.bittor.pw:1337
 tracker.ccp.ovh:6969
 tracker.deadorbit.nl:6969
@@ -45,8 +45,12 @@ tracker.jamesthebard.net:6969
 tracker.ololosh.space:6969
 tracker.opentrackr.org:1337
 tracker.srv00.com:6969
+tracker.theoks.net:6969
 tracker.tiny-vps.com:6969
+tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
+tracker1.myporn.club:9337
+tracker2.dler.org:80
 tracker3.itzmx.com:6961
 tracker4.itzmx.com:2710
 ttk2.nbaonlineservice.com:6969
