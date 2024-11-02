@@ -38,6 +38,7 @@ tracker.ccp.ovh:6969
 tracker.deadorbit.nl:6969
 tracker.dler.org:6969
 tracker.dump.cl:6969
+tracker.edkj.club:6969
 tracker.filemail.com:6969
 tracker.gigantino.net:6969
 tracker.gmi.gd:6969
@@ -47,6 +48,7 @@ tracker.opentrackr.org:1337
 tracker.srv00.com:6969
 tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
+tracker2.dler.org:80
 tracker3.itzmx.com:6961
 tracker4.itzmx.com:2710
 ttk2.nbaonlineservice.com:6969
