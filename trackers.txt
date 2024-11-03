@@ -2,6 +2,7 @@
 amigacity.xyz:6969
 bandito.byterunner.io:6969
 bittorrent-tracker.e-n-c-r-y-p-t.net:1337
+bt.ktrackers.com:6666
 canardscitrons.nohost.me:6969
 d13bttrck.duckdns.org:6969
 d40969.acod.regrucolo.ru:6969
@@ -10,6 +11,7 @@ exodus.desync.com:6969
 ipv4.rer.lol:2710
 isk.richardsw.club:6969
 ismaarino.com:1234
+jutone.com:6969
 leet-tracker.moe:1337
 martin-gebhardt.eu:25
 moonburrow.club:6969
@@ -35,6 +37,7 @@ t.overflow.biz:6969
 tr4ck3r.duckdns.org:6969
 tracker.0x7c0.com:6969
 tracker.bittor.pw:1337
+tracker.ccp.ovh:6969
 tracker.darkness.services:6969
 tracker.deadorbit.nl:6969
 tracker.dler.org:6969
@@ -47,9 +50,9 @@ tracker.jamesthebard.net:6969
 tracker.ololosh.space:6969
 tracker.opentrackr.org:1337
 tracker.srv00.com:6969
+tracker.theoks.net:6969
 tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
-tracker1.bt.moack.co.kr:80
 tracker2.dler.org:80
 tracker3.itzmx.com:6961
 tracker4.itzmx.com:2710
