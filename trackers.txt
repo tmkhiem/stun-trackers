@@ -2,6 +2,8 @@
 amigacity.xyz:6969
 bandito.byterunner.io:6969
 bittorrent-tracker.e-n-c-r-y-p-t.net:1337
+bt.ktrackers.com:6666
+canardscitrons.nohost.me:6969
 d13bttrck.duckdns.org:6969
 d40969.acod.regrucolo.ru:6969
 discord.heihachi.pw:6969
@@ -20,7 +22,6 @@ open.dstud.io:6969
 open.free-tracker.ga:6969
 open.stealth.si:80
 open.tracker.cl:1337
-open.u-p.pw:6969
 opentracker.io:6969
 p2p.publictracker.xyz:6969
 p4p.arenabg.com:1337
