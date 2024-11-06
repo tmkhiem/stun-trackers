@@ -2,7 +2,6 @@
 amigacity.xyz:6969
 bandito.byterunner.io:6969
 bittorrent-tracker.e-n-c-r-y-p-t.net:1337
-bt.ktrackers.com:6666
 canardscitrons.nohost.me:6969
 d13bttrck.duckdns.org:6969
 d40969.acod.regrucolo.ru:6969
@@ -22,10 +21,10 @@ open.dstud.io:6969
 open.free-tracker.ga:6969
 open.stealth.si:80
 open.tracker.cl:1337
+open.u-p.pw:6969
 opentracker.io:6969
 p2p.publictracker.xyz:6969
 p4p.arenabg.com:1337
-public.tracker.vraphim.com:6969
 retracker.lanta.me:2710
 retracker01-msk-virt.corbina.net:80
 run.publictracker.xyz:6969
@@ -43,6 +42,7 @@ tracker.edkj.club:6969
 tracker.filemail.com:6969
 tracker.gigantino.net:6969
 tracker.gmi.gd:6969
+tracker.jamesthebard.net:6969
 tracker.ololosh.space:6969
 tracker.opentrackr.org:1337
 tracker.skynetcloud.site:6969
@@ -51,7 +51,6 @@ tracker.theoks.net:6969
 tracker.tiny-vps.com:6969
 tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
-tracker1.bt.moack.co.kr:80
 tracker2.dler.org:80
 tracker3.itzmx.com:6961
 tracker4.itzmx.com:2710
