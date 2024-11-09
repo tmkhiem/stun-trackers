@@ -1,7 +1,7 @@
+1c.premierzal.ru:6969
 amigacity.xyz:6969
 bandito.byterunner.io:6969
 bittorrent-tracker.e-n-c-r-y-p-t.net:1337
-bt.ktrackers.com:6666
 canardscitrons.nohost.me:6969
 d40969.acod.regrucolo.ru:6969
 discord.heihachi.pw:6969
@@ -33,7 +33,6 @@ t.overflow.biz:6969
 tr4ck3r.duckdns.org:6969
 tracker.0x7c0.com:6969
 tracker.bittor.pw:1337
-tracker.darkness.services:6969
 tracker.deadorbit.nl:6969
 tracker.dler.org:6969
 tracker.dump.cl:6969
@@ -47,6 +46,7 @@ tracker.opentrackr.org:1337
 tracker.qu.ax:6969
 tracker.skynetcloud.site:6969
 tracker.srv00.com:6969
+tracker.theoks.net:6969
 tracker.tiny-vps.com:6969
 tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
