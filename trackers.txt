@@ -8,6 +8,7 @@ freedomalternative.com:6969
 ipv4.rer.lol:2710
 isk.richardsw.club:6969
 ismaarino.com:1234
+jutone.com:6969
 leet-tracker.moe:1337
 martin-gebhardt.eu:25
 ns-1.x-fins.com:6969
@@ -16,6 +17,7 @@ open.dstud.io:6969
 open.free-tracker.ga:6969
 open.stealth.si:80
 open.tracker.cl:1337
+opentracker.io:6969
 p2p.publictracker.xyz:6969
 p4p.arenabg.com:1337
 public.tracker.vraphim.com:6969
@@ -27,7 +29,6 @@ serpb.vpsburti.com:6969
 t.overflow.biz:6969
 tr4ck3r.duckdns.org:6969
 tracker.0x7c0.com:6969
-tracker.auctor.tv:6969
 tracker.bittor.pw:1337
 tracker.darkness.services:6969
 tracker.deadorbit.nl:6969
