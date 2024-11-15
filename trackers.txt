@@ -6,10 +6,12 @@ discord.heihachi.pw:6969
 exodus.desync.com:6969
 isk.richardsw.club:6969
 ismaarino.com:1234
+jutone.com:6969
 martin-gebhardt.eu:25
 ns-1.x-fins.com:6969
 odd-hd.fr:6969
 open.dstud.io:6969
+open.free-tracker.ga:6969
 open.stealth.si:80
 open.tracker.cl:1337
 opentracker.io:6969
@@ -24,12 +26,15 @@ serpb.vpsburti.com:6969
 t.overflow.biz:6969
 tr4ck3r.duckdns.org:6969
 tracker.0x7c0.com:6969
+tracker.bittor.pw:1337
 tracker.darkness.services:6969
 tracker.deadorbit.nl:6969
 tracker.dler.org:6969
+tracker.edkj.club:6969
 tracker.filemail.com:6969
 tracker.gigantino.net:6969
 tracker.gmi.gd:6969
+tracker.jamesthebard.net:6969
 tracker.ololosh.space:6969
 tracker.opentrackr.org:1337
 tracker.qu.ax:6969
@@ -38,6 +43,7 @@ tracker.srv00.com:6969
 tracker.tiny-vps.com:6969
 tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
+tracker1.bt.moack.co.kr:80
 tracker2.dler.org:80
 tracker3.itzmx.com:6961
 tracker4.itzmx.com:2710
