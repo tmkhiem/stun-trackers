@@ -1,6 +1,6 @@
 amigacity.xyz:6969
 bandito.byterunner.io:6969
-bt.ktrackers.com:6666
+bittorrent-tracker.e-n-c-r-y-p-t.net:1337
 d40969.acod.regrucolo.ru:6969
 exodus.desync.com:6969
 ismaarino.com:1234
@@ -11,7 +11,6 @@ odd-hd.fr:6969
 open.demonii.com:1337
 open.free-tracker.ga:6969
 open.stealth.si:80
-open.tracker.cl:1337
 opentracker.io:6969
 p2p.publictracker.xyz:6969
 p4p.arenabg.com:1337
@@ -41,8 +40,10 @@ tracker.srv00.com:6969
 tracker.tiny-vps.com:6969
 tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
+tracker1.bt.moack.co.kr:80
 tracker2.dler.org:80
 tracker3.itzmx.com:6961
 tracker4.itzmx.com:2710
 ttk2.nbaonlineservice.com:6969
+wepzone.net:6969
 yahor.of.by:6969
