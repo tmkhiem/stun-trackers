@@ -12,6 +12,7 @@ jutone.com:6969
 martin-gebhardt.eu:25
 odd-hd.fr:6969
 open.dstud.io:6969
+open.free-tracker.ga:6969
 open.stealth.si:80
 open.tracker.cl:1337
 opentracker.io:6969
@@ -27,6 +28,7 @@ tr4ck3r.duckdns.org:6969
 tracker.0x7c0.com:6969
 tracker.darkness.services:6969
 tracker.dler.org:6969
+tracker.edkj.club:6969
 tracker.filemail.com:6969
 tracker.gigantino.net:6969
 tracker.gmi.gd:6969
