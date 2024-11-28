@@ -19,7 +19,6 @@ explodie.org:6969:
 ipv4.rer.lol:2710:
 211.97.119.106:2710
 isk.richardsw.club:6969:
-35.227.59.57:6969
 ismaarino.com:1234:
 79.117.113.253:1234
 jutone.com:6969:
@@ -31,10 +30,11 @@ odd-hd.fr:6969:
 open.dstud.io:6969:
 5.181.156.41:6969
 open.free-tracker.ga:6969:
-35.227.59.57:6969
+34.94.76.146:6969
 open.stealth.si:80:
 185.243.218.213:80
 open.tracker.cl:1337:
+186.10.170.97:1337
 opentracker.io:6969:
 45.9.60.30:6969
 p2p.publictracker.xyz:6969:
@@ -64,8 +64,8 @@ tracker.darkness.services:6969:
 tracker.deadorbit.nl:6969:
 tracker.dler.org:6969:
 211.23.142.127:6969
-211.75.210.220:6969
 125.227.79.123:6969
+211.75.210.220:6969
 tracker.edkj.club:6969:
 15.204.57.168:6969
 tracker.filemail.com:6969:
@@ -78,6 +78,7 @@ tracker.gmi.gd:6969:
 tracker.opentrackr.org:1337:
 93.158.213.92:1337
 tracker.qu.ax:6969:
+45.154.96.35:6969
 tracker.skynetcloud.site:6969:
 18.191.163.220:6969
 tracker.srv00.com:6969:
@@ -93,10 +94,10 @@ tracker.tryhackx.org:6969:
 tracker.vds.nz:6969:
 190.146.242.81:6969
 tracker1.bt.moack.co.kr:80:
-156.234.201.18:80
 tracker1.myporn.club:9337:
 193.42.111.57:9337
 tracker2.dler.org:80:
+125.227.79.123:80
 ttk2.nbaonlineservice.com:6969:
 51.222.82.36:6969
 54.39.48.3:6969
