@@ -29,6 +29,8 @@ odd-hd.fr:6969:
 open.dstud.io:6969:
 5.181.156.41:6969
 open.free-tracker.ga:6969:
+35.227.59.57:6969
+34.94.76.146:6969
 open.stealth.si:80:
 185.243.218.213:80
 open.tracker.cl:1337:
@@ -67,7 +69,6 @@ tracker.dler.org:6969:
 211.75.210.220:6969
 211.23.142.127:6969
 tracker.edkj.club:6969:
-15.204.57.168:6969
 tracker.filemail.com:6969:
 52.58.128.163:6969
 tracker.fnix.net:6969:
@@ -87,6 +88,7 @@ tracker.tiny-vps.com:6969:
 83.146.81.79:6969
 tracker.torrent.eu.org:451:
 89.234.156.205:451
+91.216.110.53:451
 tracker.torrust-demo.com:6969:
 tracker.tryhackx.org:6969:
 135.125.202.143:6969
@@ -96,8 +98,10 @@ tracker1.bt.moack.co.kr:80:
 tracker1.myporn.club:9337:
 193.42.111.57:9337
 tracker2.dler.org:80:
+125.227.79.123:80
 ttk2.nbaonlineservice.com:6969:
-54.39.48.3:6969
 51.222.82.36:6969
+54.39.48.3:6969
 wepzone.net:6969:
+83.6.220.36:6969
 z.mercax.com:53:
