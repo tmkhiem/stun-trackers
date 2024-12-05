@@ -5,10 +5,10 @@ bandito.byterunner.io:6969:
 bittorrent-tracker.e-n-c-r-y-p-t.net:1337:
 5.181.188.172:1337
 bt.ktrackers.com:6666:
-51.159.54.68:6666
 bt.rer.lol:2710:
 220.200.35.124:2710
 bt.rer.lol:6969:
+220.200.35.124:6969
 concen.org:6969:
 d40969.acod.regrucolo.ru:6969:
 176.99.7.59:6969
@@ -27,6 +27,7 @@ leet-tracker.moe:1337:
 martin-gebhardt.eu:25:
 185.216.179.62:25
 ns-1.x-fins.com:6969:
+35.227.59.57:6969
 odd-hd.fr:6969:
 62.210.114.129:6969
 open.dstud.io:6969:
@@ -58,6 +59,8 @@ tracker-udp.gbitt.info:80:
 tracker.0x7c0.com:6969:
 23.153.248.83:6969
 tracker.bittor.pw:1337:
+35.227.59.57:1337
+34.94.76.146:1337
 tracker.darkness.services:6969:
 138.124.183.78:6969
 tracker.deadorbit.nl:6969:
@@ -66,8 +69,8 @@ tracker.dler.org:6969:
 125.227.79.123:6969
 211.23.142.127:6969
 tracker.edkj.club:6969:
-15.204.57.168:6969
 tracker.filemail.com:6969:
+52.58.128.163:6969
 tracker.fnix.net:6969:
 tracker.gigantino.net:6969:
 68.193.189.231:6969
@@ -85,7 +88,7 @@ tracker.theoks.net:6969:
 tracker.tiny-vps.com:6969:
 83.146.81.79:6969
 tracker.torrent.eu.org:451:
-91.216.110.53:451
+89.234.156.205:451
 tracker.torrust-demo.com:6969:
 tracker.tryhackx.org:6969:
 135.125.202.143:6969
@@ -93,12 +96,11 @@ tracker.vds.nz:6969:
 190.146.242.81:6969
 tracker1.bt.moack.co.kr:80:
 tracker1.myporn.club:9337:
-193.42.111.57:9337
 tracker2.dler.org:80:
 125.227.79.123:80
 ttk2.nbaonlineservice.com:6969:
-51.222.82.36:6969
 54.39.48.3:6969
+51.222.82.36:6969
 wepzone.net:6969:
 83.31.205.97:6969
 z.mercax.com:53:
