@@ -13,7 +13,6 @@ jutone.com:6969
 martin-gebhardt.eu:25
 ns-1.x-fins.com:6969
 odd-hd.fr:6969
-open.free-tracker.ga:6969
 open.stealth.si:80
 opentracker.io:6969
 p2p.publictracker.xyz:6969
@@ -25,7 +24,6 @@ seedpeer.net:6969
 t.overflow.biz:6969
 tr4ck3r.duckdns.org:6969
 tracker.0x7c0.com:6969
-tracker.bittor.pw:1337
 tracker.dler.org:6969
 tracker.dump.cl:6969
 tracker.filemail.com:6969
@@ -41,6 +39,5 @@ tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
 tracker.vds.nz:6969
 tracker1.myporn.club:9337
-tracker2.dler.org:80
 ttk2.nbaonlineservice.com:6969
 wepzone.net:6969
