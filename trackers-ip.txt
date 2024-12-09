@@ -5,9 +5,7 @@ bandito.byterunner.io:6969:
 bittorrent-tracker.e-n-c-r-y-p-t.net:1337:
 5.181.188.172:1337
 bt.rer.lol:2710:
-220.200.35.124:2710
 bt.rer.lol:6969:
-220.200.35.124:6969
 concen.org:6969:
 d40969.acod.regrucolo.ru:6969:
 176.99.7.59:6969
@@ -17,7 +15,6 @@ exodus.desync.com:6969:
 208.83.20.20:6969
 explodie.org:6969:
 ipv4.rer.lol:2710:
-220.200.35.124:2710
 ismaarino.com:1234:
 79.116.155.14:1234
 jutone.com:6969:
@@ -27,8 +24,8 @@ martin-gebhardt.eu:25:
 odd-hd.fr:6969:
 62.210.114.129:6969
 open.demonii.com:1337:
-23.140.248.9:1337
 23.134.88.9:1337
+23.140.248.9:1337
 23.168.232.9:1337
 23.134.89.9:1337
 open.dstud.io:6969:
@@ -50,6 +47,7 @@ retracker01-msk-virt.corbina.net:80:
 seedpeer.net:6969:
 69.30.224.166:6969
 serpb.vpsburti.com:6969:
+65.108.102.76:6969
 t.overflow.biz:6969:
 177.215.67.165:6969
 tr4ck3r.duckdns.org:6969:
@@ -59,9 +57,9 @@ tracker.0x7c0.com:6969:
 23.153.248.83:6969
 tracker.deadorbit.nl:6969:
 tracker.dler.org:6969:
+125.227.79.123:6969
 211.23.142.127:6969
 211.75.210.220:6969
-125.227.79.123:6969
 tracker.filemail.com:6969:
 52.58.128.163:6969
 tracker.fnix.net:6969:
@@ -88,6 +86,7 @@ tracker.tryhackx.org:6969:
 tracker.vds.nz:6969:
 190.146.242.81:6969
 tracker1.myporn.club:9337:
+193.42.111.57:9337
 tracker2.dler.org:80:
 125.227.79.123:80
 ttk2.nbaonlineservice.com:6969:
