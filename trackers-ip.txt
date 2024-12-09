@@ -27,9 +27,9 @@ martin-gebhardt.eu:25:
 odd-hd.fr:6969:
 62.210.114.129:6969
 open.demonii.com:1337:
-23.168.232.9:1337
-23.134.89.9:1337
 23.134.88.9:1337
+23.134.89.9:1337
+23.168.232.9:1337
 23.140.248.9:1337
 open.dstud.io:6969:
 5.181.156.41:6969
@@ -50,7 +50,6 @@ retracker01-msk-virt.corbina.net:80:
 seedpeer.net:6969:
 69.30.224.166:6969
 serpb.vpsburti.com:6969:
-65.108.102.76:6969
 t.overflow.biz:6969:
 177.215.67.165:6969
 tr4ck3r.duckdns.org:6969:
@@ -79,6 +78,7 @@ tracker.skynetcloud.site:6969:
 tracker.srv00.com:6969:
 89.110.76.229:6969
 tracker.theoks.net:6969:
+209.141.59.16:6969
 tracker.tiny-vps.com:6969:
 83.146.81.79:6969
 tracker.torrent.eu.org:451:
