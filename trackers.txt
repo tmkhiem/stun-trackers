@@ -1,6 +1,5 @@
 amigacity.xyz:6969
 bandito.byterunner.io:6969
-bt.ktrackers.com:6666
 bt.rer.lol:2710
 bt.rer.lol:6969
 d40969.acod.regrucolo.ru:6969
@@ -33,12 +32,10 @@ tracker.opentrackr.org:1337
 tracker.qu.ax:6969
 tracker.skynetcloud.site:6969
 tracker.srv00.com:6969
-tracker.theoks.net:6969
 tracker.tiny-vps.com:6969
 tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
 tracker.vds.nz:6969
-tracker1.bt.moack.co.kr:80
 tracker1.myporn.club:9337
 tracker2.dler.org:80
 ttk2.nbaonlineservice.com:6969
