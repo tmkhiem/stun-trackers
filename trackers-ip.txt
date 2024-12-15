@@ -9,7 +9,6 @@ bt.ktrackers.com:6666:
 bt.rer.lol:2710:
 211.97.119.84:2710
 bt.rer.lol:6969:
-211.97.119.84:6969
 concen.org:6969:
 d40969.acod.regrucolo.ru:6969:
 176.99.7.59:6969
@@ -31,10 +30,10 @@ martin-gebhardt.eu:25:
 odd-hd.fr:6969:
 62.210.114.129:6969
 open.demonii.com:1337:
+23.134.88.9:1337
+23.140.248.9:1337
 23.134.89.9:1337
 23.168.232.9:1337
-23.140.248.9:1337
-23.134.88.9:1337
 open.dstud.io:6969:
 5.181.156.41:6969
 open.stealth.si:80:
@@ -85,6 +84,7 @@ tracker.qu.ax:6969:
 tracker.skynetcloud.site:6969:
 18.191.163.220:6969
 tracker.srv00.com:6969:
+89.110.76.229:6969
 tracker.tiny-vps.com:6969:
 83.146.81.79:6969
 tracker.torrent.eu.org:451:
