@@ -14,6 +14,7 @@ ismaarino.com:1234
 jutone.com:6969
 leet-tracker.moe:1337
 martin-gebhardt.eu:25
+ns-1.x-fins.com:6969
 odd-hd.fr:6969
 open.demonii.com:1337
 open.dstud.io:6969
@@ -33,7 +34,6 @@ tracker.bittor.pw:1337
 tracker.darkness.services:6969
 tracker.dler.org:6969
 tracker.dump.cl:6969
-tracker.edkj.club:6969
 tracker.filemail.com:6969
 tracker.gigantino.net:6969
 tracker.gmi.gd:6969
@@ -42,6 +42,7 @@ tracker.opentrackr.org:1337
 tracker.qu.ax:6969
 tracker.skynetcloud.site:6969
 tracker.srv00.com:6969
+tracker.theoks.net:6969
 tracker.tiny-vps.com:6969
 tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
