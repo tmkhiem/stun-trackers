@@ -12,6 +12,7 @@ concen.org:6969:
 d40969.acod.regrucolo.ru:6969:
 176.99.7.59:6969
 discord.heihachi.pw:6969:
+34.94.76.146:6969
 35.227.59.57:6969
 evan.im:6969:
 explodie.org:6969:
@@ -38,10 +39,13 @@ open.demonii.com:1337:
 open.dstud.io:6969:
 5.181.156.41:6969
 open.free-tracker.ga:6969:
+35.227.59.57:6969
 34.94.76.146:6969
+34.89.91.10:6969
 open.stealth.si:80:
 185.243.218.213:80
 open.tracker.cl:1337:
+186.10.170.119:1337
 opentracker.io:6969:
 45.9.60.30:6969
 p2p.publictracker.xyz:6969:
@@ -77,6 +81,8 @@ tracker.fnix.net:6969:
 tracker.gmi.gd:6969:
 209.141.59.25:6969
 tracker.ololosh.space:6969:
+34.94.76.146:6969
+35.227.59.57:6969
 tracker.opentrackr.org:1337:
 93.158.213.92:1337
 tracker.qu.ax:6969:
