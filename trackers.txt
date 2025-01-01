@@ -18,6 +18,7 @@ open.demonii.com:1337
 open.dstud.io:6969
 open.free-tracker.ga:6969
 open.stealth.si:80
+open.tracker.cl:1337
 opentracker.io:6969
 p2p.publictracker.xyz:6969
 p4p.arenabg.com:1337
@@ -32,6 +33,7 @@ tracker.bittor.pw:1337
 tracker.darkness.services:6969
 tracker.dler.org:6969
 tracker.dump.cl:6969
+tracker.edkj.club:6969
 tracker.filemail.com:6969
 tracker.gmi.gd:6969
 tracker.ololosh.space:6969
@@ -39,7 +41,6 @@ tracker.opentrackr.org:1337
 tracker.qu.ax:6969
 tracker.skynetcloud.site:6969
 tracker.srv00.com:6969
-tracker.theoks.net:6969
 tracker.tiny-vps.com:6969
 tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
