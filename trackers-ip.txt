@@ -13,6 +13,7 @@ d40969.acod.regrucolo.ru:6969:
 176.99.7.59:6969
 evan.im:6969:
 exodus.desync.com:6969:
+208.83.20.20:6969
 explodie.org:6969:
 ipv4.rer.lol:2710:
 220.200.35.69:2710
@@ -26,10 +27,10 @@ odd-hd.fr:6969:
 62.210.114.129:6969
 open.demonii.com:1337:
 23.134.90.9:1337
-23.140.248.9:1337
-23.168.232.9:1337
 23.134.89.9:1337
+23.140.248.9:1337
 23.134.88.9:1337
+23.168.232.9:1337
 open.dstud.io:6969:
 5.181.156.41:6969
 open.stealth.si:80:
@@ -50,6 +51,7 @@ seedpeer.net:6969:
 serpb.vpsburti.com:6969:
 65.108.102.76:6969
 t.overflow.biz:6969:
+187.56.205.91:6969
 tr4ck3r.duckdns.org:6969:
 148.113.168.115:6969
 trackarr.org:6969:
@@ -60,8 +62,8 @@ tracker.darkness.services:6969:
 tracker.deadorbit.nl:6969:
 tracker.dler.org:6969:
 125.227.79.123:6969
-211.75.210.220:6969
 211.23.142.127:6969
+211.75.210.220:6969
 tracker.edkj.club:6969:
 15.204.57.168:6969
 tracker.filemail.com:6969:
@@ -81,11 +83,12 @@ tracker.srv00.com:6969:
 tracker.tiny-vps.com:6969:
 83.146.81.79:6969
 tracker.torrent.eu.org:451:
-89.234.156.205:451
+91.216.110.53:451
 tracker.torrust-demo.com:6969:
 tracker.tryhackx.org:6969:
 135.125.202.143:6969
 tracker1.myporn.club:9337:
+193.42.111.57:9337
 tracker2.dler.org:80:
 ttk2.nbaonlineservice.com:6969:
 51.222.82.36:6969
