@@ -5,7 +5,6 @@ bt.rer.lol:2710
 bt.rer.lol:6969
 d40969.acod.regrucolo.ru:6969
 discord.heihachi.pw:6969
-exodus.desync.com:6969
 ipv4.rer.lol:2710
 ipv4announce.sktorrent.eu:6969
 isk.richardsw.club:6969
@@ -17,13 +16,12 @@ open.demonii.com:1337
 open.dstud.io:6969
 open.free-tracker.ga:6969
 open.stealth.si:80
-open.tracker.ink:6969
+open.tracker.cl:1337
 opentracker.io:6969
 p2p.publictracker.xyz:6969
 p4p.arenabg.com:1337
 r.l5.ca:6969
 retracker.lanta.me:2710
-t.overflow.biz:6969
 tr4ck3r.duckdns.org:6969
 tracker.0x7c0.com:6969
 tracker.bittor.pw:1337
