@@ -55,6 +55,7 @@ stun.rockenstein.de:3478
 stun.rolmail.net:3478
 stun.rynga.com:3478
 stun.schlund.de:3478
+stun.sigmavoip.com:3478
 stun.sip.us:3478
 stun.sipdiscount.com:3478
 stun.sipgate.net:10000
