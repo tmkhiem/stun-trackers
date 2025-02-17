@@ -11,7 +11,6 @@ stun.cablenet-as.net:3478
 stun.callromania.ro:3478
 stun.cheapvoip.com:3478
 stun.commpeak.com:3478
-stun.comtube.ru:3478
 stun.cope.es:3478
 stun.counterpath.com:3478
 stun.counterpath.net:3478
