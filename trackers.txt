@@ -9,7 +9,6 @@ isk.richardsw.club:6969
 ismaarino.com:1234
 martin-gebhardt.eu:25
 open.demonii.com:1337
-open.dstud.io:6969
 open.free-tracker.ga:6969
 open.stealth.si:80
 opentracker.io:6969
@@ -36,4 +35,3 @@ tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
 tracker2.dler.org:80
 ttk2.nbaonlineservice.com:6969
-wepzone.net:6969
