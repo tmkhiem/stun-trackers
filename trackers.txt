@@ -7,7 +7,6 @@ ipv4announce.sktorrent.eu:6969
 ismaarino.com:1234
 martin-gebhardt.eu:25
 open.demonii.com:1337
-open.dstud.io:6969
 open.stealth.si:80
 opentracker.io:6969
 p2p.publictracker.xyz:6969
@@ -22,7 +21,6 @@ tracker.darkness.services:6969
 tracker.dler.org:6969
 tracker.filemail.com:6969
 tracker.gmi.gd:6969
-tracker.ololosh.space:6969
 tracker.opentrackr.org:1337
 tracker.qu.ax:6969
 tracker.srv00.com:6969
