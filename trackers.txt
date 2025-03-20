@@ -3,12 +3,15 @@ bittorrent-tracker.e-n-c-r-y-p-t.net:1337
 bt.ktrackers.com:6666
 d40969.acod.regrucolo.ru:6969
 discord.heihachi.pw:6969
+exodus.desync.com:6969
 ipv4announce.sktorrent.eu:6969
 ismaarino.com:1234
 leet-tracker.moe:1337
 martin-gebhardt.eu:25
 ns-1.x-fins.com:6969
 open.demonii.com:1337
+open.dstud.io:6969
+open.free-tracker.ga:6969
 open.stealth.si:80
 opentracker.io:6969
 p2p.publictracker.xyz:6969
@@ -21,7 +24,6 @@ tracker.0x7c0.com:6969
 tracker.darkness.services:6969
 tracker.dler.org:6969
 tracker.dump.cl:6969
-tracker.edkj.club:6969
 tracker.filemail.com:6969
 tracker.gigantino.net:6969
 tracker.gmi.gd:6969
