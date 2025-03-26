@@ -14,7 +14,6 @@ open.stealth.si:80
 opentracker.io:6969
 p2p.publictracker.xyz:6969
 p4p.arenabg.com:1337
-public.tracker.vraphim.com:6969
 retracker.lanta.me:2710
 retracker01-msk-virt.corbina.net:80
 t.overflow.biz:6969
