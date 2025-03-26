@@ -2,7 +2,6 @@ bandito.byterunner.io:6969
 bittorrent-tracker.e-n-c-r-y-p-t.net:1337
 bt.ktrackers.com:6666
 d40969.acod.regrucolo.ru:6969
-discord.heihachi.pw:6969
 ipv4announce.sktorrent.eu:6969
 isk.richardsw.club:6969
 ismaarino.com:1234
@@ -24,7 +23,6 @@ tracker.0x7c0.com:6969
 tracker.darkness.services:6969
 tracker.dler.org:6969
 tracker.dump.cl:6969
-tracker.filemail.com:6969
 tracker.gigantino.net:6969
 tracker.gmi.gd:6969
 tracker.opentrackr.org:1337
