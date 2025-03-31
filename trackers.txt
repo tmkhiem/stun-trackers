@@ -9,7 +9,6 @@ ismaarino.com:1234
 leet-tracker.moe:1337
 martin-gebhardt.eu:25
 open.demonii.com:1337
-open.dstud.io:6969
 open.stealth.si:80
 opentracker.io:6969
 p2p.publictracker.xyz:6969
@@ -29,6 +28,7 @@ tracker.ololosh.space:6969
 tracker.opentrackr.org:1337
 tracker.qu.ax:6969
 tracker.srv00.com:6969
+tracker.theoks.net:6969
 tracker.tiny-vps.com:6969
 tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
