@@ -1,5 +1,4 @@
 bandito.byterunner.io:6969
-bittorrent-tracker.e-n-c-r-y-p-t.net:1337
 bt.ktrackers.com:6666
 d40969.acod.regrucolo.ru:6969
 discord.heihachi.pw:6969
@@ -8,6 +7,7 @@ isk.richardsw.club:6969
 ismaarino.com:1234
 leet-tracker.moe:1337
 martin-gebhardt.eu:25
+ns-1.x-fins.com:6969
 open.demonii.com:1337
 open.free-tracker.ga:6969
 open.stealth.si:80
@@ -21,16 +21,15 @@ tr4ck3r.duckdns.org:6969
 tracker.0x7c0.com:6969
 tracker.darkness.services:6969
 tracker.dler.org:6969
-tracker.dump.cl:6969
-tracker.filemail.com:6969
 tracker.gigantino.net:6969
 tracker.gmi.gd:6969
+tracker.ololosh.space:6969
 tracker.opentrackr.org:1337
+tracker.qu.ax:6969
 tracker.srv00.com:6969
 tracker.tiny-vps.com:6969
 tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
-tracker1.myporn.club:9337
 tracker2.dler.org:80
 ttk2.nbaonlineservice.com:6969
 wepzone.net:6969
