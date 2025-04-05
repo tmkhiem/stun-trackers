@@ -1,7 +1,6 @@
 stun.12connect.com:3478
 stun.12voip.com:3478
 stun.1und1.de:3478
-stun.2talk.co.nz:3478
 stun.aa.net.uk:3478
 stun.acrobits.cz:3478
 stun.actionvoip.com:3478
@@ -52,6 +51,7 @@ stun.poivy.com:3478
 stun.powervoip.com:3478
 stun.ppdi.com:3478
 stun.rockenstein.de:3478
+stun.rolmail.net:3478
 stun.rynga.com:3478
 stun.schlund.de:3478
 stun.sigmavoip.com:3478
