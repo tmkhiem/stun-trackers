@@ -18,6 +18,7 @@ stun.dcalling.de:3478
 stun.dus.net:3478
 stun.easybell.de:3478
 stun.easyvoip.com:3478
+stun.ekiga.net:3478
 stun.epygi.com:3478
 stun.freecall.com:3478
 stun.freeswitch.org:3478
@@ -50,7 +51,6 @@ stun.poivy.com:3478
 stun.powervoip.com:3478
 stun.ppdi.com:3478
 stun.rockenstein.de:3478
-stun.rolmail.net:3478
 stun.rynga.com:3478
 stun.schlund.de:3478
 stun.sigmavoip.com:3478
