@@ -30,7 +30,6 @@ tracker.dump.cl:6969
 tracker.filemail.com:6969
 tracker.gigantino.net:6969
 tracker.gmi.gd:6969
-tracker.ololosh.space:6969
 tracker.opentrackr.org:1337
 tracker.qu.ax:6969
 tracker.srv00.com:6969
