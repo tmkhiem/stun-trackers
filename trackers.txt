@@ -1,12 +1,11 @@
 bandito.byterunner.io:6969
 bittorrent-tracker.e-n-c-r-y-p-t.net:1337
+bt.ktrackers.com:6666
 bt.rer.lol:2710
 bt.rer.lol:6969
 d40969.acod.regrucolo.ru:6969
-exodus.desync.com:6969
 ipv4.rer.lol:2710
 ipv4announce.sktorrent.eu:6969
-isk.richardsw.club:6969
 martin-gebhardt.eu:25
 open.demonii.com:1337
 open.free-tracker.ga:6969
@@ -26,10 +25,10 @@ tracker.gigantino.net:6969
 tracker.gmi.gd:6969
 tracker.opentrackr.org:1337
 tracker.qu.ax:6969
+tracker.skyts.net:6969
 tracker.srv00.com:6969
 tracker.tiny-vps.com:6969
 tracker.torrent.eu.org:451
-tracker.tryhackx.org:6969
 tracker2.dler.org:80
 ttk2.nbaonlineservice.com:6969
 wepzone.net:6969
