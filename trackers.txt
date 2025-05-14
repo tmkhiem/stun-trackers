@@ -22,9 +22,8 @@ retracker01-msk-virt.corbina.net:80
 t.overflow.biz:6969
 tr4ck3r.duckdns.org:6969
 tracker.0x7c0.com:6969
+tracker.darkness.services:6969
 tracker.dler.org:6969
-tracker.dump.cl:6969
-tracker.filemail.com:6969
 tracker.gigantino.net:6969
 tracker.gmi.gd:6969
 tracker.opentrackr.org:1337
