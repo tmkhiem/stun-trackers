@@ -12,7 +12,6 @@ stun.callromania.ro:3478
 stun.cheapvoip.com:3478
 stun.commpeak.com:3478
 stun.cope.es:3478
-stun.counterpath.com:3478
 stun.counterpath.net:3478
 stun.dcalling.de:3478
 stun.dus.net:3478
@@ -27,6 +26,7 @@ stun.gmx.de:3478
 stun.gmx.net:3478
 stun.halonet.pl:3478
 stun.hoiio.com:3478
+stun.infra.net:3478
 stun.internetcalls.com:3478
 stun.intervoip.com:3478
 stun.ippi.fr:3478
@@ -69,6 +69,7 @@ stun.sonetel.com:3478
 stun.sonetel.net:3478
 stun.srce.hr:3478
 stun.t-online.de:3478
+stun.tel.lu:3478
 stun.telbo.com:3478
 stun.twt.it:3478
 stun.uls.co.za:3478
