@@ -7,9 +7,7 @@ d40969.acod.regrucolo.ru:6969
 exodus.desync.com:6969
 ipv4.rer.lol:2710
 ipv4announce.sktorrent.eu:6969
-leet-tracker.moe:1337
 martin-gebhardt.eu:25
-ns-1.x-fins.com:6969
 open.demonii.com:1337
 open.free-tracker.ga:6969
 open.stealth.si:80
@@ -25,6 +23,7 @@ tracker.0x7c0.com:6969
 tracker.bittor.pw:1337
 tracker.darkness.services:6969
 tracker.dler.org:6969
+tracker.dump.cl:6969
 tracker.gigantino.net:6969
 tracker.gmi.gd:6969
 tracker.ololosh.space:6969
