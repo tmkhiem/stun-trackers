@@ -76,6 +76,7 @@ stun.uls.co.za:3478
 stun.usfamily.net:3478
 stun.vo.lu:3478
 stun.voicetrading.com:3478
+stun.voip.aebc.com:3478
 stun.voip.blackberry.com:3478
 stun.voip.eutelia.it:3478
 stun.voipblast.com:3478
