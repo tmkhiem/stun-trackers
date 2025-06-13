@@ -1,7 +1,6 @@
 stun.12connect.com:3478
 stun.12voip.com:3478
 stun.1und1.de:3478
-stun.aa.net.uk:3478
 stun.acrobits.cz:3478
 stun.actionvoip.com:3478
 stun.annatel.net:3478
@@ -74,7 +73,6 @@ stun.telbo.com:3478
 stun.twt.it:3478
 stun.uls.co.za:3478
 stun.usfamily.net:3478
-stun.vo.lu:3478
 stun.voicetrading.com:3478
 stun.voip.aebc.com:3478
 stun.voip.blackberry.com:3478
