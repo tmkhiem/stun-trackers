@@ -13,6 +13,7 @@ stun.cheapvoip.com:3478
 stun.commpeak.com:3478
 stun.cope.es:3478
 stun.counterpath.com:3478
+stun.counterpath.net:3478
 stun.dcalling.de:3478
 stun.dus.net:3478
 stun.easybell.de:3478
@@ -88,6 +89,7 @@ stun.voipfibre.com:3478
 stun.voipgain.com:3478
 stun.voipgate.com:3478
 stun.voipinfocenter.com:3478
+stun.voipplanet.nl:3478
 stun.voippro.com:3478
 stun.voipraider.com:3478
 stun.voipstunt.com:3478
