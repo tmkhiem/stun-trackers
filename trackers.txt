@@ -4,6 +4,7 @@ bittorrent-tracker.e-n-c-r-y-p-t.net:1337
 bt.ktrackers.com:6666
 bt.rer.lol:6969
 d40969.acod.regrucolo.ru:6969
+discord.heihachi.pw:6969
 ipv4announce.sktorrent.eu:6969
 isk.richardsw.club:6969
 martin-gebhardt.eu:25
@@ -24,8 +25,10 @@ tracker.dump.cl:6969
 tracker.filemail.com:6969
 tracker.gigantino.net:6969
 tracker.gmi.gd:6969
+tracker.ololosh.space:6969
 tracker.opentrackr.org:1337
 tracker.srv00.com:6969
+tracker.therarbg.to:6969
 tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
 tracker2.dler.org:80
