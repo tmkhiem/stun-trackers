@@ -13,7 +13,6 @@ leet-tracker.moe:1337
 martin-gebhardt.eu:25
 ns-1.x-fins.com:6969
 open.demonii.com:1337
-open.free-tracker.ga:6969
 open.stealth.si:80
 opentracker.io:6969
 p2p.publictracker.xyz:6969
@@ -23,7 +22,6 @@ retracker.lanta.me:2710
 retracker01-msk-virt.corbina.net:80
 t.overflow.biz:6969
 tr4ck3r.duckdns.org:6969
-tracker.bittor.pw:1337
 tracker.darkness.services:6969
 tracker.dler.org:6969
 tracker.dump.cl:6969
@@ -31,11 +29,11 @@ tracker.gigantino.net:6969
 tracker.gmi.gd:6969
 tracker.ololosh.space:6969
 tracker.opentrackr.org:1337
+tracker.qu.ax:6969
 tracker.srv00.com:6969
 tracker.therarbg.to:6969
 tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
-tracker1.bt.moack.co.kr:80
 tracker2.dler.org:80
 ttk2.nbaonlineservice.com:6969
 wepzone.net:6969
