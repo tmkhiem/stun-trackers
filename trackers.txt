@@ -13,6 +13,7 @@ ns-1.x-fins.com:6969
 open.demonii.com:1337
 open.free-tracker.ga:6969
 open.stealth.si:80
+opentracker.io:6969
 p2p.publictracker.xyz:6969
 p4p.arenabg.com:1337
 public.tracker.vraphim.com:6969
@@ -29,6 +30,7 @@ tracker.gmi.gd:6969
 tracker.ololosh.space:6969
 tracker.opentrackr.org:1337
 tracker.srv00.com:6969
+tracker.theoks.net:6969
 tracker.therarbg.to:6969
 tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
