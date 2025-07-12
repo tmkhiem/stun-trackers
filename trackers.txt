@@ -5,7 +5,6 @@ bt.ktrackers.com:6666
 bt.rer.lol:2710
 bt.rer.lol:6969
 d40969.acod.regrucolo.ru:6969
-exodus.desync.com:6969
 ipv4.rer.lol:2710
 ipv4announce.sktorrent.eu:6969
 isk.richardsw.club:6969
@@ -25,11 +24,11 @@ tr4ck3r.duckdns.org:6969
 tracker.bittor.pw:1337
 tracker.dler.org:6969
 tracker.dump.cl:6969
+tracker.filemail.com:6969
 tracker.gigantino.net:6969
 tracker.gmi.gd:6969
 tracker.opentrackr.org:1337
 tracker.srv00.com:6969
-tracker.theoks.net:6969
 tracker.therarbg.to:6969
 tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
