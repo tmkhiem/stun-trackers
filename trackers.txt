@@ -12,7 +12,6 @@ martin-gebhardt.eu:25
 open.demonii.com:1337
 open.free-tracker.ga:6969
 open.stealth.si:80
-opentracker.io:6969
 p2p.publictracker.xyz:6969
 p4p.arenabg.com:1337
 public.tracker.vraphim.com:6969
@@ -28,6 +27,7 @@ tracker.opentrackr.org:1337
 tracker.srv00.com:6969
 tracker.therarbg.to:6969
 tracker.torrent.eu.org:451
+tracker.tryhackx.org:6969
 tracker2.dler.org:80
 ttk2.nbaonlineservice.com:6969
 wepzone.net:6969
