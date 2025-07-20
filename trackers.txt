@@ -1,9 +1,10 @@
 1c.premierzal.ru:6969
 bandito.byterunner.io:6969
-bt.ktrackers.com:6666
+bt.rer.lol:2710
 bt.rer.lol:6969
 d40969.acod.regrucolo.ru:6969
 exodus.desync.com:6969
+ipv4.rer.lol:2710
 ipv4announce.sktorrent.eu:6969
 martin-gebhardt.eu:25
 ns-1.x-fins.com:6969
@@ -16,10 +17,8 @@ retracker.lanta.me:2710
 retracker01-msk-virt.corbina.net:80
 t.overflow.biz:6969
 tr4ck3r.duckdns.org:6969
-tracker.bittor.pw:1337
 tracker.dler.org:6969
 tracker.dump.cl:6969
-tracker.filemail.com:6969
 tracker.gigantino.net:6969
 tracker.gmi.gd:6969
 tracker.opentrackr.org:1337
