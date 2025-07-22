@@ -7,10 +7,9 @@ discord.heihachi.pw:6969
 ipv4announce.sktorrent.eu:6969
 leet-tracker.moe:1337
 martin-gebhardt.eu:25
+ns-1.x-fins.com:6969
 open.free-tracker.ga:6969
 open.stealth.si:80
-open.tracker.cl:1337
-opentracker.io:6969
 p4p.arenabg.com:1337
 public.tracker.vraphim.com:6969
 retracker.lanta.me:2710
