@@ -4,7 +4,6 @@ bittorrent-tracker.e-n-c-r-y-p-t.net:1337
 bt.ktrackers.com:6666
 d40969.acod.regrucolo.ru:6969
 discord.heihachi.pw:6969
-exodus.desync.com:6969
 ipv4announce.sktorrent.eu:6969
 isk.richardsw.club:6969
 leet-tracker.moe:1337
