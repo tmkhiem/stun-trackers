@@ -24,6 +24,7 @@ tr4ck3r.duckdns.org:6969
 tracker.bittor.pw:1337
 tracker.dler.org:6969
 tracker.dump.cl:6969
+tracker.filemail.com:6969
 tracker.gigantino.net:6969
 tracker.gmi.gd:6969
 tracker.ololosh.space:6969
