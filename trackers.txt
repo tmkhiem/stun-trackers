@@ -8,10 +8,10 @@ bt.rer.lol:6969
 d40969.acod.regrucolo.ru:6969
 discord.heihachi.pw:6969
 exodus.desync.com:6969
-hificode.in:6969
 ipv4.rer.lol:2710
 ipv4announce.sktorrent.eu:6969
 isk.richardsw.club:6969
+leet-tracker.moe:1337
 martin-gebhardt.eu:25
 ns-1.x-fins.com:6969
 open.demonii.com:1337
@@ -35,11 +35,13 @@ tracker.hifitechindia.com:6969
 tracker.ololosh.space:6969
 tracker.opentrackr.org:1337
 tracker.plx.im:6969
+tracker.qu.ax:6969
 tracker.skillindia.site:6969
 tracker.srv00.com:6969
 tracker.therarbg.to:6969
 tracker.valete.tf:9999
 tracker.wepzone.net:6969
+tracker.yume-hatsuyuki.moe:6969
 tracker.zupix.online:6969
 tracker2.dler.org:80
 ttk2.nbaonlineservice.com:6969
