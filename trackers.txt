@@ -17,7 +17,6 @@ martin-gebhardt.eu:25
 ns-1.x-fins.com:6969
 open.free-tracker.ga:6969
 open.stealth.si:80
-open.tracker.cl:1337
 opentracker.io:6969
 p4p.arenabg.com:1337
 public.tracker.vraphim.com:6969
