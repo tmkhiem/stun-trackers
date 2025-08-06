@@ -28,6 +28,7 @@ tracker.gmi.gd:6969
 tracker.healthcareindia.store:1337
 tracker.hifimarket.in:2710
 tracker.hifitechindia.com:6969
+tracker.ololosh.space:6969
 tracker.opentrackr.org:1337
 tracker.plx.im:6969
 tracker.skillindia.site:6969
