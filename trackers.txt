@@ -6,7 +6,6 @@ bt.ktrackers.com:6666
 bt.rer.lol:2710
 bt.rer.lol:6969
 d40969.acod.regrucolo.ru:6969
-discord.heihachi.pw:6969
 exodus.desync.com:6969
 glotorrents.pw:6969
 hificode.in:6969
@@ -33,6 +32,7 @@ tracker.hifitechindia.com:6969
 tracker.ololosh.space:6969
 tracker.opentrackr.org:1337
 tracker.plx.im:6969
+tracker.qu.ax:6969
 tracker.skillindia.site:6969
 tracker.srv00.com:6969
 tracker.therarbg.to:6969
