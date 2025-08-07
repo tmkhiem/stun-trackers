@@ -13,8 +13,6 @@ ipv4announce.sktorrent.eu:6969
 isk.richardsw.club:6969
 leet-tracker.moe:1337
 martin-gebhardt.eu:25
-ns-1.x-fins.com:6969
-open.free-tracker.ga:6969
 open.stealth.si:80
 opentracker.io:6969
 p4p.arenabg.com:1337
@@ -37,6 +35,7 @@ tracker.plx.im:6969
 tracker.skillindia.site:6969
 tracker.srv00.com:6969
 tracker.therarbg.to:6969
+tracker.tryhackx.org:6969
 tracker.valete.tf:9999
 tracker.wepzone.net:6969
 tracker.zupix.online:6969
