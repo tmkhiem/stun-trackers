@@ -8,7 +8,6 @@ bt.rer.lol:6969
 d40969.acod.regrucolo.ru:6969
 discord.heihachi.pw:6969
 exodus.desync.com:6969
-glotorrents.pw:6969
 hificode.in:6969
 ipv4.rer.lol:2710
 ipv4announce.sktorrent.eu:6969
@@ -16,6 +15,7 @@ isk.richardsw.club:6969
 leet-tracker.moe:1337
 martin-gebhardt.eu:25
 ns-1.x-fins.com:6969
+open.free-tracker.ga:6969
 open.stealth.si:80
 opentracker.io:6969
 p4p.arenabg.com:1337
@@ -27,7 +27,6 @@ tr4ck3r.duckdns.org:6969
 tracker.bitcoinindia.space:6969
 tracker.bittor.pw:1337
 tracker.dler.org:6969
-tracker.filemail.com:6969
 tracker.gigantino.net:6969
 tracker.gmi.gd:6969
 tracker.healthcareindia.store:1337
