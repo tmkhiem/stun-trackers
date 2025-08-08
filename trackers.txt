@@ -36,6 +36,7 @@ tracker.opentrackr.org:1337
 tracker.plx.im:6969
 tracker.skillindia.site:6969
 tracker.srv00.com:6969
+tracker.theoks.net:6969
 tracker.therarbg.to:6969
 tracker.valete.tf:9999
 tracker.wepzone.net:6969
