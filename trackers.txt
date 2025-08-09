@@ -36,7 +36,6 @@ tracker.srv00.com:6969
 tracker.therarbg.to:6969
 tracker.valete.tf:9999
 tracker.wepzone.net:6969
-tracker.yume-hatsuyuki.moe:6969
 tracker.zupix.online:6969
 tracker2.dler.org:80
 ttk2.nbaonlineservice.com:6969
