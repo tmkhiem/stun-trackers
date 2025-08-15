@@ -13,6 +13,7 @@ ipv4announce.sktorrent.eu:6969
 isk.richardsw.club:6969
 leet-tracker.moe:1337
 martin-gebhardt.eu:25
+ns-1.x-fins.com:6969
 open.free-tracker.ga:6969
 open.stealth.si:80
 opentracker.io:6969
@@ -33,7 +34,6 @@ tracker.hifimarket.in:2710
 tracker.hifitechindia.com:6969
 tracker.opentrackr.org:1337
 tracker.plx.im:6969
-tracker.qu.ax:6969
 tracker.skillindia.site:6969
 tracker.srv00.com:6969
 tracker.theoks.net:6969
