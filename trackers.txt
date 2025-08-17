@@ -25,7 +25,6 @@ tr4ck3r.duckdns.org:6969
 tracker.bitcoinindia.space:6969
 tracker.bittor.pw:1337
 tracker.dler.org:6969
-tracker.filemail.com:6969
 tracker.gigantino.net:6969
 tracker.gmi.gd:6969
 tracker.healthcareindia.store:1337
@@ -36,9 +35,11 @@ tracker.opentrackr.org:1337
 tracker.plx.im:6969
 tracker.skillindia.site:6969
 tracker.srv00.com:6969
+tracker.theoks.net:6969
 tracker.therarbg.to:6969
 tracker.valete.tf:9999
 tracker.wepzone.net:6969
+tracker.yume-hatsuyuki.moe:6969
 tracker.zupix.online:6969
 tracker2.dler.org:80
 ttk2.nbaonlineservice.com:6969
