@@ -4,6 +4,7 @@ bittorrent-tracker.e-n-c-r-y-p-t.net:1337
 bt.rer.lol:2710
 bt.rer.lol:6969
 d40969.acod.regrucolo.ru:6969
+discord.heihachi.pw:6969
 exodus.desync.com:6969
 glotorrents.pw:6969
 hificode.in:6969
@@ -25,6 +26,7 @@ tracker.bitcoinindia.space:6969
 tracker.bittor.pw:1337
 tracker.dler.org:6969
 tracker.gigantino.net:6969
+tracker.gmi.gd:6969
 tracker.healthcareindia.store:1337
 tracker.hifimarket.in:2710
 tracker.hifitechindia.com:6969
