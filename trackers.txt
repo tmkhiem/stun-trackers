@@ -15,6 +15,7 @@ leet-tracker.moe:1337
 martin-gebhardt.eu:25
 ns-1.x-fins.com:6969
 open.demonii.com:1337
+open.free-tracker.ga:6969
 open.stealth.si:80
 opentracker.io:6969
 p4p.arenabg.com:1337
@@ -38,6 +39,7 @@ tracker.skillindia.site:6969
 tracker.srv00.com:6969
 tracker.therarbg.to:6969
 tracker.valete.tf:9999
+tracker.yume-hatsuyuki.moe:6969
 tracker.zupix.online:6969
 tracker2.dler.org:80
 ttk2.nbaonlineservice.com:6969
