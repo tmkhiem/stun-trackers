@@ -18,12 +18,12 @@ p4p.arenabg.com:1337
 public.tracker.vraphim.com:6969
 retracker.lanta.me:2710
 retracker01-msk-virt.corbina.net:80
+t.overflow.biz:6969
 tr4ck3r.duckdns.org:6969
 tracker.bitcoinindia.space:6969
 tracker.bittor.pw:1337
 tracker.dler.org:6969
 tracker.gigantino.net:6969
-tracker.gmi.gd:6969
 tracker.healthcareindia.store:1337
 tracker.hifimarket.in:2710
 tracker.hifitechindia.com:6969
