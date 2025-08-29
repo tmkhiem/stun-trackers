@@ -10,9 +10,7 @@ ipv4announce.sktorrent.eu:6969
 leet-tracker.moe:1337
 martin-gebhardt.eu:25
 open.demonii.com:1337
-open.free-tracker.ga:6969
 open.stealth.si:80
-open.tracker.cl:1337
 opentracker.io:6969
 p4p.arenabg.com:1337
 public.tracker.vraphim.com:6969
@@ -21,8 +19,8 @@ retracker01-msk-virt.corbina.net:80
 tr4ck3r.duckdns.org:6969
 tracker.bitcoinindia.space:6969
 tracker.dler.org:6969
-tracker.filemail.com:6969
 tracker.gigantino.net:6969
+tracker.gmi.gd:6969
 tracker.healthcareindia.store:1337
 tracker.hifimarket.in:2710
 tracker.hifitechindia.com:6969
@@ -32,7 +30,6 @@ tracker.plx.im:6969
 tracker.qu.ax:6969
 tracker.skillindia.site:6969
 tracker.srv00.com:6969
-tracker.theoks.net:6969
 tracker.therarbg.to:6969
 tracker.tryhackx.org:6969
 tracker.yume-hatsuyuki.moe:6969
