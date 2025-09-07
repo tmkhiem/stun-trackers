@@ -7,6 +7,7 @@ bt.rer.lol:6969
 d40969.acod.regrucolo.ru:6969
 discord.heihachi.pw:6969
 exodus.desync.com:6969
+glotorrents.pw:6969
 hificode.in:6969
 ipv4.rer.lol:2710
 ipv4announce.sktorrent.eu:6969
@@ -23,6 +24,7 @@ retracker.lanta.me:2710
 retracker01-msk-virt.corbina.net:80
 t.overflow.biz:6969
 tr4ck3r.duckdns.org:6969
+tracker.bitcoinindia.space:6969
 tracker.bittor.pw:1337
 tracker.dler.org:6969
 tracker.filemail.com:6969
@@ -39,6 +41,7 @@ tracker.skillindia.site:6969
 tracker.srv00.com:6969
 tracker.therarbg.to:6969
 tracker.wepzone.net:6969
+tracker.zupix.online:6969
 tracker2.dler.org:80
 ttk2.nbaonlineservice.com:6969
 wepzone.net:6969
