@@ -73,6 +73,7 @@ stun.telbo.com:3478
 stun.twt.it:3478
 stun.uls.co.za:3478
 stun.usfamily.net:3478
+stun.vo.lu:3478
 stun.voicetrading.com:3478
 stun.voip.aebc.com:3478
 stun.voip.blackberry.com:3478
@@ -83,6 +84,7 @@ stun.voipbusterpro.com:3478
 stun.voipcheap.com:3478
 stun.voipfibre.com:3478
 stun.voipgain.com:3478
+stun.voipgate.com:3478
 stun.voipinfocenter.com:3478
 stun.voipplanet.nl:3478
 stun.voippro.com:3478
