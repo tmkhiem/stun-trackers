@@ -22,6 +22,7 @@ tracker.bitcoinindia.space:6969
 tracker.dler.org:6969
 tracker.gmi.gd:6969
 tracker.healthcareindia.store:1337
+tracker.hifitechindia.com:6969
 tracker.opentrackr.org:1337
 tracker.plx.im:6969
 tracker.qu.ax:6969
