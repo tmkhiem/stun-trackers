@@ -8,7 +8,6 @@ d40969.acod.regrucolo.ru:6969
 exodus.desync.com:6969
 ipv4.rer.lol:2710
 ipv4announce.sktorrent.eu:6969
-leet-tracker.moe:1337
 martin-gebhardt.eu:25
 open.demonii.com:1337
 open.stealth.si:80
@@ -17,11 +16,9 @@ p4p.arenabg.com:1337
 public.tracker.vraphim.com:6969
 retracker.lanta.me:2710
 retracker01-msk-virt.corbina.net:80
-run.publictracker.xyz:6969
 t.overflow.biz:6969
 tr4ck3r.duckdns.org:6969
 tracker.bitcoinindia.space:6969
-tracker.bittor.pw:1337
 tracker.dler.org:6969
 tracker.gmi.gd:6969
 tracker.healthcareindia.store:1337
@@ -31,6 +28,7 @@ tracker.plx.im:6969
 tracker.qu.ax:6969
 tracker.skillindia.site:6969
 tracker.srv00.com:6969
+tracker.theoks.net:6969
 tracker.therarbg.to:6969
 tracker.tryhackx.org:6969
 tracker.zupix.online:6969
