@@ -16,6 +16,7 @@ d40969.acod.regrucolo.ru:6969:
 evan.im:6969:
 explodie.org:6969:
 glotorrents.pw:6969:
+34.94.76.146:6969
 hificode.in:6969:
 ipv4.rer.lol:2710:
 220.200.35.40:2710
@@ -25,9 +26,9 @@ leet-tracker.moe:1337:
 martin-gebhardt.eu:25:
 185.216.179.62:25
 open.demonii.com:1337:
+23.134.88.9:1337
 23.134.90.9:1337
 23.134.89.9:1337
-23.134.88.9:1337
 23.168.232.9:1337
 open.dstud.io:6969:
 open.stealth.si:80:
@@ -43,7 +44,6 @@ retracker.lanta.me:2710:
 retracker01-msk-virt.corbina.net:80:
 83.102.180.21:80
 run.publictracker.xyz:6969:
-151.243.109.163:6969
 t.overflow.biz:6969:
 177.112.215.131:6969
 tr4ck3r.duckdns.org:6969:
@@ -52,12 +52,11 @@ tracker-udp.gbitt.info:80:
 tracker.bitcoinindia.space:6969:
 94.136.190.183:6969
 tracker.bittor.pw:1337:
-34.94.76.146:1337
 tracker.dler.org:6969:
-211.75.205.187:6969
+211.75.205.189:6969
 211.75.205.188:6969
 60.249.37.20:6969
-211.75.205.189:6969
+211.75.205.187:6969
 211.75.210.221:6969
 tracker.filemail.com:6969:
 52.58.128.163:6969
@@ -87,11 +86,11 @@ tracker.valete.tf:9999:
 tracker.zupix.online:6969:
 94.136.190.183:6969
 tracker2.dler.org:80:
-211.75.210.221:80
-211.75.205.187:80
-60.249.37.20:80
 211.75.205.188:80
 211.75.205.189:80
+211.75.205.187:80
+60.249.37.20:80
+211.75.210.221:80
 ttk2.nbaonlineservice.com:6969:
 51.222.82.36:6969
 54.39.48.3:6969
