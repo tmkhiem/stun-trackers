@@ -5,6 +5,7 @@ bittorrent-tracker.e-n-c-r-y-p-t.net:1337
 bt.rer.lol:2710
 bt.rer.lol:6969
 d40969.acod.regrucolo.ru:6969
+discord.heihachi.pw:6969
 ipv4.rer.lol:2710
 ipv4announce.sktorrent.eu:6969
 martin-gebhardt.eu:25
