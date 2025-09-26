@@ -23,7 +23,6 @@ t.overflow.biz:6969
 tr4ck3r.duckdns.org:6969
 tracker.bitcoinindia.space:6969
 tracker.dler.org:6969
-tracker.filemail.com:6969
 tracker.gmi.gd:6969
 tracker.healthcareindia.store:1337
 tracker.hifitechindia.com:6969
