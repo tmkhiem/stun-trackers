@@ -43,7 +43,6 @@ retracker.lanta.me:2710:
 retracker01-msk-virt.corbina.net:80:
 83.102.180.21:80
 run.publictracker.xyz:6969:
-151.243.109.163:6969
 t.overflow.biz:6969:
 177.215.67.165:6969
 tr4ck3r.duckdns.org:6969:
@@ -52,11 +51,11 @@ tracker-udp.gbitt.info:80:
 tracker.bitcoinindia.space:6969:
 94.136.190.183:6969
 tracker.dler.org:6969:
+211.75.210.221:6969
 211.75.205.188:6969
+211.75.205.189:6969
 60.249.37.20:6969
 211.75.205.187:6969
-211.75.210.221:6969
-211.75.205.189:6969
 tracker.filemail.com:6969:
 52.58.128.163:6969
 tracker.fnix.net:6969:
@@ -65,7 +64,6 @@ tracker.gmi.gd:6969:
 tracker.healthcareindia.store:1337:
 94.136.190.183:1337
 tracker.hifimarket.in:2710:
-94.136.190.183:2710
 tracker.hifitechindia.com:6969:
 94.136.190.183:6969
 tracker.opentrackr.org:1337:
@@ -86,11 +84,11 @@ tracker.valete.tf:9999:
 tracker.zupix.online:6969:
 94.136.190.183:6969
 tracker2.dler.org:80:
-211.75.210.221:80
-60.249.37.20:80
-211.75.205.188:80
 211.75.205.187:80
+211.75.205.188:80
 211.75.205.189:80
+60.249.37.20:80
+211.75.210.221:80
 ttk2.nbaonlineservice.com:6969:
 54.39.48.3:6969
 51.222.82.36:6969
