@@ -38,6 +38,7 @@ stun.liveo.fr:3478
 stun.lowratevoip.com:3478
 stun.miwifi.com:3478
 stun.myvoiptraffic.com:3478
+stun.mywatson.it:3478
 stun.netappel.com:3478
 stun.netgsm.com.tr:3478
 stun.nfon.net:3478
