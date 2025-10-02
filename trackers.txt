@@ -5,10 +5,9 @@ bittorrent-tracker.e-n-c-r-y-p-t.net:1337
 bt.rer.lol:2710
 bt.rer.lol:6969
 d40969.acod.regrucolo.ru:6969
-hificode.in:6969
+exodus.desync.com:6969
 ipv4.rer.lol:2710
 ipv4announce.sktorrent.eu:6969
-isk.richardsw.club:6969
 leet-tracker.moe:1337
 martin-gebhardt.eu:25
 open-tracker.demonoid.ch:6969
@@ -26,7 +25,6 @@ t.overflow.biz:6969
 tr4ck3r.duckdns.org:6969
 tracker.bitcoinindia.space:6969
 tracker.dler.org:6969
-tracker.filemail.com:6969
 tracker.gmi.gd:6969
 tracker.healthcareindia.store:1337
 tracker.hifimarket.in:2710
