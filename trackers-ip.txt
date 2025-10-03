@@ -16,6 +16,7 @@ d40969.acod.regrucolo.ru:6969:
 discord.heihachi.pw:6969:
 evan.im:6969:
 exodus.desync.com:6969:
+208.83.20.20:6969
 explodie.org:6969:
 hificode.in:6969:
 ipv4.rer.lol:2710:
@@ -59,8 +60,8 @@ tracker.dler.org:6969:
 60.249.37.20:6969
 211.75.205.189:6969
 211.75.205.187:6969
-211.75.210.221:6969
 211.75.205.188:6969
+211.75.210.221:6969
 tracker.filemail.com:6969:
 tracker.fnix.net:6969:
 tracker.gmi.gd:6969:
@@ -90,14 +91,14 @@ tracker.valete.tf:9999:
 tracker.zupix.online:6969:
 94.136.190.183:6969
 tracker2.dler.org:80:
-211.75.205.187:80
-211.75.210.221:80
 211.75.205.188:80
+211.75.210.221:80
+211.75.205.187:80
 211.75.205.189:80
 60.249.37.20:80
 ttk2.nbaonlineservice.com:6969:
-51.222.82.36:6969
 54.39.48.3:6969
+51.222.82.36:6969
 udp.tracker.projectk.org:23333:
 wepzone.net:6969:
 44.30.4.4:6969
