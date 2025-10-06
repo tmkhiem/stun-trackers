@@ -11,6 +11,7 @@ martin-gebhardt.eu:25
 open-tracker.demonoid.ch:6969
 open.demonii.com:1337
 open.demonoid.ch:6969
+open.free-tracker.ga:6969
 open.stealth.si:80
 opentracker.io:6969
 p4p.arenabg.com:1337
