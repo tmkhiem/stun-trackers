@@ -63,9 +63,9 @@ tracker.gmi.gd:6969:
 tracker.healthcareindia.store:1337:
 94.136.190.183:1337
 tracker.hifimarket.in:2710:
+94.136.190.183:2710
 tracker.hifitechindia.com:6969:
 tracker.ololosh.space:6969:
-34.94.76.146:6969
 tracker.opentrackr.org:1337:
 93.158.213.92:1337
 tracker.plx.im:6969:
@@ -73,7 +73,6 @@ tracker.plx.im:6969:
 tracker.qu.ax:6969:
 45.13.119.213:6969
 tracker.skillindia.site:6969:
-94.136.190.183:6969
 tracker.srv00.com:6969:
 77.91.85.95:6969
 tracker.theoks.net:6969:
