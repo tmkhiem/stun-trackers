@@ -12,6 +12,7 @@ concen.org:6969:
 d40969.acod.regrucolo.ru:6969:
 176.99.7.59:6969
 exodus.desync.com:6969:
+208.83.20.20:6969
 explodie.org:6969:
 ipv4announce.sktorrent.eu:6969:
 94.23.207.177:6969
@@ -32,6 +33,7 @@ public.tracker.vraphim.com:6969:
 62.60.157.92:6969
 rekcart.duckdns.org:15480:
 retracker.lanta.me:2710:
+37.235.176.37:2710
 retracker01-msk-virt.corbina.net:80:
 83.102.180.21:80
 run.publictracker.xyz:6969:
@@ -66,10 +68,8 @@ tracker.startwork.cv:1337:
 94.136.190.183:1337
 tracker.theoks.net:6969:
 tracker.therarbg.to:6969:
-193.233.161.213:6969
 tracker.torrent.eu.org:451:
 89.234.156.205:451
-91.216.110.53:451
 tracker.torrust-demo.com:6969:
 tracker.tryhackx.org:6969:
 135.125.236.64:6969
@@ -79,8 +79,8 @@ tracker.zupix.online:6969:
 94.136.190.183:6969
 tracker2.dler.org:80:
 211.75.205.187:80
-211.75.205.188:80
 211.75.205.189:80
+211.75.205.188:80
 ttk2.nbaonlineservice.com:6969:
 51.222.82.36:6969
 54.39.48.3:6969
