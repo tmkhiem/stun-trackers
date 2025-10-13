@@ -15,7 +15,9 @@ p4p.arenabg.com:1337
 public.tracker.vraphim.com:6969
 retracker.lanta.me:2710
 retracker01-msk-virt.corbina.net:80
+t.overflow.biz:6969
 tr4ck3r.duckdns.org:6969
+tracker.bittor.pw:1337
 tracker.cloudbase.store:1333
 tracker.dler.org:6969
 tracker.gmi.gd:6969
@@ -25,6 +27,7 @@ tracker.plx.im:6969
 tracker.qu.ax:6969
 tracker.srv00.com:6969
 tracker.startwork.cv:1337
+tracker.theoks.net:6969
 tracker.therarbg.to:6969
 tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
