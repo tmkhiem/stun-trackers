@@ -8,7 +8,6 @@ d40969.acod.regrucolo.ru:6969
 exodus.desync.com:6969
 ipv4announce.sktorrent.eu:6969
 martin-gebhardt.eu:25
-ns-1.x-fins.com:6969
 open.demonii.com:1337
 open.demonoid.ch:6969
 open.stealth.si:80
@@ -22,6 +21,7 @@ t.overflow.biz:6969
 tr4ck3r.duckdns.org:6969
 tracker.cloudbase.store:1333
 tracker.dler.org:6969
+tracker.filemail.com:6969
 tracker.gmi.gd:6969
 tracker.hifimarket.in:2710
 tracker.opentrackr.org:1337
@@ -29,7 +29,6 @@ tracker.plx.im:6969
 tracker.qu.ax:6969
 tracker.srv00.com:6969
 tracker.startwork.cv:1337
-tracker.theoks.net:6969
 tracker.therarbg.to:6969
 tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
