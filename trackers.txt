@@ -8,6 +8,7 @@ d40969.acod.regrucolo.ru:6969
 ipv4announce.sktorrent.eu:6969
 martin-gebhardt.eu:25
 open.demonii.com:1337
+open.demonoid.ch:6969
 open.stealth.si:80
 opentracker.io:6969
 p4p.arenabg.com:1337
@@ -25,6 +26,7 @@ tracker.plx.im:6969
 tracker.qu.ax:6969
 tracker.srv00.com:6969
 tracker.startwork.cv:1337
+tracker.therarbg.to:6969
 tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
 tracker.zupix.online:6969
