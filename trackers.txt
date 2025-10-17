@@ -6,7 +6,7 @@ bt.bontal.net:6969
 bt.rer.lol:6969
 d40969.acod.regrucolo.ru:6969
 ipv4announce.sktorrent.eu:6969
-leet-tracker.moe:1337
+isk.richardsw.club:6969
 martin-gebhardt.eu:25
 open.demonii.com:1337
 open.demonoid.ch:6969
@@ -21,7 +21,6 @@ t.overflow.biz:6969
 tr4ck3r.duckdns.org:6969
 tracker.cloudbase.store:1333
 tracker.dler.org:6969
-tracker.filemail.com:6969
 tracker.gmi.gd:6969
 tracker.hifimarket.in:2710
 tracker.opentrackr.org:1337
@@ -36,3 +35,4 @@ tracker.zupix.online:6969
 tracker2.dler.org:80
 ttk2.nbaonlineservice.com:6969
 wepzone.net:6969
+yuki.bt.bontal.net:6969
