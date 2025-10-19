@@ -34,3 +34,4 @@ tracker.zupix.online:6969
 tracker2.dler.org:80
 ttk2.nbaonlineservice.com:6969
 wepzone.net:6969
+yuki.bt.bontal.net:6969
