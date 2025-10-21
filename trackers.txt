@@ -7,6 +7,8 @@ bt.rer.lol:6969
 d40969.acod.regrucolo.ru:6969
 ipv4announce.sktorrent.eu:6969
 martin-gebhardt.eu:25
+ns-1.x-fins.com:6969
+open.demonii.com:1337
 open.demonoid.ch:6969
 open.stealth.si:80
 opentracker.io:6969
