@@ -1,6 +1,7 @@
 1c.premierzal.ru:6969:
 5.102.159.190:6969
 6ahddutb1ucc3cp.ru:6969:
+185.189.13.108:6969
 bandito.byterunner.io:6969:
 103.251.166.126:6969
 bittorrent-tracker.e-n-c-r-y-p-t.net:1337:
@@ -18,7 +19,6 @@ glotorrents.pw:6969:
 ipv4announce.sktorrent.eu:6969:
 94.23.207.177:6969
 isk.richardsw.club:6969:
-34.94.76.146:6969
 leet-tracker.moe:1337:
 martin-gebhardt.eu:25:
 185.216.179.62:25
@@ -31,6 +31,7 @@ open.free-tracker.ga:6969:
 open.stealth.si:80:
 185.243.218.213:80
 opentracker.io:6969:
+45.9.60.30:6969
 p4p.arenabg.com:1337:
 185.230.4.150:1337
 public.tracker.vraphim.com:6969:
@@ -41,6 +42,7 @@ retracker.lanta.me:2710:
 retracker01-msk-virt.corbina.net:80:
 83.102.180.21:80
 run.publictracker.xyz:6969:
+151.243.109.110:6969
 t.overflow.biz:6969:
 189.18.162.54:6969
 torrentclub.online:54123:
@@ -50,14 +52,13 @@ tracker-udp.gbitt.info:80:
 tracker.cloudbase.store:1333:
 94.136.190.183:1333
 tracker.dler.org:6969:
-211.75.205.187:6969
-211.75.205.188:6969
 211.75.205.189:6969
 60.249.37.20:6969
+211.75.205.188:6969
 211.75.210.221:6969
+211.75.205.187:6969
 tracker.ducks.party:1984:
 tracker.filemail.com:6969:
-52.58.128.163:6969
 tracker.fnix.net:6969:
 tracker.gmi.gd:6969:
 209.141.59.25:6969
@@ -75,8 +76,8 @@ tracker.theoks.net:6969:
 tracker.therarbg.to:6969:
 193.233.161.213:6969
 tracker.torrent.eu.org:451:
-91.216.110.53:451
 89.234.156.205:451
+91.216.110.53:451
 tracker.torrust-demo.com:6969:
 tracker.tryhackx.org:6969:
 135.125.236.64:6969
@@ -85,14 +86,14 @@ tracker.valete.tf:9999:
 tracker.zupix.online:6969:
 94.136.190.183:6969
 tracker2.dler.org:80:
-211.75.205.189:80
-60.249.37.20:80
 211.75.210.221:80
-211.75.205.188:80
 211.75.205.187:80
+211.75.205.188:80
+60.249.37.20:80
+211.75.205.189:80
 ttk2.nbaonlineservice.com:6969:
-51.222.82.36:6969
 54.39.48.3:6969
+51.222.82.36:6969
 udp.tracker.projectk.org:23333:
 wepzone.net:6969:
 44.30.4.4:6969
