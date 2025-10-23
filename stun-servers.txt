@@ -96,6 +96,7 @@ stun.voys.nl:3478
 stun.voztele.com:3478
 stun.webcalldirect.com:3478
 stun.zadarma.com:3478
+stun1.l.google.com:19302
 stun2.l.google.com:19302
 stun3.l.google.com:19302
 stun4.l.google.com:19302
