@@ -18,7 +18,6 @@ retracker01-msk-virt.corbina.net:80
 run.publictracker.xyz:6969
 t.overflow.biz:6969
 tr4ck3r.duckdns.org:6969
-tracker.bittor.pw:1337
 tracker.cloudbase.store:1333
 tracker.dler.org:6969
 tracker.gmi.gd:6969
