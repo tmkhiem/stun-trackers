@@ -17,6 +17,7 @@ stun.dcalling.de:3478
 stun.dus.net:3478
 stun.easybell.de:3478
 stun.easyvoip.com:3478
+stun.ekiga.net:3478
 stun.epygi.com:3478
 stun.freecall.com:3478
 stun.freevoipdeal.com:3478
