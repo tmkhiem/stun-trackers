@@ -22,6 +22,7 @@ tracker.1h.is:1337
 tracker.cloudbase.store:1333
 tracker.dler.org:6969
 tracker.gmi.gd:6969
+tracker.hifimarket.in:2710
 tracker.opentrackr.org:1337
 tracker.plx.im:6969
 tracker.qu.ax:6969
