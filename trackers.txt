@@ -18,7 +18,6 @@ t.overflow.biz:6969
 tr4ck3r.duckdns.org:6969
 tracker.cloudbase.store:1333
 tracker.dler.org:6969
-tracker.filemail.com:6969
 tracker.gmi.gd:6969
 tracker.hifimarket.in:2710
 tracker.opentrackr.org:1337
