@@ -27,9 +27,9 @@ tracker.qu.ax:6969
 tracker.srv00.com:6969
 tracker.startwork.cv:1337
 tracker.t-1.org:6969
-tracker.theoks.net:6969
 tracker.therarbg.to:6969
 tracker.torrent.eu.org:451
+tracker.tryhackx.org:6969
 tracker.zupix.online:6969
 tracker1.myporn.club:9337
 tracker2.dler.org:80
