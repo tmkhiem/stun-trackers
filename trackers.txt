@@ -23,6 +23,7 @@ tracker.opentrackr.org:1337
 tracker.plx.im:6969
 tracker.qu.ax:6969
 tracker.t-1.org:6969
+tracker.therarbg.to:6969
 tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
 tracker.zupix.online:6969
