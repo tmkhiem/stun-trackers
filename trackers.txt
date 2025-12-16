@@ -1,4 +1,3 @@
-6ahddutb1ucc3cp.ru:6969
 bandito.byterunner.io:6969
 bt.rer.lol:6969
 d40969.acod.regrucolo.ru:6969
@@ -19,11 +18,6 @@ tracker.1h.is:1337
 tracker.cloudbase.store:1333
 tracker.dler.org:6969
 tracker.gmi.gd:6969
-tracker.opentrackr.org:1337
-tracker.plx.im:6969
-tracker.qu.ax:6969
-tracker.t-1.org:6969
-tracker.therarbg.to:6969
 tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
 tracker.zupix.online:6969
