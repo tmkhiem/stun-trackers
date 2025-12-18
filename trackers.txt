@@ -1,6 +1,5 @@
 bandito.byterunner.io:6969
 bittorrent-tracker.e-n-c-r-y-p-t.net:1337
-bt.bontal.net:6969
 bt.rer.lol:6969
 d40969.acod.regrucolo.ru:6969
 ipv4announce.sktorrent.eu:6969
@@ -19,6 +18,13 @@ tracker.0x7c0.com:6969
 tracker.1h.is:1337
 tracker.bittor.pw:1337
 tracker.cloudbase.store:1333
+tracker.dler.org:6969
+tracker.gmi.gd:6969
+tracker.opentrackr.org:1337
+tracker.plx.im:6969
+tracker.qu.ax:6969
+tracker.srv00.com:6969
+tracker.t-1.org:6969
 tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
 tracker.zupix.online:6969
