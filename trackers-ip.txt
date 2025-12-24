@@ -51,11 +51,11 @@ tracker.bittor.pw:1337:
 tracker.cloudbase.store:1333:
 94.136.190.183:1333
 tracker.dler.org:6969:
-60.249.37.20:6969
 211.75.205.188:6969
+60.249.37.20:6969
+211.75.205.189:6969
 211.75.205.187:6969
 211.75.210.221:6969
-211.75.205.189:6969
 tracker.ducks.party:1984:
 tracker.flatuslifir.is:6969:
 tracker.fnix.net:6969:
@@ -68,7 +68,6 @@ tracker.opentrackr.org:1337:
 tracker.playground.ru:6969:
 212.42.38.197:6969
 tracker.plx.im:6969:
-54.36.179.216:6969
 tracker.qu.ax:6969:
 43.250.54.137:6969
 tracker.t-1.org:6969:
@@ -77,7 +76,6 @@ tracker.theoks.net:6969:
 tracker.therarbg.to:6969:
 tracker.torrent.eu.org:451:
 89.234.156.205:451
-91.216.110.53:451
 tracker.torrust-demo.com:6969:
 tracker.tryhackx.org:6969:
 135.125.236.64:6969
@@ -88,10 +86,10 @@ tracker1.t-1.org:6969:
 107.189.7.165:6969
 tracker2.dler.org:80:
 60.249.37.20:80
-211.75.210.221:80
-211.75.205.189:80
-211.75.205.187:80
 211.75.205.188:80
+211.75.205.187:80
+211.75.205.189:80
+211.75.210.221:80
 tracker3.t-1.org:6969:
 107.189.7.165:6969
 udp.tracker.projectk.org:23333:
