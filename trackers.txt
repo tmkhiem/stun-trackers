@@ -35,8 +35,3 @@ tracker.startwork.cv:1337
 tracker.t-1.org:6969
 tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
-tracker.zupix.online:6969
-tracker1.t-1.org:6969
-tracker2.dler.org:80
-tracker3.t-1.org:6969
-www.2600.com:6969
