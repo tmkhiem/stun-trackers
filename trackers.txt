@@ -21,6 +21,7 @@ tracker-de-2.cutie.dating:1337
 tracker.0x7c0.com:6969
 tracker.1h.is:1337
 tracker.bittor.pw:1337
+tracker.cloudbase.store:1333
 tracker.dler.org:6969
 tracker.gmi.gd:6969
 tracker.opentorrent.top:6969
