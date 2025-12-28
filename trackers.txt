@@ -1,3 +1,4 @@
+6ahddutb1ucc3cp.ru:6969
 bandito.byterunner.io:6969
 bittorrent-tracker.e-n-c-r-y-p-t.net:1337
 bt.rer.lol:6969
@@ -10,6 +11,7 @@ open.demonii.com:1337
 open.demonoid.ch:6969
 open.stealth.si:80
 open.tracker.cl:1337
+opentracker.io:6969
 p4p.arenabg.com:1337
 retracker.lanta.me:2710
 retracker01-msk-virt.corbina.net:80
@@ -17,12 +19,7 @@ run.publictracker.xyz:6969
 t.overflow.biz:6969
 tr4ck3r.duckdns.org:6969
 tracker-de-2.cutie.dating:1337
-tracker.0x7c0.com:6969
-tracker.1h.is:1337
 tracker.bittor.pw:1337
-tracker.dler.org:6969
-tracker.gmi.gd:6969
-tracker.hifimarket.in:2710
 tracker.opentorrent.top:6969
 tracker.opentrackr.org:1337
 tracker.playground.ru:6969
