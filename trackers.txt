@@ -21,8 +21,8 @@ tracker-de-2.cutie.dating:1337
 tracker.0x7c0.com:6969
 tracker.1h.is:1337
 tracker.bittor.pw:1337
-tracker.cloudbase.store:1333
 tracker.dler.org:6969
+tracker.filemail.com:6969
 tracker.gmi.gd:6969
 tracker.opentorrent.top:6969
 tracker.opentrackr.org:1337
@@ -30,6 +30,7 @@ tracker.playground.ru:6969
 tracker.plx.im:6969
 tracker.qu.ax:6969
 tracker.skynetcloud.site:6969
+tracker.startwork.cv:1337
 tracker.t-1.org:6969
 tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
@@ -37,5 +38,4 @@ tracker.zupix.online:6969
 tracker1.t-1.org:6969
 tracker2.dler.org:80
 tracker3.t-1.org:6969
-wepzone.net:6969
 www.2600.com:6969
