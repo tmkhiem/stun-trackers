@@ -1,6 +1,7 @@
 6ahddutb1ucc3cp.ru:6969:
 185.189.13.108:6969
 bandito.byterunner.io:6969:
+103.251.166.126:6969
 bittorrent-tracker.e-n-c-r-y-p-t.net:1337:
 217.156.123.49:1337
 bt.bontal.net:6969:
@@ -37,6 +38,7 @@ retracker.lanta.me:2710:
 retracker01-msk-virt.corbina.net:80:
 83.102.180.21:80
 run.publictracker.xyz:6969:
+80.71.224.126:6969
 t.overflow.biz:6969:
 torrentclub.online:54123:
 tr4ck3r.duckdns.org:6969:
@@ -49,10 +51,10 @@ tracker.1h.is:1337:
 tracker.bittor.pw:1337:
 34.66.57.33:1337
 tracker.dler.org:6969:
-211.75.205.189:6969
 211.75.210.221:6969
-211.75.205.188:6969
 211.75.205.187:6969
+211.75.205.188:6969
+211.75.205.189:6969
 60.249.37.20:6969
 tracker.ducks.party:1984:
 tracker.flatuslifir.is:6969:
@@ -86,11 +88,11 @@ tracker1.myporn.club:9337:
 tracker1.t-1.org:6969:
 107.189.7.165:6969
 tracker2.dler.org:80:
-211.75.205.187:80
+60.249.37.20:80
+211.75.205.189:80
 211.75.210.221:80
 211.75.205.188:80
-211.75.205.189:80
-60.249.37.20:80
+211.75.205.187:80
 tracker3.t-1.org:6969:
 107.189.7.165:6969
 udp.tracker.projectk.org:23333:
