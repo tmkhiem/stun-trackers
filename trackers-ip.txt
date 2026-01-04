@@ -36,7 +36,6 @@ retracker.lanta.me:2710:
 retracker01-msk-virt.corbina.net:80:
 83.102.180.21:80
 t.overflow.biz:6969:
-177.139.47.18:6969
 torrentclub.online:54123:
 tr4ck3r.duckdns.org:6969:
 111.90.151.241:6969
@@ -48,13 +47,14 @@ tracker.1h.is:1337:
 tracker.bittor.pw:1337:
 34.66.57.33:1337
 tracker.dler.org:6969:
-211.75.210.221:6969
 211.75.205.188:6969
+211.75.210.221:6969
 211.75.205.187:6969
-211.75.205.189:6969
 60.249.37.20:6969
+211.75.205.189:6969
 tracker.ducks.party:1984:
 tracker.filemail.com:6969:
+52.58.128.163:6969
 tracker.flatuslifir.is:6969:
 tracker.fnix.net:6969:
 tracker.gmi.gd:6969:
