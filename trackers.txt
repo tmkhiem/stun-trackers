@@ -30,3 +30,4 @@ tracker.tryhackx.org:6969
 tracker1.myporn.club:9337
 tracker1.t-1.org:6969
 tracker2.dler.org:80
+tracker3.t-1.org:6969
