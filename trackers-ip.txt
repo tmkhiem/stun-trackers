@@ -24,6 +24,7 @@ open.dstud.io:6969:
 open.stealth.si:80:
 185.243.218.213:80
 open.tracker.cl:1337:
+152.231.114.51:1337
 opentracker.io:6969:
 45.9.60.30:6969
 retracker.lanta.me:2710:
@@ -41,11 +42,11 @@ tracker.1h.is:1337:
 tracker.bittor.pw:1337:
 34.66.57.33:1337
 tracker.dler.org:6969:
-60.249.37.20:6969
+211.75.205.187:6969
 211.75.205.188:6969
 211.75.205.189:6969
+60.249.37.20:6969
 211.75.210.221:6969
-211.75.205.187:6969
 tracker.ducks.party:1984:
 tracker.flatuslifir.is:6969:
 tracker.fnix.net:6969:
