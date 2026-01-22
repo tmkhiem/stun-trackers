@@ -3,6 +3,7 @@ bandito.byterunner.io:6969
 bt.bontal.net:6969
 bt.rer.lol:6969
 d40969.acod.regrucolo.ru:6969
+exodus.desync.com:6969
 ipv4announce.sktorrent.eu:6969
 leet-tracker.moe:1337
 martin-gebhardt.eu:25
@@ -17,6 +18,7 @@ tr4ck3r.duckdns.org:6969
 tracker.1h.is:1337
 tracker.bittor.pw:1337
 tracker.dler.org:6969
+tracker.filemail.com:6969
 tracker.gmi.gd:6969
 tracker.opentorrent.top:6969
 tracker.opentrackr.org:1337
