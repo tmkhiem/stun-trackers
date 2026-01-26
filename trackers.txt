@@ -1,5 +1,3 @@
-6ahddutb1ucc3cp.ru:6969
-bandito.byterunner.io:6969
 bt.rer.lol:6969
 d40969.acod.regrucolo.ru:6969
 ipv4announce.sktorrent.eu:6969
@@ -8,6 +6,7 @@ martin-gebhardt.eu:25
 ns575949.ip-51-222-82.net:6969
 open.dstud.io:6969
 open.stealth.si:80
+opentracker.io:6969
 retracker.lanta.me:2710
 retracker01-msk-virt.corbina.net:80
 t.overflow.biz:6969
@@ -24,3 +23,9 @@ tracker.qu.ax:6969
 tracker.srv00.com:6969
 tracker.t-1.org:6969
 tracker.theoks.net:6969
+tracker.torrent.eu.org:451
+tracker.tryhackx.org:6969
+tracker1.myporn.club:9337
+tracker1.t-1.org:6969
+tracker2.dler.org:80
+tracker3.t-1.org:6969
