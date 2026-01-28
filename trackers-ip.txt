@@ -22,6 +22,7 @@ p4p.arenabg.com:1337:
 retracker.lanta.me:2710:
 37.235.176.37:2710
 t.overflow.biz:6969:
+187.57.132.65:6969
 torrentclub.online:54123:
 tr4ck3r.duckdns.org:6969:
 111.90.151.241:6969
@@ -32,11 +33,11 @@ tracker.1h.is:1337:
 tracker.bittor.pw:1337:
 34.66.57.33:1337
 tracker.dler.org:6969:
-211.75.205.189:6969
+211.75.205.188:6969
 60.249.37.20:6969
 211.75.210.221:6969
+211.75.205.189:6969
 211.75.205.187:6969
-211.75.205.188:6969
 tracker.ducks.party:1984:
 tracker.flatuslifir.is:6969:
 tracker.fnix.net:6969:
@@ -53,12 +54,10 @@ tracker.plx.im:6969:
 tracker.qu.ax:6969:
 43.250.54.137:6969
 tracker.srv00.com:6969:
-77.91.85.95:6969
 147.45.77.75:6969
 tracker.t-1.org:6969:
 107.189.7.165:6969
 tracker.theoks.net:6969:
-209.141.59.16:6969
 tracker.therarbg.to:6969:
 tracker.torrent.eu.org:451:
 91.216.110.53:451
@@ -69,9 +68,9 @@ tracker.tvunderground.org.ru:3218:
 tracker1.t-1.org:6969:
 107.189.7.165:6969
 tracker2.dler.org:80:
+211.75.205.187:80
 60.249.37.20:80
 211.75.205.189:80
-211.75.205.187:80
 211.75.210.221:80
 211.75.205.188:80
 tracker3.t-1.org:6969:
