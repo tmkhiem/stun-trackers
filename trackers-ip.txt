@@ -17,6 +17,7 @@ ns575949.ip-51-222-82.net:6969:
 open.demonii.com:1337:
 open.demonoid.ch:6969:
 open.dstud.io:6969:
+212.8.249.30:6969
 open.stealth.si:80:
 185.243.218.213:80
 opentracker.io:6969:
@@ -32,11 +33,11 @@ tracker.1h.is:1337:
 tracker.bittor.pw:1337:
 34.66.57.33:1337
 tracker.dler.org:6969:
-211.75.210.221:6969
-211.75.205.187:6969
-211.75.205.189:6969
-60.249.37.20:6969
 211.75.205.188:6969
+60.249.37.20:6969
+211.75.205.187:6969
+211.75.210.221:6969
+211.75.205.189:6969
 tracker.ducks.party:1984:
 tracker.filemail.com:6969:
 tracker.flatuslifir.is:6969:
@@ -60,8 +61,8 @@ tracker.t-1.org:6969:
 107.189.7.165:6969
 tracker.therarbg.to:6969:
 tracker.torrent.eu.org:451:
-91.216.110.53:451
 89.234.156.205:451
+91.216.110.53:451
 tracker.torrust-demo.com:6969:
 tracker.tryhackx.org:6969:
 135.125.236.64:6969
