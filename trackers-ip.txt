@@ -1,6 +1,7 @@
 bandito.byterunner.io:6969:
 103.251.166.126:6969
 d40969.acod.regrucolo.ru:6969:
+176.99.7.59:6969
 evan.im:6969:
 exodus.desync.com:6969:
 208.83.20.20:6969
@@ -39,9 +40,9 @@ tracker.bluefrog.pw:2710:
 tracker.corpscorp.online:80:
 34.66.57.33:80
 tracker.dler.org:6969:
+211.75.205.187:6969
 211.75.210.221:6969
 60.249.37.20:6969
-211.75.205.187:6969
 211.75.205.188:6969
 211.75.205.189:6969
 tracker.ducks.party:1984:
@@ -88,4 +89,3 @@ utracker.ghostchu-services.top:6969:
 wepzone.net:6969:
 44.30.4.4:6969
 zer0day.ch:1337:
-80.71.224.126:1337
