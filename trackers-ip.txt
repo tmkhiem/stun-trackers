@@ -27,6 +27,7 @@ retracker.lanta.me:2710:
 run.publictracker.xyz:6969:
 80.71.224.126:6969
 t.overflow.biz:6969:
+187.11.75.160:6969
 torrentclub.online:54123:
 tr4ck3r.duckdns.org:6969:
 101.99.94.187:6969
@@ -42,12 +43,12 @@ tracker.bluefrog.pw:2710:
 tracker.corpscorp.online:80:
 34.66.57.33:80
 tracker.dler.org:6969:
-60.249.37.20:6969
-159.195.43.181:6969
-211.75.210.221:6969
-211.75.205.188:6969
 211.75.205.189:6969
+159.195.43.181:6969
+211.75.205.188:6969
 211.75.205.187:6969
+60.249.37.20:6969
+211.75.210.221:6969
 tracker.ducks.party:1984:
 tracker.filemail.com:6969:
 52.58.128.163:6969
@@ -72,9 +73,9 @@ tracker.srv00.com:6969:
 tracker.t-1.org:6969:
 107.189.7.165:6969
 tracker.theoks.net:6969:
+209.141.59.16:6969
 tracker.therarbg.to:6969:
 tracker.torrent.eu.org:451:
-91.216.110.53:451
 89.234.156.205:451
 tracker.torrust-demo.com:6969:
 tracker.tryhackx.org:6969:
