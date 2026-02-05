@@ -1,6 +1,7 @@
 6ahddutb1ucc3cp.ru:6969:
 185.189.13.108:6969
 bandito.byterunner.io:6969:
+103.251.166.126:6969
 d40969.acod.regrucolo.ru:6969:
 176.99.7.59:6969
 evan.im:6969:
@@ -18,7 +19,6 @@ open.dstud.io:6969:
 open.stealth.si:80:
 185.243.218.213:80
 opentracker.io:6969:
-45.9.60.30:6969
 rekcart.duckdns.org:15480:
 retracker.lanta.me:2710:
 37.235.176.37:2710
@@ -28,10 +28,12 @@ torrentclub.online:54123:
 tr4ck3r.duckdns.org:6969:
 101.99.94.187:6969
 tracker-de-2.cutie.dating:1337:
+185.249.198.175:1337
 tracker-udp.gbitt.info:80:
 tracker.1h.is:1337:
 107.189.4.235:1337
 tracker.alaskantf.com:6969:
+5.75.253.124:6969
 tracker.bittor.pw:1337:
 34.66.57.33:1337
 tracker.bluefrog.pw:2710:
@@ -41,9 +43,9 @@ tracker.corpscorp.online:80:
 tracker.dler.org:6969:
 211.75.205.187:6969
 211.75.205.189:6969
+60.249.37.20:6969
 211.75.205.188:6969
 211.75.210.221:6969
-60.249.37.20:6969
 tracker.ducks.party:1984:
 tracker.filemail.com:6969:
 tracker.flatuslifir.is:6969:
@@ -63,12 +65,13 @@ tracker.plx.im:6969:
 tracker.qu.ax:6969:
 43.250.54.137:6969
 tracker.srv00.com:6969:
+147.45.77.75:6969
 91.186.213.204:6969
 tracker.t-1.org:6969:
 107.189.7.165:6969
 tracker.therarbg.to:6969:
 tracker.torrent.eu.org:451:
-91.216.110.53:451
+89.234.156.205:451
 tracker.torrust-demo.com:6969:
 tracker.tryhackx.org:6969:
 135.125.236.64:6969
