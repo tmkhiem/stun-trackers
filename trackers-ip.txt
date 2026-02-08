@@ -1,5 +1,4 @@
 bandito.byterunner.io:6969:
-103.251.166.126:6969
 d40969.acod.regrucolo.ru:6969:
 176.99.7.59:6969
 evan.im:6969:
@@ -28,8 +27,8 @@ tr4ck3r.duckdns.org:6969:
 101.99.94.187:6969
 tracker-udp.gbitt.info:80:
 tracker.1h.is:1337:
-107.189.4.235:1337
 tracker.alaskantf.com:6969:
+5.75.253.124:6969
 tracker.bittor.pw:1337:
 34.66.57.33:1337
 tracker.bluefrog.pw:2710:
@@ -37,11 +36,12 @@ tracker.bluefrog.pw:2710:
 tracker.corpscorp.online:80:
 34.66.57.33:80
 tracker.dler.org:6969:
-211.75.205.187:6969
 211.75.205.188:6969
+159.195.43.181:6969
 60.249.37.20:6969
-211.75.210.221:6969
 211.75.205.189:6969
+211.75.205.187:6969
+211.75.210.221:6969
 tracker.ducks.party:1984:
 tracker.flatuslifir.is:6969:
 tracker.fnix.net:6969:
@@ -60,14 +60,14 @@ tracker.plx.im:6969:
 tracker.qu.ax:6969:
 43.250.54.137:6969
 tracker.srv00.com:6969:
-91.186.213.204:6969
 147.45.77.75:6969
+91.186.213.204:6969
 tracker.t-1.org:6969:
 107.189.7.165:6969
 tracker.theoks.net:6969:
 tracker.therarbg.to:6969:
 tracker.torrent.eu.org:451:
-89.234.156.205:451
+91.216.110.53:451
 tracker.torrust-demo.com:6969:
 tracker.tryhackx.org:6969:
 135.125.236.64:6969
