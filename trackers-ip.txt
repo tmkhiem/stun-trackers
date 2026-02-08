@@ -17,6 +17,7 @@ open.demonoid.ch:6969:
 open.stealth.si:80:
 185.243.218.213:80
 open.tracker.cl:1337:
+200.111.152.53:1337
 opentracker.io:6969:
 45.9.60.30:6969
 rekcart.duckdns.org:15480:
@@ -39,6 +40,7 @@ tracker.corpscorp.online:80:
 tracker.dler.org:6969:
 211.75.210.221:6969
 211.75.205.187:6969
+159.195.43.181:6969
 60.249.37.20:6969
 211.75.205.189:6969
 211.75.205.188:6969
@@ -67,7 +69,7 @@ tracker.t-1.org:6969:
 tracker.theoks.net:6969:
 tracker.therarbg.to:6969:
 tracker.torrent.eu.org:451:
-89.234.156.205:451
+91.216.110.53:451
 tracker.torrust-demo.com:6969:
 tracker.tryhackx.org:6969:
 135.125.236.64:6969
@@ -83,4 +85,3 @@ utracker.ghostchu-services.top:6969:
 wepzone.net:6969:
 44.30.4.4:6969
 zer0day.ch:1337:
-80.71.224.126:1337
