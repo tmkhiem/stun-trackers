@@ -16,9 +16,4 @@ tracker.bittor.pw:1337
 tracker.bluefrog.pw:2710
 tracker.cloudbase.store:1333
 tracker.corpscorp.online:80
-tracker.dler.org:6969
-tracker.gmi.gd:6969
-tracker.torrent.eu.org:451
-tracker.tryhackx.org:6969
-tracker.zupix.online:6969
 zer0day.ch:1337
