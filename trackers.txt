@@ -1,7 +1,5 @@
 6ahddutb1ucc3cp.ru:6969
-bandito.byterunner.io:6969
 d40969.acod.regrucolo.ru:6969
-exodus.desync.com:6969
 ipv4announce.sktorrent.eu:6969
 leet-tracker.moe:1337
 martin-gebhardt.eu:25
@@ -27,6 +25,7 @@ tracker.qu.ax:6969
 tracker.srv00.com:6969
 tracker.startwork.cv:1337
 tracker.t-1.org:6969
+tracker.theoks.net:6969
 tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
 tracker.zupix.online:6969
