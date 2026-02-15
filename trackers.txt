@@ -7,7 +7,9 @@ ns575949.ip-51-222-82.net:6969
 open.dstud.io:6969
 open.stealth.si:80
 retracker.lanta.me:2710
+run.publictracker.xyz:6969
 tr4ck3r.duckdns.org:6969
+tracker-de-2.cutie.dating:1337
 tracker.1h.is:1337
 tracker.alaskantf.com:6969
 tracker.bittor.pw:1337
@@ -27,6 +29,7 @@ tracker.startwork.cv:1337
 tracker.t-1.org:6969
 tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
+tracker.wepzone.net:6969
 tracker.yume-hatsuyuki.moe:6969
 tracker.zupix.online:6969
 wepzone.net:6969
