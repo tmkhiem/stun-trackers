@@ -1,7 +1,5 @@
 6ahddutb1ucc3cp.ru:6969
-bandito.byterunner.io:6969
 d40969.acod.regrucolo.ru:6969
-exodus.desync.com:6969
 ipv4announce.sktorrent.eu:6969
 leet-tracker.moe:1337
 martin-gebhardt.eu:25
@@ -10,10 +8,13 @@ open.dstud.io:6969
 open.stealth.si:80
 retracker.lanta.me:2710
 tr4ck3r.duckdns.org:6969
+tracker-de-2.cutie.dating:1337
 tracker.1h.is:1337
+tracker.alaskantf.com:6969
 tracker.bittor.pw:1337
 tracker.bluefrog.pw:2710
 tracker.corpscorp.online:80
+tracker.dler.org:6969
 tracker.gmi.gd:6969
 tracker.ixuexi.click:6969
 tracker.opentorrent.top:6969
@@ -24,10 +25,9 @@ tracker.qu.ax:6969
 tracker.srv00.com:6969
 tracker.startwork.cv:1337
 tracker.t-1.org:6969
-tracker.theoks.net:6969
 tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
 tracker.wepzone.net:6969
 tracker.yume-hatsuyuki.moe:6969
+tracker.zupix.online:6969
 wepzone.net:6969
-zer0day.ch:1337
