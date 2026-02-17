@@ -1,4 +1,6 @@
+bandito.byterunner.io:6969
 d40969.acod.regrucolo.ru:6969
+exodus.desync.com:6969
 ipv4announce.sktorrent.eu:6969
 leet-tracker.moe:1337
 martin-gebhardt.eu:25
@@ -9,13 +11,11 @@ t.overflow.biz:6969
 tr4ck3r.duckdns.org:6969
 tracker-de-2.cutie.dating:1337
 tracker.1h.is:1337
-tracker.alaskantf.com:6969
 tracker.bittor.pw:1337
 tracker.bluefrog.pw:2710
 tracker.cloudbase.store:1333
 tracker.corpscorp.online:80
 tracker.dler.org:6969
-tracker.filemail.com:6969
 tracker.gmi.gd:6969
 tracker.ixuexi.click:6969
 tracker.opentorrent.top:6969
@@ -31,4 +31,5 @@ tracker.tryhackx.org:6969
 tracker.wepzone.net:6969
 tracker.yume-hatsuyuki.moe:6969
 tracker.zupix.online:6969
+tracker1.myporn.club:9337
 wepzone.net:6969
