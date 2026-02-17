@@ -16,6 +16,7 @@ ns575949.ip-51-222-82.net:6969:
 51.222.82.36:6969
 open.demonii.com:1337:
 open.dstud.io:6969:
+212.8.249.30:6969
 open.stealth.si:80:
 185.243.218.213:80
 rekcart.duckdns.org:15480:
@@ -26,11 +27,11 @@ t.overflow.biz:6969:
 tr4ck3r.duckdns.org:6969:
 101.99.94.187:6969
 tracker-de-2.cutie.dating:1337:
-185.249.198.175:1337
 tracker-udp.gbitt.info:80:
 tracker.1h.is:1337:
 107.189.4.235:1337
 tracker.alaskantf.com:6969:
+5.75.253.124:6969
 tracker.bittor.pw:1337:
 34.66.57.33:1337
 tracker.bluefrog.pw:2710:
@@ -39,12 +40,11 @@ tracker.cloudbase.store:1333:
 tracker.corpscorp.online:80:
 34.66.57.33:80
 tracker.dler.org:6969:
-159.195.43.181:6969
-211.75.205.189:6969
 211.75.205.187:6969
+211.75.205.189:6969
 60.249.37.20:6969
-211.75.210.221:6969
 211.75.205.188:6969
+211.75.210.221:6969
 tracker.ducks.party:1984:
 tracker.filemail.com:6969:
 52.58.128.163:6969
@@ -84,11 +84,9 @@ tracker.yume-hatsuyuki.moe:6969:
 148.135.112.164:6969
 154.40.43.165:6969
 tracker.zupix.online:6969:
-94.136.190.183:6969
 tracker1.myporn.club:9337:
 udp.tracker.projectk.org:23333:
 utracker.ghostchu-services.top:6969:
 wepzone.net:6969:
 44.30.4.4:6969
 zer0day.ch:1337:
-80.71.224.126:1337
