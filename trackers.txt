@@ -1,3 +1,4 @@
+6ahddutb1ucc3cp.ru:6969
 bandito.byterunner.io:6969
 bittorrent-tracker.e-n-c-r-y-p-t.net:1337
 ipv4announce.sktorrent.eu:6969
@@ -33,4 +34,5 @@ tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
 tracker.wepzone.net:6969
 tracker.zupix.online:6969
+tracker1.myporn.club:9337
 wepzone.net:6969
