@@ -5,7 +5,6 @@ leet-tracker.moe:1337
 martin-gebhardt.eu:25
 ns575949.ip-51-222-82.net:6969
 open.stealth.si:80
-opentracker.io:6969
 retracker.lanta.me:2710
 t.overflow.biz:6969
 tr4ck3r.duckdns.org:6969
@@ -16,5 +15,3 @@ tracker.bluefrog.pw:2710
 tracker.cloudbase.store:1333
 tracker.corpscorp.online:80
 tracker.dler.org:6969
-tracker.gmi.gd:6969
-tracker.theoks.net:6969
