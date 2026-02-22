@@ -16,6 +16,7 @@ ns575949.ip-51-222-82.net:6969:
 51.222.82.36:6969
 open.demonii.com:1337:
 open.dstud.io:6969:
+212.8.249.30:6969
 open.stealth.si:80:
 185.243.218.213:80
 rekcart.duckdns.org:15480:
@@ -30,6 +31,7 @@ tracker-udp.gbitt.info:80:
 tracker.1h.is:1337:
 107.189.4.235:1337
 tracker.alaskantf.com:6969:
+5.75.253.124:6969
 tracker.bittor.pw:1337:
 34.66.57.33:1337
 tracker.bluefrog.pw:2710:
@@ -40,12 +42,11 @@ tracker.corpscorp.online:80:
 34.66.57.33:80
 tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
-211.75.205.189:6969
-159.195.43.181:6969
-211.75.205.187:6969
-211.75.205.188:6969
 211.75.210.221:6969
 60.249.37.20:6969
+211.75.205.189:6969
+211.75.205.188:6969
+211.75.205.187:6969
 tracker.ducks.party:1984:
 tracker.flatuslifir.is:6969:
 tracker.fnix.net:6969:
@@ -66,13 +67,13 @@ tracker.qu.ax:6969:
 tracker.srv00.com:6969:
 91.186.213.204:6969
 tracker.startwork.cv:1337:
-94.136.190.183:1337
 tracker.t-1.org:6969:
 107.189.7.165:6969
 tracker.theoks.net:6969:
 209.141.59.16:6969
 tracker.therarbg.to:6969:
 tracker.torrent.eu.org:451:
+91.216.110.53:451
 89.234.156.205:451
 tracker.torrust-demo.com:6969:
 tracker.tryhackx.org:6969:
