@@ -20,6 +20,7 @@ open.demonii.com:1337:
 open.stealth.si:80:
 185.243.218.213:80
 opentracker.io:6969:
+45.9.60.30:6969
 rekcart.duckdns.org:15480:
 retracker.lanta.me:2710:
 37.235.176.37:2710
@@ -43,10 +44,10 @@ tracker.corpscorp.online:80:
 34.66.57.33:80
 tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
-159.195.43.181:6969
+211.75.205.188:6969
 60.249.37.20:6969
 211.75.205.189:6969
-211.75.205.187:6969
+159.195.43.181:6969
 tracker.ducks.party:1984:
 tracker.filemail.com:6969:
 tracker.flatuslifir.is:6969:
@@ -76,6 +77,7 @@ tracker.theoks.net:6969:
 tracker.therarbg.to:6969:
 tracker.torrent.eu.org:451:
 89.234.156.205:451
+91.216.110.53:451
 tracker.torrust-demo.com:6969:
 tracker.tryhackx.org:6969:
 135.125.236.64:6969
