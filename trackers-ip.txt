@@ -1,5 +1,4 @@
 6ahddutb1ucc3cp.ru:6969:
-185.189.13.108:6969
 bandito.byterunner.io:6969:
 103.251.166.126:6969
 bittorrent-tracker.e-n-c-r-y-p-t.net:1337:
@@ -46,8 +45,9 @@ tracker.corpscorp.online:80:
 34.66.57.33:80
 tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
-60.249.37.20:6969
-211.75.205.188:6969
+159.195.43.181:6969
+211.75.205.189:6969
+211.75.205.187:6969
 tracker.ducks.party:1984:
 tracker.filemail.com:6969:
 tracker.flatuslifir.is:6969:
