@@ -1,7 +1,6 @@
 6ahddutb1ucc3cp.ru:6969:
 185.189.13.108:6969
 bandito.byterunner.io:6969:
-103.251.166.126:6969
 bittorrent-tracker.e-n-c-r-y-p-t.net:1337:
 107.189.2.131:1337
 d40969.acod.regrucolo.ru:6969:
@@ -19,6 +18,7 @@ ns575949.ip-51-222-82.net:6969:
 open.demonii.com:1337:
 open.demonoid.ch:6969:
 open.dstud.io:6969:
+212.8.249.30:6969
 open.stealth.si:80:
 185.243.218.213:80
 rekcart.duckdns.org:15480:
@@ -45,12 +45,12 @@ tracker.corpscorp.online:80:
 34.66.57.33:80
 tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
-211.75.205.189:6969
-60.249.37.20:6969
-159.195.43.181:6969
-211.75.210.221:6969
 211.75.205.187:6969
+159.195.43.181:6969
 211.75.205.188:6969
+60.249.37.20:6969
+211.75.205.189:6969
+211.75.210.221:6969
 tracker.ducks.party:1984:
 tracker.filemail.com:6969:
 tracker.flatuslifir.is:6969:
