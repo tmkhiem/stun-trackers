@@ -13,7 +13,6 @@ t.overflow.biz:6969
 tr4ck3r.duckdns.org:6969
 tracker-de-2.cutie.dating:1337
 tracker.1h.is:1337
-tracker.alaskantf.com:6969
 tracker.bittor.pw:1337
 tracker.bluefrog.pw:2710
 tracker.corpscorp.online:80
@@ -29,4 +28,5 @@ tracker.t-1.org:6969
 tracker.theoks.net:6969
 tracker.torrent.eu.org:451
 tracker.tryhackx.org:6969
-tracker1.myporn.club:9337
+tracker.wepzone.net:6969
+wepzone.net:6969
