@@ -56,7 +56,6 @@ stun.schlund.de:3478
 stun.sigmavoip.com:3478
 stun.sip.us:3478
 stun.sipdiscount.com:3478
-stun.sipgate.net:10000
 stun.sipgate.net:3478
 stun.siplogin.de:3478
 stun.sipnet.net:3478
@@ -97,7 +96,6 @@ stun.voipzoom.com:3478
 stun.voys.nl:3478
 stun.voztele.com:3478
 stun.webcalldirect.com:3478
-stun.zadarma.com:3478
 stun1.l.google.com:19302
 stun2.l.google.com:19302
 stun3.l.google.com:19302
