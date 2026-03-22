@@ -12,9 +12,7 @@ tracker.1h.is:1337
 tracker.bittor.pw:1337
 tracker.bluefrog.pw:2710
 tracker.corpscorp.online:80
-tracker.cubonegro.org:80
 tracker.darkness.services:6969
 tracker.dler.org:6969
-tracker.gmi.gd:6969
-tracker.ixuexi.click:6969
+tracker.theoks.net:6969
 wepzone.net:6969
