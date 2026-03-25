@@ -6,7 +6,6 @@ d40969.acod.regrucolo.ru:6969:
 176.99.7.59:6969
 evan.im:6969:
 exodus.desync.com:6969:
-208.83.20.20:6969
 explodie.org:6969:
 ipv4announce.sktorrent.eu:6969:
 94.23.207.177:6969
@@ -19,6 +18,7 @@ ns575949.ip-51-222-82.net:6969:
 open.demonii.com:1337:
 open.demonoid.ch:6969:
 open.dstud.io:6969:
+212.8.249.30:6969
 open.stealth.si:80:
 185.243.218.213:80
 rekcart.duckdns.org:15480:
@@ -27,6 +27,7 @@ t.overflow.biz:6969:
 torrentclub.online:54123:
 tracker-de-2.cutie.dating:1337:
 tracker.004430.xyz:1337:
+172.245.168.134:1337
 tracker.1h.is:1337:
 107.189.4.235:1337
 tracker.bittor.pw:1337:
@@ -40,9 +41,9 @@ tracker.darkness.services:6969:
 138.124.183.78:6969
 tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
-211.75.205.187:6969
 211.75.205.188:6969
 211.75.205.189:6969
+211.75.205.187:6969
 tracker.ducks.party:1984:
 tracker.flatuslifir.is:6969:
 tracker.fnix.net:6969:
@@ -61,8 +62,8 @@ tracker.plx.im:6969:
 tracker.qu.ax:6969:
 43.250.54.137:6969
 tracker.srv00.com:6969:
-91.186.213.204:6969
 147.45.77.75:6969
+91.186.213.204:6969
 tracker.t-1.org:6969:
 107.189.7.165:6969
 tracker.theoks.net:6969:
