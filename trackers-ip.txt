@@ -1,7 +1,7 @@
 6ahddutb1ucc3cp.ru:6969:
-185.189.13.108:6969
 bandito.byterunner.io:6969:
 bittorrent-tracker.e-n-c-r-y-p-t.net:1337:
+107.189.2.131:1337
 evan.im:6969:
 explodie.org:6969:
 ipv4announce.sktorrent.eu:6969:
@@ -17,6 +17,7 @@ open.stealth.si:80:
 185.243.218.213:80
 rekcart.duckdns.org:15480:
 seedpeer.net:6969:
+2.57.214.218:6969
 t.overflow.biz:6969:
 177.16.198.58:6969
 torrentclub.online:54123:
@@ -35,11 +36,11 @@ tracker.corpscorp.online:80:
 34.66.57.33:80
 tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
+60.249.37.20:6969
+211.75.205.188:6969
 211.75.210.221:6969
 211.75.205.187:6969
-60.249.37.20:6969
 211.75.205.189:6969
-211.75.205.188:6969
 tracker.ducks.party:1984:
 tracker.flatuslifir.is:6969:
 tracker.fnix.net:6969:
