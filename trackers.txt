@@ -11,3 +11,5 @@ tracker.004430.xyz:1337
 tracker.1h.is:1337
 tracker.bittor.pw:1337
 tracker.bluefrog.pw:2710
+tracker.corpscorp.online:80
+tracker.dler.org:6969
