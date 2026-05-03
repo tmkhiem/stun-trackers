@@ -1,4 +1,5 @@
 admin.52ywp.com:6969
+bandito.byterunner.io:6969
 ipv4announce.sktorrent.eu:6969
 leet-tracker.moe:1337
 martin-gebhardt.eu:25
@@ -29,5 +30,4 @@ tracker.tryhackx.org:6969
 tracker.yume-hatsuyuki.moe:6969
 vito-tracker.duckdns.org:6969
 vito-tracker.space:6969
-wepzone.net:6969
 www.nartlof.com:6969
