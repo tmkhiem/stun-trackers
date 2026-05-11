@@ -5,6 +5,7 @@ admin.52ywp.com:6969:
 bandito.byterunner.io:6969:
 103.251.166.126:6969
 bittorrent-tracker.e-n-c-r-y-p-t.net:1337:
+107.189.2.131:1337
 evan.im:6969:
 ipv4announce.sktorrent.eu:6969:
 94.23.207.177:6969
@@ -36,6 +37,7 @@ tracker.bittor.pw:1337:
 tracker.bluefrog.pw:2710:
 88.80.22.67:2710
 tracker.corpscorp.online:80:
+34.66.57.33:80
 tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
 tracker.ducks.party:1984:
@@ -47,15 +49,10 @@ tracker.opentorrent.top:6969:
 tracker.opentrackr.org:1337:
 tracker.plx.im:6969:
 tracker.qu.ax:6969:
-185.171.202.111:6969
 tracker.srv00.com:6969:
-147.45.74.251:6969
 tracker.t-1.org:6969:
-107.189.7.165:6969
 tracker.theoks.net:6969:
 tracker.torrent.eu.org:451:
-91.216.110.53:451
-89.234.156.205:451
 tracker.tryhackx.org:6969:
 135.125.236.64:6969
 tracker.wildkat.net:6969:
