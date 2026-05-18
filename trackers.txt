@@ -19,10 +19,10 @@ tracker.gmi.gd:6969
 tracker.hismz.cn:6969
 tracker.nyaa.vc:6969
 tracker.opentorrent.top:6969
-tracker.opentrackr.org:1337
 tracker.plx.im:6969
 tracker.qu.ax:6969
 tracker.srv00.com:6969
+tracker.startwork.cv:1337
 tracker.t-1.org:6969
 tracker.tryhackx.org:6969
 www.nartlof.com:6969
