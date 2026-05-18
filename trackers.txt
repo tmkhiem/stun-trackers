@@ -15,12 +15,9 @@ tracker.auctor.tv:6969
 tracker.bittor.pw:1337
 tracker.bluefrog.pw:2710
 tracker.corpscorp.online:80
-tracker.dler.org:6969
-tracker.filemail.com:6969
-tracker.gmi.gd:6969
-tracker.hismz.cn:6969
 tracker.nyaa.vc:6969
 tracker.opentorrent.top:6969
+tracker.opentrackr.org:1337
 tracker.plx.im:6969
 tracker.qu.ax:6969
 tracker.srv00.com:6969
