@@ -15,15 +15,3 @@ tracker.auctor.tv:6969
 tracker.bittor.pw:1337
 tracker.bluefrog.pw:2710
 tracker.corpscorp.online:80
-tracker.dler.org:6969
-tracker.nyaa.vc:6969
-tracker.opentorrent.top:6969
-tracker.plx.im:6969
-tracker.qu.ax:6969
-tracker.srv00.com:6969
-tracker.startwork.cv:1337
-tracker.t-1.org:6969
-tracker.theoks.net:6969
-tracker.torrent.eu.org:451
-tracker.tryhackx.org:6969
-www.nartlof.com:6969
