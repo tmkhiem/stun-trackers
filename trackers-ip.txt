@@ -22,6 +22,7 @@ t.overflow.biz:6969:
 189.18.162.12:6969
 torrentclub.online:54123:
 torrents.tmtime.dev:6969:
+87.106.210.134:6969
 tracker-udp.gbitt.info:80:
 tracker.004430.xyz:1337:
 192.3.130.53:1337
@@ -62,11 +63,10 @@ tracker.qu.ax:6969:
 tracker.startwork.cv:1337:
 94.136.190.183:1337
 tracker.t-1.org:6969:
-107.189.7.165:6969
 tracker.theoks.net:6969:
-209.141.59.16:6969
 tracker.therarbg.to:6969:
 tracker.torrent.eu.org:451:
+89.234.156.205:451
 91.216.110.53:451
 tracker.tryhackx.org:6969:
 135.125.236.64:6969
@@ -75,6 +75,6 @@ uabits.today:6990:
 udp.tracker.projectk.org:23333:
 vito-tracker.duckdns.org:6969:
 wepzone.net:6969:
+44.30.4.4:6969
 yuptracker-eu.gaijinent.com:27022:
 zer0day.ch:1337:
-93.158.213.92:1337
