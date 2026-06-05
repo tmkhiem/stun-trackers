@@ -18,6 +18,7 @@ open.stealth.si:80:
 185.243.218.213:80
 rekcart.duckdns.org:15480:
 retracker01-msk-virt.corbina.net:80:
+83.102.180.21:80
 seedpeer.net:6969:
 2.57.214.218:6969
 t.overflow.biz:6969:
@@ -26,7 +27,6 @@ torrentclub.online:54123:
 torrents.tmtime.dev:6969:
 87.106.210.134:6969
 tr4ck3r.duckdns.org:6969:
-185.146.233.150:6969
 tracker-udp.gbitt.info:80:
 tracker.004430.xyz:1337:
 192.3.130.53:1337
@@ -43,11 +43,11 @@ tracker.corpscorp.online:80:
 34.66.57.33:80
 tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
-211.75.210.221:6969
-60.249.37.20:6969
-211.75.205.189:6969
-211.75.205.187:6969
 211.75.205.188:6969
+211.75.205.187:6969
+211.75.205.189:6969
+60.249.37.20:6969
+211.75.210.221:6969
 tracker.ducks.party:1984:
 tracker.filemail.com:6969:
 52.58.128.163:6969
@@ -58,7 +58,6 @@ tracker.gmi.gd:6969:
 tracker.hismz.cn:6969:
 118.196.100.63:6969
 tracker.iperson.xyz:6969:
-120.78.150.131:6969
 tracker.nyaa.vc:6969:
 tracker.opentorrent.top:6969:
 81.230.84.201:6969
@@ -69,8 +68,8 @@ tracker.plx.im:6969:
 tracker.publictracker.xyz:6969:
 93.158.213.92:6969
 tracker.qu.ax:6969:
-185.171.202.111:6969
 43.250.54.126:6969
+185.171.202.111:6969
 tracker.startwork.cv:1337:
 94.136.190.183:1337
 tracker.t-1.org:6969:
@@ -78,6 +77,7 @@ tracker.t-1.org:6969:
 tracker.theoks.net:6969:
 tracker.torrent.eu.org:451:
 89.234.156.205:451
+91.216.110.53:451
 tracker.tryhackx.org:6969:
 135.125.236.64:6969
 tracker.wildkat.net:6969:
@@ -86,4 +86,3 @@ udp.tracker.projectk.org:23333:
 vito-tracker.space:6969:
 yuptracker-eu.gaijinent.com:27022:
 zer0day.ch:1337:
-93.158.213.92:1337
