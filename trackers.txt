@@ -6,6 +6,7 @@ ns575949.ip-51-222-82.net:6969
 open.stealth.si:80
 retracker01-msk-virt.corbina.net:80
 seedpeer.net:6969
+t.overflow.biz:6969
 torrents.tmtime.dev:6969
 tr4ck3r.duckdns.org:6969
 tracker.004430.xyz:1337
@@ -22,3 +23,4 @@ tracker.t-1.org:6969
 tracker.torrent.eu.org:451
 tracker2.dler.org:80
 wepzone.net:6969
+zer0day.ch:1337
