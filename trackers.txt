@@ -25,4 +25,3 @@ tracker.t-1.org:6969
 tracker.torrent.eu.org:451
 tracker.yume-hatsuyuki.moe:6969
 tracker2.dler.org:80
-zer0day.ch:1337
