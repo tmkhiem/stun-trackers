@@ -13,7 +13,6 @@ tr4ck3r.duckdns.org:6969
 tracker.004430.xyz:1337
 tracker.auctor.tv:6969
 tracker.bittor.pw:1337
-tracker.bluefrog.pw:2710
 tracker.corpscorp.online:80
 tracker.dler.org:6969
 tracker.gmi.gd:6969
@@ -22,4 +21,5 @@ tracker.opentorrent.top:6969
 tracker.publictracker.xyz:6969
 tracker.qu.ax:6969
 tracker.therarbg.to:6969
+tracker.torrent.eu.org:451
 tracker2.dler.org:80
