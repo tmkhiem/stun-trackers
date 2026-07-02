@@ -14,7 +14,6 @@ tracker.bittor.pw:1337
 tracker.corpscorp.online:80
 tracker.dler.org:6969
 tracker.hismz.cn:6969
-tracker.nyaa.vc:6969
 tracker.opentorrent.top:6969
 tracker.publictracker.xyz:6969
 tracker.qu.ax:6969
