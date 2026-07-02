@@ -19,4 +19,3 @@ tracker.publictracker.xyz:6969
 tracker.qu.ax:6969
 tracker.torrent.eu.org:451
 tracker2.dler.org:80
-zer0day.ch:1337
