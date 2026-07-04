@@ -5,7 +5,6 @@ bittorrent-tracker.e-n-c-r-y-p-t.net:1337:
 concen.org:6969:
 evan.im:6969:
 exodus.desync.com:6969:
-208.83.20.20:6969
 explodie.org:6969:
 ipv4announce.sktorrent.eu:6969:
 94.23.207.177:6969
@@ -43,8 +42,8 @@ tracker.corpscorp.online:80:
 tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
 211.75.205.187:6969
-60.249.37.20:6969
 211.75.205.189:6969
+60.249.37.20:6969
 211.75.205.188:6969
 211.75.210.221:6969
 tracker.ducks.party:1984:
@@ -64,10 +63,9 @@ tracker.qu.ax:6969:
 tracker.therarbg.to:6969:
 tracker.wildkat.net:6969:
 tracker2.dler.org:80:
+211.75.205.187:80
 211.75.205.189:80
 60.249.37.20:80
-211.75.210.221:80
 211.75.205.188:80
-211.75.205.187:80
+211.75.210.221:80
 zer0day.ch:1337:
-93.158.213.92:1337
