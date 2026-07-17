@@ -1,9 +1,9 @@
 admin.52ywp.com:6969:
-60.172.236.18:6969
 bittorrent-tracker.e-n-c-r-y-p-t.net:1337:
 107.189.2.131:1337
 evan.im:6969:
 exodus.desync.com:6969:
+208.83.20.20:6969
 explodie.org:6969:
 ipv4announce.sktorrent.eu:6969:
 94.23.207.177:6969
@@ -17,7 +17,6 @@ open.demonii.com:1337:
 open.demonoid.ch:6969:
 open.ftorrent.com:443:
 open.stealth.si:80:
-151.242.104.187:80
 rekcart.duckdns.org:15480:
 retracker01-msk-virt.corbina.net:80:
 83.102.180.21:80
@@ -35,10 +34,10 @@ tracker.corpscorp.online:80:
 tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
 60.249.37.20:6969
+211.75.210.221:6969
+211.75.205.189:6969
 211.75.205.188:6969
 211.75.205.187:6969
-211.75.205.189:6969
-211.75.210.221:6969
 tracker.ducks.party:1984:
 tracker.filemail.com:6969:
 tracker.gmi.gd:6969:
@@ -59,8 +58,8 @@ tracker.tryhackx.org:6969:
 tracker.wildkat.net:6969:
 tracker2.dler.org:80:
 60.249.37.20:80
+211.75.205.189:80
 211.75.205.188:80
 211.75.210.221:80
 211.75.205.187:80
-211.75.205.189:80
 zer0day.ch:1337:
