@@ -9,7 +9,6 @@ open.stealth.si:80
 retracker01-msk-virt.corbina.net:80
 seedpeer.net:6969
 t.overflow.biz:6969
-tr4ck3r.duckdns.org:6969
 tracker.auctor.tv:6969
 tracker.bittor.pw:1337
 tracker.corpscorp.online:80
@@ -19,4 +18,3 @@ tracker.publictracker.xyz:6969
 tracker.qu.ax:6969
 tracker.torrent.eu.org:451
 tracker2.dler.org:80
-zer0day.ch:1337
