@@ -1,3 +1,4 @@
+admin.52ywp.com:6969
 bittorrent-tracker.e-n-c-r-y-p-t.net:1337
 ipv4announce.sktorrent.eu:6969
 leet-tracker.moe:1337
@@ -15,3 +16,4 @@ tracker.publictracker.xyz:6969
 tracker.qu.ax:6969
 tracker.torrent.eu.org:451
 tracker2.dler.org:80
+zer0day.ch:1337
