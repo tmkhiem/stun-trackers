@@ -5,14 +5,16 @@ leet-tracker.moe:1337
 martin-gebhardt.eu:25
 ns575949.ip-51-222-82.net:6969
 open.stealth.si:80
+retracker01-msk-virt.corbina.net:80
 t.overflow.biz:6969
 tracker.auctor.tv:6969
 tracker.bittor.pw:1337
 tracker.bluefrog.pw:2710
 tracker.corpscorp.online:80
 tracker.dler.org:6969
+tracker.gmi.gd:6969
 tracker.nexusstream.eu:6969
+tracker.publictracker.xyz:6969
 tracker.qu.ax:6969
 tracker.teambelgium.net:6969
-tracker.tryhackx.org:6969
 tracker2.dler.org:80
