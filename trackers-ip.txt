@@ -1,8 +1,10 @@
 admin.52ywp.com:6969:
+60.172.236.18:6969
 anime-tracker.aruku.kro.kr:8081:
 bittorrent-tracker.e-n-c-r-y-p-t.net:1337:
 107.189.2.131:1337
 edgev.duckdns.org:6969:
+159.146.99.45:6969
 evan.im:6969:
 exodus.desync.com:6969:
 208.83.20.20:6969
@@ -43,9 +45,9 @@ tracker.corpscorp.online:80:
 34.66.57.33:80
 tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
-211.75.210.221:6969
-211.75.205.187:6969
 211.75.205.188:6969
+211.75.205.187:6969
+211.75.210.221:6969
 tracker.ducks.party:1984:
 tracker.gmi.gd:6969:
 tracker.ilibr.org:6969:
@@ -53,7 +55,6 @@ tracker.nexusstream.eu:6969:
 37.60.249.217:6969
 tracker.opentrackr.com:6969:
 tracker.opentrackr.org:1337:
-93.158.213.92:1337
 tracker.peerfect.org:6969:
 tracker.playground.ru:6969:
 tracker.publictracker.xyz:6969:
@@ -63,9 +64,9 @@ tracker.qu.ax:6969:
 tracker.skynetcloud.site:6969:
 185.87.45.163:6969
 tracker.teambelgium.net:6969:
+91.177.126.188:6969
 tracker.therarbg.to:6969:
 tracker.torrent.eu.org:451:
-91.216.110.53:451
 89.234.156.205:451
 tracker.wildkat.net:6969:
 tracker2.dler.org:80:
@@ -73,4 +74,3 @@ tracker2.dler.org:80:
 211.75.205.188:80
 211.75.210.221:80
 zer0day.ch:1337:
-93.158.213.92:1337
