@@ -22,4 +22,3 @@ tracker.skynetcloud.site:6969
 tracker.teambelgium.net:6969
 tracker.torrent.eu.org:451
 tracker2.dler.org:80
-zer0day.ch:1337
