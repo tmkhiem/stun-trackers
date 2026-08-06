@@ -23,7 +23,6 @@ open.ftorrent.com:443:
 open.stealth.si:80:
 151.242.104.187:80
 open.tracker.cl:1337:
-200.111.84.93:1337
 rekcart.duckdns.org:15480:
 retracker01-msk-virt.corbina.net:80:
 83.102.180.21:80
@@ -55,7 +54,9 @@ tracker.opentrackr.org:1337:
 tracker.peerfect.org:6969:
 tracker.playground.ru:6969:
 tracker.plx.im:6969:
+54.36.179.216:6969
 tracker.publictracker.xyz:6969:
+93.158.213.92:6969
 tracker.qu.ax:6969:
 43.250.54.126:6969
 tracker.teambelgium.net:6969:
@@ -63,6 +64,6 @@ tracker.teambelgium.net:6969:
 tracker.torrent.eu.org:451:
 91.216.110.53:451
 tracker.tryhackx.org:6969:
-135.125.236.64:6969
 tracker.wildkat.net:6969:
 zer0day.ch:1337:
+93.158.213.92:1337
