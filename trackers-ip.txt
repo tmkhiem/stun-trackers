@@ -44,9 +44,9 @@ tracker.corpscorp.online:80:
 34.66.57.33:80
 tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
-211.75.205.188:6969
-211.75.205.187:6969
 211.75.210.221:6969
+211.75.205.187:6969
+211.75.205.188:6969
 tracker.farted.net:6969:
 185.189.13.39:6969
 tracker.filemail.com:6969:
@@ -59,8 +59,8 @@ tracker.opentrackr.com:6969:
 tracker.peerfect.org:6969:
 tracker.playground.ru:6969:
 tracker.plx.im:6969:
+54.36.179.216:6969
 tracker.publictracker.xyz:6969:
-93.158.213.92:6969
 tracker.qu.ax:6969:
 43.250.54.126:6969
 tracker.skynetcloud.site:6969:
@@ -73,7 +73,6 @@ tracker.tryhackx.org:6969:
 tracker.wildkat.net:6969:
 tracker2.dler.org:80:
 211.75.205.187:80
-211.75.205.188:80
 211.75.210.221:80
+211.75.205.188:80
 zer0day.ch:1337:
-93.158.213.92:1337
