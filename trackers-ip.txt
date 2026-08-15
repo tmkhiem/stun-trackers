@@ -25,6 +25,7 @@ rekcart.duckdns.org:15480:
 retracker01-msk-virt.corbina.net:80:
 83.102.180.21:80
 seedpeer.net:6969:
+180.131.145.175:6969
 t.overflow.biz:6969:
 torrentclub.online:1984:
 torrentclub.online:54123:
@@ -49,6 +50,8 @@ tracker.dler.org:6969:
 tracker.ducks.party:1984:
 tracker.farted.net:6969:
 185.189.13.39:6969
+tracker.fnix.net:6969:
+tracker.gmi.gd:6969:
 tracker.ilibr.org:6969:
 tracker.nexusstream.eu:6969:
 37.60.249.217:6969
@@ -56,6 +59,7 @@ tracker.opentrackr.com:6969:
 tracker.peerfect.org:6969:
 tracker.playground.ru:6969:
 tracker.plx.im:6969:
+54.36.179.216:6969
 tracker.publictracker.xyz:6969:
 93.158.213.92:6969
 tracker.qu.ax:6969:
@@ -66,7 +70,6 @@ tracker.teambelgium.net:6969:
 91.177.126.188:6969
 tracker.theoks.net:6969:
 tracker.torrent.eu.org:451:
-91.216.110.53:451
 tracker.wildkat.net:6969:
 tracker2.dler.org:80:
 211.75.210.221:80
