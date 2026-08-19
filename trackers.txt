@@ -18,6 +18,6 @@ tracker.nexusstream.eu:6969
 tracker.opentrackr.org:1337
 tracker.publictracker.xyz:6969
 tracker.qu.ax:6969
-tracker.torrent.eu.org:451
+tracker.teambelgium.net:6969
 tracker2.dler.org:80
 zer0day.ch:1337
