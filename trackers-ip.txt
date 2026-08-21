@@ -50,7 +50,6 @@ tracker.ducks.party:1984:
 tracker.farted.net:6969:
 31.56.179.159:6969
 tracker.filemail.com:6969:
-52.58.128.163:6969
 tracker.gmi.gd:6969:
 209.141.59.25:6969
 tracker.ilibr.org:6969:
@@ -71,14 +70,13 @@ tracker.teambelgium.net:6969:
 tracker.theoks.net:6969:
 tracker.torrent.eu.org:451:
 89.234.156.205:451
-91.216.110.53:451
 tracker.tryhackx.org:6969:
 135.125.236.64:6969
 tracker.wildkat.net:6969:
 tracker2.dler.org:80:
-211.75.205.187:80
 211.75.210.221:80
 211.75.205.188:80
+211.75.205.187:80
 yuptracker-eu.gaijinent.com:27022:
 zer0day.ch:1337:
 93.158.213.92:1337
