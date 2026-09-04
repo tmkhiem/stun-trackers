@@ -5,7 +5,6 @@ martin-gebhardt.eu:25
 ns575949.ip-51-222-82.net:6969
 open.stealth.si:80
 retracker01-msk-virt.corbina.net:80
-seedpeer.net:6969
 t.overflow.biz:6969
 tr4ck3r.duckdns.org:6969
 tracker.0x7c0.com:6969
@@ -21,6 +20,5 @@ tracker.publictracker.xyz:6969
 tracker.qu.ax:6969
 tracker.teambelgium.net:6969
 tracker.therarbg.to:6969
-tracker.torrent.eu.org:451
 tracker2.dler.org:80
 zer0day.ch:1337
