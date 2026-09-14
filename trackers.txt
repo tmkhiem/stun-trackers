@@ -1,5 +1,4 @@
 admin.52ywp.com:6969
-exodus.desync.com:6969
 ipv4announce.sktorrent.eu:6969
 martin-gebhardt.eu:25
 ns575949.ip-51-222-82.net:6969
@@ -15,7 +14,6 @@ tracker.cn.nyaa.net:6969
 tracker.corpscorp.online:80
 tracker.dler.org:6969
 tracker.farted.net:6969
-tracker.gmi.gd:6969
 tracker.govt.hu:6969
 tracker.k.vu:6969
 tracker.nexusstream.eu:6969
