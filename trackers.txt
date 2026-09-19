@@ -1,4 +1,4 @@
-admin.52ywp.com:6969
+exodus.desync.com:6969
 ipv4announce.sktorrent.eu:6969
 kolanopentracker.airdns.org:3392
 martin-gebhardt.eu:25
@@ -15,14 +15,15 @@ tracker.cn.nyaa.net:6969
 tracker.corpscorp.online:80
 tracker.dler.org:6969
 tracker.farted.net:6969
+tracker.filemail.com:6969
 tracker.gmi.gd:6969
 tracker.govt.hu:6969
 tracker.k.vu:6969
 tracker.nyaa.net:6969
-tracker.opentorrent.top:6969
 tracker.opentrackr.org:1337
 tracker.qu.ax:6969
 tracker.teambelgium.net:6969
+tracker.theoks.net:6969
 tracker.torrent.eu.org:451
 tracker.torrents.observer:80
 tracker2.dler.org:80
