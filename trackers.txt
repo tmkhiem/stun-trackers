@@ -1,4 +1,5 @@
 admin.52ywp.com:6969
+exodus.desync.com:6969
 ipv4announce.sktorrent.eu:6969
 kolanopentracker.airdns.org:3392
 martin-gebhardt.eu:25
@@ -9,7 +10,6 @@ seedpeer.net:6969
 t.overflow.biz:6969
 torrent.tracker.durukanbal.com:6969
 tr4ck3r.duckdns.org:6969
-tracker.004430.xyz:1337
 tracker.0x7c0.com:6969
 tracker.bittor.pw:1337
 tracker.cn.nyaa.net:6969
