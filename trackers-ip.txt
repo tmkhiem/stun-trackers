@@ -1,4 +1,5 @@
 admin.52ywp.com:6969:
+60.172.236.18:6969
 anime-tracker.aruku.kro.kr:8081:
 bittorrent-tracker.e-n-c-r-y-p-t.net:1337:
 evan.im:6969:
@@ -9,7 +10,6 @@ kolanopentracker.airdns.org:3392:
 223.165.69.105:3392
 mail.segso.net:6969:
 martin-gebhardt.eu:25:
-185.216.179.62:25
 ns575949.ip-51-222-82.net:6969:
 51.222.82.36:6969
 open.demonii.com:1337:
@@ -49,7 +49,6 @@ tracker.farted.net:6969:
 31.56.179.159:6969
 tracker.filemail.com:6969:
 tracker.gmi.gd:6969:
-209.141.59.25:6969
 tracker.ilibr.org:6969:
 tracker.k.vu:6969:
 45.38.170.167:6969
@@ -71,10 +70,9 @@ tracker.teambelgium.net:6969:
 tracker.torrents.observer:80:
 178.239.19.29:80
 tracker.tryhackx.org:6969:
-135.125.236.64:6969
 tracker.wildkat.net:6969:
 tracker2.dler.org:80:
+211.75.210.221:80
 211.75.205.188:80
 211.75.205.187:80
-211.75.210.221:80
 yuptracker-eu.gaijinent.com:27022:
