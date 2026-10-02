@@ -1,3 +1,4 @@
+admin.52ywp.com:6969
 bittorrent-tracker.e-n-c-r-y-p-t.net:1337
 ipv4announce.sktorrent.eu:6969
 kolankoalastree.newtrackon.co.nz:1337
@@ -9,7 +10,6 @@ t.overflow.biz:6969
 tr4ck3r.duckdns.org:6969
 tracker.004430.xyz:1337
 tracker.bittor.pw:1337
-tracker.cn.nyaa.net:6969
 tracker.corpscorp.online:80
 tracker.dler.org:6969
 tracker.nyaa.net:6969
