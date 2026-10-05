@@ -42,9 +42,9 @@ tracker.corpscorp.online:80:
 34.66.57.33:80
 tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
-211.75.210.221:6969
-211.75.205.187:6969
 211.75.205.188:6969
+211.75.205.187:6969
+211.75.210.221:6969
 tracker.ducks.party:1984:
 tracker.farted.net:6969:
 31.56.179.159:6969
@@ -66,7 +66,6 @@ tracker.qu.ax:6969:
 tracker.skynetcloud.site:6969:
 43.250.54.126:6969
 tracker.torrent.eu.org:451:
-89.234.156.205:451
 tracker.torrents.observer:80:
 tracker.tryhackx.org:6969:
 tracker.wildkat.net:6969:

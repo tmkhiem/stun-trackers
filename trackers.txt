@@ -20,5 +20,4 @@ tracker.nyaa.net:6969
 tracker.opentrackr.org:1337
 tracker.qu.ax:6969
 tracker.skynetcloud.site:6969
-tracker.torrent.eu.org:451
 tracker2.dler.org:80
