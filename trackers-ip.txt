@@ -1,6 +1,5 @@
 admin.52ywp.com:6969:
 60.172.236.18:6969
-archive.torrentonline.cc:42069:
 bittorrent-tracker.e-n-c-r-y-p-t.net:1337:
 edgev.duckdns.org:6969:
 evan.im:6969:
@@ -25,6 +24,7 @@ seedpeer.net:6969:
 180.131.145.175:6969
 t.overflow.biz:6969:
 152.249.214.196:6969
+tr3.ysagin.top:2715:
 tr4ck3r.duckdns.org:6969:
 192.99.100.68:6969
 tracker-udp.gbitt.info:80:
@@ -45,8 +45,6 @@ tracker.dler.org:6969:
 tracker.ducks.party:1984:
 tracker.farted.net:6969:
 31.56.179.159:6969
-tracker.filemail.com:6969:
-tracker.flatuslifir.is:6969:
 tracker.fnix.net:6969:
 tracker.gmi.gd:6969:
 tracker.ilibr.org:6969:
@@ -64,16 +62,15 @@ tracker.qu.ax:6969:
 43.250.54.126:6969
 tracker.skynetcloud.site:6969:
 43.250.54.126:6969
-tracker.theoks.net:6969:
 tracker.torrent.eu.org:451:
-89.234.156.205:451
+91.216.110.53:451
 tracker.torrents.observer:80:
 178.239.19.29:80
 tracker.tryhackx.org:6969:
+135.125.236.64:6969
 tracker.wildkat.net:6969:
 tracker2.dler.org:80:
-211.75.205.187:80
 211.75.205.188:80
+211.75.205.187:80
 211.75.210.221:80
-whybother.torrentonline.cc:42069:
 yuptracker-eu.gaijinent.com:27022:
