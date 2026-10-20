@@ -47,7 +47,6 @@ tracker.ducks.party:1984:
 tracker.farted.net:6969:
 31.56.179.159:6969
 tracker.filemail.com:6969:
-52.58.128.163:6969
 tracker.fnix.net:6969:
 tracker.gmi.gd:6969:
 209.141.59.25:6969
@@ -68,10 +67,10 @@ tracker.skynetcloud.site:6969:
 43.250.54.126:6969
 tracker.torrent.eu.org:451:
 91.216.110.53:451
+89.234.156.205:451
 tracker.torrents.observer:80:
 178.239.19.29:80
 tracker.tryhackx.org:6969:
-135.125.236.64:6969
 tracker.wildkat.net:6969:
 tracker2.dler.org:80:
 211.75.205.188:80
