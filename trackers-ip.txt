@@ -37,8 +37,8 @@ tracker.cn.nyaa.net:6969:
 47.76.201.250:6969
 tracker.ddunlimited.net:6969:
 tracker.dler.org:6969:
-211.75.210.221:6969
 211.75.205.188:6969
+211.75.210.221:6969
 211.75.205.187:6969
 tracker.ducks.party:1984:
 tracker.evergarden.uk:1914:
@@ -67,9 +67,9 @@ tracker.theoks.net:6969:
 tracker.torrents.observer:80:
 178.239.19.29:80
 tracker.tryhackx.org:6969:
-135.125.236.64:6969
 tracker.wildkat.net:6969:
 tracker2.dler.org:80:
+211.75.205.188:80
 211.75.210.221:80
 211.75.205.187:80
 whybother.torrentonline.cc:42069:
