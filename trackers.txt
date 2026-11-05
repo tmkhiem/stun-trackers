@@ -1,8 +1,9 @@
+admin.52ywp.com:6969
+exodus.desync.com:6969
 kolankoalastree.newtrackon.co.nz:1337
 martin-gebhardt.eu:25
 ns575949.ip-51-222-82.net:6969
 open.stealth.si:80
-open.tracker.cl:1337
 retracker01-msk-virt.corbina.net:80
 t.overflow.biz:6969
 tr4ck3r.duckdns.org:6969
