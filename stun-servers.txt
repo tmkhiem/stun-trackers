@@ -57,7 +57,6 @@ stun.sipnet.net:3478
 stun.sipnet.ru:3478
 stun.siptraffic.com:3478
 stun.smartvoip.com:3478
-stun.smsdiscount.com:3478
 stun.solcon.nl:3478
 stun.solnet.ch:3478
 stun.sonetel.com:3478
