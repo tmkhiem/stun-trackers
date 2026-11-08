@@ -3,8 +3,8 @@ kolankoalastree.newtrackon.co.nz:1337
 martin-gebhardt.eu:25
 ns575949.ip-51-222-82.net:6969
 open.stealth.si:80
+open.tracker.cl:1337
 retracker01-msk-virt.corbina.net:80
-seedpeer.net:6969
 t.overflow.biz:6969
 tr4ck3r.duckdns.org:6969
 tracker.004430.xyz:1337
@@ -17,6 +17,5 @@ tracker.k.vu:6969
 tracker.nyaa.net:6969
 tracker.opentrackr.org:1337
 tracker.qu.ax:6969
-tracker.torrent.eu.org:451
 tracker.torrents.observer:80
 tracker2.dler.org:80
