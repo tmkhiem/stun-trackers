@@ -1,6 +1,4 @@
 admin.52ywp.com:6969
-bittorrent-tracker.e-n-c-r-y-p-t.net:1337
-exodus.desync.com:6969
 kolankoalastree.newtrackon.co.nz:1337
 martin-gebhardt.eu:25
 ns575949.ip-51-222-82.net:6969
@@ -20,5 +18,4 @@ tracker.nyaa.net:6969
 tracker.opentrackr.org:1337
 tracker.qu.ax:6969
 tracker.torrent.eu.org:451
-tracker.torrents.observer:80
 tracker2.dler.org:80
