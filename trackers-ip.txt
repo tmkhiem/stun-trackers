@@ -1,5 +1,6 @@
 admin.52ywp.com:6969:
 60.172.236.18:6969
+anime-tracker.aruku.kro.kr:8081:
 archive.torrentonline.cc:42069:
 bittorrent-tracker.e-n-c-r-y-p-t.net:1337:
 evan.im:6969:
@@ -46,7 +47,6 @@ tracker.dler.org:6969:
 tracker.ducks.party:1984:
 tracker.evergarden.uk:1914:
 tracker.filemail.com:6969:
-tracker.gmi.gd:6969:
 tracker.ilibr.org:6969:
 tracker.nyaa.net:6969:
 31.59.141.120:6969
@@ -58,10 +58,12 @@ tracker.peerfect.org:6969:
 tracker.playground.ru:6969:
 tracker.qu.ax:6969:
 43.250.54.126:6969
+tracker.theoks.net:6969:
 tracker.torrent.eu.org:451:
-89.234.156.205:451
+91.216.110.53:451
 tracker.torrents.observer:80:
 178.239.19.29:80
+tracker.tryhackx.org:6969:
 tracker.wildkat.net:6969:
 tracker2.dler.org:80:
 211.75.205.188:80
