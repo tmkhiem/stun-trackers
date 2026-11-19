@@ -5,6 +5,7 @@ bittorrent-tracker.e-n-c-r-y-p-t.net:1337:
 107.189.2.131:1337
 evan.im:6969:
 exodus.desync.com:6969:
+208.83.20.20:6969
 explodie.org:6969:
 ipv4announce.sktorrent.eu:6969:
 kolankoalastree.newtrackon.co.nz:1337:
@@ -34,17 +35,19 @@ tracker-udp.gbitt.info:80:
 tracker.004430.xyz:1337:
 23.94.174.203:1337
 tracker.23794.top:6969:
+123.245.62.58:6969
 123.245.62.62:6969
 tracker.bittor.pw:1337:
 34.66.57.33:1337
 tracker.bluefrog.pw:2710:
+85.121.148.217:2710
 tracker.cn.nyaa.net:6969:
 47.76.201.250:6969
 tracker.corpscorp.online:80:
 34.66.57.33:80
 tracker.dler.org:6969:
-211.75.205.188:6969
 211.75.205.187:6969
+211.75.205.188:6969
 211.75.210.221:6969
 tracker.ducks.party:1984:
 tracker.evergarden.uk:1914:
@@ -76,7 +79,7 @@ tracker.tryhackx.org:6969:
 tracker.wildkat.net:6969:
 tracker2.dler.org:80:
 211.75.205.187:80
-211.75.210.221:80
 211.75.205.188:80
+211.75.210.221:80
 whybother.torrentonline.cc:42069:
 yuptracker-eu.gaijinent.com:27022:
